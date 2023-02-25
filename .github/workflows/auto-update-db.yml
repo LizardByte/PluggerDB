@@ -141,7 +141,7 @@ jobs:
 
       - name: Remove Exception Label
         if: >-
-          contains(github.event.issue.labels.*.name, 'exception') == false &&
+          contains(github.event.issue.labels.*.name, 'exception') &&
           steps.update.outputs.exception == 'false'
         uses: actions/github-script@v6
         with:
