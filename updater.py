@@ -93,7 +93,7 @@ for t in range(3):
         break
 
 
-def process_github_url(url: str, categories: Optional[list] = None) -> dict:
+def process_github_url(url: str, categories: Optional[str] = None) -> dict:
     response = requests_loop(url=url, headers=github_headers)
 
     github_data = response.json()
@@ -132,9 +132,11 @@ def process_github_url(url: str, categories: Optional[list] = None) -> dict:
             if args.issue_update:
                 # add the categories to the data
                 if categories:
+                    categories = categories.split(', ')
                     og_data[str(github_data['id'])]['categories'] = categories
                 else:
                     exception_writer(Exception('No categories selected'), site='GitHub')
+                    categories = ':bangbang: NONE :bangbang:'
 
                 # create the issue comment and title files
                 issue_comment = f"""
