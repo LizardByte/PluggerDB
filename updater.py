@@ -45,12 +45,13 @@ def exception_writer(error: Exception, site: str):
 def requests_loop(url: str,
                   headers: Optional[dict] = None,
                   method: Callable = requests.get,
-                  max_tries: int = 10) -> requests.Response:
+                  max_tries: int = 10,
+                  allow_statuses: list = [requests.codes.ok]) -> requests.Response:
     count = 0
     while count <= max_tries:
         try:
             response = method(url=url, headers=headers)
-            if response.status_code == requests.codes.ok:
+            if response.status_code in allow_statuses:
                 return response
         except requests.exceptions.RequestException:
             time.sleep(2**count)
@@ -99,24 +100,71 @@ def process_github_url(owner: str, repo: str, categories: Optional[str] = None) 
 
     github_data = response.json()
 
-    issue_response = requests_loop(url=f'{api_repo_url}/issues', headers=github_headers)
-    issue_data = issue_response.json()
-
-    open_issues = 0
-    open_pull_requests = 0
-    for issue in issue_data:
-        try:
-            issue['pull_request']
-        except KeyError:
-            open_issues += 1
-        else:
-            open_pull_requests += 1
-
     try:
         github_data['id']
     except KeyError as e:
         raise Exception(f'Error processing plugin: {e}')
     else:
+        # get issues data
+        issue_data = requests_loop(url=f'{api_repo_url}/issues', headers=github_headers).json()
+        open_issues = 0
+        open_pull_requests = 0
+        for issue in issue_data:
+            try:
+                issue['pull_request']
+            except KeyError:
+                open_issues += 1
+            else:
+                open_pull_requests += 1
+
+        # get gh-pages data, this will return a 404 if the repo doesn't have gh-pages
+        # GitHub token requires repo scope for this end point
+        response = requests_loop(url=f'{api_repo_url}/pages', headers=github_headers,
+                                 allow_statuses=[requests.codes.ok, 404])
+        if response.status_code == 404:
+            gh_pages_url = None
+        else:
+            gh_pages_data = response.json()
+            gh_pages_url = gh_pages_data['html_url']
+
+        # get releases data
+        releases_data = requests_loop(url=f'{api_repo_url}/releases', headers=github_headers).json()
+        releases = []
+        for release in releases_data:
+            if release['draft']:
+                continue
+            bundle_url = None
+            if release['assets']:
+                for asset in release['assets']:
+                    if asset['name'].lower().endswith('bundle.zip'):
+                        bundle_url = asset['browser_download_url']
+                        break
+            if not bundle_url:
+                bundle_url = release['zipball_url']
+            releases.append(dict(
+                tag_name=release['tag_name'],
+                name=release['name'],
+                prerelease=release['prerelease'],
+                release_date=release['published_at'],
+                bundle_url=bundle_url,
+            ))
+
+        # get branch data
+        branches_data = requests_loop(url=f'{api_repo_url}/branches', headers=github_headers).json()
+        branches = []
+        for branch in branches_data:
+            # get commit date
+            commit_data = requests_loop(url=f'{api_repo_url}/commits/{branch["commit"]["sha"]}',
+                                        headers=github_headers).json()
+            commit_date = commit_data['commit']['author']['date']
+
+            branches.append(dict(
+                name=branch['name'],
+                commit_sha=branch['commit']['sha'],
+                commit_date=commit_date,
+                download_url=f'https://github.com/{owner}/{repo}/archive/refs/heads/{branch["name"]}.zip',
+            ))
+
         with lock:
             og_data[str(github_data['id'])] = {
                 'name': github_data['name'],
@@ -135,9 +183,12 @@ def process_github_url(owner: str, repo: str, categories: Optional[str] = None) 
                 'has_discussions': github_data['has_discussions'],
                 'archived': github_data['archived'],
                 'disabled': github_data['disabled'],
-                'license': github_data['license']['name'],
-                'license_url': github_data['license']['url'],
+                'license': None if not github_data['license'] else github_data['license']['name'],
+                'license_url': None if not github_data['license'] else github_data['license']['url'],
                 'default_branch': github_data['default_branch'],
+                'gh_pages_url': gh_pages_url,
+                'releases': releases,
+                'branches': branches,
             }
         try:
             args.issue_update
@@ -165,16 +216,18 @@ def process_github_url(owner: str, repo: str, categories: Optional[str] = None) 
 | homepage | {github_data['homepage']} |
 | stargazers_count | {github_data['stargazers_count']} |
 | forks_count | {github_data['forks_count']} |
-| open_issues_count | {github_data['open_issues_count']} |
+| open_issues_count | {open_issues} |
+| open_pull_requests_count | {open_pull_requests} |
 | has_issues | {github_data['has_issues']} |
 | has_downloads | {github_data['has_downloads']} |
 | has_wiki | {github_data['has_wiki']} |
 | has_discussions | {github_data['has_discussions']} |
 | archived | {github_data['archived']} |
 | disabled | {github_data['disabled']} |
-| license | {github_data['license']['name']} |
-| license_url | {github_data['license']['url']} |
+| license | {None if not github_data['license'] else github_data['license']['name']} |
+| license_url | {None if not github_data['license'] else github_data['license']['url']} |
 | default_branch | {github_data['default_branch']} |
+| gh_pages_url | {gh_pages_url} |
 | categories | {categories} |
 """
                 with open("comment.md", "a") as comment_f:
