@@ -165,7 +165,8 @@ def process_github_url(owner: str, repo: str, categories: Optional[str] = None) 
 | homepage | {github_data['homepage']} |
 | stargazers_count | {github_data['stargazers_count']} |
 | forks_count | {github_data['forks_count']} |
-| open_issues_count | {github_data['open_issues_count']} |
+| open_issues_count | {open_issues} |
+| open_pull_requests_count | {open_pull_requests} |
 | has_issues | {github_data['has_issues']} |
 | has_downloads | {github_data['has_downloads']} |
 | has_wiki | {github_data['has_wiki']} |
