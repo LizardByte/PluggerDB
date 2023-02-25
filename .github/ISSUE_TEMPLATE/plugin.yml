@@ -1,0 +1,53 @@
+---
+name: Add/Update Plugin
+description: Submit a new plugin, or update an existing one.
+labels:
+  - request-plugin
+title: '[PLUGIN]: '
+body:
+  - type: input
+    id: github_url
+    attributes:
+      label: GitHub URL
+      description: The URL to the plugin on GitHub (e.g. https://github.com/LizardByte/Plugger).
+    validations:
+      required: true
+  - type: dropdown
+    id: categories
+    attributes:
+      label: What categories does the plugin belong to?
+      multiple: true
+      options:
+        - Adult
+        - Anime
+        - Games
+        - Metadata Agent
+        - Movies
+        - Music
+        - News
+        - Photos
+        - Podcasts
+        - Radio
+        - Subtitles
+        - TV
+        - Utility
+        - Videos
+        - other (please specify)
+    validations:
+      required: true
+  - type: input
+    id: other_category
+    attributes:
+      label: Other category
+      description: If the plugin doesn't fit one of the pre-defined categories please specify it here.
+      placeholder: ex. Services
+    validations:
+      required: false
+  - type: textarea
+    id: additional_comments
+    attributes:
+      label: Additional comments
+      description: >-
+        Please provide any additional comments or information about the plugin, especially if it is an update.
+    validations:
+      required: false

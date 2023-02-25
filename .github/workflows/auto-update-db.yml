@@ -1,0 +1,192 @@
+---
+name: Auto Update DB
+on:
+  issues:
+    types: [labeled]
+
+# no point in concurrency since it still cancels pending jobs
+# concurrency:
+#   # only if label starts with "request" then add issue number to end of group
+#   group: >-
+#     ${{ github.workflow }}-${{ github.event.label.name }}
+#     ${{ startsWith(github.event.label.name, 'request-') | github.event.issue.number }}
+#   cancel-in-progress: false  # false to act as queue
+
+jobs:
+  auto_update_db:
+    if: >-
+      (github.event.label.name == 'add-plugin' || github.event.label.name == 'request-plugin')
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+
+    steps:
+      - name: Check if member
+        if: startsWith(github.event.label.name, 'add-')
+        # if someone, somehow, adds a label that starts with "add-" but isn't a member, then exit
+        run: |
+          gh api \
+          -H "Accept: application/vnd.github+json" \
+          /orgs/${{ github.repository_owner }}/members/${{ github.actor }} || exit 1
+
+      - name: Queue
+        # we only want to run one add job at a time, so queue them
+        if: startsWith(github.event.label.name, 'add-')
+        uses: ahmadnassri/action-workflow-queue@v1
+
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: database
+          path: database
+          persist-credentials: false  # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+          fetch-depth: 0  # otherwise, will fail to push refs to dest repo
+
+      - name: Install Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Setup Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+
+      - name: Parse Issue
+        uses: stefanbuck/github-issue-parser@v3
+        id: issue-parser
+        with:
+          issue-body: ${{ github.event.issue.body }}
+          template-path: .github/ISSUE_TEMPLATE/plugin.yml
+
+      - name: Crease JSON
+        run: |
+          echo '${{ steps.issue-parser.outputs.jsonString }}' > submission.json
+
+      - name: Get Issue Author ID
+        id: author
+        run: |
+          echo "issue_author_id=$(echo "${{ github.event.issue.user.id }}")" >> $GITHUB_OUTPUT
+
+      - name: Update
+        id: update
+        env:
+          ISSUE_AUTHOR_USER_ID: ${{ steps.author.outputs.issue_author_id }}
+        run: |
+          python -u ./updater.py --issue_update
+
+          # if exceptions.md file exists, then set output to true
+          if [ -f exceptions.md ]; then
+              echo "exception=true" >> $GITHUB_OUTPUT
+          else
+              echo "exception=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Git Diff
+        id: diff
+        working-directory: database
+        run: |
+          echo "::group::issue_comment"
+          git add .
+          echo "" >> ../comment.md
+          echo "\`\`\`diff" >> ../comment.md
+          echo "$(git diff --cached)" >> ../comment.md
+          echo "\`\`\`" >> ../comment.md
+          cat ../comment.md
+          echo "::endgroup::"
+
+          echo "::group::issue_title"
+          cat ../title.md
+          echo "issue_title=$(cat ../title.md)" >> $GITHUB_OUTPUT
+          echo "::endgroup::"
+
+      - name: Update Issue Title
+        uses: actions/github-script@v6
+        env:
+          ISSUE_TITLE: ${{ steps.diff.outputs.issue_title }}
+        with:
+          github-token: ${{ secrets.GH_BOT_TOKEN }}
+          script: |
+            github.rest.issues.update({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: process.env.ISSUE_TITLE
+            })
+
+      - name: Update Labels for Exceptions
+        if: ${{ steps.update.outputs.exception == 'true' }}
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GH_BOT_TOKEN }}
+          script: |
+            // add exception label
+            github.rest.issues.addLabels({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: ['exception']
+            })
+
+            // remove add labels so we can re-add them again
+            github.rest.issues.removeLabel({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              name: ['add-plugin']
+            })
+
+      - name: Remove Exception Label
+        if: ${{ steps.update.outputs.exception == 'false' }}
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GH_BOT_TOKEN }}
+          script: |
+            // remove exception label
+            github.rest.issues.removeLabel({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              name: ['exception']
+            })
+
+      - name: Issue comment
+        uses: mshick/add-pr-comment@v2
+        with:
+          repo-token: ${{ secrets.GH_BOT_TOKEN }}
+          message-path: comment.md
+
+      - name: GitHub Commit & Push
+        if: >-
+          startsWith(github.event.label.name, 'add-') &&
+          steps.update.outputs.exception == 'false'
+        uses: actions-js/push@v1.4
+        with:
+          author_email: ${{ secrets.GH_BOT_EMAIL }}
+          author_name: ${{ secrets.GH_BOT_NAME }}
+          branch: database  # commit to database
+          directory: database  # use the database directory
+          github_token: ${{ secrets.GH_BOT_TOKEN }}
+          message: 'resolves #${{ github.event.issue.number }}'
+
+      - name: Close Issue
+        if: >-
+          startsWith(github.event.label.name, 'add-') &&
+          steps.update.outputs.exception == 'false'
+        uses: peter-evans/close-issue@v2
+        with:
+          close-reason: completed
+          comment: |
+            This plugin has been added/updated and will be available on the next daily scheduled update.
+          token: ${{ secrets.GH_BOT_TOKEN }}
+
+      - name: Lock Issue
+        if: >-
+          startsWith(github.event.label.name, 'add-') &&
+          steps.update.outputs.exception == 'false'
+        uses: OSDKDev/lock-issues@v1.1
+        with:
+          repo-token: ${{ secrets.GH_BOT_TOKEN }}
