@@ -1,1 +1,257 @@
-{}
+{
+    "532707906": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
+        "branches": [
+            {
+                "commit_date": "2023-02-13T02:30:01Z",
+                "commit_sha": "f569f71ac82a1b5e2aa2cc9b66dc4445b4d28905",
+                "download_url": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/docker/nightly/ubuntu-23.04.zip",
+                "name": "dependabot/docker/nightly/ubuntu-23.04"
+            },
+            {
+                "commit_date": "2023-02-20T02:27:05Z",
+                "commit_sha": "a0da9558ded78f2f6adefd4ebf753de053df6752",
+                "download_url": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/pascalgn/automerge-action-0.15.6.zip",
+                "name": "dependabot/github_actions/nightly/pascalgn/automerge-action-0.15.6"
+            },
+            {
+                "commit_date": "2022-10-09T18:09:21Z",
+                "commit_sha": "3e8e28b010c8b116e7ba570705106aacdafa4e98",
+                "download_url": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2023-02-10T19:03:53Z",
+                "commit_sha": "12390cbabe213f65c338f927f19a262a1215a53c",
+                "download_url": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/nightly.zip",
+                "name": "nightly"
+            }
+        ],
+        "default_branch": "master",
+        "description": "Plugin for Plex Media Server, that enables additional URL services, including a working YouTube URL service!",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "LizardByte/PlexyGlass",
+        "gh_pages_url": null,
+        "has_discussions": true,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/LizardByte/PlexyGlass",
+        "license": "GNU Affero General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/agpl-3.0",
+        "name": "PlexyGlass",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 3,
+        "releases": [
+            {
+                "bundle_url": "https://github.com/LizardByte/PlexyGlass/releases/download/v0.0.4/PlexyGlass.bundle.zip",
+                "name": "v0.0.4",
+                "prerelease": false,
+                "release_date": "2022-10-09T18:10:14Z",
+                "tag_name": "v0.0.4"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/PlexyGlass/releases/download/v0.0.3/PlexyGlass.bundle.zip",
+                "name": "v0.0.3",
+                "prerelease": false,
+                "release_date": "2022-10-04T23:43:19Z",
+                "tag_name": "v0.0.3"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/PlexyGlass/releases/download/v0.0.2/PlexyGlass.bundle.zip",
+                "name": "v0.0.2",
+                "prerelease": false,
+                "release_date": "2022-09-12T00:44:39Z",
+                "tag_name": "v0.0.2"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/PlexyGlass/releases/download/v0.0.1/PlexyGlass.bundle.zip",
+                "name": "v0.0.1",
+                "prerelease": false,
+                "release_date": "2022-09-10T02:39:50Z",
+                "tag_name": "v0.0.1"
+            }
+        ],
+        "stargazers_count": 15
+    },
+    "535883315": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
+        "branches": [
+            {
+                "commit_date": "2023-02-20T09:15:52Z",
+                "commit_sha": "af290058a09c31037bb9f432ec33a8a15112e3fa",
+                "download_url": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/pascalgn/automerge-action-0.15.6.zip",
+                "name": "dependabot/github_actions/nightly/pascalgn/automerge-action-0.15.6"
+            },
+            {
+                "commit_date": "2023-01-28T15:22:57Z",
+                "commit_sha": "306290a62fda2a16c634a1e792c55178a823afb4",
+                "download_url": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2023-02-07T00:03:57Z",
+                "commit_sha": "2e783b9c9c899f982c4eae01eeb2132362fede0a",
+                "download_url": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/networking-use-requests.zip",
+                "name": "networking-use-requests"
+            },
+            {
+                "commit_date": "2023-02-19T15:51:20Z",
+                "commit_sha": "4d883763d86d093048d943286f0666b950aedda8",
+                "download_url": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip",
+                "name": "nightly"
+            }
+        ],
+        "default_branch": "master",
+        "description": "Plugin for Plex Media Server that adds theme songs to movies using ThemerrDB.",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "LizardByte/Themerr-plex",
+        "gh_pages_url": null,
+        "has_discussions": true,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "https://app.lizardbyte.dev/ThemerrDB",
+        "html_url": "https://github.com/LizardByte/Themerr-plex",
+        "license": "GNU Affero General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/agpl-3.0",
+        "name": "Themerr-plex",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 3,
+        "releases": [
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.1.3/Themerr-plex.bundle.zip",
+                "name": "v0.1.3",
+                "prerelease": false,
+                "release_date": "2023-01-28T15:23:58Z",
+                "tag_name": "v0.1.3"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.1.2/Themerr-plex.bundle.zip",
+                "name": "v0.1.2",
+                "prerelease": false,
+                "release_date": "2023-01-23T18:16:34Z",
+                "tag_name": "v0.1.2"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.1.1/Themerr-plex.bundle.zip",
+                "name": "v0.1.1",
+                "prerelease": false,
+                "release_date": "2023-01-20T01:59:03Z",
+                "tag_name": "v0.1.1"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.1.0/Themerr-plex.bundle.zip",
+                "name": "v0.1.0",
+                "prerelease": false,
+                "release_date": "2023-01-19T02:36:52Z",
+                "tag_name": "v0.1.0"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.0.8/Themerr-plex.bundle.zip",
+                "name": "v0.0.8",
+                "prerelease": false,
+                "release_date": "2023-01-02T23:12:44Z",
+                "tag_name": "v0.0.8"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.0.7/Themerr-plex.bundle.zip",
+                "name": "v0.0.7",
+                "prerelease": false,
+                "release_date": "2022-12-28T17:52:51Z",
+                "tag_name": "v0.0.7"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.0.6/Themerr-plex.bundle.zip",
+                "name": "v0.0.6",
+                "prerelease": false,
+                "release_date": "2022-12-28T17:30:11Z",
+                "tag_name": "v0.0.6"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.0.5/Themerr-plex.bundle.zip",
+                "name": "v0.0.5",
+                "prerelease": false,
+                "release_date": "2022-10-15T16:57:00Z",
+                "tag_name": "v0.0.5"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.0.4/Themerr-plex.bundle.zip",
+                "name": "v0.0.4",
+                "prerelease": false,
+                "release_date": "2022-10-14T23:48:34Z",
+                "tag_name": "v0.0.4"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.0.3/Themerr-plex.bundle.zip",
+                "name": "v0.0.3",
+                "prerelease": false,
+                "release_date": "2022-10-09T18:13:46Z",
+                "tag_name": "v0.0.3"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.0.2/Themerr-plex.bundle.zip",
+                "name": "v0.0.2",
+                "prerelease": false,
+                "release_date": "2022-10-04T23:41:55Z",
+                "tag_name": "v0.0.2"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.0.1/Themerr-plex.bundle.zip",
+                "name": "v0.0.1",
+                "prerelease": false,
+                "release_date": "2022-10-04T00:39:33Z",
+                "tag_name": "v0.0.1"
+            }
+        ],
+        "stargazers_count": 18
+    },
+    "604853981": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
+        "branches": [
+            {
+                "commit_date": "2023-02-24T23:18:33Z",
+                "commit_sha": "ccb7002b22a1d4a4febfce5b9dd13461dfe55ce5",
+                "download_url": "https://github.com/LizardByte/Plugger/archive/refs/heads/featurize.zip",
+                "name": "featurize"
+            },
+            {
+                "commit_date": "2023-02-24T16:48:52Z",
+                "commit_sha": "1d2895931c3f2c1f49736a30275215d208f0c834",
+                "download_url": "https://github.com/LizardByte/Plugger/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2023-02-24T16:48:52Z",
+                "commit_sha": "1d2895931c3f2c1f49736a30275215d208f0c834",
+                "download_url": "https://github.com/LizardByte/Plugger/archive/refs/heads/nightly.zip",
+                "name": "nightly"
+            }
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "LizardByte/Plugger",
+        "gh_pages_url": null,
+        "has_discussions": true,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/LizardByte/Plugger",
+        "license": "GNU Affero General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/agpl-3.0",
+        "name": "Plugger",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 1,
+        "releases": [],
+        "stargazers_count": 0
+    }
+}
