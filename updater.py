@@ -170,12 +170,12 @@ def process_github_url(url: str, categories: Optional[list] = None) -> dict:
                 original_submission = False
                 with lock:
                     try:
-                        og_data[github_data['id']]['plugin_added_by']
+                        og_data[str(github_data['id'])]['plugin_added_by']
                     except KeyError:
                         original_submission = True
-                        og_data[github_data['id']]['plugin_added_by'] = os.environ['ISSUE_AUTHOR_USER_ID']
+                        og_data[str(github_data['id'])]['plugin_added_by'] = os.environ['ISSUE_AUTHOR_USER_ID']
                     finally:
-                        og_data[github_data['id']]['plugin_edited_by'] = os.environ['ISSUE_AUTHOR_USER_ID']
+                        og_data[str(github_data['id'])]['plugin_edited_by'] = os.environ['ISSUE_AUTHOR_USER_ID']
 
                 # update contributor info
                 update_contributor_info(original=original_submission, base_dir='database')
