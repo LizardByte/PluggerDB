@@ -140,7 +140,9 @@ jobs:
             })
 
       - name: Remove Exception Label
-        if: ${{ steps.update.outputs.exception == 'false' }}
+        if: >-
+          contains(github.event.issue.labels.*.name, 'exception') == false &&
+          steps.update.outputs.exception == 'false'
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GH_BOT_TOKEN }}
