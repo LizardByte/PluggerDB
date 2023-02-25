@@ -6,7 +6,6 @@ verifying and updating requests to update the PluggerDB database. The tests in t
 updater module is functioning correctly by validating URLs and checking that the correct IDs are returned.
 """
 # standard imports
-import os
 
 # local imports
 import updater
