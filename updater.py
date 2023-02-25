@@ -73,9 +73,9 @@ def process_queue() -> None:
 
 
 def queue_handler(item: str) -> None:
-    github_url = check_github(data=dict(github_url=item))
+    git_owner, git_repo = check_github(data=dict(github_url=item))
 
-    process_github_url(url=github_url)
+    process_github_url(owner=git_owner, repo=git_repo)
 
 
 # create multiple threads for processing items faster
@@ -93,10 +93,24 @@ for t in range(3):
         break
 
 
-def process_github_url(url: str, categories: Optional[str] = None) -> dict:
-    response = requests_loop(url=url, headers=github_headers)
+def process_github_url(owner: str, repo: str, categories: Optional[str] = None) -> dict:
+    api_repo_url = f'https://api.github.com/repos/{owner}/{repo}'
+    response = requests_loop(url=api_repo_url, headers=github_headers)
 
     github_data = response.json()
+
+    issue_response = requests_loop(url=f'{api_repo_url}/issues', headers=github_headers)
+    issue_data = issue_response.json()
+
+    open_issues = 0
+    open_pull_requests = 0
+    for issue in issue_data:
+        try:
+            issue['pull_request']
+        except KeyError:
+            open_issues += 1
+        else:
+            open_pull_requests += 1
 
     try:
         github_data['id']
@@ -113,7 +127,8 @@ def process_github_url(url: str, categories: Optional[str] = None) -> dict:
                 'homepage': github_data['homepage'],
                 'stargazers_count': github_data['stargazers_count'],
                 'forks_count': github_data['forks_count'],
-                'open_issues_count': github_data['open_issues_count'],
+                'open_issues_count': open_issues,
+                'open_pull_requests_count': open_pull_requests,
                 'has_issues': github_data['has_issues'],
                 'has_downloads': github_data['has_downloads'],
                 'has_wiki': github_data['has_wiki'],
@@ -217,12 +232,12 @@ def process_issue_update() -> None:
     submission = process_submission()
 
     # check validity of provided GitHub url
-    github_url = check_github(data=submission)
+    git_owner, git_repo = check_github(data=submission)
 
-    process_github_url(url=github_url, categories=submission['categories'])
+    process_github_url(owner=git_owner, repo=git_repo, categories=submission['categories'])
 
 
-def check_github(data: dict) -> str:
+def check_github(data: dict) -> tuple:
     print('Checking GitHub url')
     url = data['github_url'].strip()
     print(f'github_url: {url}')
@@ -230,12 +245,10 @@ def check_github(data: dict) -> str:
     # extract GitHub user and repo from url using regex
     match = re.search(pattern=r'github.com/([a-zA-Z0-9-]+)/([a-zA-Z0-9-]+)', string=url)
     if match:
-        user = match.group(1)
+        owner = match.group(1)
         repo = match.group(2)
 
-        api_url = f'https://api.github.com/repos/{user}/{repo}'
-
-        return api_url
+        return owner, repo
 
     else:
         raise SystemExit('Invalid GitHub url')
