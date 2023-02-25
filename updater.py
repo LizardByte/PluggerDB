@@ -45,12 +45,13 @@ def exception_writer(error: Exception, site: str):
 def requests_loop(url: str,
                   headers: Optional[dict] = None,
                   method: Callable = requests.get,
-                  max_tries: int = 10) -> requests.Response:
+                  max_tries: int = 10,
+                  allow_statuses: list = [requests.codes.ok]) -> requests.Response:
     count = 0
     while count <= max_tries:
         try:
             response = method(url=url, headers=headers)
-            if response.status_code == requests.codes.ok:
+            if response.status_code in allow_statuses:
                 return response
         except requests.exceptions.RequestException:
             time.sleep(2**count)
@@ -99,24 +100,34 @@ def process_github_url(owner: str, repo: str, categories: Optional[str] = None) 
 
     github_data = response.json()
 
-    issue_response = requests_loop(url=f'{api_repo_url}/issues', headers=github_headers)
-    issue_data = issue_response.json()
-
-    open_issues = 0
-    open_pull_requests = 0
-    for issue in issue_data:
-        try:
-            issue['pull_request']
-        except KeyError:
-            open_issues += 1
-        else:
-            open_pull_requests += 1
-
     try:
         github_data['id']
     except KeyError as e:
         raise Exception(f'Error processing plugin: {e}')
     else:
+        # get issues data
+        issue_data = requests_loop(url=f'{api_repo_url}/issues', headers=github_headers).json()
+        open_issues = 0
+        open_pull_requests = 0
+        for issue in issue_data:
+            try:
+                issue['pull_request']
+            except KeyError:
+                open_issues += 1
+            else:
+                open_pull_requests += 1
+
+        # get gh-pages data, this will return a 404 if the repo doesn't have gh-pages
+        # GitHub token requires repo scope for this end point
+        response = requests_loop(url=f'{api_repo_url}/pages', headers=github_headers,
+                                 allow_statuses=[requests.codes.ok, 404])
+
+        if response.status_code == 404:
+            gh_pages_url = None
+        else:
+            gh_pages_data = response.json()
+            gh_pages_url = gh_pages_data['html_url']
+
         with lock:
             og_data[str(github_data['id'])] = {
                 'name': github_data['name'],
@@ -135,9 +146,10 @@ def process_github_url(owner: str, repo: str, categories: Optional[str] = None) 
                 'has_discussions': github_data['has_discussions'],
                 'archived': github_data['archived'],
                 'disabled': github_data['disabled'],
-                'license': github_data['license']['name'],
-                'license_url': github_data['license']['url'],
+                'license': None if not github_data['license'] else github_data['license']['name'],
+                'license_url': None if not github_data['license'] else github_data['license']['url'],
                 'default_branch': github_data['default_branch'],
+                'gh_pages_url': gh_pages_url,
             }
         try:
             args.issue_update
@@ -173,9 +185,10 @@ def process_github_url(owner: str, repo: str, categories: Optional[str] = None) 
 | has_discussions | {github_data['has_discussions']} |
 | archived | {github_data['archived']} |
 | disabled | {github_data['disabled']} |
-| license | {github_data['license']['name']} |
-| license_url | {github_data['license']['url']} |
+| license | {None if not github_data['license'] else github_data['license']['name']} |
+| license_url | {None if not github_data['license'] else github_data['license']['url']} |
 | default_branch | {github_data['default_branch']} |
+| gh_pages_url | {gh_pages_url} |
 | categories | {categories} |
 """
                 with open("comment.md", "a") as comment_f:
