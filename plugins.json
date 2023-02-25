@@ -1,4 +1,144 @@
 {
+    "535883315": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
+        "branches": [
+            {
+                "commit_date": "2023-02-20T09:15:52Z",
+                "commit_sha": "af290058a09c31037bb9f432ec33a8a15112e3fa",
+                "download_url": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/pascalgn/automerge-action-0.15.6.zip",
+                "name": "dependabot/github_actions/nightly/pascalgn/automerge-action-0.15.6"
+            },
+            {
+                "commit_date": "2023-01-28T15:22:57Z",
+                "commit_sha": "306290a62fda2a16c634a1e792c55178a823afb4",
+                "download_url": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2023-02-07T00:03:57Z",
+                "commit_sha": "2e783b9c9c899f982c4eae01eeb2132362fede0a",
+                "download_url": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/networking-use-requests.zip",
+                "name": "networking-use-requests"
+            },
+            {
+                "commit_date": "2023-02-19T15:51:20Z",
+                "commit_sha": "4d883763d86d093048d943286f0666b950aedda8",
+                "download_url": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip",
+                "name": "nightly"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Music"
+        ],
+        "default_branch": "master",
+        "description": "Plugin for Plex Media Server that adds theme songs to movies using ThemerrDB.",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "LizardByte/Themerr-plex",
+        "gh_pages_url": null,
+        "has_discussions": true,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "https://app.lizardbyte.dev/ThemerrDB",
+        "html_url": "https://github.com/LizardByte/Themerr-plex",
+        "license": "GNU Affero General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/agpl-3.0",
+        "name": "Themerr-plex",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 3,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.1.3/Themerr-plex.bundle.zip",
+                "name": "v0.1.3",
+                "prerelease": false,
+                "release_date": "2023-01-28T15:23:58Z",
+                "tag_name": "v0.1.3"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.1.2/Themerr-plex.bundle.zip",
+                "name": "v0.1.2",
+                "prerelease": false,
+                "release_date": "2023-01-23T18:16:34Z",
+                "tag_name": "v0.1.2"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.1.1/Themerr-plex.bundle.zip",
+                "name": "v0.1.1",
+                "prerelease": false,
+                "release_date": "2023-01-20T01:59:03Z",
+                "tag_name": "v0.1.1"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.1.0/Themerr-plex.bundle.zip",
+                "name": "v0.1.0",
+                "prerelease": false,
+                "release_date": "2023-01-19T02:36:52Z",
+                "tag_name": "v0.1.0"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.0.8/Themerr-plex.bundle.zip",
+                "name": "v0.0.8",
+                "prerelease": false,
+                "release_date": "2023-01-02T23:12:44Z",
+                "tag_name": "v0.0.8"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.0.7/Themerr-plex.bundle.zip",
+                "name": "v0.0.7",
+                "prerelease": false,
+                "release_date": "2022-12-28T17:52:51Z",
+                "tag_name": "v0.0.7"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.0.6/Themerr-plex.bundle.zip",
+                "name": "v0.0.6",
+                "prerelease": false,
+                "release_date": "2022-12-28T17:30:11Z",
+                "tag_name": "v0.0.6"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.0.5/Themerr-plex.bundle.zip",
+                "name": "v0.0.5",
+                "prerelease": false,
+                "release_date": "2022-10-15T16:57:00Z",
+                "tag_name": "v0.0.5"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.0.4/Themerr-plex.bundle.zip",
+                "name": "v0.0.4",
+                "prerelease": false,
+                "release_date": "2022-10-14T23:48:34Z",
+                "tag_name": "v0.0.4"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.0.3/Themerr-plex.bundle.zip",
+                "name": "v0.0.3",
+                "prerelease": false,
+                "release_date": "2022-10-09T18:13:46Z",
+                "tag_name": "v0.0.3"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.0.2/Themerr-plex.bundle.zip",
+                "name": "v0.0.2",
+                "prerelease": false,
+                "release_date": "2022-10-04T23:41:55Z",
+                "tag_name": "v0.0.2"
+            },
+            {
+                "bundle_url": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.0.1/Themerr-plex.bundle.zip",
+                "name": "v0.0.1",
+                "prerelease": false,
+                "release_date": "2022-10-04T00:39:33Z",
+                "tag_name": "v0.0.1"
+            }
+        ],
+        "stargazers_count": 18
+    },
     "604853981": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
