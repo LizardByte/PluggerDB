@@ -12,9 +12,7 @@ import updater
 
 valid_submission = dict(
     github_url='https://github.com/LizardByte/Plugger',
-    categories=[
-        'Utility',
-    ],
+    categories='Utility',
     other_category='',
     additional_comments=''
 )
@@ -22,15 +20,16 @@ valid_submission = dict(
 
 def test_check_github():
     """Tests if the provided YouTube url is valid and returns a valid url."""
-    api_url = updater.check_github(data=valid_submission)
+    git_owner, git_repo = updater.check_github(data=valid_submission)
 
-    assert api_url == 'https://api.github.com/repos/LizardByte/Plugger'
+    assert git_owner == 'LizardByte'
+    assert git_repo == 'Plugger'
 
 
 def test_process_github_url():
     """Tests if the provided GitHub url is valid and returns a valid url."""
-    api_url = updater.check_github(data=valid_submission)
-    github_data = updater.process_github_url(url=api_url)
+    git_owner, git_repo = updater.check_github(data=valid_submission)
+    github_data = updater.process_github_url(owner=git_owner, repo=git_repo)
 
     assert github_data is not None
     assert github_data['id']
