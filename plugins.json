@@ -487,6 +487,48 @@
         "releases": [],
         "stargazers_count": 0
     },
+    "7257641": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/846408?v=4",
+        "branches": [
+            {
+                "commit_date": "2012-07-29T22:32:41Z",
+                "commit_sha": "9489ca71779c68c1a6862b9e7ee420db486fd6dd",
+                "download_url": "https://github.com/HuXDK/Media-Flags.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2011-08-11T17:33:48Z",
+                "commit_sha": "37826e195f0e8eafe2b86056022222fb4281745b",
+                "download_url": "https://github.com/HuXDK/Media-Flags.bundle/archive/refs/heads/sebastian.zip",
+                "name": "sebastian"
+            }
+        ],
+        "categories": [
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "Plex Media Flags",
+        "disabled": false,
+        "forks_count": 16,
+        "full_name": "HuXDK/Media-Flags.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/HuXDK/Media-Flags.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Media-Flags.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 0
+    },
     "919951": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/401134?v=4",
