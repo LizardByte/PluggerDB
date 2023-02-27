@@ -1533,6 +1533,262 @@
         ],
         "stargazers_count": 14
     },
+    "23765019": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/6312063?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-11-28T23:45:21Z",
+                "commit_sha": "384830b8687908c940e3854dfba725bf010975cf",
+                "download_url": "https://github.com/kolsys/HDSerials.bundle/archive/refs/heads/develop.zip",
+                "name": "develop"
+            },
+            {
+                "commit_date": "2018-03-23T22:42:56Z",
+                "commit_sha": "6d88f50effef8d58f173c28f0ca175bc4535fa8b",
+                "download_url": "https://github.com/kolsys/HDSerials.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Movies",
+            "TV",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex HDSerials video plugin",
+        "disabled": false,
+        "forks_count": 8,
+        "full_name": "kolsys/HDSerials.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/kolsys/HDSerials.bundle",
+        "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "license_url": "https://api.github.com/licenses/bsd-3-clause",
+        "name": "HDSerials.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.27",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2018-03-23T22:44:06Z",
+                "tag_name": "v1.27"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.26",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2018-03-17T22:54:53Z",
+                "tag_name": "v1.26"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.25",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2018-03-04T09:35:33Z",
+                "tag_name": "v1.25"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.24",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2018-02-23T18:40:32Z",
+                "tag_name": "v1.24"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.23",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2018-01-18T09:11:35Z",
+                "tag_name": "v1.23"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.22",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2017-12-23T22:55:22Z",
+                "tag_name": "v1.22"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.21",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2017-12-08T23:39:49Z",
+                "tag_name": "v1.21"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.20",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2017-11-29T21:21:35Z",
+                "tag_name": "v1.20"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.18",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2017-06-13T22:29:44Z",
+                "tag_name": "v1.18"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.17",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2017-03-30T20:50:29Z",
+                "tag_name": "v1.17"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.16",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2017-03-14T22:01:55Z",
+                "tag_name": "v1.16"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.15",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2017-02-24T00:02:06Z",
+                "tag_name": "v1.15"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.14",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2017-02-06T21:02:44Z",
+                "tag_name": "v1.14"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.13",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2016-12-24T18:50:30Z",
+                "tag_name": "v1.13"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.11",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2016-10-25T22:37:30Z",
+                "tag_name": "v1.11"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.10",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2016-09-06T21:23:42Z",
+                "tag_name": "v1.10"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.9",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2016-08-08T21:56:45Z",
+                "tag_name": "v1.9"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.8",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2016-07-18T21:18:22Z",
+                "tag_name": "v1.8"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.7",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2015-12-01T21:11:41Z",
+                "tag_name": "v1.7"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.6",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2015-10-28T21:10:34Z",
+                "tag_name": "v1.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.5",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2015-10-22T22:07:17Z",
+                "tag_name": "v1.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.4",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2015-06-03T20:55:03Z",
+                "tag_name": "v1.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.2",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2015-03-09T21:53:27Z",
+                "tag_name": "v1.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.08",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2014-12-30T20:10:45Z",
+                "tag_name": "v1.08"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.07",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2014-12-28T15:36:53Z",
+                "tag_name": "v1.07"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.06",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2014-11-16T22:13:07Z",
+                "tag_name": "v1.06"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.05",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2014-11-15T22:53:30Z",
+                "tag_name": "v1.05"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.04",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2014-11-10T22:12:22Z",
+                "tag_name": "v1.04"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/1.01",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2014-11-08T11:50:02Z",
+                "tag_name": "1.01"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.0",
+                "name": "HDSerials.bundle",
+                "prerelease": false,
+                "release_date": "2014-10-12T19:53:42Z",
+                "tag_name": "v1.0"
+            }
+        ],
+        "stargazers_count": 19
+    },
     "26585517": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/1116969?v=4",
