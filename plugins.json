@@ -987,6 +987,92 @@
         "releases": [],
         "stargazers_count": 1
     },
+    "22023072": {
+        "archived": true,
+        "avatar_url": "https://avatars.githubusercontent.com/u/3675072?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-05-17T04:23:06Z",
+                "commit_sha": "c64686fe59f4ec2d557e2d470eafa92a1ceb74df",
+                "download_url": "https://github.com/jamorin/Sonarr.bundle/archive/refs/heads/develop.zip",
+                "name": "develop"
+            },
+            {
+                "commit_date": "2016-05-17T04:27:17Z",
+                "commit_sha": "2cb27518d68204c9164b8b2b53fd5c71f7191b4e",
+                "download_url": "https://github.com/jamorin/Sonarr.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "A Sonarr channel plugin for the Plex Media Server.",
+        "disabled": false,
+        "forks_count": 15,
+        "full_name": "jamorin/Sonarr.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/jamorin/Sonarr.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Sonarr.bundle",
+        "open_issues_count": 11,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/jamorin/Sonarr.bundle/zipball/1.0.2",
+                "name": "Update CFBundleVersion",
+                "prerelease": false,
+                "release_date": "2016-05-17T04:26:49Z",
+                "tag_name": "1.0.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jamorin/Sonarr.bundle/zipball/1.0.1",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2016-05-16T00:57:06Z",
+                "tag_name": "1.0.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jamorin/Sonarr.bundle/zipball/1.0.0",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2016-05-15T23:37:12Z",
+                "tag_name": "1.0.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jamorin/Sonarr.bundle/zipball/v0.9.2",
+                "name": "v0.9.2",
+                "prerelease": false,
+                "release_date": "2016-02-04T16:30:33Z",
+                "tag_name": "v0.9.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jamorin/Sonarr.bundle/zipball/v0.9.1",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2015-11-08T05:14:42Z",
+                "tag_name": "v0.9.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jamorin/Sonarr.bundle/zipball/v0.9.0-beta",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2015-10-26T05:19:13Z",
+                "tag_name": "v0.9.0-beta"
+            }
+        ],
+        "stargazers_count": 96
+    },
     "22554947": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/8339266?v=4",
