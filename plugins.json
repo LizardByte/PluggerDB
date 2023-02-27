@@ -745,6 +745,61 @@
         "releases": [],
         "stargazers_count": 0
     },
+    "6167948": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/4729?v=4",
+        "branches": [
+            {
+                "commit_date": "2013-12-02T06:09:34Z",
+                "commit_sha": "6a7fe5ced0b5f10af0090a200b6ca3f63e2b8d14",
+                "download_url": "https://github.com/mikew/ss-plex.bundle/archive/refs/heads/gh-pages.zip",
+                "name": "gh-pages"
+            },
+            {
+                "commit_date": "2013-12-02T06:07:48Z",
+                "commit_sha": "c4e2e65989bbe5f1157dfbc1ad7169600fbf895c",
+                "download_url": "https://github.com/mikew/ss-plex.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2013-12-02T06:06:12Z",
+                "commit_sha": "031566c06205e08a8cb15c57a0c143fba5270493",
+                "download_url": "https://github.com/mikew/ss-plex.bundle/archive/refs/heads/stable.zip",
+                "name": "stable"
+            },
+            {
+                "commit_date": "2013-04-29T04:53:00Z",
+                "commit_sha": "4353412bfd8d10fab1fe0ec239058e850e1a0d23",
+                "download_url": "https://github.com/mikew/ss-plex.bundle/archive/refs/heads/tests.zip",
+                "name": "tests"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "stable",
+        "description": "Imagine if all the media scattered around the internet could be found in one collection.",
+        "disabled": false,
+        "forks_count": 37,
+        "full_name": "mikew/ss-plex.bundle",
+        "gh_pages_url": "http://mikew.github.io/ss-plex.bundle/",
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "http://mikew.github.io/ss-plex.bundle/",
+        "html_url": "https://github.com/mikew/ss-plex.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "ss-plex.bundle",
+        "open_issues_count": 30,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 135
+    },
     "6834172": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/1251768?v=4",
