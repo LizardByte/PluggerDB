@@ -3515,6 +3515,232 @@
         "releases": [],
         "stargazers_count": 135
     },
+    "66188656": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/20420832?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-12-01T21:39:48Z",
+                "commit_sha": "98e3793304fbdef23d8c60dfc63118e3b33ba5d1",
+                "download_url": "https://github.com/jumpmanjay/HDGrandSlam.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2016-09-08T21:21:44Z",
+                "commit_sha": "3d8255dcc81271da8632bd87257302a4d8f4d70a",
+                "download_url": "https://github.com/jumpmanjay/HDGrandSlam.bundle/archive/refs/heads/test.zip",
+                "name": "test"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "A Plex plug-in that interfaces with HDHomeRun tuners and DVRs",
+        "disabled": false,
+        "forks_count": 9,
+        "full_name": "jumpmanjay/HDGrandSlam.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/jumpmanjay/HDGrandSlam.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "HDGrandSlam.bundle",
+        "open_issues_count": 13,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/1.6.4",
+                "name": "Version 1.6.4",
+                "prerelease": false,
+                "release_date": "2017-12-01T21:57:31Z",
+                "tag_name": "1.6.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v1.6.3",
+                "name": "Version 1.6.3",
+                "prerelease": false,
+                "release_date": "2017-02-16T02:02:32Z",
+                "tag_name": "v1.6.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v1.6.2",
+                "name": "Version 1.6.2",
+                "prerelease": false,
+                "release_date": "2016-11-23T02:49:59Z",
+                "tag_name": "v1.6.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v1.6.1",
+                "name": "Version 1.6.1",
+                "prerelease": false,
+                "release_date": "2016-11-14T19:17:36Z",
+                "tag_name": "v1.6.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v1.6",
+                "name": "Version 1.6",
+                "prerelease": false,
+                "release_date": "2016-09-26T04:01:00Z",
+                "tag_name": "v1.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v1.5.1",
+                "name": "Version 1.5.1",
+                "prerelease": false,
+                "release_date": "2016-09-21T14:26:58Z",
+                "tag_name": "v1.5.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v1.5",
+                "name": "Version 1.5",
+                "prerelease": false,
+                "release_date": "2016-09-21T14:19:27Z",
+                "tag_name": "v1.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v1.4",
+                "name": "Version 1.4",
+                "prerelease": false,
+                "release_date": "2016-09-20T13:27:57Z",
+                "tag_name": "v1.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v1.3.3",
+                "name": "Version 1.3.3",
+                "prerelease": false,
+                "release_date": "2016-09-19T20:59:45Z",
+                "tag_name": "v1.3.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v1.3.3-beta.1",
+                "name": "Version 1.3.3 beta 1",
+                "prerelease": true,
+                "release_date": "2016-09-08T21:26:48Z",
+                "tag_name": "v1.3.3-beta.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v1.3.2",
+                "name": "Version 1.3.2",
+                "prerelease": false,
+                "release_date": "2016-08-30T20:40:03Z",
+                "tag_name": "v1.3.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v1.3.1",
+                "name": "Version 1.3.1",
+                "prerelease": false,
+                "release_date": "2016-08-30T20:17:05Z",
+                "tag_name": "v1.3.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v1.3",
+                "name": "Version 1.3",
+                "prerelease": false,
+                "release_date": "2016-08-30T18:44:05Z",
+                "tag_name": "v1.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v1.2",
+                "name": "Version 1.2",
+                "prerelease": false,
+                "release_date": "2016-08-28T03:04:35Z",
+                "tag_name": "v1.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v1.1",
+                "name": "Version 1.1",
+                "prerelease": false,
+                "release_date": "2016-08-27T16:44:25Z",
+                "tag_name": "v1.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v1.0",
+                "name": "Version 1.0",
+                "prerelease": false,
+                "release_date": "2016-08-26T06:18:11Z",
+                "tag_name": "v1.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v0.6",
+                "name": "Version 0.6",
+                "prerelease": false,
+                "release_date": "2016-08-25T19:14:38Z",
+                "tag_name": "v0.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v0.5.3",
+                "name": "Version 0.5.3",
+                "prerelease": false,
+                "release_date": "2016-08-25T03:54:26Z",
+                "tag_name": "v0.5.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v0.5.2",
+                "name": "Version 0.5.2",
+                "prerelease": false,
+                "release_date": "2016-08-24T13:13:45Z",
+                "tag_name": "v0.5.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v0.5.1",
+                "name": "Version 0.5.1",
+                "prerelease": false,
+                "release_date": "2016-08-24T05:10:53Z",
+                "tag_name": "v0.5.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v0.5",
+                "name": "Version 0.5",
+                "prerelease": false,
+                "release_date": "2016-08-24T05:05:38Z",
+                "tag_name": "v0.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v0.4.1",
+                "name": "Version 0.4.1",
+                "prerelease": false,
+                "release_date": "2016-08-23T17:40:17Z",
+                "tag_name": "v0.4.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v0.4",
+                "name": "Version 0.4",
+                "prerelease": false,
+                "release_date": "2016-08-23T06:15:51Z",
+                "tag_name": "v0.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v0.3",
+                "name": "Version 0.3",
+                "prerelease": false,
+                "release_date": "2016-08-22T20:55:03Z",
+                "tag_name": "v0.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v0.2",
+                "name": "Version 0.2",
+                "prerelease": false,
+                "release_date": "2016-08-22T15:09:12Z",
+                "tag_name": "v0.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v0.1",
+                "name": "Version 0.1",
+                "prerelease": false,
+                "release_date": "2016-08-22T05:35:00Z",
+                "tag_name": "v0.1"
+            }
+        ],
+        "stargazers_count": 77
+    },
     "66399099": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/2770588?v=4",
