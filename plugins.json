@@ -453,6 +453,49 @@
         "releases": [],
         "stargazers_count": 18
     },
+    "18277980": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/7110728?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-02-08T20:43:43Z",
+                "commit_sha": "bb749ea46cc7d69aa140d02470e10a9d81722cc4",
+                "download_url": "https://github.com/gentiho/PlexTools.bundle/archive/refs/heads/develop.zip",
+                "name": "develop"
+            },
+            {
+                "commit_date": "2014-02-24T16:27:50Z",
+                "commit_sha": "b4e3370dfbaf6cc0a8184ffeba1d8e8545b85b72",
+                "download_url": "https://github.com/gentiho/PlexTools.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Subtitles",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 19,
+        "full_name": "gentiho/PlexTools.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/gentiho/PlexTools.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "PlexTools.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 0
+    },
     "21631700": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/277223?v=4",
