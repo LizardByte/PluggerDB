@@ -73,6 +73,44 @@
         "releases": [],
         "stargazers_count": 11
     },
+    "10317372": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/4523085?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-05-31T02:12:26Z",
+                "commit_sha": "e398e8a6a31f254665ad23403b27a52de9b7a1d5",
+                "download_url": "https://github.com/chidychi/Data18.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Plex agent for scraping metadata from the Data18.com adult site.",
+        "disabled": false,
+        "forks_count": 17,
+        "full_name": "chidychi/Data18.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/chidychi/Data18.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Data18.bundle",
+        "open_issues_count": 4,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 31
+    },
     "1086937": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/277223?v=4",
