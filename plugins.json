@@ -290,6 +290,43 @@
         "releases": [],
         "stargazers_count": 0
     },
+    "919951": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/401134?v=4",
+        "branches": [
+            {
+                "commit_date": "2010-10-02T00:22:03Z",
+                "commit_sha": "6cd6fb9a61f94e20e852cc85f032cac501a588e6",
+                "download_url": "https://github.com/HooliganHarls/thecw.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex app for cwtv.com",
+        "disabled": false,
+        "forks_count": 15,
+        "full_name": "HooliganHarls/thecw.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/HooliganHarls/thecw.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "thecw.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 1
+    },
     "923463": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/401134?v=4",
