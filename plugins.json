@@ -715,6 +715,55 @@
         "releases": [],
         "stargazers_count": 16
     },
+    "7750402": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/1251768?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-01-20T14:39:34Z",
+                "commit_sha": "d7097f55a82ad7589edf4202d7bf18b3fab32b2e",
+                "download_url": "https://github.com/moxz/tvheadend.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2013-07-09T07:52:22Z",
+                "commit_sha": "a93cd65d21d458e04ddcfee5907f251e6f621f9d",
+                "download_url": "https://github.com/moxz/tvheadend.bundle/archive/refs/heads/tvheadend.bundle.v.0.1.zip",
+                "name": "tvheadend.bundle.v.0.1"
+            },
+            {
+                "commit_date": "2013-07-12T12:42:18Z",
+                "commit_sha": "826ed9715bd0973c0e885d6034a08d8378d66018",
+                "download_url": "https://github.com/moxz/tvheadend.bundle/archive/refs/heads/tvheadend.bundle.v.0.2.zip",
+                "name": "tvheadend.bundle.v.0.2"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "HTS-TVHeadend channel for Plex Media Server",
+        "disabled": false,
+        "forks_count": 5,
+        "full_name": "moxz/tvheadend.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/moxz/tvheadend.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "tvheadend.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 10
+    },
     "8525630": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/1691140?v=4",
