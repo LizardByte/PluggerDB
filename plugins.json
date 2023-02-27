@@ -216,8 +216,44 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
         "branches": [
             {
-                "commit_date": "2023-02-24T23:18:33Z",
-                "commit_sha": "ccb7002b22a1d4a4febfce5b9dd13461dfe55ce5",
+                "commit_date": "2023-02-27T09:16:02Z",
+                "commit_sha": "f71d3ad30e813231c2f2fc32df010e80ab4744d1",
+                "download_url": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/docker/nightly/python-3.11.2-buster.zip",
+                "name": "dependabot/docker/nightly/python-3.11.2-buster"
+            },
+            {
+                "commit_date": "2023-02-27T09:23:16Z",
+                "commit_sha": "977a22d801ad9b595dabf138f013cd5518bb9bff",
+                "download_url": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/pascalgn/automerge-action-0.15.6.zip",
+                "name": "dependabot/github_actions/nightly/pascalgn/automerge-action-0.15.6"
+            },
+            {
+                "commit_date": "2023-02-27T10:16:05Z",
+                "commit_sha": "36b0772de1958553393f5f2f28aeb184d2443f92",
+                "download_url": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/bootstrap-5.2.3.zip",
+                "name": "dependabot/npm_and_yarn/nightly/bootstrap-5.2.3"
+            },
+            {
+                "commit_date": "2023-02-27T10:16:08Z",
+                "commit_sha": "0ffbff7e1d83b73c3e2bd58548cc8740768e1cae",
+                "download_url": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-4.5.14.zip",
+                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-4.5.14"
+            },
+            {
+                "commit_date": "2023-02-27T10:15:38Z",
+                "commit_sha": "6c1e846b3ad5361187e1ff693c7c82d43aaef16c",
+                "download_url": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fortawesome/fontawesome-free-6.3.0.zip",
+                "name": "dependabot/npm_and_yarn/nightly/fortawesome/fontawesome-free-6.3.0"
+            },
+            {
+                "commit_date": "2023-02-27T10:15:51Z",
+                "commit_sha": "089e22edea61af51d3f828dba9529c257a014e66",
+                "download_url": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/jquery-3.6.3.zip",
+                "name": "dependabot/npm_and_yarn/nightly/jquery-3.6.3"
+            },
+            {
+                "commit_date": "2023-02-27T03:37:41Z",
+                "commit_sha": "95e346e433fa1d66e31638b1d489a2a701b8c85d",
                 "download_url": "https://github.com/LizardByte/Plugger/archive/refs/heads/featurize.zip",
                 "name": "featurize"
             },
@@ -250,7 +286,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Plugger",
         "open_issues_count": 0,
-        "open_pull_requests_count": 1,
+        "open_pull_requests_count": 7,
         "releases": [],
         "stargazers_count": 0
     }
