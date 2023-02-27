@@ -491,6 +491,49 @@
         "releases": [],
         "stargazers_count": 5
     },
+    "3485091": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/1027242?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-04-14T19:03:56Z",
+                "commit_sha": "565a29e91e8cefe78a6dba862d3c897be719ca28",
+                "download_url": "https://github.com/bstard/AniDB.bundle/archive/refs/heads/dev.zip",
+                "name": "dev"
+            },
+            {
+                "commit_date": "2014-04-14T19:03:56Z",
+                "commit_sha": "565a29e91e8cefe78a6dba862d3c897be719ca28",
+                "download_url": "https://github.com/bstard/AniDB.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Anime",
+            "Metadata Agent"
+        ],
+        "default_branch": "master",
+        "description": "Metadata agent for Plex media center that can fetch content from AniDB.net",
+        "disabled": false,
+        "forks_count": 7,
+        "full_name": "bstard/AniDB.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/bstard/AniDB.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "AniDB.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 15
+    },
     "532707906": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
