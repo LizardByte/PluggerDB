@@ -1419,6 +1419,107 @@
         "releases": [],
         "stargazers_count": 9
     },
+    "28607437": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/9571774?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-07-26T00:40:26Z",
+                "commit_sha": "4a1720212ee0b0f4caebafbbffca408617fd013b",
+                "download_url": "https://github.com/salphonso/wmc2plex.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Live TV in plex via ServerWMC",
+        "disabled": false,
+        "forks_count": 11,
+        "full_name": "salphonso/wmc2plex.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/salphonso/wmc2plex.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "wmc2plex.bundle",
+        "open_issues_count": 7,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/salphonso/wmc2plex.bundle/zipball/0.11.4",
+                "name": "0.11.4",
+                "prerelease": false,
+                "release_date": "2016-03-22T13:52:15Z",
+                "tag_name": "0.11.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/salphonso/wmc2plex.bundle/zipball/0.11.3",
+                "name": "0.11.3 ",
+                "prerelease": false,
+                "release_date": "2016-03-02T21:37:32Z",
+                "tag_name": "0.11.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/salphonso/wmc2plex.bundle/zipball/0.11.2",
+                "name": "Version 0.11.2",
+                "prerelease": false,
+                "release_date": "2015-12-16T02:43:25Z",
+                "tag_name": "0.11.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/salphonso/wmc2plex.bundle/zipball/0.11.1",
+                "name": "Version 0.11.1",
+                "prerelease": false,
+                "release_date": "2015-12-09T03:39:50Z",
+                "tag_name": "0.11.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/salphonso/wmc2plex.bundle/zipball/0.11.0",
+                "name": "Version 0.11.0",
+                "prerelease": false,
+                "release_date": "2015-12-09T00:14:30Z",
+                "tag_name": "0.11.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/salphonso/wmc2plex.bundle/zipball/0.10.0",
+                "name": "wmc2plex Alpha 0.10.0 ",
+                "prerelease": false,
+                "release_date": "2015-12-03T22:07:00Z",
+                "tag_name": "0.10.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/salphonso/wmc2plex.bundle/zipball/0.8.1",
+                "name": "wmc2plex Alpha 0.8.1 - Fixed Port bug",
+                "prerelease": false,
+                "release_date": "2015-03-24T19:45:06Z",
+                "tag_name": "0.8.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/salphonso/wmc2plex.bundle/zipball/0.8.0",
+                "name": "wmc2plex Alpha 0.8.0 ",
+                "prerelease": false,
+                "release_date": "2015-03-15T22:44:29Z",
+                "tag_name": "0.8.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/salphonso/wmc2plex.bundle/zipball/0.6.0",
+                "name": "wmc2plex ALPHA 0.6.0",
+                "prerelease": true,
+                "release_date": "2015-01-17T22:10:04Z",
+                "tag_name": "0.6.0"
+            }
+        ],
+        "stargazers_count": 16
+    },
     "28776470": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/1808015?v=4",
