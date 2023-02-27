@@ -1968,6 +1968,49 @@
         "releases": [],
         "stargazers_count": 0
     },
+    "6076978": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/1415805?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-02-27T15:34:36Z",
+                "commit_sha": "82b4ee32c1f3eea75c0a60d9443684846bb0b0bb",
+                "download_url": "https://github.com/seagullcanfly/RedditVideos.bundle/archive/refs/heads/dev.zip",
+                "name": "dev"
+            },
+            {
+                "commit_date": "2016-07-30T20:19:46Z",
+                "commit_sha": "ec32ab4f94934f775b4ba2cd4ebdf56277dd4f53",
+                "download_url": "https://github.com/seagullcanfly/RedditVideos.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Watch videos made popular on Reddit through Plex.  ",
+        "disabled": false,
+        "forks_count": 18,
+        "full_name": "seagullcanfly/RedditVideos.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/seagullcanfly/RedditVideos.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "RedditVideos.bundle",
+        "open_issues_count": 11,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 9
+    },
     "6167948": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/4729?v=4",
