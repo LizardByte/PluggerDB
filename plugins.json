@@ -2907,6 +2907,44 @@
         "releases": [],
         "stargazers_count": 5
     },
+    "86917897": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/26838821?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-05-19T19:34:34Z",
+                "commit_sha": "3bfe17af48ea9a12783e389d6d4e8f456fbb3149",
+                "download_url": "https://github.com/bagotx/4tube.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Channel Plugin for 4tube",
+        "disabled": false,
+        "forks_count": 7,
+        "full_name": "bagotx/4tube.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/bagotx/4tube.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "4tube.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 3
+    },
     "9127799": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/238419?v=4",
