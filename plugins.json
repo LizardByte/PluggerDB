@@ -110,6 +110,43 @@
         "releases": [],
         "stargazers_count": 3
     },
+    "1336523": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/382996?v=4",
+        "branches": [
+            {
+                "commit_date": "2011-02-07T04:51:34Z",
+                "commit_sha": "8d475afb974e52cc5ddce29a619588e702c5614a",
+                "download_url": "https://github.com/dbl-a/Nickelodeon.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex plugin to watch videos from nick.com",
+        "disabled": false,
+        "forks_count": 7,
+        "full_name": "dbl-a/Nickelodeon.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/dbl-a/Nickelodeon.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Nickelodeon.bundle",
+        "open_issues_count": 2,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 6
+    },
     "1354079": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/382996?v=4",
