@@ -50,6 +50,7 @@ jobs:
       - name: Update
         env:
           GH_TOKEN: ${{ github.token }}
+          PAT_TOKEN: ${{ secrets.GH_BOT_TOKEN }}
         run: |
           python -u ./updater.py --daily_update
 
