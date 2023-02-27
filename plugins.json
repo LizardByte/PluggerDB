@@ -761,6 +761,49 @@
         "releases": [],
         "stargazers_count": 1
     },
+    "45886097": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/5242865?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-07-09T12:21:52Z",
+                "commit_sha": "fb5c77a60c925dcfd60e75a945244e07ee009e7c",
+                "download_url": "https://github.com/HuggableSquare/PlexThemeMusic.bundle/archive/refs/heads/dist.zip",
+                "name": "dist"
+            },
+            {
+                "commit_date": "2015-11-10T09:58:14Z",
+                "commit_sha": "8f4660acd5ce1060a9cbd625608a0f058e0eebe5",
+                "download_url": "https://github.com/HuggableSquare/PlexThemeMusic.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "modified version of PlexThemeMusic.bundle for use with TheTVDBdvdorder",
+        "disabled": false,
+        "forks_count": 3,
+        "full_name": "HuggableSquare/PlexThemeMusic.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/HuggableSquare/PlexThemeMusic.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "PlexThemeMusic.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 6
+    },
     "532707906": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
