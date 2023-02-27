@@ -1507,6 +1507,43 @@
         "releases": [],
         "stargazers_count": 15
     },
+    "918197": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/52036?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-09-08T18:31:49Z",
+                "commit_sha": "46a11920365a1ade62bdee95df884ccc33228702",
+                "download_url": "https://github.com/logaritmisk/Put.io.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Put.io plugin for Plex",
+        "disabled": false,
+        "forks_count": 18,
+        "full_name": "logaritmisk/Put.io.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/logaritmisk/Put.io.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Put.io.bundle",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 17
+    },
     "919951": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/401134?v=4",
