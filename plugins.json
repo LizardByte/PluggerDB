@@ -524,6 +524,43 @@
         "releases": [],
         "stargazers_count": 0
     },
+    "6834172": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/1251768?v=4",
+        "branches": [
+            {
+                "commit_date": "2013-07-05T20:00:50Z",
+                "commit_sha": "ed23297dc0a5765bb07720e379914a942eb89a5f",
+                "download_url": "https://github.com/moxz/vlc.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "VLC Plugin for Plex",
+        "disabled": false,
+        "forks_count": 5,
+        "full_name": "moxz/vlc.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/moxz/vlc.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "vlc.bundle",
+        "open_issues_count": 2,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 9
+    },
     "7257641": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/846408?v=4",
