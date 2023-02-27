@@ -1171,6 +1171,51 @@
         "releases": [],
         "stargazers_count": 6
     },
+    "26585517": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/1116969?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-10-11T08:01:42Z",
+                "commit_sha": "d7ba867fcab651ee1253987a50e0fb62c0262379",
+                "download_url": "https://github.com/lotooo/Pluzz.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Pluzz (French TV replay) Plex channel",
+        "disabled": false,
+        "forks_count": 5,
+        "full_name": "lotooo/Pluzz.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/lotooo/Pluzz.bundle",
+        "license": "GNU General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/gpl-3.0",
+        "name": "Pluzz.bundle",
+        "open_issues_count": 2,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/lotooo/Pluzz.bundle/zipball/1.0",
+                "name": "First",
+                "prerelease": false,
+                "release_date": "2014-11-18T13:28:14Z",
+                "tag_name": "1.0"
+            }
+        ],
+        "stargazers_count": 8
+    },
     "2690149": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/1163946?v=4",
