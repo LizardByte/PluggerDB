@@ -636,6 +636,204 @@
         "releases": [],
         "stargazers_count": 18
     },
+    "17630358": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/526664?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-07-01T03:06:43Z",
+                "commit_sha": "896b540c2d2ed4f9d3b2042e9b9f0df928ba456b",
+                "download_url": "https://github.com/fuzeman/Spotify2.bundle/archive/refs/heads/beta.zip",
+                "name": "beta"
+            },
+            {
+                "commit_date": "2014-12-29T01:31:09Z",
+                "commit_sha": "b43d5c33b022bd18ce13fc637096df6c834f57d2",
+                "download_url": "https://github.com/fuzeman/Spotify2.bundle/archive/refs/heads/develop.zip",
+                "name": "develop"
+            },
+            {
+                "commit_date": "2014-06-06T14:32:53Z",
+                "commit_sha": "a4df280668cbbe0519e93410e28d5800c0b4682a",
+                "download_url": "https://github.com/fuzeman/Spotify2.bundle/archive/refs/heads/feature/explore.zip",
+                "name": "feature/explore"
+            },
+            {
+                "commit_date": "2014-06-04T03:12:51Z",
+                "commit_sha": "809a330a67ae336c91da32712104de8e585b3acb",
+                "download_url": "https://github.com/fuzeman/Spotify2.bundle/archive/refs/heads/feature/my_music.zip",
+                "name": "feature/my_music"
+            },
+            {
+                "commit_date": "2014-05-23T10:11:33Z",
+                "commit_sha": "13f654c33dd85387b6812ec8e17973f6c2b79831",
+                "download_url": "https://github.com/fuzeman/Spotify2.bundle/archive/refs/heads/feature/server-streaming.zip",
+                "name": "feature/server-streaming"
+            },
+            {
+                "commit_date": "2014-05-13T14:06:37Z",
+                "commit_sha": "995d067ba0ad30d2f326b7eaf80306ea4a88987b",
+                "download_url": "https://github.com/fuzeman/Spotify2.bundle/archive/refs/heads/feature/spotify-py.zip",
+                "name": "feature/spotify-py"
+            },
+            {
+                "commit_date": "2014-08-04T01:06:53Z",
+                "commit_sha": "bd7bc945cef652ac155b214655c59d1264ec2936",
+                "download_url": "https://github.com/fuzeman/Spotify2.bundle/archive/refs/heads/issue/39.zip",
+                "name": "issue/39"
+            },
+            {
+                "commit_date": "2014-12-29T01:30:34Z",
+                "commit_sha": "bd4f0a7104b49ea69c3990d4652efae08fcad98e",
+                "download_url": "https://github.com/fuzeman/Spotify2.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2014-04-19T02:24:29Z",
+                "commit_sha": "5085e06818b5ba6b310dda1e70975a6bab1c4702",
+                "download_url": "https://github.com/fuzeman/Spotify2.bundle/archive/refs/heads/websocket.zip",
+                "name": "websocket"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Music"
+        ],
+        "default_branch": "master",
+        "description": "Spotify music streaming for Plex (all platforms)",
+        "disabled": false,
+        "forks_count": 45,
+        "full_name": "fuzeman/Spotify2.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/fuzeman/Spotify2.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Spotify2.bundle",
+        "open_issues_count": 29,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/fuzeman/Spotify2.bundle/zipball/0.5.8",
+                "name": "0.5.8",
+                "prerelease": false,
+                "release_date": "2014-12-29T01:34:43Z",
+                "tag_name": "0.5.8"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/fuzeman/Spotify2.bundle/zipball/0.5.7",
+                "name": "0.5.7",
+                "prerelease": false,
+                "release_date": "2014-08-06T02:24:13Z",
+                "tag_name": "0.5.7"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/fuzeman/Spotify2.bundle/zipball/0.5.6",
+                "name": "0.5.6",
+                "prerelease": false,
+                "release_date": "2014-08-02T13:43:33Z",
+                "tag_name": "0.5.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/fuzeman/Spotify2.bundle/zipball/0.5.5",
+                "name": "0.5.5",
+                "prerelease": false,
+                "release_date": "2014-08-02T13:43:14Z",
+                "tag_name": "0.5.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/fuzeman/Spotify2.bundle/zipball/0.5.4",
+                "name": "0.5.4",
+                "prerelease": false,
+                "release_date": "2014-07-01T04:57:40Z",
+                "tag_name": "0.5.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/fuzeman/Spotify2.bundle/zipball/0.5.4-beta",
+                "name": "0.5.4-beta",
+                "prerelease": true,
+                "release_date": "2014-07-01T04:57:27Z",
+                "tag_name": "0.5.4-beta"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/fuzeman/Spotify2.bundle/zipball/0.5.3-beta",
+                "name": "0.5.3-beta",
+                "prerelease": true,
+                "release_date": "2014-06-20T08:07:25Z",
+                "tag_name": "0.5.3-beta"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/fuzeman/Spotify2.bundle/zipball/0.5.2-beta",
+                "name": "0.5.2-beta",
+                "prerelease": true,
+                "release_date": "2014-05-30T05:31:26Z",
+                "tag_name": "0.5.2-beta"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/fuzeman/Spotify2.bundle/zipball/0.5.1-beta",
+                "name": "0.5.1-beta",
+                "prerelease": true,
+                "release_date": "2014-05-23T10:51:39Z",
+                "tag_name": "0.5.1-beta"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/fuzeman/Spotify2.bundle/zipball/0.4.4",
+                "name": "0.4.4",
+                "prerelease": false,
+                "release_date": "2014-05-23T10:52:00Z",
+                "tag_name": "0.4.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/fuzeman/Spotify2.bundle/zipball/0.5.0-beta",
+                "name": "0.5.0-beta",
+                "prerelease": true,
+                "release_date": "2014-05-14T03:18:56Z",
+                "tag_name": "0.5.0-beta"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/fuzeman/Spotify2.bundle/zipball/0.4.3",
+                "name": "0.4.3",
+                "prerelease": false,
+                "release_date": "2014-05-14T03:18:04Z",
+                "tag_name": "0.4.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/fuzeman/Spotify2.bundle/zipball/0.4.2",
+                "name": "0.4.2",
+                "prerelease": false,
+                "release_date": "2014-04-26T09:37:08Z",
+                "tag_name": "0.4.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/fuzeman/Spotify2.bundle/zipball/0.4.1",
+                "name": "0.4.1",
+                "prerelease": false,
+                "release_date": "2014-04-26T09:36:46Z",
+                "tag_name": "0.4.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/fuzeman/Spotify2.bundle/zipball/0.4",
+                "name": "0.4",
+                "prerelease": false,
+                "release_date": "2014-04-24T15:56:58Z",
+                "tag_name": "0.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/fuzeman/Spotify2.bundle/zipball/0.3",
+                "name": "0.3",
+                "prerelease": false,
+                "release_date": "2014-04-19T02:55:00Z",
+                "tag_name": "0.3"
+            }
+        ],
+        "stargazers_count": 72
+    },
     "18277980": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/7110728?v=4",
