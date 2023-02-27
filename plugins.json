@@ -2588,6 +2588,106 @@
         ],
         "stargazers_count": 12
     },
+    "45328858": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/15528156?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-01-26T01:04:30Z",
+                "commit_sha": "22c78ebcca64aad6fe5fd2eda249d68c2e99096e",
+                "download_url": "https://github.com/Nosinden/Chaturbate.bundle/archive/refs/heads/dev_old.zip",
+                "name": "dev_old"
+            },
+            {
+                "commit_date": "2017-05-29T20:55:59Z",
+                "commit_sha": "b58a4fb19ba38d63398f202497389b190bde2a11",
+                "download_url": "https://github.com/Nosinden/Chaturbate.bundle/archive/refs/heads/dev.zip",
+                "name": "dev"
+            },
+            {
+                "commit_date": "2017-01-26T01:24:20Z",
+                "commit_sha": "a138fd4dfe15abf1f7d4d7d75175e2096cd9d603",
+                "download_url": "https://github.com/Nosinden/Chaturbate.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Video Channel to watch content from https://chaturbate.com/",
+        "disabled": false,
+        "forks_count": 13,
+        "full_name": "Nosinden/Chaturbate.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/Nosinden/Chaturbate.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Chaturbate.bundle",
+        "open_issues_count": 2,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/Chaturbate.bundle/zipball/v1.0.4",
+                "name": "v1.0.4",
+                "prerelease": false,
+                "release_date": "2017-01-26T01:33:17Z",
+                "tag_name": "v1.0.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/Chaturbate.bundle/zipball/v1.0.3",
+                "name": "v1.0.3",
+                "prerelease": false,
+                "release_date": "2016-08-29T03:47:38Z",
+                "tag_name": "v1.0.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/Chaturbate.bundle/zipball/v1.0.2",
+                "name": "v1.0.2",
+                "prerelease": false,
+                "release_date": "2016-02-08T20:35:09Z",
+                "tag_name": "v1.0.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/Chaturbate.bundle/zipball/v1.0.1",
+                "name": "v1.0.1",
+                "prerelease": false,
+                "release_date": "2016-02-07T23:52:24Z",
+                "tag_name": "v1.0.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/Chaturbate.bundle/zipball/v1.0.0",
+                "name": "v1.0.0",
+                "prerelease": false,
+                "release_date": "2016-02-07T06:32:15Z",
+                "tag_name": "v1.0.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/Chaturbate.bundle/zipball/v0.02",
+                "name": "v0.02",
+                "prerelease": false,
+                "release_date": "2015-12-01T07:23:28Z",
+                "tag_name": "v0.02"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/Chaturbate.bundle/zipball/v0.01",
+                "name": "v0.01",
+                "prerelease": false,
+                "release_date": "2015-12-01T07:11:32Z",
+                "tag_name": "v0.01"
+            }
+        ],
+        "stargazers_count": 16
+    },
     "45886097": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/5242865?v=4",
