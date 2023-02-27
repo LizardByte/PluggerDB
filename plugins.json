@@ -1412,6 +1412,127 @@
         "releases": [],
         "stargazers_count": 6
     },
+    "23041368": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/6312063?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-04-12T16:28:16Z",
+                "commit_sha": "fb63eef991b322f5a803d1e54fb49832f1b759b1",
+                "download_url": "https://github.com/kolsys/VKontakte.bundle/archive/refs/heads/devel.zip",
+                "name": "devel"
+            },
+            {
+                "commit_date": "2017-07-05T22:05:38Z",
+                "commit_sha": "e725c6f9d3f65bd0f396d7010c4fae62627b50e4",
+                "download_url": "https://github.com/kolsys/VKontakte.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex VKontakte media plugin",
+        "disabled": false,
+        "forks_count": 4,
+        "full_name": "kolsys/VKontakte.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/kolsys/VKontakte.bundle",
+        "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "license_url": "https://api.github.com/licenses/bsd-3-clause",
+        "name": "VKontakte.bundle",
+        "open_issues_count": 2,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/VKontakte.bundle/zipball/v3.1",
+                "name": "VKontakte.bundle",
+                "prerelease": false,
+                "release_date": "2015-06-03T20:51:15Z",
+                "tag_name": "v3.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/VKontakte.bundle/zipball/v3.0",
+                "name": "VKontakte.bundle",
+                "prerelease": false,
+                "release_date": "2015-04-12T21:08:35Z",
+                "tag_name": "v3.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/VKontakte.bundle/zipball/v2.4",
+                "name": "VKontakte.bundle",
+                "prerelease": false,
+                "release_date": "2015-03-11T21:25:16Z",
+                "tag_name": "v2.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/VKontakte.bundle/zipball/v2.3",
+                "name": "VKontakte.bundle",
+                "prerelease": false,
+                "release_date": "2014-12-30T20:56:25Z",
+                "tag_name": "v2.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/VKontakte.bundle/zipball/v2.2",
+                "name": "VKontakte.bundle",
+                "prerelease": false,
+                "release_date": "2014-12-27T23:51:21Z",
+                "tag_name": "v2.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/VKontakte.bundle/zipball/v2.1",
+                "name": "VKontakte.bundle",
+                "prerelease": false,
+                "release_date": "2014-12-21T22:57:16Z",
+                "tag_name": "v2.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/VKontakte.bundle/zipball/v2.0",
+                "name": "VKontakte.bundle",
+                "prerelease": false,
+                "release_date": "2014-12-21T00:45:39Z",
+                "tag_name": "v2.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/VKontakte.bundle/zipball/v1.3",
+                "name": "VKontakte.bundle",
+                "prerelease": false,
+                "release_date": "2014-12-13T17:53:47Z",
+                "tag_name": "v1.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/VKontakte.bundle/zipball/v1.2",
+                "name": "VKontakte.bundle",
+                "prerelease": false,
+                "release_date": "2014-11-21T22:18:43Z",
+                "tag_name": "v1.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/VKontakte.bundle/zipball/v1.1",
+                "name": "VKontakte.bundle",
+                "prerelease": false,
+                "release_date": "2014-10-12T18:49:59Z",
+                "tag_name": "v1.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/VKontakte.bundle/zipball/v1.0",
+                "name": "VKontakte.bundle",
+                "prerelease": false,
+                "release_date": "2014-08-24T20:35:24Z",
+                "tag_name": "v1.0"
+            }
+        ],
+        "stargazers_count": 14
+    },
     "26585517": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/1116969?v=4",
