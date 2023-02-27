@@ -36,6 +36,43 @@
         "releases": [],
         "stargazers_count": 1
     },
+    "1354079": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/382996?v=4",
+        "branches": [
+            {
+                "commit_date": "2011-02-26T19:21:29Z",
+                "commit_sha": "9088972730ddff442994e3fa845b1cf295dddc5e",
+                "download_url": "https://github.com/dbl-a/ABC.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex app for ABC.com",
+        "disabled": false,
+        "forks_count": 39,
+        "full_name": "dbl-a/ABC.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/dbl-a/ABC.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "ABC.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 3
+    },
     "532707906": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
