@@ -6,6 +6,9 @@ on:
     branches: [master, nightly]
     types: [opened, synchronize, reopened]
 
+permissions:
+  repo: read
+
 jobs:
   pytest:
     runs-on: ubuntu-latest

@@ -49,14 +49,24 @@ def requests_loop(url: str,
                   allow_statuses: list = [requests.codes.ok]) -> requests.Response:
     count = 0
     while count <= max_tries:
+        print(f'Processing {url} ... (attempt {count + 1} of {max_tries})')
         try:
             response = method(url=url, headers=headers)
-            if response.status_code in allow_statuses:
-                return response
         except requests.exceptions.RequestException as e:
-            print(f'Error processing {url}: {e}')
+            print(f'Error processing {url} - {e}')
             time.sleep(2**count)
             count += 1
+        except Exception as e:
+            print(f'Error processing {url} - {e}')
+            time.sleep(2**count)
+            count += 1
+        else:
+            if response.status_code in allow_statuses:
+                return response
+            else:
+                print(f'Error processing {url} - {response.status_code}')
+                time.sleep(2**count)
+                count += 1
 
 
 def process_queue() -> None:
@@ -297,7 +307,7 @@ def check_github(data: dict) -> tuple:
     print(f'github_url: {url}')
 
     # extract GitHub user and repo from url using regex
-    match = re.search(pattern=r'github.com/([a-zA-Z0-9-]+)/([a-zA-Z0-9-]+)', string=url)
+    match = re.search(pattern=r'github\.com/([a-zA-Z0-9-]+)/(.*)/?.*', string=url)
     if match:
         owner = match.group(1)
         repo = match.group(2)
