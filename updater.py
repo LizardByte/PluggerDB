@@ -22,7 +22,7 @@ lock = threading.Lock()
 # GitHub headers
 github_headers = {
     'Accept': 'application/vnd.github+json',
-    'Authorization': f'Bearer {os.getenv("GH_TOKEN")}'
+    'Authorization': f'Bearer {os.getenv("PAT_TOKEN") if os.getenv("PAT_TOKEN") else os.getenv("GH_TOKEN")}'
 }
 
 plugin_file = os.path.join('database', 'plugins.json')
@@ -129,14 +129,17 @@ def process_github_url(owner: str, repo: str, categories: Optional[str] = None) 
                 open_pull_requests += 1
 
         # get gh-pages data, this will return a 404 if the repo doesn't have gh-pages
-        # GitHub token requires repo scope for this end point
-        response = requests_loop(url=f'{api_repo_url}/pages', headers=github_headers,
-                                 allow_statuses=[requests.codes.ok, 404])
-        if response.status_code == 404:
-            gh_pages_url = None
+        # GitHub token requires repo scope for this end point, so can't use this for PRs from forks :(
+        if os.getenv("PAT_TOKEN"):
+            response = requests_loop(url=f'{api_repo_url}/pages', headers=github_headers,
+                                     allow_statuses=[requests.codes.ok, 404])
+            if response.status_code == 404:
+                gh_pages_url = None
+            else:
+                gh_pages_data = response.json()
+                gh_pages_url = gh_pages_data['html_url']
         else:
-            gh_pages_data = response.json()
-            gh_pages_url = gh_pages_data['html_url']
+            gh_pages_url = None
 
         # get releases data
         releases_data = requests_loop(url=f'{api_repo_url}/releases', headers=github_headers).json()

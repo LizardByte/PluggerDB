@@ -6,9 +6,6 @@ on:
     branches: [master, nightly]
     types: [opened, synchronize, reopened]
 
-permissions:
-  repo: read
-
 jobs:
   pytest:
     runs-on: ubuntu-latest
@@ -29,5 +26,6 @@ jobs:
       - name: Test with pytest
         env:
           GH_TOKEN: ${{ github.token }}
+          PAT_TOKEN: ${{ secrets.GH_BOT_TOKEN }}
         run: |
           python -m pytest -v

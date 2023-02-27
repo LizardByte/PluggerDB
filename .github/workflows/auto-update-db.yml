@@ -74,7 +74,7 @@ jobs:
       - name: Update
         id: update
         env:
-          GH_TOKEN: ${{ secrets.GH_BOT_TOKEN }}
+          PAT_TOKEN: ${{ secrets.GH_BOT_TOKEN }}
           ISSUE_AUTHOR_USER_ID: ${{ steps.author.outputs.issue_author_id }}
         run: |
           python -u ./updater.py --issue_update
