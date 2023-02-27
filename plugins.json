@@ -3296,6 +3296,48 @@
         "releases": [],
         "stargazers_count": 20
     },
+    "59873762": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/13565327?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-06-22T00:29:08Z",
+                "commit_sha": "19380713dbaefbe9044170e76d41a3343230d495",
+                "download_url": "https://github.com/Twoure/UnSupportedServices.bundle/archive/refs/heads/dev.zip",
+                "name": "dev"
+            },
+            {
+                "commit_date": "2017-06-22T00:27:24Z",
+                "commit_sha": "a2d73c213f1ac6c878e94c0eebc4020d4dc6b9e5",
+                "download_url": "https://github.com/Twoure/UnSupportedServices.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Services"
+        ],
+        "default_branch": "master",
+        "description": "UnSupported Services.bundle for Plex Media Server (https://plex.tv)",
+        "disabled": false,
+        "forks_count": 4,
+        "full_name": "Twoure/UnSupportedServices.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/Twoure/UnSupportedServices.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "UnSupportedServices.bundle",
+        "open_issues_count": 3,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 18
+    },
     "604853981": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
