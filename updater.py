@@ -17,7 +17,7 @@ load_dotenv()
 
 # setup queue and lock
 queue = Queue()
-lock = threading.RLock()
+lock = threading.Lock()
 
 # GitHub headers
 github_headers = {
@@ -53,7 +53,8 @@ def requests_loop(url: str,
             response = method(url=url, headers=headers)
             if response.status_code in allow_statuses:
                 return response
-        except requests.exceptions.RequestException:
+        except requests.exceptions.RequestException as e:
+            print(f'Error processing {url}: {e}')
             time.sleep(2**count)
             count += 1
 
