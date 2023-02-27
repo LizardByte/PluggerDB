@@ -942,6 +942,43 @@
         "releases": [],
         "stargazers_count": 26
     },
+    "5851994": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/680830?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-05-08T07:56:48Z",
+                "commit_sha": "158201019037618946261b6f55272dcc18db57d4",
+                "download_url": "https://github.com/maikthulhu/GoogleMusic.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Music"
+        ],
+        "default_branch": "master",
+        "description": "Plex Google Music Plugin",
+        "disabled": false,
+        "forks_count": 48,
+        "full_name": "maikthulhu/GoogleMusic.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/maikthulhu/GoogleMusic.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "GoogleMusic.bundle",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 20
+    },
     "604853981": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
