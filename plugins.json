@@ -1,4 +1,41 @@
 {
+    "1157530": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/382996?v=4",
+        "branches": [
+            {
+                "commit_date": "2011-02-03T20:59:11Z",
+                "commit_sha": "82b7bcf568e27c82898cb1c330a563f86e7e0260",
+                "download_url": "https://github.com/dbl-a/NickJr.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Video Plug-in for NickJr.com",
+        "disabled": false,
+        "forks_count": 13,
+        "full_name": "dbl-a/NickJr.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/dbl-a/NickJr.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "NickJr.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 1
+    },
     "532707906": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
