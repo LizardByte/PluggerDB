@@ -73,6 +73,73 @@
         "releases": [],
         "stargazers_count": 11
     },
+    "1086937": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/277223?v=4",
+        "branches": [
+            {
+                "commit_date": "2012-09-08T07:47:41Z",
+                "commit_sha": "809682918b9242ff92c2866d636d85f746005f75",
+                "download_url": "https://github.com/mikedm139/SickBeard.bundle/archive/refs/heads/3rdParty.zip",
+                "name": "3rdParty"
+            },
+            {
+                "commit_date": "2012-04-07T19:38:40Z",
+                "commit_sha": "ee456e4f7c2cd55e30d9ef699b3c46d5073db5d3",
+                "download_url": "https://github.com/mikedm139/SickBeard.bundle/archive/refs/heads/API_upgrade.zip",
+                "name": "API_upgrade"
+            },
+            {
+                "commit_date": "2013-09-20T15:16:38Z",
+                "commit_sha": "8661fc346dec8a1248b3979a58266836eb881343",
+                "download_url": "https://github.com/mikedm139/SickBeard.bundle/archive/refs/heads/applications.zip",
+                "name": "applications"
+            },
+            {
+                "commit_date": "2012-04-18T00:08:10Z",
+                "commit_sha": "767635f0e9e411d722d765f90226878d2cfb0b34",
+                "download_url": "https://github.com/mikedm139/SickBeard.bundle/archive/refs/heads/dev.zip",
+                "name": "dev"
+            },
+            {
+                "commit_date": "2016-01-08T16:25:21Z",
+                "commit_sha": "ab3b97272a9a1dd3e1fe99e91edcf2dadd3394b1",
+                "download_url": "https://github.com/mikedm139/SickBeard.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2014-07-13T16:01:39Z",
+                "commit_sha": "587e10a695b0e46a5112786860911c30be174753",
+                "download_url": "https://github.com/mikedm139/SickBeard.bundle/archive/refs/heads/videos.zip",
+                "name": "videos"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "A plugin for Plex media center to view and control basic functions of SickBeard",
+        "disabled": false,
+        "forks_count": 19,
+        "full_name": "mikedm139/SickBeard.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/mikedm139/SickBeard.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "SickBeard.bundle",
+        "open_issues_count": 4,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 44
+    },
     "1157530": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/382996?v=4",
