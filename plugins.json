@@ -703,6 +703,49 @@
         ],
         "stargazers_count": 18
     },
+    "5823410": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/304352?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-01-24T08:39:05Z",
+                "commit_sha": "0007baf0ced7a5978e68e12a70f32d034b5a7116",
+                "download_url": "https://github.com/Shirk/EyeContact/archive/refs/heads/gh-pages.zip",
+                "name": "gh-pages"
+            },
+            {
+                "commit_date": "2012-12-10T20:08:07Z",
+                "commit_sha": "f0e7b19e138725cdada7ede73f17d1e8e6e8349b",
+                "download_url": "https://github.com/Shirk/EyeContact/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "EyeTV live3g access, EPG and recordings for PLEX Media Center",
+        "disabled": false,
+        "forks_count": 14,
+        "full_name": "Shirk/EyeContact",
+        "gh_pages_url": "http://shirk.github.io/EyeContact/",
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/Shirk/EyeContact",
+        "license": "GNU Lesser General Public License v2.1",
+        "license_url": "https://api.github.com/licenses/lgpl-2.1",
+        "name": "EyeContact",
+        "open_issues_count": 4,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 26
+    },
     "604853981": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
