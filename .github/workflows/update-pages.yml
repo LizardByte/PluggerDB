@@ -17,7 +17,7 @@ concurrency:
 
 jobs:
   update_database:
-    runs-on: windows-latest  # use windows because orca needs a display
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
@@ -36,13 +36,6 @@ jobs:
         shell: bash
         run: |
           echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
-
-          # get yesterday's date for tmdb download
-          MONTH=$(date +'%m')
-          DAY=$(date +'%d')
-          YEAR=$(date +'%Y')
-          YESTERDAY=$(($DAY-1))
-          echo "tmdb_date=${MONTH}_${YESTERDAY}_${YEAR}" >> $GITHUB_OUTPUT
 
       - name: Set up Python
         uses: actions/setup-python@v4
