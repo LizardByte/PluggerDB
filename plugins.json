@@ -1510,6 +1510,127 @@
         "releases": [],
         "stargazers_count": 15
     },
+    "44556319": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/577219?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-09-14T23:55:34Z",
+                "commit_sha": "bb718a76e80d8f4a24e2670332b42d710af9a757",
+                "download_url": "https://github.com/vanstinator/PlexWink.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2016-05-08T04:06:52Z",
+                "commit_sha": "882e950f6993e90d248c919649fbd37372a85acc",
+                "download_url": "https://github.com/vanstinator/PlexWink.bundle/archive/refs/heads/plexwink-next.zip",
+                "name": "plexwink-next"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "Control your Wink lights via Plex!",
+        "disabled": false,
+        "forks_count": 18,
+        "full_name": "vanstinator/PlexWink.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/vanstinator/PlexWink.bundle",
+        "license": "GNU General Public License v2.0",
+        "license_url": "https://api.github.com/licenses/gpl-2.0",
+        "name": "PlexWink.bundle",
+        "open_issues_count": 7,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/vanstinator/PlexWink.bundle/zipball/3.1.1",
+                "name": "PlexWink 3.1.1",
+                "prerelease": false,
+                "release_date": "2016-09-14T23:59:47Z",
+                "tag_name": "3.1.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/vanstinator/PlexWink.bundle/zipball/3.1.0",
+                "name": "PlexWink 3.1.0",
+                "prerelease": false,
+                "release_date": "2016-03-11T00:45:04Z",
+                "tag_name": "3.1.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/vanstinator/PlexWink.bundle/zipball/3.1.0b",
+                "name": "PlexWink 3.1.0beta",
+                "prerelease": true,
+                "release_date": "2016-03-08T02:06:29Z",
+                "tag_name": "3.1.0b"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/vanstinator/PlexWink.bundle/zipball/3.0.1",
+                "name": "PlexWink 3.0.1",
+                "prerelease": false,
+                "release_date": "2016-03-05T03:21:57Z",
+                "tag_name": "3.0.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/vanstinator/PlexWink.bundle/zipball/3.0.0",
+                "name": "PlexWink 3.0.0",
+                "prerelease": false,
+                "release_date": "2016-03-03T01:14:15Z",
+                "tag_name": "3.0.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/vanstinator/PlexWink.bundle/zipball/2.0.0",
+                "name": "PlexWink 2.0.0",
+                "prerelease": false,
+                "release_date": "2016-02-04T01:36:21Z",
+                "tag_name": "2.0.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/vanstinator/PlexWink.bundle/zipball/1.2.0",
+                "name": "PlexWink 1.2.0",
+                "prerelease": false,
+                "release_date": "2015-10-27T13:56:12Z",
+                "tag_name": "1.2.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/vanstinator/PlexWink.bundle/zipball/1.1.1",
+                "name": "PlexWink 1.1.1",
+                "prerelease": false,
+                "release_date": "2015-10-22T20:42:14Z",
+                "tag_name": "1.1.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/vanstinator/PlexWink.bundle/zipball/1.1.0",
+                "name": "PlexWink 1.1.0",
+                "prerelease": false,
+                "release_date": "2015-10-22T20:34:30Z",
+                "tag_name": "1.1.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/vanstinator/PlexWink.bundle/zipball/v1.0.1",
+                "name": "PlexWink v1.0.1",
+                "prerelease": false,
+                "release_date": "2015-10-19T22:02:32Z",
+                "tag_name": "v1.0.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/vanstinator/PlexWink.bundle/zipball/v1.0",
+                "name": "PlexWink v1.0",
+                "prerelease": false,
+                "release_date": "2015-10-19T21:50:26Z",
+                "tag_name": "v1.0"
+            }
+        ],
+        "stargazers_count": 12
+    },
     "45886097": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/5242865?v=4",
