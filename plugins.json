@@ -1053,6 +1053,50 @@
         ],
         "stargazers_count": 18
     },
+    "5451640": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/204129?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-06-21T12:03:28Z",
+                "commit_sha": "cad8e3c4072993540ebb5ecc51b4507ea7e08ef8",
+                "download_url": "https://github.com/eithe/NRKTV.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2013-11-24T16:11:31Z",
+                "commit_sha": "75b494d89dee14811b42fce13b3081fdd5b14c0d",
+                "download_url": "https://github.com/eithe/NRKTV.bundle/archive/refs/heads/podcasts.zip",
+                "name": "podcasts"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "TV",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex-tillegg for NRKs innhold p\u00e5 nett",
+        "disabled": false,
+        "forks_count": 12,
+        "full_name": "eithe/NRKTV.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "https://forums.plex.tv/discussion/47234/the-new-nrk-site/p1",
+        "html_url": "https://github.com/eithe/NRKTV.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "NRKTV.bundle",
+        "open_issues_count": 7,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 28
+    },
     "5823410": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/304352?v=4",
