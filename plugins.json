@@ -289,5 +289,42 @@
         "open_pull_requests_count": 7,
         "releases": [],
         "stargazers_count": 0
+    },
+    "923463": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/401134?v=4",
+        "branches": [
+            {
+                "commit_date": "2010-09-19T23:08:22Z",
+                "commit_sha": "da0a4e3ac656caf3f6752467d0d7449d91a68899",
+                "download_url": "https://github.com/HooliganHarls/adultswim.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex app for adultswim.com",
+        "disabled": false,
+        "forks_count": 6,
+        "full_name": "HooliganHarls/adultswim.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/HooliganHarls/adultswim.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "adultswim.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 3
     }
 }
