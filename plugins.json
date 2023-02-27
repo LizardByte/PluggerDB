@@ -954,5 +954,42 @@
         "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 2
+    },
+    "949461": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/57992?v=4",
+        "branches": [
+            {
+                "commit_date": "2010-10-07T18:27:05Z",
+                "commit_sha": "0861ab5bee327f4608c29c31bbe746c0979f1b8b",
+                "download_url": "https://github.com/samuellinde/NHL.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "NHL plugin for Plex.",
+        "disabled": false,
+        "forks_count": 7,
+        "full_name": "samuellinde/NHL.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/samuellinde/NHL.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "NHL.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 5
     }
 }
