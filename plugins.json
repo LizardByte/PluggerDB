@@ -919,6 +919,43 @@
         "releases": [],
         "stargazers_count": 5
     },
+    "29336226": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/202136?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-01-31T19:19:37Z",
+                "commit_sha": "8626d16fb286f27cf7b7efba36145e68fb3b5f3f",
+                "download_url": "https://github.com/NoMoreNicksLeft/Video-Games-Scanner/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Games",
+            "Scanner"
+        ],
+        "default_branch": "master",
+        "description": "Video Games Scanner for Plex",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "NoMoreNicksLeft/Video-Games-Scanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/NoMoreNicksLeft/Video-Games-Scanner",
+        "license": null,
+        "license_url": null,
+        "name": "Video-Games-Scanner",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 8
+    },
     "3148098": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/1319332?v=4",
