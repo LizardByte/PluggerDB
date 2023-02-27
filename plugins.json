@@ -121,6 +121,44 @@
         "releases": [],
         "stargazers_count": 3
     },
+    "3148098": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/1319332?v=4",
+        "branches": [
+            {
+                "commit_date": "2011-12-12T07:51:46Z",
+                "commit_sha": "c7fb72307e399c247d00e8c29f8f7147deaaa74b",
+                "download_url": "https://github.com/masse75/xHamster.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Video/Adult 18+ Plex-Plugin - Browse, search and watch videos from xHamster.com",
+        "disabled": false,
+        "forks_count": 23,
+        "full_name": "masse75/xHamster.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": true,
+        "homepage": "http://wiki.plexapp.com/index.php/XHamster",
+        "html_url": "https://github.com/masse75/xHamster.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "xHamster.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 5
+    },
     "532707906": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
