@@ -20,6 +20,7 @@ body:
       options:
         - Adult
         - Anime
+        - Channels
         - Games
         - Metadata Agent
         - Movies
@@ -28,6 +29,7 @@ body:
         - Photos
         - Podcasts
         - Radio
+        - Scanner
         - Subtitles
         - TV
         - Utility
