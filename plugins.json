@@ -1660,6 +1660,49 @@
         "releases": [],
         "stargazers_count": 9
     },
+    "6868377": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/434671?v=4",
+        "branches": [
+            {
+                "commit_date": "2013-12-17T16:53:02Z",
+                "commit_sha": "7b6643f339d6a63405da5f626dec7c8421c95a08",
+                "download_url": "https://github.com/ReallyFuzzy/IceFilms.bundle/archive/refs/heads/DEV_PRE_BUFFER.zip",
+                "name": "DEV_PRE_BUFFER"
+            },
+            {
+                "commit_date": "2015-01-30T14:04:09Z",
+                "commit_sha": "a985ed489b824e7322974a17f0a485c1c578415c",
+                "download_url": "https://github.com/ReallyFuzzy/IceFilms.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "IceFilms plugin for Plex",
+        "disabled": false,
+        "forks_count": 72,
+        "full_name": "ReallyFuzzy/IceFilms.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/ReallyFuzzy/IceFilms.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "IceFilms.bundle",
+        "open_issues_count": 4,
+        "open_pull_requests_count": 3,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 64
+    },
     "7257641": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/846408?v=4",
