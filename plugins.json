@@ -447,6 +447,43 @@
         "releases": [],
         "stargazers_count": 3
     },
+    "15353303": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/776060?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-01-03T06:55:39Z",
+                "commit_sha": "a3d0f64f260b4830bbacd3e796fd99fedcf758d7",
+                "download_url": "https://github.com/datvance/Big12Sports.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Channel for Big12Sports.com",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "datvance/Big12Sports.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/datvance/Big12Sports.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Big12Sports.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 2
+    },
     "15514185": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/676900?v=4",
