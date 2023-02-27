@@ -600,6 +600,43 @@
         "releases": [],
         "stargazers_count": 0
     },
+    "21045557": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/7937844?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-11-13T04:23:43Z",
+                "commit_sha": "8d518b400816aaa0b2b8006e6a1b59f4d7f06621",
+                "download_url": "https://github.com/simpletv/SimpleTV.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex Media Server channel plugin for Simple.TV DVR service",
+        "disabled": false,
+        "forks_count": 10,
+        "full_name": "simpletv/SimpleTV.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/simpletv/SimpleTV.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "SimpleTV.bundle",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 4
+    },
     "21631700": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/277223?v=4",
