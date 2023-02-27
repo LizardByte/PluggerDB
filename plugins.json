@@ -1837,6 +1837,197 @@
         "releases": [],
         "stargazers_count": 15
     },
+    "37121031": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/10291660?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-08-10T02:54:41Z",
+                "commit_sha": "f2770e61d7df4beccb461db1112de5a3cee19cd6",
+                "download_url": "https://github.com/coder-alpha/CcloudTv.bundle/archive/refs/heads/dev.zip",
+                "name": "dev"
+            },
+            {
+                "commit_date": "2017-05-25T00:34:28Z",
+                "commit_sha": "cb32263dbece482ae862576d301433378be42933",
+                "download_url": "https://github.com/coder-alpha/CcloudTv.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex Media Server plug-in designed for CcloudTv",
+        "disabled": false,
+        "forks_count": 31,
+        "full_name": "coder-alpha/CcloudTv.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/coder-alpha/CcloudTv.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "CcloudTv.bundle",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 2,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.21",
+                "name": "Ver. 0.21",
+                "prerelease": false,
+                "release_date": "2017-05-25T00:37:51Z",
+                "tag_name": "v0.21"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.20",
+                "name": "Ver. 0.20",
+                "prerelease": false,
+                "release_date": "2016-11-03T22:30:32Z",
+                "tag_name": "v0.20"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.19",
+                "name": "Ver. 0.19",
+                "prerelease": false,
+                "release_date": "2016-02-24T23:29:47Z",
+                "tag_name": "v0.19"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.18",
+                "name": "Ver. 0.18",
+                "prerelease": false,
+                "release_date": "2016-02-24T05:14:23Z",
+                "tag_name": "v0.18"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.17",
+                "name": "Ver. 0.17",
+                "prerelease": false,
+                "release_date": "2015-11-08T05:56:40Z",
+                "tag_name": "v0.17"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.16",
+                "name": "Ver. 0.16",
+                "prerelease": false,
+                "release_date": "2015-11-07T02:21:20Z",
+                "tag_name": "v0.16"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.15",
+                "name": "Ver. 0.15",
+                "prerelease": false,
+                "release_date": "2015-08-26T04:23:34Z",
+                "tag_name": "v0.15"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.14",
+                "name": "Ver. 0.14",
+                "prerelease": false,
+                "release_date": "2015-08-10T07:43:38Z",
+                "tag_name": "v0.14"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.13",
+                "name": "Ver. 0.13",
+                "prerelease": false,
+                "release_date": "2015-08-10T03:07:24Z",
+                "tag_name": "v0.13"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.12",
+                "name": "Ver. 0.12",
+                "prerelease": false,
+                "release_date": "2015-08-03T00:03:44Z",
+                "tag_name": "v0.12"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.11",
+                "name": "Ver. 0.11",
+                "prerelease": false,
+                "release_date": "2015-07-29T03:14:18Z",
+                "tag_name": "v0.11"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.10",
+                "name": "Ver. 0.10",
+                "prerelease": false,
+                "release_date": "2015-07-28T08:15:16Z",
+                "tag_name": "v0.10"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.09",
+                "name": "Ver. 0.09",
+                "prerelease": false,
+                "release_date": "2015-07-16T06:14:46Z",
+                "tag_name": "v0.09"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.08",
+                "name": "Ver. 0.08",
+                "prerelease": false,
+                "release_date": "2015-06-30T22:04:45Z",
+                "tag_name": "v0.08"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.07",
+                "name": "Ver. 0.07",
+                "prerelease": false,
+                "release_date": "2015-06-25T06:32:52Z",
+                "tag_name": "v0.07"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.06",
+                "name": "Ver. 0.06",
+                "prerelease": false,
+                "release_date": "2015-06-22T20:29:08Z",
+                "tag_name": "v0.06"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.05",
+                "name": "Ver. 0.05",
+                "prerelease": false,
+                "release_date": "2015-06-20T06:58:31Z",
+                "tag_name": "v0.05"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.04",
+                "name": "Ver. 0.04",
+                "prerelease": false,
+                "release_date": "2015-06-20T05:58:51Z",
+                "tag_name": "v0.04"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/0.03",
+                "name": "Ver. 0.03",
+                "prerelease": false,
+                "release_date": "2015-06-13T03:28:54Z",
+                "tag_name": "0.03"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.02",
+                "name": "Ver. 0.02",
+                "prerelease": false,
+                "release_date": "2015-06-10T09:47:45Z",
+                "tag_name": "v0.02"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.01",
+                "name": "Ver. 0.01",
+                "prerelease": false,
+                "release_date": "2015-06-10T00:24:38Z",
+                "tag_name": "v0.01"
+            }
+        ],
+        "stargazers_count": 70
+    },
     "37383326": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/12875510?v=4",
