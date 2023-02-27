@@ -22,7 +22,7 @@ lock = threading.Lock()
 # GitHub headers
 github_headers = {
     'Accept': 'application/vnd.github+json',
-    'Authorization': f'Bearer {os.getenv("GH_TOKEN")}'
+    'Authorization': f'Bearer {os.getenv("PAT_TOKEN") if os.getenv("PAT_TOKEN") else os.getenv("GH_TOKEN")}'
 }
 
 plugin_file = os.path.join('database', 'plugins.json')
@@ -49,14 +49,24 @@ def requests_loop(url: str,
                   allow_statuses: list = [requests.codes.ok]) -> requests.Response:
     count = 0
     while count <= max_tries:
+        print(f'Processing {url} ... (attempt {count + 1} of {max_tries})')
         try:
             response = method(url=url, headers=headers)
-            if response.status_code in allow_statuses:
-                return response
         except requests.exceptions.RequestException as e:
-            print(f'Error processing {url}: {e}')
+            print(f'Error processing {url} - {e}')
             time.sleep(2**count)
             count += 1
+        except Exception as e:
+            print(f'Error processing {url} - {e}')
+            time.sleep(2**count)
+            count += 1
+        else:
+            if response.status_code in allow_statuses:
+                return response
+            else:
+                print(f'Error processing {url} - {response.status_code}')
+                time.sleep(2**count)
+                count += 1
 
 
 def process_queue() -> None:
@@ -119,14 +129,17 @@ def process_github_url(owner: str, repo: str, categories: Optional[str] = None) 
                 open_pull_requests += 1
 
         # get gh-pages data, this will return a 404 if the repo doesn't have gh-pages
-        # GitHub token requires repo scope for this end point
-        response = requests_loop(url=f'{api_repo_url}/pages', headers=github_headers,
-                                 allow_statuses=[requests.codes.ok, 404])
-        if response.status_code == 404:
-            gh_pages_url = None
+        # GitHub token requires repo scope for this end point, so can't use this for PRs from forks :(
+        if os.getenv("PAT_TOKEN"):
+            response = requests_loop(url=f'{api_repo_url}/pages', headers=github_headers,
+                                     allow_statuses=[requests.codes.ok, 404])
+            if response.status_code == 404:
+                gh_pages_url = None
+            else:
+                gh_pages_data = response.json()
+                gh_pages_url = gh_pages_data['html_url']
         else:
-            gh_pages_data = response.json()
-            gh_pages_url = gh_pages_data['html_url']
+            gh_pages_url = None
 
         # get releases data
         releases_data = requests_loop(url=f'{api_repo_url}/releases', headers=github_headers).json()
@@ -297,7 +310,7 @@ def check_github(data: dict) -> tuple:
     print(f'github_url: {url}')
 
     # extract GitHub user and repo from url using regex
-    match = re.search(pattern=r'github.com/([a-zA-Z0-9-]+)/([a-zA-Z0-9-]+)', string=url)
+    match = re.search(pattern=r'github\.com/([a-zA-Z0-9-]+)/(.*)/?.*', string=url)
     if match:
         owner = match.group(1)
         repo = match.group(2)
