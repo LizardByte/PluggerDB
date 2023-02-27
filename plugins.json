@@ -1615,6 +1615,43 @@
         "releases": [],
         "stargazers_count": 9
     },
+    "27573357": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/10082615?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-12-31T02:34:11Z",
+                "commit_sha": "2c37af59cc3fd9995817994c78ceb2d554d0f798",
+                "download_url": "https://github.com/tivoguy/TiVoToGo.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "TiVo To Go Plex Server Channel",
+        "disabled": false,
+        "forks_count": 26,
+        "full_name": "tivoguy/TiVoToGo.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/tivoguy/TiVoToGo.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "TiVoToGo.bundle",
+        "open_issues_count": 10,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 38
+    },
     "28607437": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/9571774?v=4",
