@@ -1608,6 +1608,213 @@
         ],
         "stargazers_count": 14
     },
+    "23523590": {
+        "archived": true,
+        "avatar_url": "https://avatars.githubusercontent.com/u/453429?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-01-27T22:07:37Z",
+                "commit_sha": "2d5a00cbf0ce8023b45dd2d74267d930c3beff72",
+                "download_url": "https://github.com/piplongrun/TrailerAddict.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Services"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 10,
+        "full_name": "piplongrun/TrailerAddict.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/piplongrun/TrailerAddict.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "TrailerAddict.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v3.1",
+                "name": "v3.1",
+                "prerelease": false,
+                "release_date": "2018-05-21T23:01:59Z",
+                "tag_name": "v3.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v3.0",
+                "name": "v3.0",
+                "prerelease": false,
+                "release_date": "2018-02-21T15:01:14Z",
+                "tag_name": "v3.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.11",
+                "name": "v2.11",
+                "prerelease": false,
+                "release_date": "2018-01-29T21:34:32Z",
+                "tag_name": "v2.11"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.10",
+                "name": "v2.10",
+                "prerelease": false,
+                "release_date": "2017-11-21T17:02:08Z",
+                "tag_name": "v2.10"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.9",
+                "name": "v2.9",
+                "prerelease": false,
+                "release_date": "2017-11-17T16:30:48Z",
+                "tag_name": "v2.9"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.8",
+                "name": "v2.8",
+                "prerelease": false,
+                "release_date": "2017-11-14T01:15:19Z",
+                "tag_name": "v2.8"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.7",
+                "name": "v2.7",
+                "prerelease": false,
+                "release_date": "2017-11-06T08:32:26Z",
+                "tag_name": "v2.7"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.6",
+                "name": "v2.6",
+                "prerelease": false,
+                "release_date": "2017-10-24T12:10:12Z",
+                "tag_name": "v2.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.5",
+                "name": "v2.5",
+                "prerelease": false,
+                "release_date": "2017-10-18T00:12:53Z",
+                "tag_name": "v2.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.4",
+                "name": "v2.4",
+                "prerelease": false,
+                "release_date": "2017-10-15T22:17:18Z",
+                "tag_name": "v2.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.3",
+                "name": "v2.3",
+                "prerelease": false,
+                "release_date": "2017-10-15T20:06:30Z",
+                "tag_name": "v2.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.2",
+                "name": "v2.2",
+                "prerelease": false,
+                "release_date": "2017-09-13T22:27:16Z",
+                "tag_name": "v2.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.1",
+                "name": "v2.1",
+                "prerelease": false,
+                "release_date": "2017-07-30T13:15:20Z",
+                "tag_name": "v2.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.0",
+                "name": "v2.0",
+                "prerelease": false,
+                "release_date": "2017-05-04T21:21:17Z",
+                "tag_name": "v2.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v1.8",
+                "name": "v1.8",
+                "prerelease": false,
+                "release_date": "2017-02-25T03:39:29Z",
+                "tag_name": "v1.8"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v1.7.1",
+                "name": "v1.7.1",
+                "prerelease": false,
+                "release_date": "2017-02-22T20:27:30Z",
+                "tag_name": "v1.7.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v1.7",
+                "name": "v1.7",
+                "prerelease": false,
+                "release_date": "2017-02-10T18:45:52Z",
+                "tag_name": "v1.7"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v1.6",
+                "name": "v1.6",
+                "prerelease": false,
+                "release_date": "2017-02-08T22:58:35Z",
+                "tag_name": "v1.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v1.5",
+                "name": "v1.5",
+                "prerelease": false,
+                "release_date": "2017-02-08T19:20:19Z",
+                "tag_name": "v1.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v1.4",
+                "name": "v1.4",
+                "prerelease": false,
+                "release_date": "2017-01-28T11:52:24Z",
+                "tag_name": "v1.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v1.3",
+                "name": "v1.3",
+                "prerelease": false,
+                "release_date": "2017-01-28T00:41:55Z",
+                "tag_name": "v1.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v1.2",
+                "name": "v1.2",
+                "prerelease": false,
+                "release_date": "2017-01-23T21:20:32Z",
+                "tag_name": "v1.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v1.1",
+                "name": "v1.1: Language independent",
+                "prerelease": false,
+                "release_date": "2017-01-10T21:34:09Z",
+                "tag_name": "v1.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v1.0",
+                "name": "v1.0: Initial release",
+                "prerelease": false,
+                "release_date": "2017-01-09T15:02:50Z",
+                "tag_name": "v1.0"
+            }
+        ],
+        "stargazers_count": 44
+    },
     "23765019": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/6312063?v=4",
