@@ -5308,6 +5308,44 @@
         "releases": [],
         "stargazers_count": 7
     },
+    "81368083": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/3989440?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-04-26T20:56:16Z",
+                "commit_sha": "39cc10bd2f191ea0a99fcd09aef64a965525ef02",
+                "download_url": "https://github.com/daeks/Webhook-Agent.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Metadata webhook for PLEX contributors",
+        "disabled": false,
+        "forks_count": 4,
+        "full_name": "daeks/Webhook-Agent.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/daeks/Webhook-Agent.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Webhook-Agent.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 13
+    },
     "83896680": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/23746405?v=4",
