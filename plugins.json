@@ -2666,6 +2666,52 @@
         "releases": [],
         "stargazers_count": 8
     },
+    "39710142": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/13502952?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-09-05T23:33:11Z",
+                "commit_sha": "54585ff345af847234c35d6b376b49141a409608",
+                "download_url": "https://github.com/NotVinny/Motherless.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Motherless plugin for Plex",
+        "disabled": false,
+        "forks_count": 4,
+        "full_name": "NotVinny/Motherless.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/NotVinny/Motherless.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Motherless.bundle",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/NotVinny/Motherless.bundle/zipball/v1.0",
+                "name": "v1.0",
+                "prerelease": false,
+                "release_date": "2016-07-10T23:16:25Z",
+                "tag_name": "v1.0"
+            }
+        ],
+        "stargazers_count": 8
+    },
     "40106507": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/148284?v=4",
