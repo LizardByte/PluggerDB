@@ -3289,6 +3289,101 @@
         ],
         "stargazers_count": 96
     },
+    "4388180": {
+        "archived": true,
+        "avatar_url": "https://avatars.githubusercontent.com/u/453429?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-01-27T22:07:47Z",
+                "commit_sha": "7438b49079180bf41dbc5cfcfa2771fda1e3827b",
+                "download_url": "https://github.com/piplongrun/OpenMovieDatabase.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "OpenMovieDatabase Metadata Agent for Plex Media Server",
+        "disabled": false,
+        "forks_count": 20,
+        "full_name": "piplongrun/OpenMovieDatabase.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": "https://forums.plex.tv/discussion/21894/rel-open-movie-database/p1",
+        "html_url": "https://github.com/piplongrun/OpenMovieDatabase.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "OpenMovieDatabase.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/OpenMovieDatabase.bundle/zipball/v1.7",
+                "name": "v1.7",
+                "prerelease": false,
+                "release_date": "2018-08-13T14:52:18Z",
+                "tag_name": "v1.7"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/OpenMovieDatabase.bundle/zipball/v1.6",
+                "name": "v1.6",
+                "prerelease": false,
+                "release_date": "2018-06-27T02:24:19Z",
+                "tag_name": "v1.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/OpenMovieDatabase.bundle/zipball/v1.5",
+                "name": "v1.5",
+                "prerelease": false,
+                "release_date": "2018-06-22T18:05:01Z",
+                "tag_name": "v1.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/OpenMovieDatabase.bundle/zipball/v1.4",
+                "name": "v1.4",
+                "prerelease": false,
+                "release_date": "2018-01-03T22:07:16Z",
+                "tag_name": "v1.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/OpenMovieDatabase.bundle/zipball/v1.3",
+                "name": "v1.3",
+                "prerelease": false,
+                "release_date": "2017-10-24T13:21:13Z",
+                "tag_name": "v1.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/OpenMovieDatabase.bundle/zipball/v1.2",
+                "name": "v1.2",
+                "prerelease": false,
+                "release_date": "2017-09-06T16:42:53Z",
+                "tag_name": "v1.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/OpenMovieDatabase.bundle/zipball/v1.1",
+                "name": "v1.1",
+                "prerelease": false,
+                "release_date": "2017-08-02T23:38:33Z",
+                "tag_name": "v1.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/piplongrun/OpenMovieDatabase.bundle/zipball/v1.0",
+                "name": "v1.0",
+                "prerelease": false,
+                "release_date": "2017-05-25T20:09:37Z",
+                "tag_name": "v1.0"
+            }
+        ],
+        "stargazers_count": 86
+    },
     "44556319": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/577219?v=4",
