@@ -4283,6 +4283,61 @@
         ],
         "stargazers_count": 10
     },
+    "50203056": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/9146812?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-01-14T17:03:12Z",
+                "commit_sha": "14f74f0fcd704e7052ceb07f95503124d04eb5a9",
+                "download_url": "https://github.com/ngovil21/RequestChannel.bundle/archive/refs/heads/development.zip",
+                "name": "development"
+            },
+            {
+                "commit_date": "2018-11-11T14:45:09Z",
+                "commit_sha": "f1ba09413cff076d6e2a92b56290d0262632c2a5",
+                "download_url": "https://github.com/ngovil21/RequestChannel.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2018-03-03T19:42:58Z",
+                "commit_sha": "dd4121a4b7d13cce379f765df90410a013ad192c",
+                "download_url": "https://github.com/ngovil21/RequestChannel.bundle/archive/refs/heads/test.zip",
+                "name": "test"
+            },
+            {
+                "commit_date": "2017-07-09T23:59:03Z",
+                "commit_sha": "85ec40e5595d781c38747a57d3afbf5d84c220c2",
+                "download_url": "https://github.com/ngovil21/RequestChannel.bundle/archive/refs/heads/v1_rewrite.zip",
+                "name": "v1_rewrite"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "Request Channel - A Plex Channel to create requests",
+        "disabled": false,
+        "forks_count": 22,
+        "full_name": "ngovil21/RequestChannel.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/ngovil21/RequestChannel.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "RequestChannel.bundle",
+        "open_issues_count": 28,
+        "open_pull_requests_count": 2,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 157
+    },
     "52033222": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/678207?v=4",
