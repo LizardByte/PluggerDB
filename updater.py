@@ -150,10 +150,12 @@ def process_github_url(owner: str, repo: str, categories: Optional[str] = None) 
             bundle_url = None
             if release['assets']:
                 for asset in release['assets']:
+                    if asset['name'].lower().endswith('.zip'):
+                        bundle_url = asset['browser_download_url']
                     if asset['name'].lower().endswith('bundle.zip'):
                         bundle_url = asset['browser_download_url']
-                        break
-            if not bundle_url:
+                        break  # as good as it gets
+            if not bundle_url:  # did not find a zip asset so use the zipball url
                 bundle_url = release['zipball_url']
             releases.append(dict(
                 tag_name=release['tag_name'],
