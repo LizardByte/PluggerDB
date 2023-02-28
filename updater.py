@@ -181,71 +181,108 @@ def process_github_url(owner: str, repo: str, categories: Optional[str] = None) 
                 download_url=f'https://github.com/{owner}/{repo}/archive/refs/heads/{branch["name"]}.zip',
             ))
 
+        # find icon-default.png in repo and use that as the thumb icon
+        image_extensions = ['png', 'jpg', 'jpeg']
+        directory_list = ['Contents', 'Resources']
+        attribution_image_url = None
+        thumb_image_url = None
+        path = ''
+
+        loop = True  # loop while this is true
+        while loop:
+            next_loop = False
+            repo_contents = requests_loop(url=f'{api_repo_url}/contents{path}', headers=github_headers).json()
+            for item in repo_contents:
+                # directories
+                if item['type'] == 'dir' and (item['name'] in directory_list or item['name'].endswith('.bundle')):
+                    path = f'{path}/{item["name"]}'
+                    next_loop = True
+                    break  # break the for loop and continue the while loop
+                elif item['type'] == 'file' and item['name'].rsplit('.', 1)[-1] in image_extensions:
+                    file_name = item['name'].rsplit('.', 1)[0]
+                    if file_name == 'icon-default':
+                        thumb_image_url = item['download_url']
+                    elif file_name == 'attribution':
+                        attribution_image_url = item['download_url']
+            loop = next_loop
+
+        # get the original data, not available through APIs
+        non_github_data = dict()
+
+        try:
+            args
+        except NameError:
+            pass
+        else:
+            if args.daily_update:
+                # move these keys to non GitHub data dict as they don't exist in the GitHub API
+                for k in og_data[str(github_data['id'])]:
+                    if k not in github_data:
+                        non_github_data[k] = og_data[str(github_data['id'])][k]
+
+                categories = og_data[str(github_data['id'])]['categories']
+            elif args.issue_udpate:
+                # add the categories to the data
+                if categories:
+                    categories = categories.split(', ')
+                else:
+                    exception_writer(Exception('No categories selected'), site='GitHub')
+                    categories = ':bangbang: NONE :bangbang:'
+
         with lock:
+            # only GitHub data first, where keys match exactly
             og_data[str(github_data['id'])] = {
-                'name': github_data['name'],
-                'full_name': github_data['full_name'],
-                'description': github_data['description'],
-                'avatar_url': github_data['owner']['avatar_url'],
-                'html_url': github_data['html_url'],
-                'homepage': github_data['homepage'],
-                'stargazers_count': github_data['stargazers_count'],
-                'forks_count': github_data['forks_count'],
-                'open_issues_count': open_issues,
-                'open_pull_requests_count': open_pull_requests,
-                'has_issues': github_data['has_issues'],
-                'has_downloads': github_data['has_downloads'],
-                'has_wiki': github_data['has_wiki'],
-                'has_discussions': github_data['has_discussions'],
                 'archived': github_data['archived'],
-                'disabled': github_data['disabled'],
-                'license': None if not github_data['license'] else github_data['license']['name'],
-                'license_url': None if not github_data['license'] else github_data['license']['url'],
                 'default_branch': github_data['default_branch'],
-                'gh_pages_url': gh_pages_url,
-                'releases': releases,
-                'branches': branches,
+                'description': github_data['description'],
+                'disabled': github_data['disabled'],
+                'forks_count': github_data['forks_count'],
+                'full_name': github_data['full_name'],
+                'has_discussions': github_data['has_discussions'],
+                'has_downloads': github_data['has_downloads'],
+                'has_issues': github_data['has_issues'],
+                'has_wiki': github_data['has_wiki'],
+                'homepage': github_data['homepage'],
+                'html_url': github_data['html_url'],
+                'name': github_data['name'],
+                'stargazers_count': github_data['stargazers_count'],
             }
+
+            # combine the non-github data
+            og_data[str(github_data['id'])].update(non_github_data)
+
+            # then add data where keys don't match, or value adjusted manually
+            og_data[str(github_data['id'])]['attribution_image_url'] = attribution_image_url
+            og_data[str(github_data['id'])]['avatar_image_url'] = github_data['owner']['avatar_url']
+            og_data[str(github_data['id'])]['branches'] = branches
+            og_data[str(github_data['id'])]['categories'] = categories
+            og_data[str(github_data['id'])]['gh_pages_url'] = gh_pages_url
+            og_data[str(github_data['id'])]['license'] = None if not github_data['license'] else \
+                github_data['license']['name']
+            og_data[str(github_data['id'])]['license_url'] = None if not github_data['license'] else \
+                github_data['license']['url']
+            og_data[str(github_data['id'])]['open_issues_count'] = open_issues
+            og_data[str(github_data['id'])]['open_pull_requests_count'] = open_pull_requests
+            og_data[str(github_data['id'])]['releases'] = releases
+            og_data[str(github_data['id'])]['thumb_image_url'] = thumb_image_url
         try:
             args.issue_update
         except NameError:
             pass
         else:
             if args.issue_update:
-                # add the categories to the data
-                if categories:
-                    categories = categories.split(', ')
-                    og_data[str(github_data['id'])]['categories'] = categories
-                else:
-                    exception_writer(Exception('No categories selected'), site='GitHub')
-                    categories = ':bangbang: NONE :bangbang:'
-
                 # create the issue comment and title files
-                issue_comment = f"""
+                issue_comment = """
 | Property | Value |
 | --- | --- |
-| name | {github_data['name']} |
-| full_name | {github_data['full_name']} |
-| description | {github_data['description']} |
-| avatar_url | {github_data['owner']['avatar_url']} |
-| html_url | {github_data['html_url']} |
-| homepage | {github_data['homepage']} |
-| stargazers_count | {github_data['stargazers_count']} |
-| forks_count | {github_data['forks_count']} |
-| open_issues_count | {open_issues} |
-| open_pull_requests_count | {open_pull_requests} |
-| has_issues | {github_data['has_issues']} |
-| has_downloads | {github_data['has_downloads']} |
-| has_wiki | {github_data['has_wiki']} |
-| has_discussions | {github_data['has_discussions']} |
-| archived | {github_data['archived']} |
-| disabled | {github_data['disabled']} |
-| license | {None if not github_data['license'] else github_data['license']['name']} |
-| license_url | {None if not github_data['license'] else github_data['license']['url']} |
-| default_branch | {github_data['default_branch']} |
-| gh_pages_url | {gh_pages_url} |
-| categories | {categories} |
 """
+                # dynamically create the Markdown table
+                for data_key, value in og_data[str(github_data['id'])].items():
+                    if 'image_url' in data_key and value:
+                        issue_comment += f'| {data_key} | ![{data_key}]({value}) |\n'
+                    else:
+                        issue_comment += f'| {data_key} | {value} |\n'
+
                 with open("comment.md", "a") as comment_f:
                     comment_f.write(issue_comment)
 
