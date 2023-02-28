@@ -3181,6 +3181,43 @@
         "releases": [],
         "stargazers_count": 22
     },
+    "30866767": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/103894?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-07-22T08:03:57Z",
+                "commit_sha": "53efff7037614f0f873b185b6e3ef8e11d9d79da",
+                "download_url": "https://github.com/pgaubatz/TvplexendChannel.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "A Tvheadend Channel Plugin for PLEX Media Server",
+        "disabled": false,
+        "forks_count": 24,
+        "full_name": "pgaubatz/TvplexendChannel.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/pgaubatz/TvplexendChannel.bundle",
+        "license": "GNU General Public License v2.0",
+        "license_url": "https://api.github.com/licenses/gpl-2.0",
+        "name": "TvplexendChannel.bundle",
+        "open_issues_count": 13,
+        "open_pull_requests_count": 6,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 67
+    },
     "31164511": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/103894?v=4",
