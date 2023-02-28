@@ -3482,6 +3482,65 @@
         "releases": [],
         "stargazers_count": 15
     },
+    "41877680": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/14114638?v=4",
+        "branches": [
+            {
+                "commit_date": "2022-01-29T13:50:39Z",
+                "commit_sha": "74d442c311b32d7b778b9324dee4038e3137c974",
+                "download_url": "https://github.com/mmmmmtasty/SportScanner/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2015-10-02T15:14:24Z",
+                "commit_sha": "0629979bfb5ead7eea0cb52d30ee9d78e6b41f9c",
+                "download_url": "https://github.com/mmmmmtasty/SportScanner/archive/refs/heads/patch-1.zip",
+                "name": "patch-1"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Scanner and Metadata Agent for Plex that uses sportdb",
+        "disabled": false,
+        "forks_count": 28,
+        "full_name": "mmmmmtasty/SportScanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/mmmmmtasty/SportScanner",
+        "license": null,
+        "license_url": null,
+        "name": "SportScanner",
+        "open_issues_count": 5,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/mmmmmtasty/SportScanner/zipball/v0.2",
+                "name": "Official folder structure support",
+                "prerelease": false,
+                "release_date": "2016-04-03T18:51:56Z",
+                "tag_name": "v0.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/mmmmmtasty/SportScanner/zipball/v0.1",
+                "name": "Initial release",
+                "prerelease": false,
+                "release_date": "2015-09-12T13:14:00Z",
+                "tag_name": "v0.1"
+            }
+        ],
+        "stargazers_count": 78
+    },
     "43524912": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/13565327?v=4",
