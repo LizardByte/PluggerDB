@@ -2277,6 +2277,49 @@
         "releases": [],
         "stargazers_count": 22
     },
+    "31164511": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/103894?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-05-26T07:57:12Z",
+                "commit_sha": "b47240ec7624b4bfc482009d6d065d2452b1aec0",
+                "download_url": "https://github.com/pgaubatz/TvplexendAgent.bundle/archive/refs/heads/gh-pages.zip",
+                "name": "gh-pages"
+            },
+            {
+                "commit_date": "2015-06-13T15:28:29Z",
+                "commit_sha": "7f1a83379b8210f66d055ed7c37bd96b8aa87be0",
+                "download_url": "https://github.com/pgaubatz/TvplexendAgent.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "A Tvheadend Agent Plugin for PLEX Media Server",
+        "disabled": false,
+        "forks_count": 6,
+        "full_name": "pgaubatz/TvplexendAgent.bundle",
+        "gh_pages_url": "http://pgaubatz.github.io/TvplexendAgent.bundle/",
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/pgaubatz/TvplexendAgent.bundle",
+        "license": "GNU General Public License v2.0",
+        "license_url": "https://api.github.com/licenses/gpl-2.0",
+        "name": "TvplexendAgent.bundle",
+        "open_issues_count": 2,
+        "open_pull_requests_count": 2,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 15
+    },
     "3148098": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/1319332?v=4",
