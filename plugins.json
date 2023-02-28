@@ -10,10 +10,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "A channel plugin for Plex Media Server",
         "disabled": false,
@@ -31,8 +27,6 @@
         "name": "NetflixUK.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 19
     },
@@ -46,10 +40,6 @@
                 "download_url": "https://github.com/Joecowboy/MOVIE2K.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "Plex Media Server plug-in designed for Movie2k website",
@@ -68,8 +58,6 @@
         "name": "MOVIE2K.bundle",
         "open_issues_count": 1,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 11
     },
@@ -83,11 +71,6 @@
                 "download_url": "https://github.com/chidychi/Data18.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Adult",
-            "Metadata Agent",
-            "Movies"
         ],
         "default_branch": "master",
         "description": "Plex agent for scraping metadata from the Data18.com adult site.",
@@ -106,8 +89,6 @@
         "name": "Data18.bundle",
         "open_issues_count": 4,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 31
     },
@@ -152,10 +133,6 @@
                 "name": "videos"
             }
         ],
-        "categories": [
-            "Channels",
-            "Utility"
-        ],
         "default_branch": "master",
         "description": "A plugin for Plex media center to view and control basic functions of SickBeard",
         "disabled": false,
@@ -173,8 +150,6 @@
         "name": "SickBeard.bundle",
         "open_issues_count": 4,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 44
     },
@@ -188,11 +163,6 @@
                 "download_url": "https://github.com/chidychi/Data18-Content.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Adult",
-            "Metadata Agent",
-            "Movies"
         ],
         "default_branch": "master",
         "description": null,
@@ -211,8 +181,6 @@
         "name": "Data18-Content.bundle",
         "open_issues_count": 6,
         "open_pull_requests_count": 1,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 11
     },
@@ -233,10 +201,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "Utility"
-        ],
         "default_branch": "master",
         "description": "A plugin for Plex media center to view and control basic functions of CouchPotato",
         "disabled": false,
@@ -254,8 +218,6 @@
         "name": "CouchPotato.bundle",
         "open_issues_count": 1,
         "open_pull_requests_count": 1,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 28
     },
@@ -269,10 +231,6 @@
                 "download_url": "https://github.com/d8ahazard/Cast.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Utility"
         ],
         "default_branch": "master",
         "description": "A Plex Channel To Interact With Local Cast Devices, Via Plex Media Server",
@@ -291,8 +249,6 @@
         "name": "Cast.bundle",
         "open_issues_count": 1,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 59
     },
@@ -306,10 +262,6 @@
                 "download_url": "https://github.com/hojel/DaumMovie.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Metadata Agent",
-            "Movies"
         ],
         "default_branch": "master",
         "description": "Plex Metadata Agent for movie.daum.net",
@@ -328,8 +280,6 @@
         "name": "DaumMovie.bundle",
         "open_issues_count": 7,
         "open_pull_requests_count": 1,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 66
     },
@@ -343,10 +293,6 @@
                 "download_url": "https://github.com/dbl-a/NickJr.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "Plex Video Plug-in for NickJr.com",
@@ -365,8 +311,6 @@
         "name": "NickJr.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 1
     },
@@ -380,10 +324,6 @@
                 "download_url": "https://github.com/hojel/NaverMusic.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Metadata Agent",
-            "Music"
         ],
         "default_branch": "master",
         "description": "Plex Music Agent using metadata in Naver Music",
@@ -402,8 +342,6 @@
         "name": "NaverMusic.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 20
     },
@@ -417,10 +355,6 @@
                 "download_url": "https://github.com/jashk/Crunchyroll.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "Crunchyroll.bundle is a Plex Media Server plugin that provides access to the content available at Crunchyroll.com. ",
@@ -439,8 +373,6 @@
         "name": "Crunchyroll.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 3
     },
@@ -454,10 +386,6 @@
                 "download_url": "https://github.com/shopgirl284/RSSFeed.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "This is a Plex channel that produces videos and audio from RSS feeds with a Plex url service",
@@ -476,8 +404,6 @@
         "name": "RSSFeed.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 21
     },
@@ -491,10 +417,6 @@
                 "download_url": "https://github.com/LeonB/JupiterBroadcasting.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "Jupiter Broadcasting channel for Plex Media Server",
@@ -513,8 +435,6 @@
         "name": "JupiterBroadcasting.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 1,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 5
     },
@@ -528,10 +448,6 @@
                 "download_url": "https://github.com/psyciknz/NextPVR.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "Plex Channel for viewing NextPVR content",
@@ -550,8 +466,6 @@
         "name": "NextPVR.bundle",
         "open_issues_count": 5,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://github.com/psyciknz/NextPVR.bundle/releases/download/0.6/NextPVR.bundle.zip",
@@ -587,9 +501,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Utility"
-        ],
         "default_branch": "master",
         "description": "Plex plugin to find medias, that doesn't exists in the Plex database",
         "disabled": false,
@@ -607,8 +518,6 @@
         "name": "Plex-FindUnmatched.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 40
     },
@@ -622,10 +531,6 @@
                 "download_url": "https://github.com/cp9999/MusicPlaylist.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Music"
         ],
         "default_branch": "master",
         "description": "Music playlist plugin for Plex Media Server",
@@ -644,8 +549,6 @@
         "name": "MusicPlaylist.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 13
     },
@@ -659,10 +562,6 @@
                 "download_url": "https://github.com/dbl-a/Nickelodeon.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "Plex plugin to watch videos from nick.com",
@@ -681,8 +580,6 @@
         "name": "Nickelodeon.bundle",
         "open_issues_count": 2,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 6
     },
@@ -696,10 +593,6 @@
                 "download_url": "https://github.com/Cigaras/IPTV.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "Plex plug-in that plays live streams (like IPTV) from a M3U playlist",
@@ -718,130 +611,128 @@
         "name": "IPTV.bundle",
         "open_issues_count": 30,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
-                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.1.9",
+                "bundle_url": "https://github.com/Cigaras/IPTV.bundle/releases/download/v2.1.9/IPTV.bundle-2.1.9.zip",
                 "name": "v2.1.9",
                 "prerelease": false,
                 "release_date": "2018-05-23T08:42:27Z",
                 "tag_name": "v2.1.9"
             },
             {
-                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.1.8",
+                "bundle_url": "https://github.com/Cigaras/IPTV.bundle/releases/download/v2.1.8/IPTV.bundle-2.1.8.zip",
                 "name": "v2.1.8",
                 "prerelease": false,
                 "release_date": "2018-04-06T11:43:54Z",
                 "tag_name": "v2.1.8"
             },
             {
-                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.1.7",
+                "bundle_url": "https://github.com/Cigaras/IPTV.bundle/releases/download/v2.1.7/IPTV.bundle-2.1.7.zip",
                 "name": "v2.1.7",
                 "prerelease": false,
                 "release_date": "2017-12-27T10:01:25Z",
                 "tag_name": "v2.1.7"
             },
             {
-                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.1.6",
+                "bundle_url": "https://github.com/Cigaras/IPTV.bundle/releases/download/v2.1.6/IPTV.bundle-2.1.6.zip",
                 "name": "v2.1.6",
                 "prerelease": false,
                 "release_date": "2017-09-04T10:10:07Z",
                 "tag_name": "v2.1.6"
             },
             {
-                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.1.5",
+                "bundle_url": "https://github.com/Cigaras/IPTV.bundle/releases/download/v2.1.5/IPTV.bundle-2.1.5.zip",
                 "name": "v2.1.5",
                 "prerelease": false,
                 "release_date": "2017-06-26T05:55:36Z",
                 "tag_name": "v2.1.5"
             },
             {
-                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.1.4",
+                "bundle_url": "https://github.com/Cigaras/IPTV.bundle/releases/download/v2.1.4/IPTV.bundle-2.1.4.zip",
                 "name": "v2.1.4",
                 "prerelease": false,
                 "release_date": "2017-06-14T10:16:21Z",
                 "tag_name": "v2.1.4"
             },
             {
-                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.1.3",
+                "bundle_url": "https://github.com/Cigaras/IPTV.bundle/releases/download/v2.1.3/IPTV.bundle-2.1.3.zip",
                 "name": "v2.1.3",
                 "prerelease": false,
                 "release_date": "2017-05-23T05:34:37Z",
                 "tag_name": "v2.1.3"
             },
             {
-                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.1.0",
+                "bundle_url": "https://github.com/Cigaras/IPTV.bundle/releases/download/v2.1.0/IPTV.bundle-v2.1.0.zip",
                 "name": "v2.1.0",
                 "prerelease": false,
                 "release_date": "2017-04-18T13:07:36Z",
                 "tag_name": "v2.1.0"
             },
             {
-                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.0.5",
+                "bundle_url": "https://github.com/Cigaras/IPTV.bundle/releases/download/v2.0.5/IPTV.bundle-2.0.5.zip",
                 "name": "v2.0.5",
                 "prerelease": false,
                 "release_date": "2017-03-17T11:40:29Z",
                 "tag_name": "v2.0.5"
             },
             {
-                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.0.3",
+                "bundle_url": "https://github.com/Cigaras/IPTV.bundle/releases/download/v2.0.3/IPTV.bundle-2.0.3.zip",
                 "name": "v2.0.3",
                 "prerelease": false,
                 "release_date": "2017-03-07T07:25:57Z",
                 "tag_name": "v2.0.3"
             },
             {
-                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.0.0",
+                "bundle_url": "https://github.com/Cigaras/IPTV.bundle/releases/download/v2.0.0/IPTV.bundle-2.0.1.zip",
                 "name": "v2.0.0",
                 "prerelease": false,
                 "release_date": "2017-02-26T10:58:30Z",
                 "tag_name": "v2.0.0"
             },
             {
-                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v1.2.10",
+                "bundle_url": "https://github.com/Cigaras/IPTV.bundle/releases/download/v1.2.10/IPTV.bundle-1.2.10.zip",
                 "name": "v1.2.10",
                 "prerelease": false,
                 "release_date": "2017-02-06T08:48:37Z",
                 "tag_name": "v1.2.10"
             },
             {
-                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v1.2.9",
+                "bundle_url": "https://github.com/Cigaras/IPTV.bundle/releases/download/v1.2.9/IPTV.bundle-1.2.9.zip",
                 "name": "v1.2.9",
                 "prerelease": false,
                 "release_date": "2016-12-22T13:39:30Z",
                 "tag_name": "v1.2.9"
             },
             {
-                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v1.2.8",
+                "bundle_url": "https://github.com/Cigaras/IPTV.bundle/releases/download/v1.2.8/IPTV.bundle-1.2.8.zip",
                 "name": "v1.2.8",
                 "prerelease": false,
                 "release_date": "2016-12-16T06:47:01Z",
                 "tag_name": "v1.2.8"
             },
             {
-                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v1.2.6",
+                "bundle_url": "https://github.com/Cigaras/IPTV.bundle/releases/download/v1.2.6/IPTV.bundle-1.2.6.zip",
                 "name": "v1.2.6",
                 "prerelease": false,
                 "release_date": "2016-11-11T12:51:03Z",
                 "tag_name": "v1.2.6"
             },
             {
-                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v1.2.5",
+                "bundle_url": "https://github.com/Cigaras/IPTV.bundle/releases/download/v1.2.5/IPTV.bundle-1.2.5.zip",
                 "name": "v1.2.5",
                 "prerelease": false,
                 "release_date": "2016-11-09T14:32:22Z",
                 "tag_name": "v1.2.5"
             },
             {
-                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v1.2.2",
+                "bundle_url": "https://github.com/Cigaras/IPTV.bundle/releases/download/v1.2.2/IPTV.bundle-1.2.2.zip",
                 "name": "v1.2.2",
                 "prerelease": false,
                 "release_date": "2016-05-16T07:39:48Z",
                 "tag_name": "v1.2.2"
             },
             {
-                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v1.0.11",
+                "bundle_url": "https://github.com/Cigaras/IPTV.bundle/releases/download/v1.0.11/IPTV.bundle-1.0.11.zip",
                 "name": "v1.0.11",
                 "prerelease": false,
                 "release_date": "2016-03-21T07:17:53Z",
@@ -861,10 +752,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "Plex app for ABC.com",
         "disabled": false,
@@ -882,8 +769,6 @@
         "name": "ABC.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 3
     },
@@ -910,10 +795,6 @@
                 "name": "remoteparsers"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "Plex plug-in that plays live streams using acestream engine",
         "disabled": false,
@@ -931,8 +812,6 @@
         "name": "ACE.bundle",
         "open_issues_count": 5,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 17
     },
@@ -946,10 +825,6 @@
                 "download_url": "https://github.com/tschaumburg/MythRecordings.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "Plex bundle allowing Plex to play back MythTV recordings",
@@ -968,8 +843,6 @@
         "name": "MythRecordings.bundle",
         "open_issues_count": 13,
         "open_pull_requests_count": 1,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/tschaumburg/MythRecordings.bundle/zipball/0.5beta",
@@ -1020,10 +893,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "TV-Headend Next Generation Plex Plugin",
         "disabled": false,
@@ -1041,8 +910,6 @@
         "name": "tvheadend-ng.bundle",
         "open_issues_count": 13,
         "open_pull_requests_count": 1,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 84
     },
@@ -1056,11 +923,6 @@
                 "download_url": "https://github.com/PhoenixPlexCode/Data18-Phoenix.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Adult",
-            "Metadata Agent",
-            "Movies"
         ],
         "default_branch": "master",
         "description": "MetaData Agent for Plex to Grab Data18 Full Length Releases",
@@ -1079,8 +941,6 @@
         "name": "Data18-Phoenix.bundle",
         "open_issues_count": 3,
         "open_pull_requests_count": 1,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 15
     },
@@ -1107,9 +967,6 @@
                 "name": "superpea-master"
             }
         ],
-        "categories": [
-            "Metadata Agent"
-        ],
         "default_branch": "master",
         "description": "Metadata Agent for Plex Media Server that downloads subtitles from Undertexter.se",
         "disabled": false,
@@ -1127,8 +984,6 @@
         "name": "Undertexter.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 3
     },
@@ -1142,10 +997,6 @@
                 "download_url": "https://github.com/d8ahazard/FlexTV.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Utility"
         ],
         "default_branch": "master",
         "description": "Cast media, fetch stats...do more with less. :D",
@@ -1164,8 +1015,6 @@
         "name": "FlexTV.bundle",
         "open_issues_count": 5,
         "open_pull_requests_count": 1,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 48
     },
@@ -1179,10 +1028,6 @@
                 "download_url": "https://github.com/datvance/Big12Sports.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "Plex Channel for Big12Sports.com",
@@ -1201,8 +1046,6 @@
         "name": "Big12Sports.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 2
     },
@@ -1216,10 +1059,6 @@
                 "download_url": "https://github.com/forouher/VDR.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Metadata Agent",
-            "Scanner"
         ],
         "default_branch": "master",
         "description": "VDR plugin for Plex",
@@ -1238,8 +1077,6 @@
         "name": "VDR.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 3
     },
@@ -1260,9 +1097,6 @@
                 "name": "srazer-work"
             }
         ],
-        "categories": [
-            "Utility"
-        ],
         "default_branch": "master",
         "description": "Find and list missing files in Plex.",
         "disabled": false,
@@ -1280,8 +1114,6 @@
         "name": "FindMissing.bundle",
         "open_issues_count": 5,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 22
     },
@@ -1295,10 +1127,6 @@
                 "download_url": "https://github.com/sharkone/BitTorrent.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Utility"
         ],
         "default_branch": "master",
         "description": "BitTorrent channel for Plex Media Server",
@@ -1317,8 +1145,6 @@
         "name": "BitTorrent.bundle",
         "open_issues_count": 30,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/sharkone/BitTorrent.bundle/zipball/1.1.3",
@@ -1544,10 +1370,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "Dropbox browser for Plex",
         "disabled": false,
@@ -1565,8 +1387,6 @@
         "name": "Dropbox.bundle",
         "open_issues_count": 1,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 15
     },
@@ -1580,9 +1400,6 @@
                 "download_url": "https://github.com/mikedm139/LibraryUpdater.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Utility"
         ],
         "default_branch": "master",
         "description": null,
@@ -1601,8 +1418,6 @@
         "name": "LibraryUpdater.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 18
     },
@@ -1665,10 +1480,6 @@
                 "name": "websocket"
             }
         ],
-        "categories": [
-            "Channels",
-            "Music"
-        ],
         "default_branch": "master",
         "description": "Spotify music streaming for Plex (all platforms)",
         "disabled": false,
@@ -1686,8 +1497,6 @@
         "name": "Spotify2.bundle",
         "open_issues_count": 29,
         "open_pull_requests_count": 1,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/fuzeman/Spotify2.bundle/zipball/0.5.8",
@@ -1815,9 +1624,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Utility"
-        ],
         "default_branch": "master",
         "description": "Export Plex Library to a CSV file",
         "disabled": false,
@@ -1835,11 +1641,9 @@
         "name": "plex2csv.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
-                "bundle_url": "https://api.github.com/repos/ukdtom/plex2csv.bundle/zipball/V0.0.4.19",
+                "bundle_url": "https://github.com/ukdtom/plex2csv.bundle/releases/download/V0.0.4.19/plex2csv.bundle-master.zip",
                 "name": "V0.0.4.19",
                 "prerelease": false,
                 "release_date": "2016-10-05T19:33:30Z",
@@ -1865,10 +1669,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Subtitles",
-            "Utility"
-        ],
         "default_branch": "master",
         "description": null,
         "disabled": false,
@@ -1886,8 +1686,6 @@
         "name": "PlexTools.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 0
     },
@@ -1901,10 +1699,6 @@
                 "download_url": "https://github.com/simpletv/SimpleTV.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "TV"
         ],
         "default_branch": "master",
         "description": "Plex Media Server channel plugin for Simple.TV DVR service",
@@ -1923,8 +1717,6 @@
         "name": "SimpleTV.bundle",
         "open_issues_count": 1,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 4
     },
@@ -1938,9 +1730,6 @@
                 "download_url": "https://github.com/mikedm139/Lock.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Utility"
         ],
         "default_branch": "master",
         "description": "Parental Controls for Plex Media server",
@@ -1959,8 +1748,6 @@
         "name": "Lock.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 5
     },
@@ -1974,10 +1761,6 @@
                 "download_url": "https://github.com/dkplex/drdk.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "Plex chanel for www.dr.dk",
@@ -1996,8 +1779,6 @@
         "name": "drdk.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 1,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 2
     },
@@ -2011,10 +1792,6 @@
                 "download_url": "https://github.com/mattpwalsh/TiVo.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": null,
@@ -2033,8 +1810,6 @@
         "name": "TiVo.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 1
     },
@@ -2055,10 +1830,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "Utility"
-        ],
         "default_branch": "master",
         "description": "A Sonarr channel plugin for the Plex Media Server.",
         "disabled": false,
@@ -2076,8 +1847,6 @@
         "name": "Sonarr.bundle",
         "open_issues_count": 11,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/jamorin/Sonarr.bundle/zipball/1.0.2",
@@ -2141,10 +1910,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "Plex channel for content from G2G.fm",
         "disabled": false,
@@ -2162,8 +1927,6 @@
         "name": "G2Gfm.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 0
     },
@@ -2196,10 +1959,6 @@
                 "name": "upcoming-streams"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "Plex plugin for HD Streaming",
         "disabled": false,
@@ -2217,8 +1976,6 @@
         "name": "HDStreaming.bundle",
         "open_issues_count": 1,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 6
     },
@@ -2239,10 +1996,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "Plex VKontakte media plugin",
         "disabled": false,
@@ -2260,8 +2013,6 @@
         "name": "VKontakte.bundle",
         "open_issues_count": 2,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/kolsys/VKontakte.bundle/zipball/v3.1",
@@ -2354,11 +2105,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Metadata Agent",
-            "Movies",
-            "Services"
-        ],
         "default_branch": "master",
         "description": null,
         "disabled": false,
@@ -2376,144 +2122,142 @@
         "name": "TrailerAddict.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v3.1",
+                "bundle_url": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v3.1/TrailerAddict.zip",
                 "name": "v3.1",
                 "prerelease": false,
                 "release_date": "2018-05-21T23:01:59Z",
                 "tag_name": "v3.1"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v3.0",
+                "bundle_url": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v3.0/TrailerAddict.zip",
                 "name": "v3.0",
                 "prerelease": false,
                 "release_date": "2018-02-21T15:01:14Z",
                 "tag_name": "v3.0"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.11",
+                "bundle_url": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v2.11/TrailerAddict.zip",
                 "name": "v2.11",
                 "prerelease": false,
                 "release_date": "2018-01-29T21:34:32Z",
                 "tag_name": "v2.11"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.10",
+                "bundle_url": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v2.10/TrailerAddict.zip",
                 "name": "v2.10",
                 "prerelease": false,
                 "release_date": "2017-11-21T17:02:08Z",
                 "tag_name": "v2.10"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.9",
+                "bundle_url": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v2.9/TrailerAddict.zip",
                 "name": "v2.9",
                 "prerelease": false,
                 "release_date": "2017-11-17T16:30:48Z",
                 "tag_name": "v2.9"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.8",
+                "bundle_url": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v2.8/TrailerAddict.zip",
                 "name": "v2.8",
                 "prerelease": false,
                 "release_date": "2017-11-14T01:15:19Z",
                 "tag_name": "v2.8"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.7",
+                "bundle_url": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v2.7/TrailerAddict.zip",
                 "name": "v2.7",
                 "prerelease": false,
                 "release_date": "2017-11-06T08:32:26Z",
                 "tag_name": "v2.7"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.6",
+                "bundle_url": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v2.6/TrailerAddict.zip",
                 "name": "v2.6",
                 "prerelease": false,
                 "release_date": "2017-10-24T12:10:12Z",
                 "tag_name": "v2.6"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.5",
+                "bundle_url": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v2.5/TrailerAddict.zip",
                 "name": "v2.5",
                 "prerelease": false,
                 "release_date": "2017-10-18T00:12:53Z",
                 "tag_name": "v2.5"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.4",
+                "bundle_url": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v2.4/TrailerAddict.zip",
                 "name": "v2.4",
                 "prerelease": false,
                 "release_date": "2017-10-15T22:17:18Z",
                 "tag_name": "v2.4"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.3",
+                "bundle_url": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v2.3/TrailerAddict.zip",
                 "name": "v2.3",
                 "prerelease": false,
                 "release_date": "2017-10-15T20:06:30Z",
                 "tag_name": "v2.3"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.2",
+                "bundle_url": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v2.2/TrailerAddict.zip",
                 "name": "v2.2",
                 "prerelease": false,
                 "release_date": "2017-09-13T22:27:16Z",
                 "tag_name": "v2.2"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.1",
+                "bundle_url": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v2.1/TrailerAddict.zip",
                 "name": "v2.1",
                 "prerelease": false,
                 "release_date": "2017-07-30T13:15:20Z",
                 "tag_name": "v2.1"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.0",
+                "bundle_url": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v2.0/TrailerAddict.zip",
                 "name": "v2.0",
                 "prerelease": false,
                 "release_date": "2017-05-04T21:21:17Z",
                 "tag_name": "v2.0"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v1.8",
+                "bundle_url": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v1.8/TrailerAddict.zip",
                 "name": "v1.8",
                 "prerelease": false,
                 "release_date": "2017-02-25T03:39:29Z",
                 "tag_name": "v1.8"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v1.7.1",
+                "bundle_url": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v1.7.1/TrailerAddict.zip",
                 "name": "v1.7.1",
                 "prerelease": false,
                 "release_date": "2017-02-22T20:27:30Z",
                 "tag_name": "v1.7.1"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v1.7",
+                "bundle_url": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v1.7/TrailerAddict.zip",
                 "name": "v1.7",
                 "prerelease": false,
                 "release_date": "2017-02-10T18:45:52Z",
                 "tag_name": "v1.7"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v1.6",
+                "bundle_url": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v1.6/TrailerAddict.zip",
                 "name": "v1.6",
                 "prerelease": false,
                 "release_date": "2017-02-08T22:58:35Z",
                 "tag_name": "v1.6"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v1.5",
+                "bundle_url": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v1.5/TrailerAddict.zip",
                 "name": "v1.5",
                 "prerelease": false,
                 "release_date": "2017-02-08T19:20:19Z",
                 "tag_name": "v1.5"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v1.4",
+                "bundle_url": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v1.4/TrailerAddict.zip",
                 "name": "v1.4",
                 "prerelease": false,
                 "release_date": "2017-01-28T11:52:24Z",
@@ -2567,12 +2311,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "Movies",
-            "TV",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "Plex HDSerials video plugin",
         "disabled": false,
@@ -2590,8 +2328,6 @@
         "name": "HDSerials.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/kolsys/HDSerials.bundle/zipball/v1.27",
@@ -2817,10 +2553,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "TV"
-        ],
         "default_branch": "master",
         "description": "Pluzz (French TV replay) Plex channel",
         "disabled": false,
@@ -2838,8 +2570,6 @@
         "name": "Pluzz.bundle",
         "open_issues_count": 2,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/lotooo/Pluzz.bundle/zipball/1.0",
@@ -2862,10 +2592,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Adult",
-            "Metadata Agent"
-        ],
         "default_branch": "master",
         "description": "Plex media server metadata agent",
         "disabled": false,
@@ -2883,8 +2609,6 @@
         "name": "ExcaliburFilms.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 9
     },
@@ -2898,10 +2622,6 @@
                 "download_url": "https://github.com/tivoguy/TiVoToGo.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "TiVo To Go Plex Server Channel",
@@ -2920,8 +2640,6 @@
         "name": "TiVoToGo.bundle",
         "open_issues_count": 10,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 38
     },
@@ -2935,10 +2653,6 @@
                 "download_url": "https://github.com/salphonso/wmc2plex.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "Live TV in plex via ServerWMC",
@@ -2957,8 +2671,6 @@
         "name": "wmc2plex.bundle",
         "open_issues_count": 7,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/salphonso/wmc2plex.bundle/zipball/0.11.4",
@@ -3037,10 +2749,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "Plex plugin for http://media.ccc.de/",
         "disabled": false,
@@ -3058,8 +2766,6 @@
         "name": "MediaCCC.bundle",
         "open_issues_count": 2,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 15
     },
@@ -3073,10 +2779,6 @@
                 "download_url": "https://github.com/zynine-/HDHRViewer.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "HDHomeRun Plug-In for Plex. Please use HDHRViewerV2.",
@@ -3095,8 +2797,6 @@
         "name": "HDHRViewer.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/zynine-/HDHRViewer.bundle/zipball/v0.5.1",
@@ -3119,10 +2819,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Metadata Agent",
-            "Games"
-        ],
         "default_branch": "master",
         "description": "TheGamesDB Metadata Agent for Plex",
         "disabled": false,
@@ -3140,8 +2836,6 @@
         "name": "TheGamesDB.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 5
     },
@@ -3155,10 +2849,6 @@
                 "download_url": "https://github.com/NoMoreNicksLeft/Video-Games-Scanner/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Games",
-            "Scanner"
         ],
         "default_branch": "master",
         "description": "Video Games Scanner for Plex",
@@ -3177,8 +2867,6 @@
         "name": "Video-Games-Scanner",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 8
     },
@@ -3192,10 +2880,6 @@
                 "download_url": "https://github.com/tomfin46/IFDB.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Metadata Agent",
-            "Movies"
         ],
         "default_branch": "master",
         "description": "Plex metadata agent for the Internet Fanedit Database",
@@ -3214,8 +2898,6 @@
         "name": "IFDB.bundle",
         "open_issues_count": 4,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 22
     },
@@ -3229,10 +2911,6 @@
                 "download_url": "https://github.com/pgaubatz/TvplexendChannel.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "A Tvheadend Channel Plugin for PLEX Media Server",
@@ -3251,8 +2929,6 @@
         "name": "TvplexendChannel.bundle",
         "open_issues_count": 13,
         "open_pull_requests_count": 6,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 67
     },
@@ -3273,10 +2949,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Metadata Agent",
-            "Movies"
-        ],
         "default_branch": "master",
         "description": "A Tvheadend Agent Plugin for PLEX Media Server",
         "disabled": false,
@@ -3294,8 +2966,6 @@
         "name": "TvplexendAgent.bundle",
         "open_issues_count": 2,
         "open_pull_requests_count": 2,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 15
     },
@@ -3309,11 +2979,6 @@
                 "download_url": "https://github.com/masse75/xHamster.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Adult",
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "Video/Adult 18+ Plex-Plugin - Browse, search and watch videos from xHamster.com",
@@ -3332,8 +2997,6 @@
         "name": "xHamster.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 5
     },
@@ -3347,10 +3010,6 @@
                 "download_url": "https://github.com/adamrumbold/SBS.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "SBS on demand plugin for Plex Media Server",
@@ -3369,8 +3028,6 @@
         "name": "SBS.bundle",
         "open_issues_count": 2,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 5
     },
@@ -3391,10 +3048,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "channel PEAR plugin for Plex",
         "disabled": false,
@@ -3412,8 +3065,6 @@
         "name": "channelpear.bundle",
         "open_issues_count": 3,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 9
     },
@@ -3434,10 +3085,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Anime",
-            "Metadata Agent"
-        ],
         "default_branch": "master",
         "description": "Metadata agent for Plex media center that can fetch content from AniDB.net",
         "disabled": false,
@@ -3455,8 +3102,6 @@
         "name": "AniDB.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 15
     },
@@ -3477,10 +3122,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "TV"
-        ],
         "default_branch": "master",
         "description": "Plex Media Server plug-in designed for CcloudTv",
         "disabled": false,
@@ -3498,8 +3139,6 @@
         "name": "CcloudTv.bundle",
         "open_issues_count": 1,
         "open_pull_requests_count": 2,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.21",
@@ -3662,10 +3301,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "Superchillin plugin for Plex Media Server",
         "disabled": false,
@@ -3683,8 +3318,6 @@
         "name": "Superchillin.bundle",
         "open_issues_count": 3,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 8
     },
@@ -3698,11 +3331,6 @@
                 "download_url": "https://github.com/NotVinny/Motherless.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Adult",
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "Motherless plugin for Plex",
@@ -3721,8 +3349,6 @@
         "name": "Motherless.bundle",
         "open_issues_count": 1,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/NotVinny/Motherless.bundle/zipball/v1.0",
@@ -3745,10 +3371,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Metadata Agent",
-            "Movies"
-        ],
         "default_branch": "master",
         "description": "A Plex Metadata Agent for Douban",
         "disabled": false,
@@ -3766,8 +3388,6 @@
         "name": "Douban.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 1
     },
@@ -3781,9 +3401,6 @@
                 "download_url": "https://github.com/CatmanIX/UnSupportedAppstore.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Utility"
         ],
         "default_branch": "master",
         "description": "OBSOLETE: Plex WebTools includes UASv2 -->",
@@ -3802,8 +3419,6 @@
         "name": "UnSupportedAppstore.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 15
     },
@@ -3824,11 +3439,6 @@
                 "name": "patch-1"
             }
         ],
-        "categories": [
-            "Metadata Agent",
-            "Scanner",
-            "TV"
-        ],
         "default_branch": "master",
         "description": "Scanner and Metadata Agent for Plex that uses sportdb",
         "disabled": false,
@@ -3846,8 +3456,6 @@
         "name": "SportScanner",
         "open_issues_count": 5,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/mmmmmtasty/SportScanner/zipball/v0.2",
@@ -3883,10 +3491,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "Plex Channel to view Anime, Asian Drama, Cartoons, Manga & Comics from KissAnime, KissAsian, KissCartoon, KissManga & ReadComicOnline",
         "disabled": false,
@@ -3904,8 +3508,6 @@
         "name": "KissNetwork.bundle",
         "open_issues_count": 19,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/Twoure/KissNetwork.bundle/zipball/v1.2.9",
@@ -4131,11 +3733,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Metadata Agent",
-            "Movies",
-            "TV"
-        ],
         "default_branch": "master",
         "description": "OpenMovieDatabase Metadata Agent for Plex Media Server",
         "disabled": false,
@@ -4153,60 +3750,58 @@
         "name": "OpenMovieDatabase.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/OpenMovieDatabase.bundle/zipball/v1.7",
+                "bundle_url": "https://github.com/piplongrun/OpenMovieDatabase.bundle/releases/download/v1.7/OpenMovieDatabase.zip",
                 "name": "v1.7",
                 "prerelease": false,
                 "release_date": "2018-08-13T14:52:18Z",
                 "tag_name": "v1.7"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/OpenMovieDatabase.bundle/zipball/v1.6",
+                "bundle_url": "https://github.com/piplongrun/OpenMovieDatabase.bundle/releases/download/v1.6/OpenMovieDatabase.zip",
                 "name": "v1.6",
                 "prerelease": false,
                 "release_date": "2018-06-27T02:24:19Z",
                 "tag_name": "v1.6"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/OpenMovieDatabase.bundle/zipball/v1.5",
+                "bundle_url": "https://github.com/piplongrun/OpenMovieDatabase.bundle/releases/download/v1.5/OpenMovieDatabase.zip",
                 "name": "v1.5",
                 "prerelease": false,
                 "release_date": "2018-06-22T18:05:01Z",
                 "tag_name": "v1.5"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/OpenMovieDatabase.bundle/zipball/v1.4",
+                "bundle_url": "https://github.com/piplongrun/OpenMovieDatabase.bundle/releases/download/v1.4/OpenMovieDatabase.zip",
                 "name": "v1.4",
                 "prerelease": false,
                 "release_date": "2018-01-03T22:07:16Z",
                 "tag_name": "v1.4"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/OpenMovieDatabase.bundle/zipball/v1.3",
+                "bundle_url": "https://github.com/piplongrun/OpenMovieDatabase.bundle/releases/download/v1.3/OpenMovieDatabase.zip",
                 "name": "v1.3",
                 "prerelease": false,
                 "release_date": "2017-10-24T13:21:13Z",
                 "tag_name": "v1.3"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/OpenMovieDatabase.bundle/zipball/v1.2",
+                "bundle_url": "https://github.com/piplongrun/OpenMovieDatabase.bundle/releases/download/v1.2/OpenMovieDatabase.zip",
                 "name": "v1.2",
                 "prerelease": false,
                 "release_date": "2017-09-06T16:42:53Z",
                 "tag_name": "v1.2"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/OpenMovieDatabase.bundle/zipball/v1.1",
+                "bundle_url": "https://github.com/piplongrun/OpenMovieDatabase.bundle/releases/download/v1.1/OpenMovieDatabase.zip",
                 "name": "v1.1",
                 "prerelease": false,
                 "release_date": "2017-08-02T23:38:33Z",
                 "tag_name": "v1.1"
             },
             {
-                "bundle_url": "https://api.github.com/repos/piplongrun/OpenMovieDatabase.bundle/zipball/v1.0",
+                "bundle_url": "https://github.com/piplongrun/OpenMovieDatabase.bundle/releases/download/v1.0/OpenMovieDatabase.zip",
                 "name": "v1.0",
                 "prerelease": false,
                 "release_date": "2017-05-25T20:09:37Z",
@@ -4232,10 +3827,6 @@
                 "name": "plexwink-next"
             }
         ],
-        "categories": [
-            "Channels",
-            "Utility"
-        ],
         "default_branch": "master",
         "description": "Control your Wink lights via Plex!",
         "disabled": false,
@@ -4253,8 +3844,6 @@
         "name": "PlexWink.bundle",
         "open_issues_count": 7,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/vanstinator/PlexWink.bundle/zipball/3.1.1",
@@ -4359,11 +3948,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Adult",
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "Plex Video Channel to watch content from https://chaturbate.com/",
         "disabled": false,
@@ -4381,8 +3965,6 @@
         "name": "Chaturbate.bundle",
         "open_issues_count": 2,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/Nosinden/Chaturbate.bundle/zipball/v1.0.4",
@@ -4453,10 +4035,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Metadata Agent",
-            "TV"
-        ],
         "default_branch": "master",
         "description": "modified version of PlexThemeMusic.bundle for use with TheTVDBdvdorder",
         "disabled": false,
@@ -4474,8 +4052,6 @@
         "name": "PlexThemeMusic.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 6
     },
@@ -4496,11 +4072,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Adult",
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "Plex Video Channel to watch content from http://spankbang.com/",
         "disabled": false,
@@ -4518,8 +4089,6 @@
         "name": "SpankBang.bundle",
         "open_issues_count": 2,
         "open_pull_requests_count": 1,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/Nosinden/SpankBang.bundle/zipball/v1.1.0",
@@ -4637,10 +4206,6 @@
                 "name": "v1_rewrite"
             }
         ],
-        "categories": [
-            "Channels",
-            "Utility"
-        ],
         "default_branch": "master",
         "description": "Request Channel - A Plex Channel to create requests",
         "disabled": false,
@@ -4658,8 +4223,6 @@
         "name": "RequestChannel.bundle",
         "open_issues_count": 28,
         "open_pull_requests_count": 2,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 157
     },
@@ -4673,10 +4236,6 @@
                 "download_url": "https://github.com/coryo/ComicReader.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Photos"
         ],
         "default_branch": "master",
         "description": "Plex Media Server channel for comic archives.",
@@ -4695,8 +4254,6 @@
         "name": "ComicReader.bundle",
         "open_issues_count": 13,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/coryo/ComicReader.bundle/zipball/v1.3.5",
@@ -5000,11 +4557,6 @@
                 "name": "podcasts"
             }
         ],
-        "categories": [
-            "Channels",
-            "TV",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "Plex-tillegg for NRKs innhold p\u00e5 nett",
         "disabled": false,
@@ -5022,8 +4574,6 @@
         "name": "NRKTV.bundle",
         "open_issues_count": 7,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 28
     },
@@ -5044,10 +4594,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "EyeTV live3g access, EPG and recordings for PLEX Media Center",
         "disabled": false,
@@ -5065,8 +4611,6 @@
         "name": "EyeContact",
         "open_issues_count": 4,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 26
     },
@@ -5080,10 +4624,6 @@
                 "download_url": "https://github.com/maikthulhu/GoogleMusic.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Music"
         ],
         "default_branch": "master",
         "description": "Plex Google Music Plugin",
@@ -5102,8 +4642,6 @@
         "name": "GoogleMusic.bundle",
         "open_issues_count": 1,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 20
     },
@@ -5124,9 +4662,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Services"
-        ],
         "default_branch": "master",
         "description": "UnSupported Services.bundle for Plex Media Server (https://plex.tv)",
         "disabled": false,
@@ -5144,8 +4679,6 @@
         "name": "UnSupportedServices.bundle",
         "open_issues_count": 3,
         "open_pull_requests_count": 1,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 18
     },
@@ -5245,10 +4778,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "Watch videos made popular on Reddit through Plex.  ",
         "disabled": false,
@@ -5266,8 +4795,6 @@
         "name": "RedditVideos.bundle",
         "open_issues_count": 11,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 9
     },
@@ -5300,10 +4827,6 @@
                 "name": "tests"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "stable",
         "description": "Imagine if all the media scattered around the internet could be found in one collection.",
         "disabled": false,
@@ -5321,8 +4844,6 @@
         "name": "ss-plex.bundle",
         "open_issues_count": 30,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 135
     },
@@ -5343,10 +4864,6 @@
                 "name": "test"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "A Plex plug-in that interfaces with HDHomeRun tuners and DVRs",
         "disabled": false,
@@ -5364,8 +4881,6 @@
         "name": "HDGrandSlam.bundle",
         "open_issues_count": 13,
         "open_pull_requests_count": 1,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/1.6.4",
@@ -5563,10 +5078,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "Music"
-        ],
         "default_branch": "master",
         "description": "Plex channel plugin for Google Play Music",
         "disabled": false,
@@ -5584,8 +5095,6 @@
         "name": "GoogleMusic.bundle",
         "open_issues_count": 3,
         "open_pull_requests_count": 1,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 18
     },
@@ -5599,10 +5108,6 @@
                 "download_url": "https://github.com/moxz/vlc.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "VLC Plugin for Plex",
@@ -5621,8 +5126,6 @@
         "name": "vlc.bundle",
         "open_issues_count": 2,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 9
     },
@@ -5649,10 +5152,6 @@
                 "name": "zynine-autodiscover-option"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "HDHomeRun + Plex",
         "disabled": false,
@@ -5670,8 +5169,6 @@
         "name": "HDHRViewerV2.bundle",
         "open_issues_count": 18,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/zynine-/HDHRViewerV2.bundle/zipball/1.1.3",
@@ -5833,10 +5330,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "IceFilms plugin for Plex",
         "disabled": false,
@@ -5854,8 +5347,6 @@
         "name": "IceFilms.bundle",
         "open_issues_count": 4,
         "open_pull_requests_count": 3,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 64
     },
@@ -5869,10 +5360,6 @@
                 "download_url": "https://github.com/snoshoesledska/plexpod.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Music"
         ],
         "default_branch": "master",
         "description": null,
@@ -5891,8 +5378,6 @@
         "name": "plexpod.bundle",
         "open_issues_count": 1,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 7
     },
@@ -5913,9 +5398,6 @@
                 "name": "sebastian"
             }
         ],
-        "categories": [
-            "Utility"
-        ],
         "default_branch": "master",
         "description": "Plex Media Flags",
         "disabled": false,
@@ -5933,8 +5415,6 @@
         "name": "Media-Flags.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 0
     },
@@ -5948,11 +5428,6 @@
                 "download_url": "https://github.com/brandonm/HBO.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Movies",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "HBO GO Channel for Plex Media Center",
@@ -5971,8 +5446,6 @@
         "name": "HBO.bundle",
         "open_issues_count": 3,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 16
     },
@@ -5993,11 +5466,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Anime",
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "Plex Video Channel to watch Anime from 9anime",
         "disabled": false,
@@ -6015,8 +5483,6 @@
         "name": "9anime.bundle",
         "open_issues_count": 6,
         "open_pull_requests_count": 2,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/Twoure/9anime.bundle/zipball/v1.0.1",
@@ -6058,10 +5524,6 @@
                 "name": "tvheadend.bundle.v.0.2"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "HTS-TVHeadend channel for Plex Media Server",
         "disabled": false,
@@ -6079,8 +5541,6 @@
         "name": "tvheadend.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 10
     },
@@ -6101,10 +5561,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "Plex Media Server plug-in designed for FMovies, G2G, Primewire and more.",
         "disabled": false,
@@ -6122,8 +5578,6 @@
         "name": "FMoviesPlus.bundle",
         "open_issues_count": 4,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.85",
@@ -6349,10 +5803,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Metadata Agent",
-            "Movies"
-        ],
         "default_branch": "master",
         "description": "Chapter Creation based on EDL files for PLEX",
         "disabled": false,
@@ -6370,8 +5820,6 @@
         "name": "Chapter-Agent.bundle",
         "open_issues_count": 1,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 7
     },
@@ -6385,11 +5833,6 @@
                 "download_url": "https://github.com/daeks/Webhook-Agent.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Metadata Agent",
-            "Movies",
-            "TV"
         ],
         "default_branch": "master",
         "description": "Metadata webhook for PLEX contributors",
@@ -6408,8 +5851,6 @@
         "name": "Webhook-Agent.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 13
     },
@@ -6423,10 +5864,6 @@
                 "download_url": "https://github.com/JayTheHatWearer/MultiPLEX.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": null,
@@ -6445,8 +5882,6 @@
         "name": "MultiPLEX.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 8
     },
@@ -6460,10 +5895,6 @@
                 "download_url": "https://github.com/cerk/Lifetime.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "Lifetime channel plugin for Plex (mylifetime.com).",
@@ -6482,8 +5913,6 @@
         "name": "Lifetime.bundle",
         "open_issues_count": 1,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 5
     },
@@ -6497,11 +5926,6 @@
                 "download_url": "https://github.com/bagotx/4tube.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Adult",
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "Plex Channel Plugin for 4tube",
@@ -6520,8 +5944,6 @@
         "name": "4tube.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 3
     },
@@ -6542,10 +5964,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "Live TV streaming with Plex and Tvheadend",
         "disabled": false,
@@ -6563,8 +5981,6 @@
         "name": "LiveTVH.bundle",
         "open_issues_count": 12,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://github.com/taligentx/LiveTVH.bundle/releases/download/v1.4/LiveTVH.bundle.zip",
@@ -6608,10 +6024,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Metadata Agent",
-            "Movies"
-        ],
         "default_branch": "master",
         "description": "A Douban site agent plugin for Plex ",
         "disabled": false,
@@ -6629,8 +6041,6 @@
         "name": "Douban-Movie-Agent.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 15
     },
@@ -6644,10 +6054,6 @@
                 "download_url": "https://github.com/logaritmisk/Put.io.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "Put.io plugin for Plex",
@@ -6666,8 +6072,6 @@
         "name": "Put.io.bundle",
         "open_issues_count": 1,
         "open_pull_requests_count": 1,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 17
     },
@@ -6681,10 +6085,6 @@
                 "download_url": "https://github.com/HooliganHarls/thecw.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "Plex app for cwtv.com",
@@ -6703,8 +6103,6 @@
         "name": "thecw.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 1
     },
@@ -6718,10 +6116,6 @@
                 "download_url": "https://github.com/HooliganHarls/adultswim.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "Plex app for adultswim.com",
@@ -6740,8 +6134,6 @@
         "name": "adultswim.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 3
     },
@@ -6755,10 +6147,6 @@
                 "download_url": "https://github.com/HooliganHarls/Fox.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "Plex app for Fox.com",
@@ -6777,8 +6165,6 @@
         "name": "Fox.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 2
     },
@@ -6792,11 +6178,6 @@
                 "download_url": "https://github.com/joshuaavalon/AvalonXmlAgent.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Metadata Agent",
-            "Movies",
-            "TV"
         ],
         "default_branch": "master",
         "description": "XML file agent for Plex",
@@ -6815,8 +6196,6 @@
         "name": "AvalonXmlAgent.bundle",
         "open_issues_count": 2,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [
             {
                 "bundle_url": "https://api.github.com/repos/joshuaavalon/AvalonXmlAgent.bundle/zipball/1.2.1",
@@ -6873,10 +6252,6 @@
                 "name": "master"
             }
         ],
-        "categories": [
-            "Channels",
-            "Videos"
-        ],
         "default_branch": "master",
         "description": "Navi-X for Plex",
         "disabled": false,
@@ -6894,8 +6269,6 @@
         "name": "navix.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 2
     },
@@ -6909,10 +6282,6 @@
                 "download_url": "https://github.com/samuellinde/NHL.bundle/archive/refs/heads/master.zip",
                 "name": "master"
             }
-        ],
-        "categories": [
-            "Channels",
-            "Videos"
         ],
         "default_branch": "master",
         "description": "NHL plugin for Plex.",
@@ -6931,8 +6300,6 @@
         "name": "NHL.bundle",
         "open_issues_count": 0,
         "open_pull_requests_count": 0,
-        "plugin_added_by": "42013603",
-        "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 5
     }
