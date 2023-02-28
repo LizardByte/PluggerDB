@@ -686,6 +686,55 @@
         "releases": [],
         "stargazers_count": 3
     },
+    "137607528": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/54575?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-11-01T15:35:21Z",
+                "commit_sha": "aad1c4daad19d0b41f15ee34860a07a8b76d8ea1",
+                "download_url": "https://github.com/syco/ACE.bundle/archive/refs/heads/devel.zip",
+                "name": "devel"
+            },
+            {
+                "commit_date": "2019-07-29T13:21:42Z",
+                "commit_sha": "33a6d020905d2f109ba6f1dc92d26dc1db989cdb",
+                "download_url": "https://github.com/syco/ACE.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2018-08-18T19:30:35Z",
+                "commit_sha": "3589b629acb0d49e4c2844b08a636d11aa956bee",
+                "download_url": "https://github.com/syco/ACE.bundle/archive/refs/heads/remoteparsers.zip",
+                "name": "remoteparsers"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex plug-in that plays live streams using acestream engine",
+        "disabled": false,
+        "forks_count": 8,
+        "full_name": "syco/ACE.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/syco/ACE.bundle",
+        "license": "GNU General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/gpl-3.0",
+        "name": "ACE.bundle",
+        "open_issues_count": 5,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 17
+    },
     "14254798": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/5894957?v=4",
