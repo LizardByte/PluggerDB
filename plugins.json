@@ -2643,6 +2643,94 @@
         "releases": [],
         "stargazers_count": 38
     },
+    "28475989": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/10223913?v=4",
+        "branches": [
+            {
+                "commit_date": "2022-12-07T06:57:57Z",
+                "commit_sha": "69951e1e5e543a0e014baff694a4abb284027b58",
+                "download_url": "https://github.com/Fribb/MyAnimeList.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "default_branch": "master",
+        "description": "Plex Media Server Metadata Agent for MyAnimeList.net",
+        "disabled": false,
+        "forks_count": 15,
+        "full_name": "Fribb/MyAnimeList.bundle",
+        "gh_pages_url": null,
+        "has_discussions": true,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/Fribb/MyAnimeList.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "MyAnimeList.bundle",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "releases": [
+            {
+                "bundle_url": "https://github.com/Fribb/MyAnimeList.bundle/releases/download/v7.4.0/MyAnimeList-v7.4.0.zip",
+                "name": "Release v7.4.0",
+                "prerelease": false,
+                "release_date": "2022-12-07T07:07:53Z",
+                "tag_name": "v7.4.0"
+            },
+            {
+                "bundle_url": "https://github.com/Fribb/MyAnimeList.bundle/releases/download/v7.3.2/MyAnimeList-v7.3.2.zip",
+                "name": "Release v7.3.2",
+                "prerelease": false,
+                "release_date": "2022-11-19T09:29:02Z",
+                "tag_name": "v7.3.2"
+            },
+            {
+                "bundle_url": "https://github.com/Fribb/MyAnimeList.bundle/releases/download/v7.3.1/MyAnimeList-v7.3.1.zip",
+                "name": "Release v7.3.1",
+                "prerelease": false,
+                "release_date": "2022-09-15T05:35:07Z",
+                "tag_name": "v7.3.1"
+            },
+            {
+                "bundle_url": "https://github.com/Fribb/MyAnimeList.bundle/releases/download/v7.3.0/MyAnimeList-v7.3.0.zip",
+                "name": "Release v7.3.0",
+                "prerelease": false,
+                "release_date": "2022-09-14T04:54:39Z",
+                "tag_name": "v7.3.0"
+            },
+            {
+                "bundle_url": "https://github.com/Fribb/MyAnimeList.bundle/releases/download/v7.2.1/MyAnimeList-v7.2.1.zip",
+                "name": "Release v7.2.1",
+                "prerelease": false,
+                "release_date": "2022-06-02T07:18:09Z",
+                "tag_name": "v7.2.1"
+            },
+            {
+                "bundle_url": "https://github.com/Fribb/MyAnimeList.bundle/releases/download/v7.2.0/MyAnimeList-v7.2.0.zip",
+                "name": "Release v7.2.0",
+                "prerelease": false,
+                "release_date": "2022-05-21T11:51:22Z",
+                "tag_name": "v7.2.0"
+            },
+            {
+                "bundle_url": "https://github.com/Fribb/MyAnimeList.bundle/releases/download/v7.1.0/MyAnimeList-v7.1.0.zip",
+                "name": "Release v7.1.0",
+                "prerelease": false,
+                "release_date": "2022-04-12T14:30:49Z",
+                "tag_name": "v7.1.0"
+            },
+            {
+                "bundle_url": "https://github.com/Fribb/MyAnimeList.bundle/releases/download/v7.0.3/MyAnimeList-v7.0.3.zip",
+                "name": "Release v7.0.3",
+                "prerelease": false,
+                "release_date": "2022-01-28T15:14:48Z",
+                "tag_name": "v7.0.3"
+            }
+        ],
+        "stargazers_count": 122
+    },
     "28607437": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/9571774?v=4",
