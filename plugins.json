@@ -5397,6 +5397,260 @@
         "releases": [],
         "stargazers_count": 10
     },
+    "79772186": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/10291660?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-04-08T05:28:29Z",
+                "commit_sha": "0936344d0a9865fcefdeb8625514970260966957",
+                "download_url": "https://github.com/coder-alpha/FMoviesPlus.bundle/archive/refs/heads/dev.zip",
+                "name": "dev"
+            },
+            {
+                "commit_date": "2019-05-09T20:54:25Z",
+                "commit_sha": "7789e6137df8a86f6c9f9a78fc478ab89696e3d0",
+                "download_url": "https://github.com/coder-alpha/FMoviesPlus.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Media Server plug-in designed for FMovies, G2G, Primewire and more.",
+        "disabled": false,
+        "forks_count": 17,
+        "full_name": "coder-alpha/FMoviesPlus.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/coder-alpha/FMoviesPlus.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "FMoviesPlus.bundle",
+        "open_issues_count": 4,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.85",
+                "name": "Ver. 0.85",
+                "prerelease": false,
+                "release_date": "2019-05-09T20:59:16Z",
+                "tag_name": "v0.85"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.84",
+                "name": "Ver. 0.84",
+                "prerelease": false,
+                "release_date": "2019-05-03T05:58:06Z",
+                "tag_name": "v0.84"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.83",
+                "name": "Ver. 0.83",
+                "prerelease": false,
+                "release_date": "2019-04-19T09:08:39Z",
+                "tag_name": "v0.83"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.82",
+                "name": "Ver. 0.82",
+                "prerelease": false,
+                "release_date": "2019-04-12T20:04:21Z",
+                "tag_name": "v0.82"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.81",
+                "name": "Ver. 0.81",
+                "prerelease": false,
+                "release_date": "2019-04-08T06:38:58Z",
+                "tag_name": "v0.81"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.80",
+                "name": "Ver. 0.80",
+                "prerelease": false,
+                "release_date": "2019-04-05T11:52:49Z",
+                "tag_name": "v0.80"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.79",
+                "name": "Ver. 0.79",
+                "prerelease": false,
+                "release_date": "2019-04-02T23:21:09Z",
+                "tag_name": "v0.79"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.78",
+                "name": "Ver. 0.78",
+                "prerelease": false,
+                "release_date": "2019-04-01T19:25:26Z",
+                "tag_name": "v0.78"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.77",
+                "name": "Ver. 0.77",
+                "prerelease": false,
+                "release_date": "2019-03-29T23:39:41Z",
+                "tag_name": "v0.77"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.76",
+                "name": "Ver. 0.76",
+                "prerelease": false,
+                "release_date": "2019-03-09T09:39:36Z",
+                "tag_name": "v0.76"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.75",
+                "name": "Ver. 0.75",
+                "prerelease": false,
+                "release_date": "2019-02-24T05:50:27Z",
+                "tag_name": "v0.75"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.74",
+                "name": "Ver. 0.74",
+                "prerelease": false,
+                "release_date": "2019-02-09T07:00:22Z",
+                "tag_name": "v0.74"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.73",
+                "name": "Ver. 0.73",
+                "prerelease": false,
+                "release_date": "2018-08-09T07:35:41Z",
+                "tag_name": "v0.73"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.72",
+                "name": "Ver. 0.72",
+                "prerelease": false,
+                "release_date": "2018-07-12T20:20:46Z",
+                "tag_name": "v0.72"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.71",
+                "name": "Ver. 0.71",
+                "prerelease": false,
+                "release_date": "2018-06-28T16:03:30Z",
+                "tag_name": "v0.71"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.70",
+                "name": "Ver. 0.70",
+                "prerelease": false,
+                "release_date": "2018-06-24T14:16:28Z",
+                "tag_name": "v0.70"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.69",
+                "name": "Ver. 0.69",
+                "prerelease": false,
+                "release_date": "2018-06-24T11:29:00Z",
+                "tag_name": "v0.69"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.68",
+                "name": "Ver. 0.68",
+                "prerelease": false,
+                "release_date": "2018-06-21T11:35:13Z",
+                "tag_name": "v0.68"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.67",
+                "name": "Ver. 0.67",
+                "prerelease": false,
+                "release_date": "2018-06-17T21:04:38Z",
+                "tag_name": "v0.67"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.66",
+                "name": "Ver. 0.66",
+                "prerelease": false,
+                "release_date": "2018-06-13T20:05:17Z",
+                "tag_name": "v0.66"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.65",
+                "name": "Ver. 0.65",
+                "prerelease": false,
+                "release_date": "2018-05-12T04:32:52Z",
+                "tag_name": "v0.65"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.64",
+                "name": "Ver. 0.64",
+                "prerelease": false,
+                "release_date": "2018-04-13T20:46:19Z",
+                "tag_name": "v0.64"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.63",
+                "name": "Ver. 0.63",
+                "prerelease": false,
+                "release_date": "2018-04-11T21:12:36Z",
+                "tag_name": "v0.63"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.62",
+                "name": "Ver. 0.62",
+                "prerelease": false,
+                "release_date": "2018-01-15T20:09:35Z",
+                "tag_name": "v0.62"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.61",
+                "name": "Ver. 0.61",
+                "prerelease": false,
+                "release_date": "2018-01-09T21:55:08Z",
+                "tag_name": "v0.61"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.60",
+                "name": "Ver. 0.60",
+                "prerelease": false,
+                "release_date": "2018-01-07T19:22:30Z",
+                "tag_name": "v0.60"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.59",
+                "name": "Ver. 0.59",
+                "prerelease": false,
+                "release_date": "2018-01-06T22:16:33Z",
+                "tag_name": "v0.59"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.58",
+                "name": "Ver. 0.58",
+                "prerelease": false,
+                "release_date": "2018-01-01T00:34:40Z",
+                "tag_name": "v0.58"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.57",
+                "name": "Ver. 0.57",
+                "prerelease": false,
+                "release_date": "2017-12-27T21:37:25Z",
+                "tag_name": "v0.57"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/FMoviesPlus.bundle/zipball/v0.56",
+                "name": "Ver. 0.56",
+                "prerelease": false,
+                "release_date": "2017-12-19T19:49:52Z",
+                "tag_name": "v0.56"
+            }
+        ],
+        "stargazers_count": 54
+    },
     "81349855": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/3989440?v=4",
