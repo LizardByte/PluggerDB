@@ -4472,6 +4472,65 @@
         "releases": [],
         "stargazers_count": 16
     },
+    "77491291": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/13565327?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-06-22T00:30:02Z",
+                "commit_sha": "6eb67efea95bb442be285111d75a80535af83457",
+                "download_url": "https://github.com/Twoure/9anime.bundle/archive/refs/heads/dev.zip",
+                "name": "dev"
+            },
+            {
+                "commit_date": "2017-05-07T18:12:09Z",
+                "commit_sha": "7e43fa3092307e00b7d65e305319c50d89bc1ece",
+                "download_url": "https://github.com/Twoure/9anime.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Anime",
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Video Channel to watch Anime from 9anime",
+        "disabled": false,
+        "forks_count": 6,
+        "full_name": "Twoure/9anime.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/Twoure/9anime.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "9anime.bundle",
+        "open_issues_count": 6,
+        "open_pull_requests_count": 2,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/Twoure/9anime.bundle/zipball/v1.0.1",
+                "name": "v1.0.1",
+                "prerelease": false,
+                "release_date": "2017-05-07T18:13:44Z",
+                "tag_name": "v1.0.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Twoure/9anime.bundle/zipball/v1.0.0",
+                "name": "v1.0.0",
+                "prerelease": false,
+                "release_date": "2016-12-28T02:25:36Z",
+                "tag_name": "v1.0.0"
+            }
+        ],
+        "stargazers_count": 19
+    },
     "7750402": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/1251768?v=4",
