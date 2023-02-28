@@ -597,6 +597,79 @@
         "releases": [],
         "stargazers_count": 3
     },
+    "14254798": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/5894957?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-02-23T15:38:10Z",
+                "commit_sha": "c83bd51d7cc42e8aee231d8b75f87f9e58d26a12",
+                "download_url": "https://github.com/tschaumburg/MythRecordings.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex bundle allowing Plex to play back MythTV recordings",
+        "disabled": false,
+        "forks_count": 31,
+        "full_name": "tschaumburg/MythRecordings.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/tschaumburg/MythRecordings.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "MythRecordings.bundle",
+        "open_issues_count": 13,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/tschaumburg/MythRecordings.bundle/zipball/0.5beta",
+                "name": "0.5Beta",
+                "prerelease": true,
+                "release_date": "2015-02-14T14:07:06Z",
+                "tag_name": "0.5beta"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/tschaumburg/MythRecordings.bundle/zipball/0.4",
+                "name": "Various bug-fixes",
+                "prerelease": false,
+                "release_date": "2014-12-15T12:40:26Z",
+                "tag_name": "0.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/tschaumburg/MythRecordings.bundle/zipball/0.3",
+                "name": "Updated to support MythTV 0.27 API changes",
+                "prerelease": false,
+                "release_date": "2014-10-15T09:54:55Z",
+                "tag_name": "0.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/tschaumburg/MythRecordings.bundle/zipball/0.2",
+                "name": "Added support for PlexSync",
+                "prerelease": true,
+                "release_date": "2013-11-18T07:42:37Z",
+                "tag_name": "0.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/tschaumburg/MythRecordings.bundle/zipball/0.1",
+                "name": "Initial release",
+                "prerelease": true,
+                "release_date": "2013-11-14T11:32:47Z",
+                "tag_name": "0.1"
+            }
+        ],
+        "stargazers_count": 46
+    },
     "14555409": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/4300902?v=4",
