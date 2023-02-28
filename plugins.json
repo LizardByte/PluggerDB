@@ -6402,6 +6402,80 @@
         "releases": [],
         "stargazers_count": 2
     },
+    "93928154": {
+        "archived": true,
+        "avatar_url": "https://avatars.githubusercontent.com/u/7152420?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-07-13T07:19:49Z",
+                "commit_sha": "41b4f1eca7d3db7718372d11b47c795b413c06cc",
+                "download_url": "https://github.com/joshuaavalon/AvalonXmlAgent.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "XML file agent for Plex",
+        "disabled": false,
+        "forks_count": 6,
+        "full_name": "joshuaavalon/AvalonXmlAgent.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/joshuaavalon/AvalonXmlAgent.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "AvalonXmlAgent.bundle",
+        "open_issues_count": 2,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/joshuaavalon/AvalonXmlAgent.bundle/zipball/1.2.1",
+                "name": "Version 1.2.1",
+                "prerelease": false,
+                "release_date": "2018-01-18T14:08:48Z",
+                "tag_name": "1.2.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/joshuaavalon/AvalonXmlAgent.bundle/zipball/1.2.0",
+                "name": "Version 1.2.0",
+                "prerelease": false,
+                "release_date": "2018-01-18T08:28:01Z",
+                "tag_name": "1.2.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/joshuaavalon/AvalonXmlAgent.bundle/zipball/1.1.0",
+                "name": "Version 1.1.0",
+                "prerelease": false,
+                "release_date": "2017-12-14T03:05:34Z",
+                "tag_name": "1.1.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/joshuaavalon/AvalonXmlAgent.bundle/zipball/1.0.1",
+                "name": "Version 1.0.1",
+                "prerelease": false,
+                "release_date": "2017-06-10T17:09:12Z",
+                "tag_name": "1.0.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/joshuaavalon/AvalonXmlAgent.bundle/zipball/1.0.0",
+                "name": "Version 1.0.0",
+                "prerelease": false,
+                "release_date": "2017-06-10T09:37:08Z",
+                "tag_name": "1.0.0"
+            }
+        ],
+        "stargazers_count": 31
+    },
     "9404487": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/4141022?v=4",
