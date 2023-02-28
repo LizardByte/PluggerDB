@@ -686,6 +686,170 @@
         "releases": [],
         "stargazers_count": 6
     },
+    "13493904": {
+        "archived": false,
+        "avatar_url": "https://avatars.githubusercontent.com/u/244432?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-12-06T16:13:18Z",
+                "commit_sha": "606fa218e7a79393d2c347b60545d5a670a490f5",
+                "download_url": "https://github.com/Cigaras/IPTV.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex plug-in that plays live streams (like IPTV) from a M3U playlist",
+        "disabled": false,
+        "forks_count": 313,
+        "full_name": "Cigaras/IPTV.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "https://forums.plex.tv/discussion/83083",
+        "html_url": "https://github.com/Cigaras/IPTV.bundle",
+        "license": "GNU General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/gpl-3.0",
+        "name": "IPTV.bundle",
+        "open_issues_count": 30,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.1.9",
+                "name": "v2.1.9",
+                "prerelease": false,
+                "release_date": "2018-05-23T08:42:27Z",
+                "tag_name": "v2.1.9"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.1.8",
+                "name": "v2.1.8",
+                "prerelease": false,
+                "release_date": "2018-04-06T11:43:54Z",
+                "tag_name": "v2.1.8"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.1.7",
+                "name": "v2.1.7",
+                "prerelease": false,
+                "release_date": "2017-12-27T10:01:25Z",
+                "tag_name": "v2.1.7"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.1.6",
+                "name": "v2.1.6",
+                "prerelease": false,
+                "release_date": "2017-09-04T10:10:07Z",
+                "tag_name": "v2.1.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.1.5",
+                "name": "v2.1.5",
+                "prerelease": false,
+                "release_date": "2017-06-26T05:55:36Z",
+                "tag_name": "v2.1.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.1.4",
+                "name": "v2.1.4",
+                "prerelease": false,
+                "release_date": "2017-06-14T10:16:21Z",
+                "tag_name": "v2.1.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.1.3",
+                "name": "v2.1.3",
+                "prerelease": false,
+                "release_date": "2017-05-23T05:34:37Z",
+                "tag_name": "v2.1.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.1.0",
+                "name": "v2.1.0",
+                "prerelease": false,
+                "release_date": "2017-04-18T13:07:36Z",
+                "tag_name": "v2.1.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.0.5",
+                "name": "v2.0.5",
+                "prerelease": false,
+                "release_date": "2017-03-17T11:40:29Z",
+                "tag_name": "v2.0.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.0.3",
+                "name": "v2.0.3",
+                "prerelease": false,
+                "release_date": "2017-03-07T07:25:57Z",
+                "tag_name": "v2.0.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v2.0.0",
+                "name": "v2.0.0",
+                "prerelease": false,
+                "release_date": "2017-02-26T10:58:30Z",
+                "tag_name": "v2.0.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v1.2.10",
+                "name": "v1.2.10",
+                "prerelease": false,
+                "release_date": "2017-02-06T08:48:37Z",
+                "tag_name": "v1.2.10"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v1.2.9",
+                "name": "v1.2.9",
+                "prerelease": false,
+                "release_date": "2016-12-22T13:39:30Z",
+                "tag_name": "v1.2.9"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v1.2.8",
+                "name": "v1.2.8",
+                "prerelease": false,
+                "release_date": "2016-12-16T06:47:01Z",
+                "tag_name": "v1.2.8"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v1.2.6",
+                "name": "v1.2.6",
+                "prerelease": false,
+                "release_date": "2016-11-11T12:51:03Z",
+                "tag_name": "v1.2.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v1.2.5",
+                "name": "v1.2.5",
+                "prerelease": false,
+                "release_date": "2016-11-09T14:32:22Z",
+                "tag_name": "v1.2.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v1.2.2",
+                "name": "v1.2.2",
+                "prerelease": false,
+                "release_date": "2016-05-16T07:39:48Z",
+                "tag_name": "v1.2.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Cigaras/IPTV.bundle/zipball/v1.0.11",
+                "name": "v1.0.11",
+                "prerelease": false,
+                "release_date": "2016-03-21T07:17:53Z",
+                "tag_name": "v1.0.11"
+            }
+        ],
+        "stargazers_count": 879
+    },
     "1354079": {
         "archived": false,
         "avatar_url": "https://avatars.githubusercontent.com/u/382996?v=4",
