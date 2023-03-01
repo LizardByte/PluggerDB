@@ -3820,6 +3820,45 @@
         "stargazers_count": 15,
         "thumb_image_url": null
     },
+    "3621001": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/370329?v=4",
+        "branches": [
+            {
+                "commit_date": "2021-10-23T19:08:21Z",
+                "commit_sha": "d81d1f8768cf3874787016126f9d3fca70e87593",
+                "download_url": "https://github.com/gboudreau/XBMCnfoMoviesImporter.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 139,
+        "full_name": "gboudreau/XBMCnfoMoviesImporter.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/gboudreau/XBMCnfoMoviesImporter.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "XBMCnfoMoviesImporter.bundle",
+        "open_issues_count": 28,
+        "open_pull_requests_count": 2,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 573,
+        "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
+    },
     "37121031": {
         "archived": false,
         "attribution_image_url": null,
