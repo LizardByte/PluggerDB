@@ -10068,6 +10068,45 @@
         "stargazers_count": 15,
         "thumb_image_url": null
     },
+    "74984995": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/5061223?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-07-09T12:48:33Z",
+                "commit_sha": "7bb7ec1342f9acbff8cc44d389622b14a51adceb",
+                "download_url": "https://github.com/magas0/UTunes.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "This Plex Channel allows users to see music videos from YouTube based on their Plex music collection.",
+        "disabled": false,
+        "forks_count": 5,
+        "full_name": "magas0/UTunes",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/magas0/UTunes.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "UTunes",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 4,
+        "thumb_image_url": "https://raw.githubusercontent.com/magas0/UTunes.bundle/master/Contents/Resources/icon-default.png"
+    },
     "7527303": {
         "archived": false,
         "attribution_image_url": null,
