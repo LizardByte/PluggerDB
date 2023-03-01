@@ -2925,6 +2925,45 @@
         "stargazers_count": 147,
         "thumb_image_url": "https://raw.githubusercontent.com/bramwalet/Subliminal.bundle/master/Contents/Resources/icon-default.png"
     },
+    "217932222": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/Namez-Plex-UAS/Namez.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/84358946?v=4",
+        "branches": [
+            {
+                "commit_date": "2022-04-28T00:58:40Z",
+                "commit_sha": "0c9f691908987e4c5ab97936a4bef34e94bcf2dc",
+                "download_url": "https://github.com/Namez-Plex-UAS/Namez.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Namez Plex Mediadata Agent",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "Namez-Plex-UAS/Namez.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/Namez-Plex-UAS/Namez.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Namez.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 9,
+        "thumb_image_url": "https://raw.githubusercontent.com/Namez-Plex-UAS/Namez.bundle/master/Contents/Resources/icon-default.png"
+    },
     "22023072": {
         "archived": true,
         "attribution_image_url": null,
