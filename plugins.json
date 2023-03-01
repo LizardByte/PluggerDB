@@ -556,6 +556,46 @@
         "stargazers_count": 38,
         "thumb_image_url": "https://raw.githubusercontent.com/wonipapa/DaumMovieTVSeries.bundle/master/Contents/Resources/icon-default.png"
     },
+    "120241064": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/35320708?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-02-09T10:58:43Z",
+                "commit_sha": "3015d84404ad797a5fc335b65ede47e0eeafc915",
+                "download_url": "https://github.com/mrsunycare/PlexPorn.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "A media agent for plex powered by ThePornDB",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "mrsunycare/PlexPorn",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/mrsunycare/PlexPorn.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "PlexPorn",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 10,
+        "thumb_image_url": null
+    },
     "12093139": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/attribution.png",
