@@ -11201,6 +11201,95 @@
         "stargazers_count": 13,
         "thumb_image_url": "https://raw.githubusercontent.com/daeks/Webhook-Agent.bundle/master/Contents/Resources/icon-default.png"
     },
+    "81587635": {
+        "archived": true,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/453429?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-01-27T22:07:54Z",
+                "commit_sha": "414dc02c740b94408dd3002a242fc7637681602e",
+                "download_url": "https://github.com/piplongrun/CSM.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 3,
+        "full_name": "piplongrun/CSM",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/piplongrun/CSM.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "CSM",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://github.com/piplongrun/CSM.bundle/releases/download/v3.2/CSM.zip",
+                "name": "v3.2",
+                "prerelease": false,
+                "release_date": "2018-05-21T23:16:04Z",
+                "tag_name": "v3.2"
+            },
+            {
+                "bundle_url": "https://github.com/piplongrun/CSM.bundle/releases/download/v3.1/CSM.zip",
+                "name": "v3.1",
+                "prerelease": false,
+                "release_date": "2018-02-22T14:30:54Z",
+                "tag_name": "v3.1"
+            },
+            {
+                "bundle_url": "https://github.com/piplongrun/CSM.bundle/releases/download/v3.0/CSM.zip",
+                "name": "v3.0",
+                "prerelease": false,
+                "release_date": "2018-02-21T14:44:43Z",
+                "tag_name": "v3.0"
+            },
+            {
+                "bundle_url": "https://github.com/piplongrun/CSM.bundle/releases/download/v2.1/CSM.zip",
+                "name": "v2.1",
+                "prerelease": false,
+                "release_date": "2017-07-14T22:17:48Z",
+                "tag_name": "v2.1"
+            },
+            {
+                "bundle_url": "https://github.com/piplongrun/CSM.bundle/releases/download/v2.0/CSM.zip",
+                "name": "v2.0",
+                "prerelease": false,
+                "release_date": "2017-05-04T22:26:34Z",
+                "tag_name": "v2.0"
+            },
+            {
+                "bundle_url": "https://github.com/piplongrun/CSM.bundle/releases/download/v1.2/CSM.zip",
+                "name": "v1.2",
+                "prerelease": false,
+                "release_date": "2017-02-12T17:46:06Z",
+                "tag_name": "v1.2"
+            },
+            {
+                "bundle_url": "https://github.com/piplongrun/CSM.bundle/releases/download/v1.1/CSM.zip",
+                "name": "v1.1",
+                "prerelease": false,
+                "release_date": "2017-02-10T17:33:04Z",
+                "tag_name": "v1.1"
+            }
+        ],
+        "stargazers_count": 23,
+        "thumb_image_url": "https://raw.githubusercontent.com/piplongrun/CSM.bundle/master/Contents/Resources/icon-default.jpg"
+    },
     "8201451": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/sander1/Fanart-TV-Agent.bundle/master/Contents/Resources/attribution.png",
