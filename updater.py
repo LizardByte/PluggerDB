@@ -226,7 +226,7 @@ def process_github_url(owner: str, repo: str, categories: Optional[str] = None) 
                 if categories:
                     categories = categories.split(', ')
                 else:
-                    exception_writer(Exception('No categories selected'), site='GitHub')
+                    exception_writer(error=Exception('No categories selected'), site='GitHub')
                     categories = ':bangbang: NONE :bangbang:'
 
         with lock:
@@ -265,6 +265,24 @@ def process_github_url(owner: str, repo: str, categories: Optional[str] = None) 
             og_data[str(github_data['id'])]['open_pull_requests_count'] = open_pull_requests
             og_data[str(github_data['id'])]['releases'] = releases
             og_data[str(github_data['id'])]['thumb_image_url'] = thumb_image_url
+
+        # test wiki pages and overwrite value if wiki is empty
+        with lock:  # ensure only one thread is making a request to GitHub at a time
+            if github_data['has_wiki']:
+                test_url = f'https://github.com/search?q=repo:{owner}/{repo}&type=wikis'
+                test_wiki = requests_loop(url=test_url)
+                if test_wiki.status_code == requests.codes.ok:
+                    # see if string in contents
+                    # not logged in
+                    if f'We couldn’t find any wiki pages matching &#39;repo:{owner}/{repo}&#39;' in test_wiki.text:
+                        og_data[str(github_data['id'])]['has_wiki'] = False
+                    # logged in
+                    if 'Your search did not match any <!-- -->wikis' in test_wiki.text:
+                        og_data[str(github_data['id'])]['has_wiki'] = False
+                else:
+                    og_data[str(github_data['id'])]['has_wiki'] = False
+                    exception_writer(error=Exception(f'Unable to search wiki for {owner}/{repo}'), site='GitHub')
+
         try:
             args.issue_update
         except NameError:
