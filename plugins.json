@@ -1112,6 +1112,48 @@
         "stargazers_count": 84,
         "thumb_image_url": "https://raw.githubusercontent.com/realriot/tvheadend-ng.bundle/master/Contents/Resources/icon-default.png"
     },
+    "147096371": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/joshuaavalon/AvalonRestAgent.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/7152420?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-11-10T07:07:18Z",
+                "commit_sha": "198573295e51509e342e304be3e69fc9f1f236df",
+                "download_url": "https://github.com/joshuaavalon/AvalonRestAgent.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Music",
+            "TV",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "Plex rest api agent for developer",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "joshuaavalon/AvalonRestAgent.bundle",
+        "gh_pages_url": "https://joshuaavalon.github.io/AvalonRestAgent.bundle/",
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "https://joshuaavalon.github.io/AvalonRestAgent.bundle",
+        "html_url": "https://github.com/joshuaavalon/AvalonRestAgent.bundle",
+        "license": "Apache License 2.0",
+        "license_url": "https://api.github.com/licenses/apache-2.0",
+        "name": "AvalonRestAgent.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/joshuaavalon/AvalonRestAgent.bundle/master/Contents/Resources/icon-default.png"
+    },
     "147920532": {
         "archived": false,
         "attribution_image_url": null,
