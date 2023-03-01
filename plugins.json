@@ -5514,6 +5514,52 @@
         "stargazers_count": 9,
         "thumb_image_url": "https://raw.githubusercontent.com/Jidly/channelpear.bundle/master/Contents/Resources/icon-default.png"
     },
+    "347760205": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/67563286?v=4",
+        "branches": [
+            {
+                "commit_date": "2023-02-19T18:05:47Z",
+                "commit_sha": "e88207d79c157f082e08a86170ddc14b2cbee308",
+                "download_url": "https://github.com/ThePornDatabase/ThePornDB.bundle/archive/refs/heads/main.zip",
+                "name": "main"
+            },
+            {
+                "commit_date": "2022-08-19T04:59:43Z",
+                "commit_sha": "8b5c4c1ab104482bbf254070408304d2e8a27d57",
+                "download_url": "https://github.com/ThePornDatabase/ThePornDB.bundle/archive/refs/heads/renovate/configure.zip",
+                "name": "renovate/configure"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "main",
+        "description": "ThePornDB.bundle Plex Metadata Agent",
+        "disabled": false,
+        "forks_count": 13,
+        "full_name": "ThePornDatabase/ThePornDB.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "ThePornDB.bundle",
+        "open_issues_count": 4,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 76,
+        "thumb_image_url": null
+    },
     "3485091": {
         "archived": false,
         "attribution_image_url": null,
