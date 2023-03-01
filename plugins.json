@@ -996,6 +996,47 @@
         "stargazers_count": 17,
         "thumb_image_url": null
     },
+    "142117804": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/ZeroQI/Lambda.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/5163877?v=4",
+        "branches": [
+            {
+                "commit_date": "2022-02-08T11:57:27Z",
+                "commit_sha": "9b59336ade96a1139bd7eaebd49e838accccb280",
+                "download_url": "https://github.com/ZeroQI/Lambda.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Music",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Local Media Export, a reverse Plex  'Local Media Assets' agent to export metadata locally",
+        "disabled": false,
+        "forks_count": 19,
+        "full_name": "ZeroQI/Lambda.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/ZeroQI/Lambda.bundle",
+        "license": "GNU General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/gpl-3.0",
+        "name": "Lambda.bundle",
+        "open_issues_count": 10,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 116,
+        "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Lambda.bundle/master/Contents/Resources/icon-default.png"
+    },
     "14254798": {
         "archived": false,
         "attribution_image_url": null,
