@@ -477,6 +477,45 @@
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/jashk/Crunchyroll.bundle/master/Contents/Resources/icon-default.png"
     },
+    "1169198": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/523199?v=4",
+        "branches": [
+            {
+                "commit_date": "2010-09-17T23:07:39Z",
+                "commit_sha": "cd654f5844bc0ce1ebfea6808f958c26d09e5504",
+                "download_url": "https://github.com/JoeFresso/abcfamily.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex app for abcfamily.com",
+        "disabled": false,
+        "forks_count": 7,
+        "full_name": "JoeFresso/abcfamily",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/JoeFresso/abcfamily.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "abcfamily",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/JoeFresso/abcfamily.bundle/master/Contents/Resources/icon-default.jpg"
+    },
     "118404983": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/wonipapa/DaumMovieTVSeries.bundle/master/Contents/Resources/attribution.png",
