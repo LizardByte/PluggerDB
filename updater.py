@@ -266,6 +266,14 @@ def process_github_url(owner: str, repo: str, categories: Optional[str] = None) 
             og_data[str(github_data['id'])]['releases'] = releases
             og_data[str(github_data['id'])]['thumb_image_url'] = thumb_image_url
 
+            # remove `.bundle` from end of name and full name
+            test = '.bundle'
+            t_len = len(test)
+            test_keys = ['name', 'full_name']
+            for k in test_keys:
+                if og_data[str(github_data['id'])][k].endswith(test):
+                    og_data[str(github_data['id'])][k] = og_data[str(github_data['id'])][k][:-t_len]
+
         # test wiki pages and overwrite value if wiki is empty
         with lock:  # ensure only one thread is making a request to GitHub at a time
             if github_data['has_wiki']:
