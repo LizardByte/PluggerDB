@@ -4377,6 +4377,292 @@
         "stargazers_count": 15,
         "thumb_image_url": null
     },
+    "34966602": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/6312063?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-01-21T10:00:23Z",
+                "commit_sha": "02456e8fecad5ce76bb35a5720d533b53ae6b979",
+                "download_url": "https://github.com/kolsys/YouTubeTV.bundle/archive/refs/heads/debug.zip",
+                "name": "debug"
+            },
+            {
+                "commit_date": "2016-02-16T23:01:38Z",
+                "commit_sha": "7e7541aeb77311835c56d933c9ce9600fc734f88",
+                "download_url": "https://github.com/kolsys/YouTubeTV.bundle/archive/refs/heads/fullhd.zip",
+                "name": "fullhd"
+            },
+            {
+                "commit_date": "2017-05-28T17:03:26Z",
+                "commit_sha": "4f62df13341bd1180fa487bfb6d56369aff1df2c",
+                "download_url": "https://github.com/kolsys/YouTubeTV.bundle/archive/refs/heads/jsparser-fix.zip",
+                "name": "jsparser-fix"
+            },
+            {
+                "commit_date": "2015-11-03T12:35:31Z",
+                "commit_sha": "db464e654648f9a0182774e6355e6772f10dbc56",
+                "download_url": "https://github.com/kolsys/YouTubeTV.bundle/archive/refs/heads/logo.zip",
+                "name": "logo"
+            },
+            {
+                "commit_date": "2020-08-09T07:19:09Z",
+                "commit_sha": "93c231df79e4529a2b8dd7c5348bc6b63966e9ab",
+                "download_url": "https://github.com/kolsys/YouTubeTV.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2016-01-11T21:02:00Z",
+                "commit_sha": "17b68fe3477f50c2c4d4edb123db3a786214f8d5",
+                "download_url": "https://github.com/kolsys/YouTubeTV.bundle/archive/refs/heads/openpht-fix.zip",
+                "name": "openpht-fix"
+            },
+            {
+                "commit_date": "2017-05-25T22:13:01Z",
+                "commit_sha": "db3c5ebe28597174a931f1117504c07f681d64c5",
+                "download_url": "https://github.com/kolsys/YouTubeTV.bundle/archive/refs/heads/watchlater-fix.zip",
+                "name": "watchlater-fix"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex YouTube video plugin",
+        "disabled": false,
+        "forks_count": 60,
+        "full_name": "kolsys/YouTubeTV.bundle",
+        "gh_pages_url": "http://kolsys.ml/",
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/kolsys/YouTubeTV.bundle",
+        "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "license_url": "https://api.github.com/licenses/bsd-3-clause",
+        "name": "YouTubeTV.bundle",
+        "open_issues_count": 30,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.14",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2020-09-06T16:27:39Z",
+                "tag_name": "v4.14"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.13",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2020-01-06T00:07:20Z",
+                "tag_name": "v4.13"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.12",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2019-01-14T20:15:27Z",
+                "tag_name": "v4.12"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.11",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2019-01-06T23:05:16Z",
+                "tag_name": "v4.11"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.9",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2018-10-04T06:59:59Z",
+                "tag_name": "v4.9"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.8",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2018-03-17T23:44:39Z",
+                "tag_name": "v4.8"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.7",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2017-05-29T20:13:33Z",
+                "tag_name": "v4.7"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.6",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2017-02-06T21:43:23Z",
+                "tag_name": "v4.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.5",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2017-01-21T21:26:38Z",
+                "tag_name": "v4.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.4",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2016-09-20T21:27:10Z",
+                "tag_name": "v4.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.3",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2016-03-22T22:55:04Z",
+                "tag_name": "v4.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.2",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2016-02-18T20:59:31Z",
+                "tag_name": "v4.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.1",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-12-24T22:13:22Z",
+                "tag_name": "v4.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.0",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-12-22T21:41:23Z",
+                "tag_name": "v4.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.10",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-12-17T19:53:38Z",
+                "tag_name": "v3.10"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.9",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-11-21T17:58:50Z",
+                "tag_name": "v3.9"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.8",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-11-14T10:35:53Z",
+                "tag_name": "v3.8"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.7",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-10-29T21:55:23Z",
+                "tag_name": "v3.7"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.6",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-10-05T22:08:25Z",
+                "tag_name": "v3.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.5",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-09-06T15:08:31Z",
+                "tag_name": "v3.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.4",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-08-29T22:04:34Z",
+                "tag_name": "v3.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.2",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-06-28T20:03:43Z",
+                "tag_name": "v3.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.1",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-06-16T21:54:43Z",
+                "tag_name": "v3.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.0",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-06-03T20:40:43Z",
+                "tag_name": "v3.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v2.9",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-06-02T20:47:21Z",
+                "tag_name": "v2.9"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v2.8",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-06-01T20:38:51Z",
+                "tag_name": "v2.8"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v2.7",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-05-30T20:38:30Z",
+                "tag_name": "v2.7"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v2.6",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-05-26T19:45:12Z",
+                "tag_name": "v2.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v2.5",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-05-21T21:03:55Z",
+                "tag_name": "v2.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v2.4",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-05-17T14:04:52Z",
+                "tag_name": "v2.4"
+            }
+        ],
+        "stargazers_count": 327,
+        "thumb_image_url": "https://raw.githubusercontent.com/kolsys/YouTubeTV.bundle/master/Contents/Resources/icon-default.png"
+    },
     "3621001": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/attribution.png",
