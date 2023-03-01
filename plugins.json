@@ -1429,6 +1429,53 @@
         "stargazers_count": 38,
         "thumb_image_url": "https://raw.githubusercontent.com/adultplexdev/AdultDVDEmpire.bundle/master/Contents/Resources/icon-default.png"
     },
+    "140122265": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/6312063?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-09-21T22:50:37Z",
+                "commit_sha": "01e38e68d6a8a255760839cc51b35665180d6a91",
+                "download_url": "https://github.com/kolsys/TorrServer.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex TorrServer video plugin",
+        "disabled": false,
+        "forks_count": 6,
+        "full_name": "kolsys/TorrServer",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/kolsys/TorrServer.bundle",
+        "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "license_url": "https://api.github.com/licenses/bsd-3-clause",
+        "name": "TorrServer",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/TorrServer.bundle/zipball/v1.0",
+                "name": "TorrServer.bundle",
+                "prerelease": false,
+                "release_date": "2018-07-07T23:01:21Z",
+                "tag_name": "v1.0"
+            }
+        ],
+        "stargazers_count": 7,
+        "thumb_image_url": "https://raw.githubusercontent.com/kolsys/TorrServer.bundle/master/Contents/Resources/icon-default.png"
+    },
     "142117804": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/ZeroQI/Lambda.bundle/master/Contents/Resources/attribution.png",
