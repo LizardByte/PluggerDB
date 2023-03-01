@@ -7650,6 +7650,45 @@
         "stargazers_count": 6,
         "thumb_image_url": "https://raw.githubusercontent.com/HuggableSquare/PlexThemeMusic.bundle/master/Contents/Resources/icon-default.png"
     },
+    "46782439": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/96907?v=4",
+        "branches": [
+            {
+                "commit_date": "2022-05-01T23:44:04Z",
+                "commit_sha": "2e3d43264187e319e1c2ab1679272e4a8dff1c3e",
+                "download_url": "https://github.com/lankz/JSON.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Metadata agent for Plex that reads from JSON files",
+        "disabled": false,
+        "forks_count": 5,
+        "full_name": "lankz/JSON",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/lankz/JSON.bundle",
+        "license": "Other",
+        "license_url": null,
+        "name": "JSON",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 2,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 11,
+        "thumb_image_url": null
+    },
     "47679566": {
         "archived": false,
         "attribution_image_url": null,
