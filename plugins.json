@@ -6496,6 +6496,196 @@
         "stargazers_count": 1,
         "thumb_image_url": "https://raw.githubusercontent.com/atempcode1/Douban.bundle/master/Contents/Resources/icon-default.png"
     },
+    "410732328": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/71412966?v=4",
+        "branches": [
+            {
+                "commit_date": "2021-10-08T03:09:12Z",
+                "commit_sha": "ebfd5b30e1bb8c82f0caef8dd667e24662622a46",
+                "download_url": "https://github.com/djdembeck/Audnexus.bundle/archive/refs/heads/assets.zip",
+                "name": "assets"
+            },
+            {
+                "commit_date": "2023-02-27T00:05:26Z",
+                "commit_sha": "4c93da93c56bd6d18c7a64ffb65ee316607e590e",
+                "download_url": "https://github.com/djdembeck/Audnexus.bundle/archive/refs/heads/develop.zip",
+                "name": "develop"
+            },
+            {
+                "commit_date": "2022-10-19T23:19:23Z",
+                "commit_sha": "cb5e7936f0192f0cf1dca418ead122fc06b55695",
+                "download_url": "https://github.com/djdembeck/Audnexus.bundle/archive/refs/heads/feat-multi-region.zip",
+                "name": "feat-multi-region"
+            },
+            {
+                "commit_date": "2023-02-27T02:17:05Z",
+                "commit_sha": "39e549aa752af6aa82e3beb1e7bf27fd9319e130",
+                "download_url": "https://github.com/djdembeck/Audnexus.bundle/archive/refs/heads/feat-similar.zip",
+                "name": "feat-similar"
+            },
+            {
+                "commit_date": "2023-02-27T00:07:03Z",
+                "commit_sha": "870abbd480fa6dcd4b8b8f26b720fd045e1eb6ed",
+                "download_url": "https://github.com/djdembeck/Audnexus.bundle/archive/refs/heads/main.zip",
+                "name": "main"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Music"
+        ],
+        "default_branch": "main",
+        "description": "An audnexus client, providing rich author and audiobook data to Plex via it's legacy plugin agent system.",
+        "disabled": false,
+        "forks_count": 16,
+        "full_name": "djdembeck/Audnexus",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/djdembeck/Audnexus.bundle",
+        "license": "GNU General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/gpl-3.0",
+        "name": "Audnexus",
+        "open_issues_count": 7,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/djdembeck/Audnexus.bundle/zipball/v1.2.1",
+                "name": "v1.2.1",
+                "prerelease": false,
+                "release_date": "2023-02-27T00:07:21Z",
+                "tag_name": "v1.2.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/djdembeck/Audnexus.bundle/zipball/v1.2.0",
+                "name": "v1.2.0",
+                "prerelease": false,
+                "release_date": "2023-02-24T00:21:26Z",
+                "tag_name": "v1.2.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/djdembeck/Audnexus.bundle/zipball/v1.1.1",
+                "name": "v1.1.1",
+                "prerelease": false,
+                "release_date": "2023-02-23T02:10:40Z",
+                "tag_name": "v1.1.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/djdembeck/Audnexus.bundle/zipball/v1.1.0",
+                "name": "v1.1.0",
+                "prerelease": false,
+                "release_date": "2023-01-26T02:31:58Z",
+                "tag_name": "v1.1.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/djdembeck/Audnexus.bundle/zipball/v1.0.0",
+                "name": "v1.0.0",
+                "prerelease": false,
+                "release_date": "2023-01-24T20:16:18Z",
+                "tag_name": "v1.0.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/djdembeck/Audnexus.bundle/zipball/v0.4.1",
+                "name": "v0.4.1",
+                "prerelease": false,
+                "release_date": "2022-10-05T22:03:02Z",
+                "tag_name": "v0.4.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/djdembeck/Audnexus.bundle/zipball/v0.4.0",
+                "name": "v0.4.0",
+                "prerelease": false,
+                "release_date": "2022-08-09T21:42:00Z",
+                "tag_name": "v0.4.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/djdembeck/Audnexus.bundle/zipball/v0.3.0",
+                "name": "v0.3.0",
+                "prerelease": false,
+                "release_date": "2022-05-29T22:00:20Z",
+                "tag_name": "v0.3.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/djdembeck/Audnexus.bundle/zipball/v0.2.8",
+                "name": "v0.2.8",
+                "prerelease": false,
+                "release_date": "2022-01-24T20:08:19Z",
+                "tag_name": "v0.2.8"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/djdembeck/Audnexus.bundle/zipball/v0.2.7",
+                "name": "v0.2.7",
+                "prerelease": false,
+                "release_date": "2022-01-13T05:19:51Z",
+                "tag_name": "v0.2.7"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/djdembeck/Audnexus.bundle/zipball/v0.2.6",
+                "name": "v0.2.6",
+                "prerelease": false,
+                "release_date": "2021-11-24T21:36:48Z",
+                "tag_name": "v0.2.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/djdembeck/Audnexus.bundle/zipball/v0.2.5",
+                "name": "v0.2.5",
+                "prerelease": false,
+                "release_date": "2021-11-08T01:56:27Z",
+                "tag_name": "v0.2.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/djdembeck/Audnexus.bundle/zipball/v0.2.4",
+                "name": "v0.2.4",
+                "prerelease": false,
+                "release_date": "2021-10-15T05:26:13Z",
+                "tag_name": "v0.2.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/djdembeck/Audnexus.bundle/zipball/v0.2.3",
+                "name": "v0.2.3",
+                "prerelease": false,
+                "release_date": "2021-10-10T00:12:45Z",
+                "tag_name": "v0.2.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/djdembeck/Audnexus.bundle/zipball/v0.2.2",
+                "name": "v0.2.2",
+                "prerelease": false,
+                "release_date": "2021-10-08T05:16:36Z",
+                "tag_name": "v0.2.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/djdembeck/Audnexus.bundle/zipball/v0.2.1",
+                "name": "v0.2.1",
+                "prerelease": false,
+                "release_date": "2021-10-06T22:34:59Z",
+                "tag_name": "v0.2.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/djdembeck/Audnexus.bundle/zipball/v0.2.0",
+                "name": "v0.2.0: Author support",
+                "prerelease": true,
+                "release_date": "2021-10-04T03:34:31Z",
+                "tag_name": "v0.2.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/djdembeck/Audnexus.bundle/zipball/v0.1.1",
+                "name": "v0.1.1",
+                "prerelease": true,
+                "release_date": "2021-10-04T03:34:12Z",
+                "tag_name": "v0.1.1"
+            }
+        ],
+        "stargazers_count": 282,
+        "thumb_image_url": null
+    },
     "41517178": {
         "archived": false,
         "attribution_image_url": null,
