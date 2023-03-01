@@ -783,6 +783,45 @@
         "stargazers_count": 27,
         "thumb_image_url": "https://raw.githubusercontent.com/psyciknz/NextPVR.bundle/master/Contents/Resources/icon-default.png"
     },
+    "1262026": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/382996?v=4",
+        "branches": [
+            {
+                "commit_date": "2011-01-17T01:52:53Z",
+                "commit_sha": "4f01559f60ee3c082b1bd0bfd18c7e6ae1966469",
+                "download_url": "https://github.com/dbl-a/PBSKids.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Video Plug-in for PBSKids.org",
+        "disabled": false,
+        "forks_count": 7,
+        "full_name": "dbl-a/PBSKids",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/dbl-a/PBSKids.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "PBSKids",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 1,
+        "thumb_image_url": null
+    },
     "12828388": {
         "archived": true,
         "attribution_image_url": null,
