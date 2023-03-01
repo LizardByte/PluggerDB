@@ -317,6 +317,45 @@
         "stargazers_count": 59,
         "thumb_image_url": "https://raw.githubusercontent.com/d8ahazard/Cast.bundle/master/Contents/Resources/icon-default.png"
     },
+    "11514395": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/5042667?v=4",
+        "branches": [
+            {
+                "commit_date": "2013-07-21T01:50:54Z",
+                "commit_sha": "e6280ff13fd1c944c0eb9e0f329b9baab65396b3",
+                "download_url": "https://github.com/caveatsCode/subsonic.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Music"
+        ],
+        "default_branch": "master",
+        "description": "Plugin to allow music from Subsonic to played via Plex",
+        "disabled": false,
+        "forks_count": 3,
+        "full_name": "caveatsCode/subsonic",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/caveatsCode/subsonic.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "subsonic",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 8,
+        "thumb_image_url": "https://raw.githubusercontent.com/caveatsCode/subsonic.bundle/master/Contents/Resources/icon-default.png"
+    },
     "11542400": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/hojel/DaumMovie.bundle/master/Contents/Resources/attribution.png",
