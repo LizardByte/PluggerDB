@@ -11897,6 +11897,46 @@
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/bagotx/4tube.bundle/master/Contents/Resources/icon-default.png"
     },
+    "8782039": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3865838?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-06-03T11:05:17Z",
+                "commit_sha": "157cf1152f73dc93a0544150dfb261860a18ede2",
+                "download_url": "https://github.com/nsgundy/InternetRadio.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Music",
+            "Radio"
+        ],
+        "default_branch": "master",
+        "description": "Radio Paradise internet radio channel for Plex",
+        "disabled": false,
+        "forks_count": 5,
+        "full_name": "nsgundy/InternetRadio",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/nsgundy/InternetRadio.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "InternetRadio",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/nsgundy/InternetRadio.bundle/master/Contents/Resources/icon-default.png"
+    },
     "90920737": {
         "archived": false,
         "attribution_image_url": null,
