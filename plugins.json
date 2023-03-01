@@ -1117,6 +1117,46 @@
         "stargazers_count": 17,
         "thumb_image_url": null
     },
+    "139184077": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/adultplexdev/AdultDVDEmpire.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/19413935?v=4",
+        "branches": [
+            {
+                "commit_date": "2023-03-01T01:26:55Z",
+                "commit_sha": "008fb161693b82a98cdbb025ee7af6d67a9d4df0",
+                "download_url": "https://github.com/adultplexdev/AdultDVDEmpire.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Plex metadata agent for fetching metadata for AdultDVDEmpire material.",
+        "disabled": false,
+        "forks_count": 18,
+        "full_name": "adultplexdev/AdultDVDEmpire.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/adultplexdev/AdultDVDEmpire.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "AdultDVDEmpire.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 38,
+        "thumb_image_url": "https://raw.githubusercontent.com/adultplexdev/AdultDVDEmpire.bundle/master/Contents/Resources/icon-default.png"
+    },
     "142117804": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/ZeroQI/Lambda.bundle/master/Contents/Resources/attribution.png",
