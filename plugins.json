@@ -517,6 +517,68 @@
         "stargazers_count": 38,
         "thumb_image_url": "https://raw.githubusercontent.com/wonipapa/DaumMovieTVSeries.bundle/master/Contents/Resources/icon-default.png"
     },
+    "12093139": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/5163877?v=4",
+        "branches": [
+            {
+                "commit_date": "2022-03-16T20:01:11Z",
+                "commit_sha": "d0145198d395cacbb5f25d4afc632216d880889b",
+                "download_url": "https://github.com/ZeroQI/Hama.bundle/archive/refs/heads/add-kana-title-type.zip",
+                "name": "add-kana-title-type"
+            },
+            {
+                "commit_date": "2023-01-16T09:36:20Z",
+                "commit_sha": "c6987a00e68b23883a263481c823bb7aa7684c21",
+                "download_url": "https://github.com/ZeroQI/Hama.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Anime",
+            "Metadata Agent",
+            "Movies",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex HTTP Anidb Metadata Agent (HAMA)",
+        "disabled": false,
+        "forks_count": 116,
+        "full_name": "ZeroQI/Hama.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/ZeroQI/Hama.bundle",
+        "license": "GNU General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/gpl-3.0",
+        "name": "Hama.bundle",
+        "open_issues_count": 9,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://github.com/ZeroQI/Hama.bundle/releases/download/Beta/Hama.bundle.2017-08-19.18h05.zip",
+                "name": "ZeroQI Major re-write test release",
+                "prerelease": true,
+                "release_date": "2017-02-22T13:05:47Z",
+                "tag_name": "Beta"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/ZeroQI/Hama.bundle/zipball/v1.0",
+                "name": "Version independant packages",
+                "prerelease": false,
+                "release_date": "2016-04-05T13:40:13Z",
+                "tag_name": "v1.0"
+            }
+        ],
+        "stargazers_count": 1068,
+        "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
+    },
     "12186768": {
         "archived": false,
         "attribution_image_url": null,
