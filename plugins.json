@@ -1112,6 +1112,48 @@
         "stargazers_count": 84,
         "thumb_image_url": "https://raw.githubusercontent.com/realriot/tvheadend-ng.bundle/master/Contents/Resources/icon-default.png"
     },
+    "147096371": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/joshuaavalon/AvalonRestAgent.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/7152420?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-11-10T07:07:18Z",
+                "commit_sha": "198573295e51509e342e304be3e69fc9f1f236df",
+                "download_url": "https://github.com/joshuaavalon/AvalonRestAgent.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Music",
+            "TV",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "Plex rest api agent for developer",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "joshuaavalon/AvalonRestAgent.bundle",
+        "gh_pages_url": "https://joshuaavalon.github.io/AvalonRestAgent.bundle/",
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "https://joshuaavalon.github.io/AvalonRestAgent.bundle",
+        "html_url": "https://github.com/joshuaavalon/AvalonRestAgent.bundle",
+        "license": "Apache License 2.0",
+        "license_url": "https://api.github.com/licenses/apache-2.0",
+        "name": "AvalonRestAgent.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/joshuaavalon/AvalonRestAgent.bundle/master/Contents/Resources/icon-default.png"
+    },
     "147920532": {
         "archived": false,
         "attribution_image_url": null,
@@ -1619,6 +1661,48 @@
         ],
         "stargazers_count": 143,
         "thumb_image_url": "https://raw.githubusercontent.com/sharkone/BitTorrent.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "168845727": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/ajtatum/AvalonRestAgent.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/318022?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-02-29T06:48:44Z",
+                "commit_sha": "c5629b85be8553efbfe52f22bdbe3c68a246ae57",
+                "download_url": "https://github.com/ajtatum/AvalonRestAgent.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Music",
+            "TV",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "Plex rest api agent for developer",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "ajtatum/AvalonRestAgent.bundle",
+        "gh_pages_url": "https://ajtatum.github.io/AvalonRestAgent.bundle/",
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": "https://ajtatum.github.io/AvalonRestAgent.bundle",
+        "html_url": "https://github.com/ajtatum/AvalonRestAgent.bundle",
+        "license": "Apache License 2.0",
+        "license_url": "https://api.github.com/licenses/apache-2.0",
+        "name": "AvalonRestAgent.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/ajtatum/AvalonRestAgent.bundle/master/Contents/Resources/icon-default.png"
     },
     "17290702": {
         "archived": false,
@@ -3734,6 +3818,209 @@
         "plugin_edited_by": "42013603",
         "releases": [],
         "stargazers_count": 15,
+        "thumb_image_url": null
+    },
+    "3621001": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/370329?v=4",
+        "branches": [
+            {
+                "commit_date": "2021-10-23T19:08:21Z",
+                "commit_sha": "d81d1f8768cf3874787016126f9d3fca70e87593",
+                "download_url": "https://github.com/gboudreau/XBMCnfoMoviesImporter.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 139,
+        "full_name": "gboudreau/XBMCnfoMoviesImporter.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/gboudreau/XBMCnfoMoviesImporter.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "XBMCnfoMoviesImporter.bundle",
+        "open_issues_count": 28,
+        "open_pull_requests_count": 2,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 573,
+        "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "36627179": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/10291660?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-03-11T19:45:35Z",
+                "commit_sha": "6bd659618d698689bd9c55b8bd86e87ad637ea10",
+                "download_url": "https://github.com/coder-alpha/Einthusan.bundle/archive/refs/heads/dev.zip",
+                "name": "dev"
+            },
+            {
+                "commit_date": "2016-10-07T16:11:21Z",
+                "commit_sha": "d881889d9ec82a5ff8a3207dad58724da8da0aa4",
+                "download_url": "https://github.com/coder-alpha/Einthusan.bundle/archive/refs/heads/devVizio.zip",
+                "name": "devVizio"
+            },
+            {
+                "commit_date": "2018-10-06T07:53:46Z",
+                "commit_sha": "19408e1fa1e2be266d73d3e7b337f22313706559",
+                "download_url": "https://github.com/coder-alpha/Einthusan.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Media Server plug-in designed for Einthusan website (Indian/Hindi) movies",
+        "disabled": false,
+        "forks_count": 19,
+        "full_name": "coder-alpha/Einthusan.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/coder-alpha/Einthusan.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Einthusan.bundle",
+        "open_issues_count": 4,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/Einthusan.bundle/zipball/v0.16",
+                "name": "Ver. 0.16",
+                "prerelease": false,
+                "release_date": "2018-10-06T07:55:25Z",
+                "tag_name": "v0.16"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/Einthusan.bundle/zipball/v0.15",
+                "name": "Ver. 0.15",
+                "prerelease": false,
+                "release_date": "2018-09-05T21:38:13Z",
+                "tag_name": "v0.15"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/Einthusan.bundle/zipball/v0.14",
+                "name": "Ver. 0.14",
+                "prerelease": false,
+                "release_date": "2017-03-11T19:52:21Z",
+                "tag_name": "v0.14"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/Einthusan.bundle/zipball/v0.13",
+                "name": "Ver. 0.13",
+                "prerelease": false,
+                "release_date": "2017-02-22T02:31:22Z",
+                "tag_name": "v0.13"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/Einthusan.bundle/zipball/v0.12",
+                "name": "Ver. 0.12",
+                "prerelease": false,
+                "release_date": "2017-02-06T05:51:24Z",
+                "tag_name": "v0.12"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/Einthusan.bundle/zipball/v0.11",
+                "name": "Ver. 0.11",
+                "prerelease": false,
+                "release_date": "2017-01-28T21:45:40Z",
+                "tag_name": "v0.11"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/Einthusan.bundle/zipball/v0.10",
+                "name": "Ver. 0.10",
+                "prerelease": false,
+                "release_date": "2017-01-16T20:40:32Z",
+                "tag_name": "v0.10"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/Einthusan.bundle/zipball/v0.09",
+                "name": "Ver. 0.09",
+                "prerelease": false,
+                "release_date": "2017-01-12T03:45:12Z",
+                "tag_name": "v0.09"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/Einthusan.bundle/zipball/v0.08",
+                "name": "Ver. 0.08",
+                "prerelease": false,
+                "release_date": "2017-01-11T21:10:55Z",
+                "tag_name": "v0.08"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/Einthusan.bundle/zipball/v0.07",
+                "name": "Ver. 0.07",
+                "prerelease": false,
+                "release_date": "2017-01-11T03:52:38Z",
+                "tag_name": "v0.07"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/Einthusan.bundle/zipball/v0.06",
+                "name": "Ver. 0.06",
+                "prerelease": false,
+                "release_date": "2016-08-13T15:44:30Z",
+                "tag_name": "v0.06"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/Einthusan.bundle/zipball/v0.05",
+                "name": "Ver. 0.05",
+                "prerelease": false,
+                "release_date": "2016-01-21T02:06:20Z",
+                "tag_name": "v0.05"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/Einthusan.bundle/zipball/v0.04",
+                "name": "Ver. 0.04",
+                "prerelease": false,
+                "release_date": "2015-11-29T20:33:35Z",
+                "tag_name": "v0.04"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/Einthusan.bundle/zipball/v0.03",
+                "name": "Ver. 0.03",
+                "prerelease": false,
+                "release_date": "2015-11-29T05:54:38Z",
+                "tag_name": "v0.03"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/Einthusan.bundle/zipball/v0.02",
+                "name": "Ver. 0.02",
+                "prerelease": false,
+                "release_date": "2015-06-21T23:15:06Z",
+                "tag_name": "v0.02"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/Einthusan.bundle/zipball/v0.01",
+                "name": "Ver. 0.01",
+                "prerelease": false,
+                "release_date": "2015-06-21T22:10:24Z",
+                "tag_name": "v0.01"
+            }
+        ],
+        "stargazers_count": 16,
         "thumb_image_url": null
     },
     "37121031": {
