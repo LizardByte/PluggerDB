@@ -2138,6 +2138,115 @@
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/gentiho/PlexTools.bundle/master/Contents/Resources/icon-default.png"
     },
+    "19236973": {
+        "archived": true,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/625232?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-10-04T19:14:30Z",
+                "commit_sha": "399bf30e708b344e8b14c47e54d1a49fca80eaa9",
+                "download_url": "https://github.com/phrawzty/AudioAddict.bundle/archive/refs/heads/cast_own.zip",
+                "name": "cast_own"
+            },
+            {
+                "commit_date": "2020-11-27T09:22:49Z",
+                "commit_sha": "b083d1f1f418f35a10ae0407b94f2e47f4c2a646",
+                "download_url": "https://github.com/phrawzty/AudioAddict.bundle/archive/refs/heads/main.zip",
+                "name": "main"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Music"
+        ],
+        "default_branch": "main",
+        "description": "Plex channel plugin for AudioAddict (radiotunes.com, di.fm, etc.)",
+        "disabled": false,
+        "forks_count": 13,
+        "full_name": "phrawzty/AudioAddict.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "https://forums.plex.tv/discussion/107801/rel-audioaddict-radiotunes-com-di-fm-etc/p1",
+        "html_url": "https://github.com/phrawzty/AudioAddict.bundle",
+        "license": "Apache License 2.0",
+        "license_url": "https://api.github.com/licenses/apache-2.0",
+        "name": "AudioAddict.bundle",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/phrawzty/AudioAddict.bundle/zipball/0.8.0",
+                "name": "0.8.0",
+                "prerelease": false,
+                "release_date": "2020-11-27T09:25:44Z",
+                "tag_name": "0.8.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/phrawzty/AudioAddict.bundle/zipball/0.7.0",
+                "name": "0.7.0",
+                "prerelease": false,
+                "release_date": "2020-03-10T11:42:43Z",
+                "tag_name": "0.7.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/phrawzty/AudioAddict.bundle/zipball/0.6.4",
+                "name": "0.6.4",
+                "prerelease": false,
+                "release_date": "2017-10-10T12:01:10Z",
+                "tag_name": "0.6.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/phrawzty/AudioAddict.bundle/zipball/0.6.3",
+                "name": "0.6.3",
+                "prerelease": false,
+                "release_date": "2017-10-04T19:21:16Z",
+                "tag_name": "0.6.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/phrawzty/AudioAddict.bundle/zipball/0.6.2",
+                "name": "0.6.2",
+                "prerelease": false,
+                "release_date": "2017-06-24T20:11:11Z",
+                "tag_name": "0.6.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/phrawzty/AudioAddict.bundle/zipball/0.6.1",
+                "name": "0.6.1",
+                "prerelease": false,
+                "release_date": "2017-05-19T08:57:13Z",
+                "tag_name": "0.6.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/phrawzty/AudioAddict.bundle/zipball/0.6",
+                "name": "0.6",
+                "prerelease": false,
+                "release_date": "2016-02-29T16:58:27Z",
+                "tag_name": "0.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/phrawzty/AudioAddict.bundle/zipball/0.5",
+                "name": "0.5",
+                "prerelease": false,
+                "release_date": "2015-12-22T23:22:01Z",
+                "tag_name": "0.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/phrawzty/AudioAddict.bundle/zipball/0.4.3",
+                "name": "0.4.3",
+                "prerelease": false,
+                "release_date": "2015-03-17T09:49:04Z",
+                "tag_name": "0.4.3"
+            }
+        ],
+        "stargazers_count": 24,
+        "thumb_image_url": "https://raw.githubusercontent.com/phrawzty/AudioAddict.bundle/main/Contents/Resources/icon-default.jpg"
+    },
     "21045557": {
         "archived": false,
         "attribution_image_url": null,
