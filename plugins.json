@@ -3248,6 +3248,45 @@
         "stargazers_count": 72,
         "thumb_image_url": "https://raw.githubusercontent.com/fuzeman/Spotify2.bundle/master/Contents/Resources/icon-default.png"
     },
+    "17724062": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3686226?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-04-03T02:11:38Z",
+                "commit_sha": "af44f9e83988a81edff41586ec9db3ce5fbfc49d",
+                "download_url": "https://github.com/reallistic/PlexMan.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "Plex Media Server Manager plugin",
+        "disabled": false,
+        "forks_count": 4,
+        "full_name": "reallistic/PlexMan",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/reallistic/PlexMan.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "PlexMan",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/reallistic/PlexMan.bundle/master/Contents/Resources/icon-default.png"
+    },
     "17883862": {
         "archived": true,
         "attribution_image_url": null,
