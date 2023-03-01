@@ -1145,6 +1145,69 @@
         "stargazers_count": 13,
         "thumb_image_url": "https://raw.githubusercontent.com/cp9999/MusicPlaylist.bundle/master/Contents/Resources/icon-default.png"
     },
+    "13333281": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/283676?v=4",
+        "branches": [
+            {
+                "commit_date": "2013-12-10T17:36:11Z",
+                "commit_sha": "bde0fb577c60f26b04e2ca59d933420e43cc9e03",
+                "download_url": "https://github.com/InfernoZeus/Hockey.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2013-10-07T22:10:22Z",
+                "commit_sha": "294dd53340e230d7406fac248c4032b762dd5aab",
+                "download_url": "https://github.com/InfernoZeus/Hockey.bundle/archive/refs/heads/pref-change.zip",
+                "name": "pref-change"
+            },
+            {
+                "commit_date": "2013-10-09T23:51:24Z",
+                "commit_sha": "85687eb06f02d5363779c0c78d4a8831711b4569",
+                "download_url": "https://github.com/InfernoZeus/Hockey.bundle/archive/refs/heads/v2.0-archive.zip",
+                "name": "v2.0-archive"
+            },
+            {
+                "commit_date": "2013-11-13T22:31:26Z",
+                "commit_sha": "583991638aacfacc971f005a4cd67c1d685ec037",
+                "download_url": "https://github.com/InfernoZeus/Hockey.bundle/archive/refs/heads/v2.0-parse.zip",
+                "name": "v2.0-parse"
+            },
+            {
+                "commit_date": "2013-12-07T19:14:34Z",
+                "commit_sha": "f8b1ec79c78bad03db165b74679e28899df1af25",
+                "download_url": "https://github.com/InfernoZeus/Hockey.bundle/archive/refs/heads/v2.0.zip",
+                "name": "v2.0"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex channel to watch hockey streams.  Download zip files here:",
+        "disabled": false,
+        "forks_count": 7,
+        "full_name": "InfernoZeus/Hockey",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": "https://drive.google.com/folderview?id=0BwIS6HHpnVljcGJFSEhzcmUxVTg#list",
+        "html_url": "https://github.com/InfernoZeus/Hockey.bundle",
+        "license": "The Unlicense",
+        "license_url": "https://api.github.com/licenses/unlicense",
+        "name": "Hockey",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/InfernoZeus/Hockey.bundle/master/Contents/Resources/icon-default.png"
+    },
     "1336523": {
         "archived": false,
         "attribution_image_url": null,
