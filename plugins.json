@@ -4118,6 +4118,46 @@
         "stargazers_count": 1393,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
+    "3078148": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1163946?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-10-01T07:47:46Z",
+                "commit_sha": "d8c828ba504303567e06dacb96ed41b0456c2cb8",
+                "download_url": "https://github.com/vofik/Kink.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "kink.com metadata bundle for Plex",
+        "disabled": false,
+        "forks_count": 15,
+        "full_name": "vofik/Kink.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "http://forums.plexapp.com/index.php/topic/35633-adult-kinkcom-metadata-agent/",
+        "html_url": "https://github.com/vofik/Kink.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Kink.bundle",
+        "open_issues_count": 2,
+        "open_pull_requests_count": 3,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 15,
+        "thumb_image_url": "https://raw.githubusercontent.com/vofik/Kink.bundle/master/Contents/Resources/icon-default.png"
+    },
     "30866767": {
         "archived": false,
         "attribution_image_url": null,
