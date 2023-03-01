@@ -3270,6 +3270,47 @@
         "stargazers_count": 96,
         "thumb_image_url": null
     },
+    "22486183": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/162537?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-09-22T11:12:48Z",
+                "commit_sha": "99d15e5016dca3ff7885146a740e7135689c91bc",
+                "download_url": "https://github.com/infernix/HdbitsSubtitles.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Subtitles",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 5,
+        "full_name": "infernix/HdbitsSubtitles.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/infernix/HdbitsSubtitles.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "HdbitsSubtitles.bundle",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 5,
+        "thumb_image_url": "https://raw.githubusercontent.com/infernix/HdbitsSubtitles.bundle/master/Contents/Resources/icon-default.png"
+    },
     "22554947": {
         "archived": false,
         "attribution_image_url": null,
