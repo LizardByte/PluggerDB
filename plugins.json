@@ -4296,7 +4296,7 @@
                 "tag_name": "1.0"
             }
         ],
-        "stargazers_count": 1259,
+        "stargazers_count": 1260,
         "thumb_image_url": null
     },
     "254866276": {
@@ -5911,7 +5911,7 @@
         "default_branch": "master",
         "description": null,
         "disabled": false,
-        "forks_count": 139,
+        "forks_count": 138,
         "full_name": "gboudreau/XBMCnfoMoviesImporter.bundle",
         "gh_pages_url": null,
         "has_discussions": false,
