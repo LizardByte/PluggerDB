@@ -8482,6 +8482,45 @@
         "stargazers_count": 7,
         "thumb_image_url": "https://raw.githubusercontent.com/snoshoesledska/plexpod.bundle/master/Contents/Resources/icon-default.png"
     },
+    "71592272": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3989440?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-07-24T08:33:12Z",
+                "commit_sha": "d656f9dd0f14c1b1776ebc2c6e009b8251f69424",
+                "download_url": "https://github.com/daeks/ArgusTV-Agent.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "ArgusTV Metadata Agent for Plex",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "daeks/ArgusTV-Agent.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/daeks/ArgusTV-Agent.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "ArgusTV-Agent.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/daeks/ArgusTV-Agent.bundle/master/Contents/Resources/icon-default.png"
+    },
     "7257641": {
         "archived": false,
         "attribution_image_url": null,
