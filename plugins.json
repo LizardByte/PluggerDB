@@ -2130,6 +2130,61 @@
         "stargazers_count": 3,
         "thumb_image_url": null
     },
+    "157459661": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3302524?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-11-18T21:51:31Z",
+                "commit_sha": "5d100f0c79283328c43df5d5ed7641b832c7597e",
+                "download_url": "https://github.com/matthewdias/VGMDB.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Games",
+            "Metadata Agent",
+            "Music"
+        ],
+        "default_branch": "master",
+        "description": "VGMDB music metadata agent for Plex Media Server",
+        "disabled": false,
+        "forks_count": 4,
+        "full_name": "matthewdias/VGMDB",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "https://vgmdb.net/",
+        "html_url": "https://github.com/matthewdias/VGMDB.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "VGMDB",
+        "open_issues_count": 3,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://github.com/matthewdias/VGMDB.bundle/releases/download/0.0.2/VGMDB.bundle.zip",
+                "name": "Bugfixes",
+                "prerelease": false,
+                "release_date": "2018-11-18T21:54:46Z",
+                "tag_name": "0.0.2"
+            },
+            {
+                "bundle_url": "https://github.com/matthewdias/VGMDB.bundle/releases/download/0.0.1/VGMDB.bundle.zip",
+                "name": "Initial Release",
+                "prerelease": false,
+                "release_date": "2018-11-13T23:14:37Z",
+                "tag_name": "0.0.1"
+            }
+        ],
+        "stargazers_count": 9,
+        "thumb_image_url": null
+    },
     "15878519": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/ukdtom/SRT2UTF-8.bundle/master/Contents/Resources/attribution.png",
