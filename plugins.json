@@ -5892,6 +5892,45 @@
         "stargazers_count": 327,
         "thumb_image_url": "https://raw.githubusercontent.com/kolsys/YouTubeTV.bundle/master/Contents/Resources/icon-default.png"
     },
+    "359880004": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/timmy0209/WangYiYun.bundle/main/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/54787369?v=4",
+        "branches": [
+            {
+                "commit_date": "2022-11-10T00:35:37Z",
+                "commit_sha": "ab356dc8f03193aa5a63ff26a6cd3f13f4875386",
+                "download_url": "https://github.com/timmy0209/WangYiYun.bundle/archive/refs/heads/main.zip",
+                "name": "main"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Music"
+        ],
+        "default_branch": "main",
+        "description": "a PLEX music plugin get info form wangyiyun",
+        "disabled": false,
+        "forks_count": 15,
+        "full_name": "timmy0209/WangYiYun",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/timmy0209/WangYiYun.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "WangYiYun",
+        "open_issues_count": 6,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 78,
+        "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/WangYiYun.bundle/main/Contents/Resources/icon-default.png"
+    },
     "3621001": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/attribution.png",
