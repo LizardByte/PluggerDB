@@ -5116,6 +5116,45 @@
         "stargazers_count": 9,
         "thumb_image_url": "https://raw.githubusercontent.com/vofik/ExcaliburFilms.bundle/master/Contents/Resources/icon-default.png"
     },
+    "27304929": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/826723?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-11-29T14:46:18Z",
+                "commit_sha": "bae0b9f0569d953d41cdcfc71ee42469c8c07c06",
+                "download_url": "https://github.com/yanavery/UPlay.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "UPlay - UPnP/DLNA Plex Video Channel Plug-in",
+        "disabled": false,
+        "forks_count": 3,
+        "full_name": "yanavery/UPlay",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/yanavery/UPlay.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "UPlay",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 14,
+        "thumb_image_url": "https://raw.githubusercontent.com/yanavery/UPlay.bundle/master/Contents/Resources/icon-default.png"
+    },
     "27573357": {
         "archived": false,
         "attribution_image_url": null,
