@@ -477,6 +477,177 @@
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/jashk/Crunchyroll.bundle/master/Contents/Resources/icon-default.png"
     },
+    "118404983": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/wonipapa/DaumMovieTVSeries.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/5883573?v=4",
+        "branches": [
+            {
+                "commit_date": "2021-04-23T13:18:40Z",
+                "commit_sha": "f6e70453fa91f7af9990793cbecb13a14ca3909c",
+                "download_url": "https://github.com/wonipapa/DaumMovieTVSeries.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex Metadata Agent for daum movie & tv series",
+        "disabled": false,
+        "forks_count": 14,
+        "full_name": "wonipapa/DaumMovieTVSeries.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/wonipapa/DaumMovieTVSeries.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "DaumMovieTVSeries.bundle",
+        "open_issues_count": 5,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 38,
+        "thumb_image_url": "https://raw.githubusercontent.com/wonipapa/DaumMovieTVSeries.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "12093139": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/5163877?v=4",
+        "branches": [
+            {
+                "commit_date": "2022-03-16T20:01:11Z",
+                "commit_sha": "d0145198d395cacbb5f25d4afc632216d880889b",
+                "download_url": "https://github.com/ZeroQI/Hama.bundle/archive/refs/heads/add-kana-title-type.zip",
+                "name": "add-kana-title-type"
+            },
+            {
+                "commit_date": "2023-01-16T09:36:20Z",
+                "commit_sha": "c6987a00e68b23883a263481c823bb7aa7684c21",
+                "download_url": "https://github.com/ZeroQI/Hama.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Anime",
+            "Metadata Agent",
+            "Movies",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex HTTP Anidb Metadata Agent (HAMA)",
+        "disabled": false,
+        "forks_count": 116,
+        "full_name": "ZeroQI/Hama.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/ZeroQI/Hama.bundle",
+        "license": "GNU General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/gpl-3.0",
+        "name": "Hama.bundle",
+        "open_issues_count": 9,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://github.com/ZeroQI/Hama.bundle/releases/download/Beta/Hama.bundle.2017-08-19.18h05.zip",
+                "name": "ZeroQI Major re-write test release",
+                "prerelease": true,
+                "release_date": "2017-02-22T13:05:47Z",
+                "tag_name": "Beta"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/ZeroQI/Hama.bundle/zipball/v1.0",
+                "name": "Version independant packages",
+                "prerelease": false,
+                "release_date": "2016-04-05T13:40:13Z",
+                "tag_name": "v1.0"
+            }
+        ],
+        "stargazers_count": 1068,
+        "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "1210048": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/277223?v=4",
+        "branches": [
+            {
+                "commit_date": "2012-09-20T15:38:13Z",
+                "commit_sha": "dd0a25a377263a6f21482a5b4b8b4bb325e0e222",
+                "download_url": "https://github.com/mikedm139/SABnzbd.bundle/archive/refs/heads/3rdParty.zip",
+                "name": "3rdParty"
+            },
+            {
+                "commit_date": "2013-05-07T02:10:13Z",
+                "commit_sha": "9c8b6946e0637c1ace5e8d7f5e8974904d54c3a5",
+                "download_url": "https://github.com/mikedm139/SABnzbd.bundle/archive/refs/heads/applications.zip",
+                "name": "applications"
+            },
+            {
+                "commit_date": "2012-10-27T22:28:54Z",
+                "commit_sha": "9a7a95126c9ff6498ae0e2f0e42baaca387129d0",
+                "download_url": "https://github.com/mikedm139/SABnzbd.bundle/archive/refs/heads/dev.zip",
+                "name": "dev"
+            },
+            {
+                "commit_date": "2013-05-05T19:39:22Z",
+                "commit_sha": "25f2b5c12538519d5e8f59d4e27eda1bb26da0b2",
+                "download_url": "https://github.com/mikedm139/SABnzbd.bundle/archive/refs/heads/framework2.1.zip",
+                "name": "framework2.1"
+            },
+            {
+                "commit_date": "2014-08-24T16:36:50Z",
+                "commit_sha": "0ba316468ee515ad9c52ca7cac4c04e9ab22d126",
+                "download_url": "https://github.com/mikedm139/SABnzbd.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2013-05-07T02:10:13Z",
+                "commit_sha": "abf66332f9f80df88bf0b9e6c1cb63968dee46f7",
+                "download_url": "https://github.com/mikedm139/SABnzbd.bundle/archive/refs/heads/videos.zip",
+                "name": "videos"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 4,
+        "full_name": "mikedm139/SABnzbd.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/mikedm139/SABnzbd.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "SABnzbd.bundle",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 10,
+        "thumb_image_url": "https://raw.githubusercontent.com/mikedm139/SABnzbd.bundle/master/Contents/Resources/icon-default.png"
+    },
     "12186768": {
         "archived": false,
         "attribution_image_url": null,
@@ -656,6 +827,87 @@
         "releases": [],
         "stargazers_count": 40,
         "thumb_image_url": null
+    },
+    "12889386": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/2023672?v=4",
+        "branches": [
+            {
+                "commit_date": "2021-05-16T23:35:28Z",
+                "commit_sha": "078e54552d8e178921ee35ee95555450b236438d",
+                "download_url": "https://github.com/hojel/SmiConvert.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Subtitles",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex agent to convert subtitles in SMI format to SRT format",
+        "disabled": false,
+        "forks_count": 14,
+        "full_name": "hojel/SmiConvert.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/hojel/SmiConvert.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "SmiConvert.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 30,
+        "thumb_image_url": "https://raw.githubusercontent.com/hojel/SmiConvert.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "129477085": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/5163877?v=4",
+        "branches": [
+            {
+                "commit_date": "2023-01-20T18:03:48Z",
+                "commit_sha": "7efbf4da0c06f98ca54a57e5412ea9b18d3b84b4",
+                "download_url": "https://github.com/ZeroQI/YouTube-Agent.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex Metadata Agent for Movies and TV Series libraries",
+        "disabled": false,
+        "forks_count": 45,
+        "full_name": "ZeroQI/YouTube-Agent.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/ZeroQI/YouTube-Agent.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "YouTube-Agent.bundle",
+        "open_issues_count": 11,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 315,
+        "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
         "archived": false,
@@ -944,6 +1196,147 @@
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/dbl-a/ABC.bundle/master/Contents/Resources/icon-default.png"
     },
+    "13564194": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/104684?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-06-06T21:01:22Z",
+                "commit_sha": "d10fb04f34127c68e095dc12c11e4f29f708c28c",
+                "download_url": "https://github.com/sander1/YouTube-Agent.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 14,
+        "full_name": "sander1/YouTube-Agent.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/sander1/YouTube-Agent.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "YouTube-Agent.bundle",
+        "open_issues_count": 4,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 27,
+        "thumb_image_url": "https://raw.githubusercontent.com/sander1/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
+    },
+    "136007302": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1188502?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-05-20T22:08:45Z",
+                "commit_sha": "663f5d8b3abeeccddd9939876d6e1d3803011f5f",
+                "download_url": "https://github.com/amirotin/Kinopoisk.bundle/archive/refs/heads/beta.zip",
+                "name": "beta"
+            },
+            {
+                "commit_date": "2021-10-25T21:16:30Z",
+                "commit_sha": "2db1b0001f55b752dda05b713dd4dcc2177f5a49",
+                "download_url": "https://github.com/amirotin/Kinopoisk.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2021-11-04T16:26:48Z",
+                "commit_sha": "c12441d2078881b0df2d1a048a00c2052dbf4b90",
+                "download_url": "https://github.com/amirotin/Kinopoisk.bundle/archive/refs/heads/renovate/configure.zip",
+                "name": "renovate/configure"
+            },
+            {
+                "commit_date": "2020-02-29T11:19:12Z",
+                "commit_sha": "cd538fb9ce8c7c9ee8edc57032ff7126b1989701",
+                "download_url": "https://github.com/amirotin/Kinopoisk.bundle/archive/refs/heads/revert-10-master.zip",
+                "name": "revert-10-master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Services",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 40,
+        "full_name": "amirotin/Kinopoisk.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/amirotin/Kinopoisk.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Kinopoisk.bundle",
+        "open_issues_count": 29,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/amirotin/Kinopoisk.bundle/zipball/2.0.11",
+                "name": "FIX \u043f\u043e\u0441\u0442\u0435\u0440\u043e\u0432",
+                "prerelease": false,
+                "release_date": "2021-03-18T05:55:06Z",
+                "tag_name": "2.0.11"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/amirotin/Kinopoisk.bundle/zipball/v2.0.10",
+                "name": "\u0421\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0440\u0435\u043b\u0438\u0437 v2.0.10",
+                "prerelease": false,
+                "release_date": "2020-05-21T20:16:05Z",
+                "tag_name": "v2.0.10"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/amirotin/Kinopoisk.bundle/zipball/v2.0.9",
+                "name": "\u0421\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0440\u0435\u043b\u0438\u0437 v2.0.9",
+                "prerelease": false,
+                "release_date": "2020-05-20T23:21:08Z",
+                "tag_name": "v2.0.9"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/amirotin/Kinopoisk.bundle/zipball/v2.0.8",
+                "name": "\u0421\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0440\u0435\u043b\u0438\u0437 v2.0.8",
+                "prerelease": false,
+                "release_date": "2020-05-20T22:38:15Z",
+                "tag_name": "v2.0.8"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/amirotin/Kinopoisk.bundle/zipball/v2.0.7",
+                "name": "\u0421\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0440\u0435\u043b\u0438\u0437 v2.0.7",
+                "prerelease": false,
+                "release_date": "2020-03-02T12:16:33Z",
+                "tag_name": "v2.0.7"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/amirotin/Kinopoisk.bundle/zipball/v2.0.0",
+                "name": "\u0421\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0440\u0435\u043b\u0438\u0437 v2.0.0",
+                "prerelease": false,
+                "release_date": "2019-03-30T15:29:17Z",
+                "tag_name": "v2.0.0"
+            }
+        ],
+        "stargazers_count": 156,
+        "thumb_image_url": "https://raw.githubusercontent.com/amirotin/Kinopoisk.bundle/master/Contents/Resources/icon-default.png"
+    },
     "137607528": {
         "archived": false,
         "attribution_image_url": null,
@@ -995,6 +1388,87 @@
         "releases": [],
         "stargazers_count": 17,
         "thumb_image_url": null
+    },
+    "139184077": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/adultplexdev/AdultDVDEmpire.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/19413935?v=4",
+        "branches": [
+            {
+                "commit_date": "2023-03-01T01:26:55Z",
+                "commit_sha": "008fb161693b82a98cdbb025ee7af6d67a9d4df0",
+                "download_url": "https://github.com/adultplexdev/AdultDVDEmpire.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Plex metadata agent for fetching metadata for AdultDVDEmpire material.",
+        "disabled": false,
+        "forks_count": 18,
+        "full_name": "adultplexdev/AdultDVDEmpire.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/adultplexdev/AdultDVDEmpire.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "AdultDVDEmpire.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 38,
+        "thumb_image_url": "https://raw.githubusercontent.com/adultplexdev/AdultDVDEmpire.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "142117804": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/ZeroQI/Lambda.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/5163877?v=4",
+        "branches": [
+            {
+                "commit_date": "2022-02-08T11:57:27Z",
+                "commit_sha": "9b59336ade96a1139bd7eaebd49e838accccb280",
+                "download_url": "https://github.com/ZeroQI/Lambda.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Music",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Local Media Export, a reverse Plex  'Local Media Assets' agent to export metadata locally",
+        "disabled": false,
+        "forks_count": 19,
+        "full_name": "ZeroQI/Lambda.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/ZeroQI/Lambda.bundle",
+        "license": "GNU General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/gpl-3.0",
+        "name": "Lambda.bundle",
+        "open_issues_count": 10,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 116,
+        "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Lambda.bundle/master/Contents/Resources/icon-default.png"
     },
     "14254798": {
         "archived": false,
@@ -1195,6 +1669,46 @@
         "stargazers_count": 15,
         "thumb_image_url": "https://raw.githubusercontent.com/PhoenixPlexCode/Data18-Phoenix.bundle/master/Contents/Resources/icon-default.png"
     },
+    "148073215": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/43088899?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-10-02T22:59:52Z",
+                "commit_sha": "1b06b1a909c41c40f3031ed17decb7a9b9734901",
+                "download_url": "https://github.com/PhoenixPlexCode/PhoenixAdult.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Plex Meta-Data Agent for scene videos from multiple adult sites",
+        "disabled": false,
+        "forks_count": 218,
+        "full_name": "PhoenixPlexCode/PhoenixAdult.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/PhoenixPlexCode/PhoenixAdult.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "PhoenixAdult.bundle",
+        "open_issues_count": 26,
+        "open_pull_requests_count": 4,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 86,
+        "thumb_image_url": "https://raw.githubusercontent.com/PhoenixPlexCode/PhoenixAdult.bundle/master/Contents/Resources/icon-default.png"
+    },
     "1512575": {
         "archived": false,
         "attribution_image_url": null,
@@ -1366,6 +1880,47 @@
         "stargazers_count": 3,
         "thumb_image_url": null
     },
+    "15878519": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/ukdtom/SRT2UTF-8.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/4699449?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-12-04T18:51:47Z",
+                "commit_sha": "6eccdf20882cb78bc8f2ae830a92e39ce7b4d67b",
+                "download_url": "https://github.com/ukdtom/SRT2UTF-8.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Subtitles",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex Agent, that'll convert sidecar subtitle files into UTF-8, if not",
+        "disabled": false,
+        "forks_count": 15,
+        "full_name": "ukdtom/SRT2UTF-8.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/ukdtom/SRT2UTF-8.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "SRT2UTF-8.bundle",
+        "open_issues_count": 5,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 122,
+        "thumb_image_url": "https://raw.githubusercontent.com/ukdtom/SRT2UTF-8.bundle/master/Contents/Resources/icon-default.png"
+    },
     "15983401": {
         "archived": false,
         "attribution_image_url": null,
@@ -1410,6 +1965,45 @@
         "releases": [],
         "stargazers_count": 22,
         "thumb_image_url": null
+    },
+    "161774373": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/45716135?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-06-10T18:55:08Z",
+                "commit_sha": "284985343edf2b64e475602210804410fba4fadc",
+                "download_url": "https://github.com/contrary-cat/LocalTVExtras.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Local TV Extras Agent for Plex",
+        "disabled": false,
+        "forks_count": 10,
+        "full_name": "contrary-cat/LocalTVExtras.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/contrary-cat/LocalTVExtras.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "LocalTVExtras.bundle",
+        "open_issues_count": 6,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 83,
+        "thumb_image_url": "https://raw.githubusercontent.com/contrary-cat/LocalTVExtras.bundle/master/Contents/Resources/icon-default.png"
     },
     "16748628": {
         "archived": false,
@@ -1703,6 +2297,67 @@
         "releases": [],
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/ajtatum/AvalonRestAgent.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "169829934": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/105443?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-05-11T10:35:41Z",
+                "commit_sha": "7fe10598f0dc63ce4ae071c43cba7c704a35599c",
+                "download_url": "https://github.com/vmirage/TMDBTrailer.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "vmirage/TMDBTrailer.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/vmirage/TMDBTrailer.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "TMDBTrailer.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://github.com/vmirage/TMDBTrailer.bundle/releases/download/v4.2/TMDBTrailer.bundle.zip",
+                "name": "v4.2",
+                "prerelease": false,
+                "release_date": "2020-05-11T10:38:20Z",
+                "tag_name": "v4.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/vmirage/TMDBTrailer.bundle/zipball/v4.1",
+                "name": "v4.1",
+                "prerelease": false,
+                "release_date": "2020-01-13T02:14:45Z",
+                "tag_name": "v4.1"
+            },
+            {
+                "bundle_url": "https://github.com/vmirage/TMDBTrailer.bundle/releases/download/v4.0/TMDBTrailer.zip",
+                "name": "v4.0",
+                "prerelease": false,
+                "release_date": "2019-02-09T06:59:14Z",
+                "tag_name": "v4.0"
+            }
+        ],
+        "stargazers_count": 12,
+        "thumb_image_url": "https://raw.githubusercontent.com/vmirage/TMDBTrailer.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "17290702": {
         "archived": false,
@@ -2031,6 +2686,59 @@
         "stargazers_count": 56,
         "thumb_image_url": null
     },
+    "18257694": {
+        "archived": true,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/7104931?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-05-23T04:21:50Z",
+                "commit_sha": "5acb31a1782666b9051a82a5f634e15a68e8b609",
+                "download_url": "https://github.com/BrutuZ/LegendasTV.bundle/archive/refs/heads/deprecated.zip",
+                "name": "deprecated"
+            },
+            {
+                "commit_date": "2017-08-11T22:56:36Z",
+                "commit_sha": "4af961acbfcd63e59e3a82e71e1d688ee1a6dc5b",
+                "download_url": "https://github.com/BrutuZ/LegendasTV.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2014-11-15T19:32:19Z",
+                "commit_sha": "474afd62c42f042da4952a51b05bb0ceb8fa20d0",
+                "download_url": "https://github.com/BrutuZ/LegendasTV.bundle/archive/refs/heads/test.zip",
+                "name": "test"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Subtitles",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex Subtitle Agent for Legendas.tv",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "BrutuZ/LegendasTV.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/BrutuZ/LegendasTV.bundle",
+        "license": "GNU General Public License v2.0",
+        "license_url": "https://api.github.com/licenses/gpl-2.0",
+        "name": "LegendasTV.bundle",
+        "open_issues_count": 5,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 16,
+        "thumb_image_url": "https://raw.githubusercontent.com/BrutuZ/LegendasTV.bundle/master/Contents/Resources/icon-default.png"
+    },
     "18277980": {
         "archived": false,
         "attribution_image_url": null,
@@ -2076,6 +2784,115 @@
         "releases": [],
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/gentiho/PlexTools.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "19236973": {
+        "archived": true,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/625232?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-10-04T19:14:30Z",
+                "commit_sha": "399bf30e708b344e8b14c47e54d1a49fca80eaa9",
+                "download_url": "https://github.com/phrawzty/AudioAddict.bundle/archive/refs/heads/cast_own.zip",
+                "name": "cast_own"
+            },
+            {
+                "commit_date": "2020-11-27T09:22:49Z",
+                "commit_sha": "b083d1f1f418f35a10ae0407b94f2e47f4c2a646",
+                "download_url": "https://github.com/phrawzty/AudioAddict.bundle/archive/refs/heads/main.zip",
+                "name": "main"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Music"
+        ],
+        "default_branch": "main",
+        "description": "Plex channel plugin for AudioAddict (radiotunes.com, di.fm, etc.)",
+        "disabled": false,
+        "forks_count": 13,
+        "full_name": "phrawzty/AudioAddict.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "https://forums.plex.tv/discussion/107801/rel-audioaddict-radiotunes-com-di-fm-etc/p1",
+        "html_url": "https://github.com/phrawzty/AudioAddict.bundle",
+        "license": "Apache License 2.0",
+        "license_url": "https://api.github.com/licenses/apache-2.0",
+        "name": "AudioAddict.bundle",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/phrawzty/AudioAddict.bundle/zipball/0.8.0",
+                "name": "0.8.0",
+                "prerelease": false,
+                "release_date": "2020-11-27T09:25:44Z",
+                "tag_name": "0.8.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/phrawzty/AudioAddict.bundle/zipball/0.7.0",
+                "name": "0.7.0",
+                "prerelease": false,
+                "release_date": "2020-03-10T11:42:43Z",
+                "tag_name": "0.7.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/phrawzty/AudioAddict.bundle/zipball/0.6.4",
+                "name": "0.6.4",
+                "prerelease": false,
+                "release_date": "2017-10-10T12:01:10Z",
+                "tag_name": "0.6.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/phrawzty/AudioAddict.bundle/zipball/0.6.3",
+                "name": "0.6.3",
+                "prerelease": false,
+                "release_date": "2017-10-04T19:21:16Z",
+                "tag_name": "0.6.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/phrawzty/AudioAddict.bundle/zipball/0.6.2",
+                "name": "0.6.2",
+                "prerelease": false,
+                "release_date": "2017-06-24T20:11:11Z",
+                "tag_name": "0.6.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/phrawzty/AudioAddict.bundle/zipball/0.6.1",
+                "name": "0.6.1",
+                "prerelease": false,
+                "release_date": "2017-05-19T08:57:13Z",
+                "tag_name": "0.6.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/phrawzty/AudioAddict.bundle/zipball/0.6",
+                "name": "0.6",
+                "prerelease": false,
+                "release_date": "2016-02-29T16:58:27Z",
+                "tag_name": "0.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/phrawzty/AudioAddict.bundle/zipball/0.5",
+                "name": "0.5",
+                "prerelease": false,
+                "release_date": "2015-12-22T23:22:01Z",
+                "tag_name": "0.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/phrawzty/AudioAddict.bundle/zipball/0.4.3",
+                "name": "0.4.3",
+                "prerelease": false,
+                "release_date": "2015-03-17T09:49:04Z",
+                "tag_name": "0.4.3"
+            }
+        ],
+        "stargazers_count": 24,
+        "thumb_image_url": "https://raw.githubusercontent.com/phrawzty/AudioAddict.bundle/main/Contents/Resources/icon-default.jpg"
     },
     "21045557": {
         "archived": false,
@@ -2236,6 +3053,242 @@
         "stargazers_count": 1,
         "thumb_image_url": "https://raw.githubusercontent.com/mattpwalsh/TiVo.bundle/master/Contents/Resources/icon-default.jpg"
     },
+    "217692442": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/AdultScraperX/AdultScraperX.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/63276197?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-04-12T06:08:22Z",
+                "commit_sha": "3eb8e5362823f1b2b7536817f32630d40fd30758",
+                "download_url": "https://github.com/AdultScraperX/AdultScraperX.bundle/archive/refs/heads/dev.zip",
+                "name": "dev"
+            },
+            {
+                "commit_date": "2021-07-17T10:36:46Z",
+                "commit_sha": "a817fbc90b0a124a27183ead8d3c9800ea59ad2a",
+                "download_url": "https://github.com/AdultScraperX/AdultScraperX.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "plex adult scraper",
+        "disabled": false,
+        "forks_count": 20,
+        "full_name": "AdultScraperX/AdultScraperX.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/AdultScraperX/AdultScraperX.bundle",
+        "license": "GNU General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/gpl-3.0",
+        "name": "AdultScraperX.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.6.3",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2020-03-27T07:52:23Z",
+                "tag_name": "1.6.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.6.2",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2020-03-22T14:15:00Z",
+                "tag_name": "1.6.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.6.1",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2020-03-22T12:07:53Z",
+                "tag_name": "1.6.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.6.0",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2020-03-22T08:04:55Z",
+                "tag_name": "1.6.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.5.1",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2020-03-16T15:59:05Z",
+                "tag_name": "1.5.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.5.0",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2020-03-15T13:11:53Z",
+                "tag_name": "1.5.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.3.2",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2020-03-13T08:13:21Z",
+                "tag_name": "1.3.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.3.1",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2020-03-13T05:11:27Z",
+                "tag_name": "1.3.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.3.0",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2020-03-12T17:07:43Z",
+                "tag_name": "1.3.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.2.0",
+                "name": "",
+                "prerelease": true,
+                "release_date": "2020-03-09T12:58:38Z",
+                "tag_name": "1.2.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.1.2",
+                "name": "",
+                "prerelease": true,
+                "release_date": "2020-03-09T10:25:40Z",
+                "tag_name": "1.1.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.1",
+                "name": "1.1",
+                "prerelease": false,
+                "release_date": "2020-03-02T10:47:31Z",
+                "tag_name": "1.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.0",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2019-12-14T15:16:43Z",
+                "tag_name": "1.0"
+            }
+        ],
+        "stargazers_count": 117,
+        "thumb_image_url": "https://raw.githubusercontent.com/AdultScraperX/AdultScraperX.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "21787506": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3511293?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-08-01T07:09:22Z",
+                "commit_sha": "50f5194be46d21718cfc18acd0898c8b749a2000",
+                "download_url": "https://github.com/bramwalet/Subliminal.bundle/archive/refs/heads/add_languagues.zip",
+                "name": "add_languagues"
+            },
+            {
+                "commit_date": "2015-10-11T14:39:17Z",
+                "commit_sha": "d9c26e88a412aab4c9ed304e071ba2b6157b71c2",
+                "download_url": "https://github.com/bramwalet/Subliminal.bundle/archive/refs/heads/guessit-0.11.zip",
+                "name": "guessit-0.11"
+            },
+            {
+                "commit_date": "2015-10-11T14:32:54Z",
+                "commit_sha": "ecb84c68d913ed49146243d1b5e0b07ff7876f0b",
+                "download_url": "https://github.com/bramwalet/Subliminal.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2015-02-15T16:19:11Z",
+                "commit_sha": "3b3fdb34e32f378224d77396df3f1025c1d75163",
+                "download_url": "https://github.com/bramwalet/Subliminal.bundle/archive/refs/heads/unicode_characters.zip",
+                "name": "unicode_characters"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Subtitles",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex Metadata agent plugin based on Subliminal ",
+        "disabled": false,
+        "forks_count": 147,
+        "full_name": "bramwalet/Subliminal.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/bramwalet/Subliminal.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "Subliminal.bundle",
+        "open_issues_count": 18,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 147,
+        "thumb_image_url": "https://raw.githubusercontent.com/bramwalet/Subliminal.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "217932222": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/Namez-Plex-UAS/Namez.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/84358946?v=4",
+        "branches": [
+            {
+                "commit_date": "2022-04-28T00:58:40Z",
+                "commit_sha": "0c9f691908987e4c5ab97936a4bef34e94bcf2dc",
+                "download_url": "https://github.com/Namez-Plex-UAS/Namez.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Namez Plex Mediadata Agent",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "Namez-Plex-UAS/Namez.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/Namez-Plex-UAS/Namez.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Namez.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 9,
+        "thumb_image_url": "https://raw.githubusercontent.com/Namez-Plex-UAS/Namez.bundle/master/Contents/Resources/icon-default.png"
+    },
     "22023072": {
         "archived": true,
         "attribution_image_url": null,
@@ -2324,6 +3377,47 @@
         ],
         "stargazers_count": 96,
         "thumb_image_url": null
+    },
+    "22486183": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/162537?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-09-22T11:12:48Z",
+                "commit_sha": "99d15e5016dca3ff7885146a740e7135689c91bc",
+                "download_url": "https://github.com/infernix/HdbitsSubtitles.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Subtitles",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 5,
+        "full_name": "infernix/HdbitsSubtitles.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/infernix/HdbitsSubtitles.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "HdbitsSubtitles.bundle",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 5,
+        "thumb_image_url": "https://raw.githubusercontent.com/infernix/HdbitsSubtitles.bundle/master/Contents/Resources/icon-default.png"
     },
     "22554947": {
         "archived": false,
@@ -2552,6 +3646,45 @@
         ],
         "stargazers_count": 14,
         "thumb_image_url": "https://raw.githubusercontent.com/kolsys/VKontakte.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "231253652": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/8687344?v=4",
+        "branches": [
+            {
+                "commit_date": "2022-02-01T00:01:58Z",
+                "commit_sha": "8f6b96180f4cae62978cb364b9e76e7892a4a508",
+                "download_url": "https://github.com/JordyAlkema/Youtube-DL-Agent.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "A plex metadata agent for Youtube-DL downloads",
+        "disabled": false,
+        "forks_count": 14,
+        "full_name": "JordyAlkema/Youtube-DL-Agent.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/JordyAlkema/Youtube-DL-Agent.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Youtube-DL-Agent.bundle",
+        "open_issues_count": 16,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 97,
+        "thumb_image_url": null
     },
     "23523590": {
         "archived": true,
@@ -3021,6 +4154,306 @@
         ],
         "stargazers_count": 19,
         "thumb_image_url": "https://raw.githubusercontent.com/kolsys/HDSerials.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "24531005": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/4699449?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-12-23T22:33:18Z",
+                "commit_sha": "833fc26fcc9677ca259b97f3d428b96149f934dd",
+                "download_url": "https://github.com/ukdtom/WebTools.bundle/archive/refs/heads/Tommy-494.zip",
+                "name": "Tommy-494"
+            },
+            {
+                "commit_date": "2017-12-10T13:59:49Z",
+                "commit_sha": "52073791e54df2512cfc05c8e026717c343592ee",
+                "download_url": "https://github.com/ukdtom/WebTools.bundle/archive/refs/heads/dev-v3.0.zip",
+                "name": "dev-v3.0"
+            },
+            {
+                "commit_date": "2022-12-13T16:12:38Z",
+                "commit_sha": "980f652a08cb14b3749cbfce7682ac755dac15f0",
+                "download_url": "https://github.com/ukdtom/WebTools.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2018-06-19T23:05:55Z",
+                "commit_sha": "4f537ebd3f219edeb2f9bced4b26b3e79b90827b",
+                "download_url": "https://github.com/ukdtom/WebTools.bundle/archive/refs/heads/oliver-work.zip",
+                "name": "oliver-work"
+            },
+            {
+                "commit_date": "2018-03-04T00:49:48Z",
+                "commit_sha": "2d043a433146438aa7280b168d9bc6626be2fa68",
+                "download_url": "https://github.com/ukdtom/WebTools.bundle/archive/refs/heads/tommy-464.zip",
+                "name": "tommy-464"
+            },
+            {
+                "commit_date": "2018-06-19T22:49:42Z",
+                "commit_sha": "b547bf0523520fe17f21a060a73ea4802d5c148f",
+                "download_url": "https://github.com/ukdtom/WebTools.bundle/archive/refs/heads/tommy-work.zip",
+                "name": "tommy-work"
+            },
+            {
+                "commit_date": "2018-06-16T08:50:47Z",
+                "commit_sha": "be36b9a9add13948a7f1130ffb6bc81c692e2039",
+                "download_url": "https://github.com/ukdtom/WebTools.bundle/archive/refs/heads/ukdtom-patch-1.zip",
+                "name": "ukdtom-patch-1"
+            },
+            {
+                "commit_date": "2018-10-07T20:50:55Z",
+                "commit_sha": "bfa3e8ac05cb530558dcce6a73a295e8a7797837",
+                "download_url": "https://github.com/ukdtom/WebTools.bundle/archive/refs/heads/#509.zip",
+                "name": "#509"
+            }
+        ],
+        "categories": [
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "WebTools is a collection of tools for Plex Media Server. Like the Unsupported AppStore (UAS)",
+        "disabled": false,
+        "forks_count": 167,
+        "full_name": "ukdtom/WebTools.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "https://forums.plex.tv/discussion/288191",
+        "html_url": "https://github.com/ukdtom/WebTools.bundle",
+        "license": "Mozilla Public License 2.0",
+        "license_url": "https://api.github.com/licenses/mpl-2.0",
+        "name": "WebTools.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://github.com/ukdtom/WebTools.bundle/releases/download/3.0.0/WebTools.bundle.zip",
+                "name": "Version 3.0.0",
+                "prerelease": false,
+                "release_date": "2017-12-10T14:12:18Z",
+                "tag_name": "3.0.0"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/WebTools.bundle/releases/download/2.4.1/WebTools.bundle.zip",
+                "name": "Version 2.4.1",
+                "prerelease": false,
+                "release_date": "2017-02-19T16:30:37Z",
+                "tag_name": "2.4.1"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/WebTools.bundle/releases/download/2.4/WebTools.bundle.zip",
+                "name": "Version 2.4",
+                "prerelease": false,
+                "release_date": "2017-02-14T22:01:57Z",
+                "tag_name": "2.4"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/WebTools.bundle/releases/download/2.3/WebTools.bundle.zip",
+                "name": "Version 2.3",
+                "prerelease": false,
+                "release_date": "2016-10-23T15:10:08Z",
+                "tag_name": "2.3"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/WebTools.bundle/releases/download/2.2/WebTools.bundle.zip",
+                "name": "Version 2.2",
+                "prerelease": false,
+                "release_date": "2016-04-25T21:11:55Z",
+                "tag_name": "2.2"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/WebTools.bundle/releases/download/2.1/WebTools.bundle.zip",
+                "name": "Version 2.1",
+                "prerelease": false,
+                "release_date": "2016-01-14T21:28:54Z",
+                "tag_name": "2.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/ukdtom/WebTools.bundle/zipball/2.0",
+                "name": "Version 2.0",
+                "prerelease": false,
+                "release_date": "2016-01-14T19:11:21Z",
+                "tag_name": "2.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/ukdtom/WebTools.bundle/zipball/1.1",
+                "name": "Version 1.1",
+                "prerelease": false,
+                "release_date": "2015-10-25T18:12:53Z",
+                "tag_name": "1.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/ukdtom/WebTools.bundle/zipball/1.0",
+                "name": "1.0",
+                "prerelease": false,
+                "release_date": "2015-10-11T18:30:43Z",
+                "tag_name": "1.0"
+            }
+        ],
+        "stargazers_count": 1260,
+        "thumb_image_url": null
+    },
+    "254866276": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/17012946?v=4",
+        "branches": [
+            {
+                "commit_date": "2021-10-06T22:29:12Z",
+                "commit_sha": "24953d1ae1ba34fb2630a31e9db506cc10f4fa24",
+                "download_url": "https://github.com/seanap/Audiobooks.bundle/archive/refs/heads/develop.zip",
+                "name": "develop"
+            },
+            {
+                "commit_date": "2021-10-08T00:12:58Z",
+                "commit_sha": "2dad6991d98aaf81f3e3cf8714ff4ff8231bf7a2",
+                "download_url": "https://github.com/seanap/Audiobooks.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Music"
+        ],
+        "default_branch": "master",
+        "description": "Audiobook metadata agent for Plex",
+        "disabled": false,
+        "forks_count": 11,
+        "full_name": "seanap/Audiobooks.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/seanap/Audiobooks.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Audiobooks.bundle",
+        "open_issues_count": 6,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/seanap/Audiobooks.bundle/zipball/v2021.09.13.1",
+                "name": "v2021.09.13.1",
+                "prerelease": false,
+                "release_date": "2021-09-15T22:34:23Z",
+                "tag_name": "v2021.09.13.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/seanap/Audiobooks.bundle/zipball/v2021.09.02.1",
+                "name": "v2021.09.02.1",
+                "prerelease": false,
+                "release_date": "2021-09-02T21:46:29Z",
+                "tag_name": "v2021.09.02.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/seanap/Audiobooks.bundle/zipball/v2021.08.30.2",
+                "name": "v2021.08.30.2",
+                "prerelease": false,
+                "release_date": "2021-08-30T22:34:29Z",
+                "tag_name": "v2021.08.30.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/seanap/Audiobooks.bundle/zipball/v2021.08.30.1",
+                "name": "v2021.08.30.1",
+                "prerelease": false,
+                "release_date": "2021-08-30T22:25:25Z",
+                "tag_name": "v2021.08.30.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/seanap/Audiobooks.bundle/zipball/v2021.08.29.2",
+                "name": "v2021.08.29.2",
+                "prerelease": false,
+                "release_date": "2021-08-30T06:44:43Z",
+                "tag_name": "v2021.08.29.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/seanap/Audiobooks.bundle/zipball/v2021.08.28.1",
+                "name": "v2021.08.28.1",
+                "prerelease": false,
+                "release_date": "2021-08-28T23:52:30Z",
+                "tag_name": "v2021.08.28.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/seanap/Audiobooks.bundle/zipball/2021.08.27.1",
+                "name": "v2021.08.27.1",
+                "prerelease": false,
+                "release_date": "2021-08-28T22:39:38Z",
+                "tag_name": "2021.08.27.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/seanap/Audiobooks.bundle/zipball/v2021.08.24.2",
+                "name": "v2021.08.24.2",
+                "prerelease": false,
+                "release_date": "2021-08-28T22:35:32Z",
+                "tag_name": "v2021.08.24.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/seanap/Audiobooks.bundle/zipball/v2021.08.24.1",
+                "name": "v2021.08.24.1",
+                "prerelease": false,
+                "release_date": "2021-08-28T22:35:20Z",
+                "tag_name": "v2021.08.24.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/seanap/Audiobooks.bundle/zipball/v2019.07.29.1",
+                "name": "v2019.07.29.1",
+                "prerelease": false,
+                "release_date": "2021-08-28T22:19:49Z",
+                "tag_name": "v2019.07.29.1"
+            }
+        ],
+        "stargazers_count": 113,
+        "thumb_image_url": null
+    },
+    "2644137": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/341019?v=4",
+        "branches": [
+            {
+                "commit_date": "2011-09-07T17:20:49Z",
+                "commit_sha": "1e7a9f57c92e58bd4644a8a9cf31db50aed67dde",
+                "download_url": "https://github.com/pbnkp/XNXX.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Video/Adult 18+ Plex-Plugin - Browse, search and watch videos from XNXX.COM",
+        "disabled": false,
+        "forks_count": 40,
+        "full_name": "pbnkp/XNXX.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": true,
+        "homepage": "http://wiki.plexapp.com/index.php/XNXX",
+        "html_url": "https://github.com/pbnkp/XNXX.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "XNXX.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 21,
+        "thumb_image_url": "https://raw.githubusercontent.com/pbnkp/XNXX.bundle/master/Contents/Resources/icon-default.png"
     },
     "26585517": {
         "archived": false,
@@ -3561,6 +4994,313 @@
         "stargazers_count": 22,
         "thumb_image_url": "https://raw.githubusercontent.com/tomfin46/IFDB.bundle/master/Contents/Resources/icon-default.png"
     },
+    "3077018": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/5060045?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-08-23T02:48:56Z",
+                "commit_sha": "3eaf804ba06bc7754b5958603e2c125d35880680",
+                "download_url": "https://github.com/trakt/Plex-Trakt-Scrobbler/archive/refs/heads/beta.zip",
+                "name": "beta"
+            },
+            {
+                "commit_date": "2017-05-10T20:50:39Z",
+                "commit_sha": "fa1775a85334dab82625e13c28a1ac14d0a732ee",
+                "download_url": "https://github.com/trakt/Plex-Trakt-Scrobbler/archive/refs/heads/develop.zip",
+                "name": "develop"
+            },
+            {
+                "commit_date": "2017-03-08T01:50:48Z",
+                "commit_sha": "52efdd12830de62cbaddcaf46aaec6a89c69455f",
+                "download_url": "https://github.com/trakt/Plex-Trakt-Scrobbler/archive/refs/heads/feature/bootstrap-improvements.zip",
+                "name": "feature/bootstrap-improvements"
+            },
+            {
+                "commit_date": "2020-08-31T20:29:06Z",
+                "commit_sha": "aeb0bfbe62fad4b06c164f1b95581da7f35dce0b",
+                "download_url": "https://github.com/trakt/Plex-Trakt-Scrobbler/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "Add what you are watching on Plex to trakt.tv",
+        "disabled": false,
+        "forks_count": 167,
+        "full_name": "trakt/Plex-Trakt-Scrobbler",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/trakt/Plex-Trakt-Scrobbler",
+        "license": null,
+        "license_url": null,
+        "name": "Plex-Trakt-Scrobbler",
+        "open_issues_count": 27,
+        "open_pull_requests_count": 3,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://github.com/trakt/Plex-Trakt-Scrobbler/releases/download/v1.3.3/trakt_for_plex-1.3.3-7f0f38e.zip",
+                "name": "v1.3.3",
+                "prerelease": false,
+                "release_date": "2018-03-05T01:20:21Z",
+                "tag_name": "v1.3.3"
+            },
+            {
+                "bundle_url": "https://github.com/trakt/Plex-Trakt-Scrobbler/releases/download/v1.3.2/trakt_for_plex-1.3.2-1399686.zip",
+                "name": "v1.3.2",
+                "prerelease": false,
+                "release_date": "2017-02-16T01:42:45Z",
+                "tag_name": "v1.3.2"
+            },
+            {
+                "bundle_url": "https://github.com/trakt/Plex-Trakt-Scrobbler/releases/download/v1.3.1/trakt_for_plex-1.3.1-d9f1160.zip",
+                "name": "v1.3.1",
+                "prerelease": false,
+                "release_date": "2017-01-09T09:21:56Z",
+                "tag_name": "v1.3.1"
+            },
+            {
+                "bundle_url": "https://github.com/trakt/Plex-Trakt-Scrobbler/releases/download/v1.3.0/trakt_for_plex-1.3.0-9e95689.zip",
+                "name": "v1.3.0",
+                "prerelease": false,
+                "release_date": "2016-12-30T04:52:37Z",
+                "tag_name": "v1.3.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v1.2.1",
+                "name": "v1.2.1",
+                "prerelease": false,
+                "release_date": "2016-12-23T05:09:57Z",
+                "tag_name": "v1.2.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v1.2.0",
+                "name": "v1.2.0",
+                "prerelease": false,
+                "release_date": "2016-12-23T05:09:43Z",
+                "tag_name": "v1.2.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v1.1.0.7",
+                "name": "v1.1.0.7",
+                "prerelease": false,
+                "release_date": "2016-11-26T04:48:30Z",
+                "tag_name": "v1.1.0.7"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v1.1.0.6",
+                "name": "v1.1.0.6",
+                "prerelease": false,
+                "release_date": "2016-09-10T07:14:01Z",
+                "tag_name": "v1.1.0.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v1.0.3.3",
+                "name": "v1.0.3.3",
+                "prerelease": false,
+                "release_date": "2016-07-03T01:50:34Z",
+                "tag_name": "v1.0.3.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v1.0.3.2",
+                "name": "v1.0.3.2",
+                "prerelease": false,
+                "release_date": "2016-06-12T13:32:00Z",
+                "tag_name": "v1.0.3.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v1.0.3.1",
+                "name": "v1.0.3.1",
+                "prerelease": false,
+                "release_date": "2016-06-12T12:36:44Z",
+                "tag_name": "v1.0.3.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v1.0.3.0",
+                "name": "v1.0.3.0",
+                "prerelease": false,
+                "release_date": "2016-06-12T12:36:16Z",
+                "tag_name": "v1.0.3.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v1.0.2.1",
+                "name": "v1.0.2.1",
+                "prerelease": false,
+                "release_date": "2016-05-20T03:24:10Z",
+                "tag_name": "v1.0.2.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v1.0.2.0",
+                "name": "v1.0.2.0",
+                "prerelease": false,
+                "release_date": "2016-04-15T10:52:59Z",
+                "tag_name": "v1.0.2.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v1.0.1.2",
+                "name": "v1.0.1.2",
+                "prerelease": false,
+                "release_date": "2016-03-14T20:45:36Z",
+                "tag_name": "v1.0.1.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v1.0.1.1",
+                "name": "v1.0.1.1",
+                "prerelease": false,
+                "release_date": "2016-03-03T11:25:07Z",
+                "tag_name": "v1.0.1.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v1.0.1.0",
+                "name": "v1.0.1.0",
+                "prerelease": false,
+                "release_date": "2016-03-01T12:09:09Z",
+                "tag_name": "v1.0.1.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v1.0.0.5",
+                "name": "v1.0.0.5",
+                "prerelease": false,
+                "release_date": "2016-02-24T11:28:46Z",
+                "tag_name": "v1.0.0.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v1.0.0.4",
+                "name": "v1.0.0.4",
+                "prerelease": false,
+                "release_date": "2016-02-22T12:47:43Z",
+                "tag_name": "v1.0.0.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v1.0.0.3",
+                "name": "v1.0.0.3",
+                "prerelease": false,
+                "release_date": "2016-02-14T12:00:58Z",
+                "tag_name": "v1.0.0.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v1.0.0.2-beta",
+                "name": "v1.0.0.2-beta",
+                "prerelease": true,
+                "release_date": "2016-02-12T11:21:44Z",
+                "tag_name": "v1.0.0.2-beta"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v1.0.0.1-beta",
+                "name": "v1.0.0.1-beta",
+                "prerelease": true,
+                "release_date": "2016-02-11T03:18:56Z",
+                "tag_name": "v1.0.0.1-beta"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v1.0.0.0-beta",
+                "name": "v1.0.0.0-beta",
+                "prerelease": true,
+                "release_date": "2016-02-10T11:45:16Z",
+                "tag_name": "v1.0.0.0-beta"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v0.9.10.15-beta",
+                "name": "v0.9.10.15-beta",
+                "prerelease": true,
+                "release_date": "2016-01-17T21:46:12Z",
+                "tag_name": "v0.9.10.15-beta"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v0.9.10.14-beta",
+                "name": "v0.9.10.14-beta",
+                "prerelease": true,
+                "release_date": "2016-01-17T11:13:38Z",
+                "tag_name": "v0.9.10.14-beta"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v0.9.10.13-beta",
+                "name": "v0.9.10.13-beta",
+                "prerelease": true,
+                "release_date": "2015-11-18T09:16:22Z",
+                "tag_name": "v0.9.10.13-beta"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v0.9.10.12-beta",
+                "name": "v0.9.10.12-beta",
+                "prerelease": true,
+                "release_date": "2015-11-17T23:31:41Z",
+                "tag_name": "v0.9.10.12-beta"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v0.9.10.11-beta",
+                "name": "v0.9.10.11-beta",
+                "prerelease": true,
+                "release_date": "2015-10-01T01:14:13Z",
+                "tag_name": "v0.9.10.11-beta"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v0.9.10.10-beta",
+                "name": "v0.9.10.10-beta",
+                "prerelease": true,
+                "release_date": "2015-09-24T00:52:43Z",
+                "tag_name": "v0.9.10.10-beta"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/trakt/Plex-Trakt-Scrobbler/zipball/v0.9.10.9-beta",
+                "name": "v0.9.10.9-beta",
+                "prerelease": true,
+                "release_date": "2015-09-13T05:57:39Z",
+                "tag_name": "v0.9.10.9-beta"
+            }
+        ],
+        "stargazers_count": 1393,
+        "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
+    },
+    "3078148": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1163946?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-10-01T07:47:46Z",
+                "commit_sha": "d8c828ba504303567e06dacb96ed41b0456c2cb8",
+                "download_url": "https://github.com/vofik/Kink.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "kink.com metadata bundle for Plex",
+        "disabled": false,
+        "forks_count": 15,
+        "full_name": "vofik/Kink.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "http://forums.plexapp.com/index.php/topic/35633-adult-kinkcom-metadata-agent/",
+        "html_url": "https://github.com/vofik/Kink.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Kink.bundle",
+        "open_issues_count": 2,
+        "open_pull_requests_count": 3,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 15,
+        "thumb_image_url": "https://raw.githubusercontent.com/vofik/Kink.bundle/master/Contents/Resources/icon-default.png"
+    },
     "30866767": {
         "archived": false,
         "attribution_image_url": null,
@@ -3774,6 +5514,52 @@
         "stargazers_count": 9,
         "thumb_image_url": "https://raw.githubusercontent.com/Jidly/channelpear.bundle/master/Contents/Resources/icon-default.png"
     },
+    "347760205": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/67563286?v=4",
+        "branches": [
+            {
+                "commit_date": "2023-02-19T18:05:47Z",
+                "commit_sha": "e88207d79c157f082e08a86170ddc14b2cbee308",
+                "download_url": "https://github.com/ThePornDatabase/ThePornDB.bundle/archive/refs/heads/main.zip",
+                "name": "main"
+            },
+            {
+                "commit_date": "2022-08-19T04:59:43Z",
+                "commit_sha": "8b5c4c1ab104482bbf254070408304d2e8a27d57",
+                "download_url": "https://github.com/ThePornDatabase/ThePornDB.bundle/archive/refs/heads/renovate/configure.zip",
+                "name": "renovate/configure"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "main",
+        "description": "ThePornDB.bundle Plex Metadata Agent",
+        "disabled": false,
+        "forks_count": 13,
+        "full_name": "ThePornDatabase/ThePornDB.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/ThePornDatabase/ThePornDB.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "ThePornDB.bundle",
+        "open_issues_count": 4,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 76,
+        "thumb_image_url": null
+    },
     "3485091": {
         "archived": false,
         "attribution_image_url": null,
@@ -3820,6 +5606,292 @@
         "stargazers_count": 15,
         "thumb_image_url": null
     },
+    "34966602": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/6312063?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-01-21T10:00:23Z",
+                "commit_sha": "02456e8fecad5ce76bb35a5720d533b53ae6b979",
+                "download_url": "https://github.com/kolsys/YouTubeTV.bundle/archive/refs/heads/debug.zip",
+                "name": "debug"
+            },
+            {
+                "commit_date": "2016-02-16T23:01:38Z",
+                "commit_sha": "7e7541aeb77311835c56d933c9ce9600fc734f88",
+                "download_url": "https://github.com/kolsys/YouTubeTV.bundle/archive/refs/heads/fullhd.zip",
+                "name": "fullhd"
+            },
+            {
+                "commit_date": "2017-05-28T17:03:26Z",
+                "commit_sha": "4f62df13341bd1180fa487bfb6d56369aff1df2c",
+                "download_url": "https://github.com/kolsys/YouTubeTV.bundle/archive/refs/heads/jsparser-fix.zip",
+                "name": "jsparser-fix"
+            },
+            {
+                "commit_date": "2015-11-03T12:35:31Z",
+                "commit_sha": "db464e654648f9a0182774e6355e6772f10dbc56",
+                "download_url": "https://github.com/kolsys/YouTubeTV.bundle/archive/refs/heads/logo.zip",
+                "name": "logo"
+            },
+            {
+                "commit_date": "2020-08-09T07:19:09Z",
+                "commit_sha": "93c231df79e4529a2b8dd7c5348bc6b63966e9ab",
+                "download_url": "https://github.com/kolsys/YouTubeTV.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2016-01-11T21:02:00Z",
+                "commit_sha": "17b68fe3477f50c2c4d4edb123db3a786214f8d5",
+                "download_url": "https://github.com/kolsys/YouTubeTV.bundle/archive/refs/heads/openpht-fix.zip",
+                "name": "openpht-fix"
+            },
+            {
+                "commit_date": "2017-05-25T22:13:01Z",
+                "commit_sha": "db3c5ebe28597174a931f1117504c07f681d64c5",
+                "download_url": "https://github.com/kolsys/YouTubeTV.bundle/archive/refs/heads/watchlater-fix.zip",
+                "name": "watchlater-fix"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex YouTube video plugin",
+        "disabled": false,
+        "forks_count": 60,
+        "full_name": "kolsys/YouTubeTV.bundle",
+        "gh_pages_url": "http://kolsys.ml/",
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/kolsys/YouTubeTV.bundle",
+        "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "license_url": "https://api.github.com/licenses/bsd-3-clause",
+        "name": "YouTubeTV.bundle",
+        "open_issues_count": 30,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.14",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2020-09-06T16:27:39Z",
+                "tag_name": "v4.14"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.13",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2020-01-06T00:07:20Z",
+                "tag_name": "v4.13"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.12",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2019-01-14T20:15:27Z",
+                "tag_name": "v4.12"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.11",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2019-01-06T23:05:16Z",
+                "tag_name": "v4.11"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.9",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2018-10-04T06:59:59Z",
+                "tag_name": "v4.9"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.8",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2018-03-17T23:44:39Z",
+                "tag_name": "v4.8"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.7",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2017-05-29T20:13:33Z",
+                "tag_name": "v4.7"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.6",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2017-02-06T21:43:23Z",
+                "tag_name": "v4.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.5",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2017-01-21T21:26:38Z",
+                "tag_name": "v4.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.4",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2016-09-20T21:27:10Z",
+                "tag_name": "v4.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.3",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2016-03-22T22:55:04Z",
+                "tag_name": "v4.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.2",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2016-02-18T20:59:31Z",
+                "tag_name": "v4.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.1",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-12-24T22:13:22Z",
+                "tag_name": "v4.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.0",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-12-22T21:41:23Z",
+                "tag_name": "v4.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.10",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-12-17T19:53:38Z",
+                "tag_name": "v3.10"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.9",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-11-21T17:58:50Z",
+                "tag_name": "v3.9"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.8",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-11-14T10:35:53Z",
+                "tag_name": "v3.8"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.7",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-10-29T21:55:23Z",
+                "tag_name": "v3.7"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.6",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-10-05T22:08:25Z",
+                "tag_name": "v3.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.5",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-09-06T15:08:31Z",
+                "tag_name": "v3.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.4",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-08-29T22:04:34Z",
+                "tag_name": "v3.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.2",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-06-28T20:03:43Z",
+                "tag_name": "v3.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.1",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-06-16T21:54:43Z",
+                "tag_name": "v3.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.0",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-06-03T20:40:43Z",
+                "tag_name": "v3.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v2.9",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-06-02T20:47:21Z",
+                "tag_name": "v2.9"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v2.8",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-06-01T20:38:51Z",
+                "tag_name": "v2.8"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v2.7",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-05-30T20:38:30Z",
+                "tag_name": "v2.7"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v2.6",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-05-26T19:45:12Z",
+                "tag_name": "v2.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v2.5",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-05-21T21:03:55Z",
+                "tag_name": "v2.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v2.4",
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_date": "2015-05-17T14:04:52Z",
+                "tag_name": "v2.4"
+            }
+        ],
+        "stargazers_count": 327,
+        "thumb_image_url": "https://raw.githubusercontent.com/kolsys/YouTubeTV.bundle/master/Contents/Resources/icon-default.png"
+    },
     "3621001": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/attribution.png",
@@ -3839,7 +5911,7 @@
         "default_branch": "master",
         "description": null,
         "disabled": false,
-        "forks_count": 139,
+        "forks_count": 138,
         "full_name": "gboudreau/XBMCnfoMoviesImporter.bundle",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -3858,6 +5930,45 @@
         "releases": [],
         "stargazers_count": 573,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "3621098": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/370329?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-09-16T15:53:43Z",
+                "commit_sha": "534e7737886135b2d0b43d8ae9ee394f1a116051",
+                "download_url": "https://github.com/gboudreau/XBMCnfoTVImporter.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 60,
+        "full_name": "gboudreau/XBMCnfoTVImporter.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/gboudreau/XBMCnfoTVImporter.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "XBMCnfoTVImporter.bundle",
+        "open_issues_count": 24,
+        "open_pull_requests_count": 5,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 289,
+        "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
         "archived": false,
@@ -5656,6 +7767,53 @@
         "stargazers_count": 28,
         "thumb_image_url": "https://raw.githubusercontent.com/eithe/NRKTV.bundle/master/Contents/Resources/icon-default.png"
     },
+    "55771280": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/18347237?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-05-06T11:53:45Z",
+                "commit_sha": "652dce628a778bd5a3d7a0fec198599f435f3f89",
+                "download_url": "https://github.com/SpacemanJT/wol.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "Wake on LAN Plugin for Plex",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "SpacemanJT/wol.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/SpacemanJT/wol.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "wol.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/SpacemanJT/wol.bundle/zipball/R1.00",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2016-04-10T01:30:36Z",
+                "tag_name": "R1.00"
+            }
+        ],
+        "stargazers_count": 12,
+        "thumb_image_url": null
+    },
     "5823410": {
         "archived": false,
         "attribution_image_url": null,
@@ -6526,6 +8684,47 @@
         "stargazers_count": 64,
         "thumb_image_url": "https://raw.githubusercontent.com/ReallyFuzzy/IceFilms.bundle/master/Contents/Resources/icon-default.png"
     },
+    "7034455": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/2650475?v=4",
+        "branches": [
+            {
+                "commit_date": "2012-08-16T19:30:25Z",
+                "commit_sha": "6bbf23656250c4325054e2a10b4714373c50a2b8",
+                "download_url": "https://github.com/wolfster/PodnapisiSubtitles.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Subtitles",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 18,
+        "full_name": "wolfster/PodnapisiSubtitles.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": true,
+        "homepage": "http://forums.plexapp.com/index.php/topic/33683-podnapisi-subtitle-agent/",
+        "html_url": "https://github.com/wolfster/PodnapisiSubtitles.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "PodnapisiSubtitles.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/wolfster/PodnapisiSubtitles.bundle/master/Contents/Resources/icon-default.png"
+    },
     "70853673": {
         "archived": false,
         "attribution_image_url": null,
@@ -6565,6 +8764,85 @@
         "releases": [],
         "stargazers_count": 7,
         "thumb_image_url": "https://raw.githubusercontent.com/snoshoesledska/plexpod.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "71592272": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3989440?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-07-24T08:33:12Z",
+                "commit_sha": "d656f9dd0f14c1b1776ebc2c6e009b8251f69424",
+                "download_url": "https://github.com/daeks/ArgusTV-Agent.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "ArgusTV Metadata Agent for Plex",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "daeks/ArgusTV-Agent.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/daeks/ArgusTV-Agent.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "ArgusTV-Agent.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/daeks/ArgusTV-Agent.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "71804753": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3989440?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-07-24T08:39:03Z",
+                "commit_sha": "0b9b0dcff4a51df1e763e5b8583983f790a57c6c",
+                "download_url": "https://github.com/daeks/StaticMedia-Agent.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Static Media Agent for Plex",
+        "disabled": false,
+        "forks_count": 3,
+        "full_name": "daeks/StaticMedia-Agent.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/daeks/StaticMedia-Agent.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "StaticMedia-Agent.bundle",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 10,
+        "thumb_image_url": "https://raw.githubusercontent.com/daeks/StaticMedia-Agent.bundle/master/Contents/Resources/icon-default.png"
     },
     "7257641": {
         "archived": false,
@@ -6610,6 +8888,175 @@
         "releases": [],
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/HuXDK/Media-Flags.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "72892181": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/bubonic/TGC.bundle/master/TGC.bundle/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/15696467?v=4",
+        "branches": [
+            {
+                "commit_date": "2021-02-24T02:20:49Z",
+                "commit_sha": "8d94f0b54ed65013a62cdc362e21249a80d35ecb",
+                "download_url": "https://github.com/bubonic/TGC.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "The Great Courses Agent for Plex",
+        "disabled": false,
+        "forks_count": 8,
+        "full_name": "bubonic/TGC.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/bubonic/TGC.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "TGC.bundle",
+        "open_issues_count": 6,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 41,
+        "thumb_image_url": "https://raw.githubusercontent.com/bubonic/TGC.bundle/master/TGC.bundle/Contents/Resources/icon-default.png"
+    },
+    "74855964": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/4699449?v=4",
+        "branches": [
+            {
+                "commit_date": "2021-05-30T22:03:10Z",
+                "commit_sha": "1960316ecab05102ded9535a39d57dfc37dc907c",
+                "download_url": "https://github.com/ukdtom/epg-dk.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2019-09-15T00:12:39Z",
+                "commit_sha": "4c7f96d52130267a4ec35b93603c8509e2a3652b",
+                "download_url": "https://github.com/ukdtom/epg-dk.bundle/archive/refs/heads/tommy-work.zip",
+                "name": "tommy-work"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "YouSee EPG for Plex",
+        "disabled": false,
+        "forks_count": 5,
+        "full_name": "ukdtom/epg-dk.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "https://forums.plex.tv/t/rel-epg-dk/169919",
+        "html_url": "https://github.com/ukdtom/epg-dk.bundle",
+        "license": "The Unlicense",
+        "license_url": "https://api.github.com/licenses/unlicense",
+        "name": "epg-dk.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://github.com/ukdtom/epg-dk.bundle/releases/download/V0.0.1.01/epg-dk.bundle.zip",
+                "name": "V0.0.1.01",
+                "prerelease": false,
+                "release_date": "2021-05-30T22:07:21Z",
+                "tag_name": "V0.0.1.01"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/epg-dk.bundle/releases/download/v0.0.1.00/epg-dk.bundle.zip",
+                "name": "v0.0.1.00",
+                "prerelease": false,
+                "release_date": "2019-09-15T00:16:44Z",
+                "tag_name": "v0.0.1.00"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/epg-dk.bundle/releases/download/V0.0.0.14/epg-dk.bundle.zip",
+                "name": "V0.0.0.14",
+                "prerelease": false,
+                "release_date": "2018-07-31T19:58:09Z",
+                "tag_name": "V0.0.0.14"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/epg-dk.bundle/releases/download/V0.0.0.13/epg-dk.bundle.zip",
+                "name": "V0.0.0.13",
+                "prerelease": false,
+                "release_date": "2018-06-02T01:01:20Z",
+                "tag_name": "V0.0.0.13"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/epg-dk.bundle/releases/download/V0.0.0.12/epg-dk.bundle.zip",
+                "name": "V0.0.0.12",
+                "prerelease": false,
+                "release_date": "2017-08-27T20:38:38Z",
+                "tag_name": "V0.0.0.12"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/epg-dk.bundle/releases/download/V0.0.0.11/epg-dk.bundle.zip",
+                "name": "V0.0.0.11",
+                "prerelease": false,
+                "release_date": "2017-07-16T14:25:07Z",
+                "tag_name": "V0.0.0.11"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/epg-dk.bundle/releases/download/V0.0.0.10/epg-dk.bundle.zip",
+                "name": "V0.0.0.10",
+                "prerelease": false,
+                "release_date": "2017-05-12T09:15:18Z",
+                "tag_name": "V0.0.0.10"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/epg-dk.bundle/releases/download/V0.0.0.9/epg-dk.bundle.zip",
+                "name": "V0.0.0.9",
+                "prerelease": false,
+                "release_date": "2017-05-07T20:29:00Z",
+                "tag_name": "V0.0.0.9"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/epg-dk.bundle/releases/download/V0.0.0.8/epg-dk.bundle.zip",
+                "name": "V0.0.0.8",
+                "prerelease": false,
+                "release_date": "2017-04-21T20:10:08Z",
+                "tag_name": "V0.0.0.8"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/epg-dk.bundle/releases/download/V0.0.0.7/epg-dk.bundle.zip",
+                "name": "V0.0.0.7",
+                "prerelease": false,
+                "release_date": "2017-04-20T15:02:22Z",
+                "tag_name": "V0.0.0.7"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/epg-dk.bundle/releases/download/V0.0.0.5/epg-dk.bundle.zip",
+                "name": "V0.0.0.5",
+                "prerelease": false,
+                "release_date": "2016-12-09T21:07:58Z",
+                "tag_name": "V0.0.0.5"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/epg-dk.bundle/releases/download/V0.0.0.4/epg-dk.bundle.zip",
+                "name": "V0.0.0.4",
+                "prerelease": false,
+                "release_date": "2016-12-05T16:28:30Z",
+                "tag_name": "V0.0.0.4"
+            }
+        ],
+        "stargazers_count": 15,
+        "thumb_image_url": null
     },
     "7527303": {
         "archived": false,
@@ -6765,6 +9212,410 @@
         "releases": [],
         "stargazers_count": 10,
         "thumb_image_url": "https://raw.githubusercontent.com/moxz/tvheadend.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "78208274": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/994214?v=4",
+        "branches": [
+            {
+                "commit_date": "2022-09-20T06:26:01Z",
+                "commit_sha": "f4921f35ad0e0c64706c3ad419b0277088a68d97",
+                "download_url": "https://github.com/Cazzar/ShokoMetadata.bundle/archive/refs/heads/devel.zip",
+                "name": "devel"
+            },
+            {
+                "commit_date": "2022-03-25T06:50:49Z",
+                "commit_sha": "a78b876b74cddd666148097596e015549a8f1d61",
+                "download_url": "https://github.com/Cazzar/ShokoMetadata.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Add a scanner and a metadata parser for japanesemediamanager/ShokoServer and Plex.tv",
+        "disabled": false,
+        "forks_count": 10,
+        "full_name": "Cazzar/ShokoMetadata.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/Cazzar/ShokoMetadata.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "ShokoMetadata.bundle",
+        "open_issues_count": 3,
+        "open_pull_requests_count": 2,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/Cazzar/ShokoMetadata.bundle/zipball/v1.5.1",
+                "name": "Version 1.5.1",
+                "prerelease": false,
+                "release_date": "2022-03-25T06:51:32Z",
+                "tag_name": "v1.5.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Cazzar/ShokoMetadata.bundle/zipball/v1.5.0",
+                "name": "v 1.5.0",
+                "prerelease": false,
+                "release_date": "2020-08-29T15:55:09Z",
+                "tag_name": "v1.5.0"
+            },
+            {
+                "bundle_url": "https://github.com/Cazzar/ShokoMetadata.bundle/releases/download/v1.4.2/ShokoMetadata.bundle.zip",
+                "name": "V 1.4.2",
+                "prerelease": false,
+                "release_date": "2019-07-31T12:53:11Z",
+                "tag_name": "v1.4.2"
+            },
+            {
+                "bundle_url": "https://github.com/Cazzar/ShokoMetadata.bundle/releases/download/v1.4.1/ShokoMetadata.bundle.zip",
+                "name": "V 1.4.1",
+                "prerelease": false,
+                "release_date": "2019-03-13T23:54:02Z",
+                "tag_name": "v1.4.1"
+            },
+            {
+                "bundle_url": "https://github.com/Cazzar/ShokoMetadata.bundle/releases/download/v1.4.0/ShokoMetadata.bundle.zip",
+                "name": "V 1.4.0",
+                "prerelease": false,
+                "release_date": "2018-08-07T15:05:06Z",
+                "tag_name": "v1.4.0"
+            },
+            {
+                "bundle_url": "https://github.com/Cazzar/ShokoMetadata.bundle/releases/download/1.3.0/ShokoMetadata.bundle.zip",
+                "name": "V 1.3.0",
+                "prerelease": false,
+                "release_date": "2017-12-26T13:16:26Z",
+                "tag_name": "1.3.0"
+            },
+            {
+                "bundle_url": "https://github.com/Cazzar/ShokoMetadata.bundle/releases/download/V1.2.0/ShokoMetadata.bundle.zip",
+                "name": "V 1.2.0",
+                "prerelease": false,
+                "release_date": "2017-08-20T14:56:36Z",
+                "tag_name": "V1.2.0"
+            },
+            {
+                "bundle_url": "https://github.com/Cazzar/ShokoMetadata.bundle/releases/download/V1.1.0/ShokoMetadata.bundle.zip",
+                "name": "V1.1.0",
+                "prerelease": false,
+                "release_date": "2017-03-12T22:50:20Z",
+                "tag_name": "V1.1.0"
+            },
+            {
+                "bundle_url": "https://github.com/Cazzar/ShokoMetadata.bundle/releases/download/v1.0.0/ShokoMetadata.bundle-1.0.0.zip",
+                "name": "v1.0.0",
+                "prerelease": false,
+                "release_date": "2017-02-08T09:51:26Z",
+                "tag_name": "v1.0.0"
+            }
+        ],
+        "stargazers_count": 28,
+        "thumb_image_url": null
+    },
+    "78492275": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/13565327?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-01-10T23:32:31Z",
+                "commit_sha": "881cb1e380abd78cae41fe5e09050d565503d208",
+                "download_url": "https://github.com/Twoure/Speedtest.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "Plex Utility Channel to test Plex Media Server Internet Speed",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "Twoure/Speedtest.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/Twoure/Speedtest.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Speedtest.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 11,
+        "thumb_image_url": "https://raw.githubusercontent.com/Twoure/Speedtest.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "78966914": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/4699449?v=4",
+        "branches": [
+            {
+                "commit_date": "2022-10-23T04:24:25Z",
+                "commit_sha": "ad012f06e53ed8452ef33ff5eb3208109bd48221",
+                "download_url": "https://github.com/ukdtom/ExportTools.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2021-01-27T23:56:33Z",
+                "commit_sha": "fe58ebdcf0bb6959c4b1257963d6040bebc20754",
+                "download_url": "https://github.com/ukdtom/ExportTools.bundle/archive/refs/heads/tommy-work.zip",
+                "name": "tommy-work"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "Export tools for Plex",
+        "disabled": false,
+        "forks_count": 31,
+        "full_name": "ukdtom/ExportTools.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "https://forums.plex.tv/t/rel-exporttools/175915",
+        "html_url": "https://github.com/ukdtom/ExportTools.bundle",
+        "license": "The Unlicense",
+        "license_url": "https://api.github.com/licenses/unlicense",
+        "name": "ExportTools.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.16/ExportTools.bundle.zip",
+                "name": "V2.0.0.16",
+                "prerelease": false,
+                "release_date": "2021-01-28T00:00:33Z",
+                "tag_name": "V2.0.0.16"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.15/ExportTools.bundle.zip",
+                "name": "V2.0.0.15",
+                "prerelease": false,
+                "release_date": "2021-01-02T22:34:55Z",
+                "tag_name": "V2.0.0.15"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.14/ExportTools.bundle.zip",
+                "name": "V2.0.0.14",
+                "prerelease": false,
+                "release_date": "2020-12-27T21:59:52Z",
+                "tag_name": "V2.0.0.14"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.13/ExportTools.bundle.zip",
+                "name": "V2.0.0.13",
+                "prerelease": false,
+                "release_date": "2020-12-22T00:42:39Z",
+                "tag_name": "V2.0.0.13"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.12/ExportTools.bundle.zip",
+                "name": "V2.0.0.12",
+                "prerelease": false,
+                "release_date": "2020-07-02T21:04:12Z",
+                "tag_name": "V2.0.0.12"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.11/ExportTools.bundle.zip",
+                "name": "V2.0.0.11",
+                "prerelease": false,
+                "release_date": "2020-05-22T19:02:48Z",
+                "tag_name": "V2.0.0.11"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.10/ExportTools.bundle.zip",
+                "name": "V2.0.0.10",
+                "prerelease": false,
+                "release_date": "2020-05-20T22:02:39Z",
+                "tag_name": "V2.0.0.10"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.9/ExportTools.bundle.zip",
+                "name": "V2.0.0.9",
+                "prerelease": false,
+                "release_date": "2020-05-18T13:18:27Z",
+                "tag_name": "V2.0.0.9"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.8/ExportTools.bundle.zip",
+                "name": "V2.0.0.8",
+                "prerelease": false,
+                "release_date": "2020-01-26T23:27:09Z",
+                "tag_name": "V2.0.0.8"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.7/ExportTools.bundle.zip",
+                "name": "V2.0.0.7",
+                "prerelease": false,
+                "release_date": "2019-09-24T18:37:25Z",
+                "tag_name": "V2.0.0.7"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.6/ExportTools.bundle.zip",
+                "name": "V2.0.0.6",
+                "prerelease": false,
+                "release_date": "2019-08-27T12:47:11Z",
+                "tag_name": "V2.0.0.6"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.5/ExportTools.bundle.zip",
+                "name": "V2.0.0.5",
+                "prerelease": false,
+                "release_date": "2019-08-05T19:21:48Z",
+                "tag_name": "V2.0.0.5"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.4/ExportTools.bundle.zip",
+                "name": "V2.0.0.4",
+                "prerelease": false,
+                "release_date": "2019-07-25T08:06:07Z",
+                "tag_name": "V2.0.0.4"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.3/ExportTools.bundle.zip",
+                "name": "V2.0.0.3",
+                "prerelease": false,
+                "release_date": "2019-07-13T08:23:53Z",
+                "tag_name": "V2.0.0.3"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.2/ExportTools.bundle.zip",
+                "name": "V2.0.0.2",
+                "prerelease": false,
+                "release_date": "2019-07-10T22:05:10Z",
+                "tag_name": "V2.0.0.2"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.1/ExportTools.bundle.zip",
+                "name": "V2.0.0.1",
+                "prerelease": false,
+                "release_date": "2019-07-09T19:12:07Z",
+                "tag_name": "V2.0.0.1"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.18/ExportTools.bundle.zip",
+                "name": "V1.0.2.18",
+                "prerelease": false,
+                "release_date": "2019-03-17T16:33:52Z",
+                "tag_name": "V1.0.2.18"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/1.0.2.17/ExportTools.bundle.zip",
+                "name": "V1.0.2.17",
+                "prerelease": false,
+                "release_date": "2019-02-16T21:53:26Z",
+                "tag_name": "1.0.2.17"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.16/ExportTools.bundle.zip",
+                "name": "V1.0.2.16",
+                "prerelease": false,
+                "release_date": "2019-01-22T20:26:32Z",
+                "tag_name": "V1.0.2.16"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.15/ExportTools.bundle.zip",
+                "name": "V1.0.2.15",
+                "prerelease": false,
+                "release_date": "2018-07-01T23:16:24Z",
+                "tag_name": "V1.0.2.15"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.14/ExportTools.bundle.zip",
+                "name": "V1.0.2.14",
+                "prerelease": false,
+                "release_date": "2018-05-11T09:14:15Z",
+                "tag_name": "V1.0.2.14"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.13/ExportTools.bundle.zip",
+                "name": "V1.0.2.13",
+                "prerelease": false,
+                "release_date": "2018-04-11T23:19:51Z",
+                "tag_name": "V1.0.2.13"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.12/ExportTools.bundle.zip",
+                "name": "V1.0.2.12",
+                "prerelease": false,
+                "release_date": "2018-03-14T20:46:14Z",
+                "tag_name": "V1.0.2.12"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.11-2/ExportTools.bundle.zip",
+                "name": "V1.0.2.11-2",
+                "prerelease": false,
+                "release_date": "2018-03-11T19:05:24Z",
+                "tag_name": "V1.0.2.11-2"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.11/ExportTools.bundle.zip",
+                "name": "V1.0.2.11",
+                "prerelease": false,
+                "release_date": "2018-03-11T18:28:47Z",
+                "tag_name": "V1.0.2.11"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.10/ExportTools.bundle.zip",
+                "name": "V1.0.2.10",
+                "prerelease": false,
+                "release_date": "2018-03-11T10:37:10Z",
+                "tag_name": "V1.0.2.10"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.9/ExportTools.bundle.zip",
+                "name": "V1.0.2.9",
+                "prerelease": false,
+                "release_date": "2018-03-09T19:23:57Z",
+                "tag_name": "V1.0.2.9"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.8/ExportTools.bundle.zip",
+                "name": "V1.0.2.8",
+                "prerelease": false,
+                "release_date": "2017-12-16T16:42:52Z",
+                "tag_name": "V1.0.2.8"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.7/ExportTools.bundle.zip",
+                "name": "V1.0.2.7",
+                "prerelease": false,
+                "release_date": "2017-12-16T11:33:14Z",
+                "tag_name": "V1.0.2.7"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.6/ExportTools.bundle.zip",
+                "name": "V1.0.2.6",
+                "prerelease": false,
+                "release_date": "2017-11-21T22:05:42Z",
+                "tag_name": "V1.0.2.6"
+            }
+        ],
+        "stargazers_count": 328,
+        "thumb_image_url": "https://raw.githubusercontent.com/ukdtom/ExportTools.bundle/master/Contents/Resources/icon-default.png"
     },
     "79772186": {
         "archived": false,
@@ -7104,6 +9955,47 @@
         "stargazers_count": 13,
         "thumb_image_url": "https://raw.githubusercontent.com/daeks/Webhook-Agent.bundle/master/Contents/Resources/icon-default.png"
     },
+    "8201451": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/sander1/Fanart-TV-Agent.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/104684?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-04-19T16:53:18Z",
+                "commit_sha": "e9ad68289a68f30c9c1bf26f64265215f9dfe21b",
+                "download_url": "https://github.com/sander1/Fanart-TV-Agent.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Music",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Fanart.tv is a community driven website providing fanart for TV shows, movies and artists. This agent adds fanart to Plex.",
+        "disabled": false,
+        "forks_count": 7,
+        "full_name": "sander1/Fanart-TV-Agent.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/sander1/Fanart-TV-Agent.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Fanart-TV-Agent.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 9,
+        "thumb_image_url": "https://raw.githubusercontent.com/sander1/Fanart-TV-Agent.bundle/master/Contents/Resources/icon-default.png"
+    },
     "83896680": {
         "archived": false,
         "attribution_image_url": null,
@@ -7144,6 +10036,63 @@
         "stargazers_count": 8,
         "thumb_image_url": "https://raw.githubusercontent.com/JayTheHatWearer/MultiPLEX.bundle/master/Contents/Resources/icon-default.png"
     },
+    "84681664": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/macr0dev/Audiobooks.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/26168722?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-07-23T17:24:12Z",
+                "commit_sha": "4c4b6439f15cf2fb67bb7e9093b2adf93f9a523e",
+                "download_url": "https://github.com/macr0dev/Audiobooks.bundle/archive/refs/heads/development.zip",
+                "name": "development"
+            },
+            {
+                "commit_date": "2017-07-18T21:36:17Z",
+                "commit_sha": "01b7f7484eec9848e1af477792645c265edc270a",
+                "download_url": "https://github.com/macr0dev/Audiobooks.bundle/archive/refs/heads/macr0dev-patch-1.zip",
+                "name": "macr0dev-patch-1"
+            },
+            {
+                "commit_date": "2017-07-18T21:53:38Z",
+                "commit_sha": "476f458ad407ce02832a487f8b095f2a6383b2a9",
+                "download_url": "https://github.com/macr0dev/Audiobooks.bundle/archive/refs/heads/macr0dev-patch-international.zip",
+                "name": "macr0dev-patch-international"
+            },
+            {
+                "commit_date": "2022-08-13T00:24:36Z",
+                "commit_sha": "b49fc8811c38a21b6912c83c7396045d1a01b525",
+                "download_url": "https://github.com/macr0dev/Audiobooks.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Music"
+        ],
+        "default_branch": "master",
+        "description": "Plex metadata scraper for Audiobooks",
+        "disabled": false,
+        "forks_count": 66,
+        "full_name": "macr0dev/Audiobooks.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/macr0dev/Audiobooks.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Audiobooks.bundle",
+        "open_issues_count": 16,
+        "open_pull_requests_count": 6,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 565,
+        "thumb_image_url": null
+    },
     "8525630": {
         "archived": false,
         "attribution_image_url": null,
@@ -7183,6 +10132,84 @@
         "releases": [],
         "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/cerk/Lifetime.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "85490015": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/sander1/MovieMeter.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/104684?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-01-31T23:24:26Z",
+                "commit_sha": "c2eae15ec9bfb659ecdfbad666afb7ae6ef87837",
+                "download_url": "https://github.com/sander1/MovieMeter.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Dutch movie summaries from moviemeter.nl",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "sander1/MovieMeter.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "https://forums.plex.tv/t/metadata-agent-moviemeter/5033",
+        "html_url": "https://github.com/sander1/MovieMeter.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "MovieMeter.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/sander1/MovieMeter.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "86371231": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/960553?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-12-11T14:31:33Z",
+                "commit_sha": "82f65782f025187e168524e88aacd1864844ef21",
+                "download_url": "https://github.com/nomego/Lazyman.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Lazyman Plex Channel",
+        "disabled": false,
+        "forks_count": 27,
+        "full_name": "nomego/Lazyman.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/nomego/Lazyman.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Lazyman.bundle",
+        "open_issues_count": 21,
+        "open_pull_requests_count": 2,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 106,
+        "thumb_image_url": null
     },
     "86917897": {
         "archived": false,
