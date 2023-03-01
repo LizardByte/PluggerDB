@@ -8754,6 +8754,63 @@
         "stargazers_count": 8,
         "thumb_image_url": "https://raw.githubusercontent.com/JayTheHatWearer/MultiPLEX.bundle/master/Contents/Resources/icon-default.png"
     },
+    "84681664": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/macr0dev/Audiobooks.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/26168722?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-07-23T17:24:12Z",
+                "commit_sha": "4c4b6439f15cf2fb67bb7e9093b2adf93f9a523e",
+                "download_url": "https://github.com/macr0dev/Audiobooks.bundle/archive/refs/heads/development.zip",
+                "name": "development"
+            },
+            {
+                "commit_date": "2017-07-18T21:36:17Z",
+                "commit_sha": "01b7f7484eec9848e1af477792645c265edc270a",
+                "download_url": "https://github.com/macr0dev/Audiobooks.bundle/archive/refs/heads/macr0dev-patch-1.zip",
+                "name": "macr0dev-patch-1"
+            },
+            {
+                "commit_date": "2017-07-18T21:53:38Z",
+                "commit_sha": "476f458ad407ce02832a487f8b095f2a6383b2a9",
+                "download_url": "https://github.com/macr0dev/Audiobooks.bundle/archive/refs/heads/macr0dev-patch-international.zip",
+                "name": "macr0dev-patch-international"
+            },
+            {
+                "commit_date": "2022-08-13T00:24:36Z",
+                "commit_sha": "b49fc8811c38a21b6912c83c7396045d1a01b525",
+                "download_url": "https://github.com/macr0dev/Audiobooks.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Music"
+        ],
+        "default_branch": "master",
+        "description": "Plex metadata scraper for Audiobooks",
+        "disabled": false,
+        "forks_count": 66,
+        "full_name": "macr0dev/Audiobooks.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/macr0dev/Audiobooks.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Audiobooks.bundle",
+        "open_issues_count": 16,
+        "open_pull_requests_count": 6,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 565,
+        "thumb_image_url": null
+    },
     "8525630": {
         "archived": false,
         "attribution_image_url": null,
