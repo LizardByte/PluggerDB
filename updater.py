@@ -221,7 +221,7 @@ def process_github_url(owner: str, repo: str, categories: Optional[str] = None) 
                         non_github_data[k] = og_data[str(github_data['id'])][k]
 
                 categories = og_data[str(github_data['id'])]['categories']
-            elif args.issue_udpate:
+            elif args.issue_update:
                 # add the categories to the data
                 if categories:
                     categories = categories.split(', ')
