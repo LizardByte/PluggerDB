@@ -9298,6 +9298,47 @@
         "stargazers_count": 13,
         "thumb_image_url": "https://raw.githubusercontent.com/daeks/Webhook-Agent.bundle/master/Contents/Resources/icon-default.png"
     },
+    "8201451": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/sander1/Fanart-TV-Agent.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/104684?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-04-19T16:53:18Z",
+                "commit_sha": "e9ad68289a68f30c9c1bf26f64265215f9dfe21b",
+                "download_url": "https://github.com/sander1/Fanart-TV-Agent.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Music",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Fanart.tv is a community driven website providing fanart for TV shows, movies and artists. This agent adds fanart to Plex.",
+        "disabled": false,
+        "forks_count": 7,
+        "full_name": "sander1/Fanart-TV-Agent.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/sander1/Fanart-TV-Agent.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Fanart-TV-Agent.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 9,
+        "thumb_image_url": "https://raw.githubusercontent.com/sander1/Fanart-TV-Agent.bundle/master/Contents/Resources/icon-default.png"
+    },
     "83896680": {
         "archived": false,
         "attribution_image_url": null,
