@@ -12240,5 +12240,46 @@
         "releases": [],
         "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/samuellinde/NHL.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "9663032": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/770149?v=4",
+        "branches": [
+            {
+                "commit_date": "2021-05-31T23:12:15Z",
+                "commit_sha": "8251515ce8789e9edbe950c5f3b1f4733beb56f2",
+                "download_url": "https://github.com/hadason/Subres.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Subtitles",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "LTR subtitles plugin for Plex Media Server",
+        "disabled": false,
+        "forks_count": 4,
+        "full_name": "hadason/Subres",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/hadason/Subres.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Subres",
+        "open_issues_count": 5,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 3,
+        "thumb_image_url": "https://raw.githubusercontent.com/hadason/Subres.bundle/master/Contents/Resources/icon-default.png"
     }
 }
