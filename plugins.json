@@ -6605,6 +6605,45 @@
         "stargazers_count": 1,
         "thumb_image_url": "https://raw.githubusercontent.com/atempcode1/Douban.bundle/master/Contents/Resources/icon-default.png"
     },
+    "401121683": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/19921419?v=4",
+        "branches": [
+            {
+                "commit_date": "2023-02-27T02:11:50Z",
+                "commit_sha": "95ac8a8e8d6d3b4eebcecac69e82bd5d6950f051",
+                "download_url": "https://github.com/Darklyter/StashPlexAgent.bundle/archive/refs/heads/main.zip",
+                "name": "main"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "main",
+        "description": "Plex agent for Stash metadata",
+        "disabled": false,
+        "forks_count": 4,
+        "full_name": "Darklyter/StashPlexAgent",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/Darklyter/StashPlexAgent.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "StashPlexAgent",
+        "open_issues_count": 5,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 25,
+        "thumb_image_url": null
+    },
     "410732328": {
         "archived": false,
         "attribution_image_url": null,
