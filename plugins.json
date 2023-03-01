@@ -7364,6 +7364,46 @@
         "stargazers_count": 78,
         "thumb_image_url": null
     },
+    "4192202": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/681239?v=4",
+        "branches": [
+            {
+                "commit_date": "2012-05-17T12:25:16Z",
+                "commit_sha": "516fbfff64992d19df5b487cc2218ed5177d3f02",
+                "download_url": "https://github.com/pekkanikander/Plex-EyeTV-Tools/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Scanner"
+        ],
+        "default_branch": "master",
+        "description": "Plex EyeTV Tools: Scanner and Agent (information) Bundle",
+        "disabled": false,
+        "forks_count": 5,
+        "full_name": "pekkanikander/Plex-EyeTV-Tools",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/pekkanikander/Plex-EyeTV-Tools",
+        "license": null,
+        "license_url": null,
+        "name": "Plex-EyeTV-Tools",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 6,
+        "thumb_image_url": null
+    },
     "43524912": {
         "archived": false,
         "attribution_image_url": null,
