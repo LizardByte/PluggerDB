@@ -1366,6 +1366,47 @@
         "stargazers_count": 3,
         "thumb_image_url": null
     },
+    "15878519": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/ukdtom/SRT2UTF-8.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/4699449?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-12-04T18:51:47Z",
+                "commit_sha": "6eccdf20882cb78bc8f2ae830a92e39ce7b4d67b",
+                "download_url": "https://github.com/ukdtom/SRT2UTF-8.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Subtitles",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex Agent, that'll convert sidecar subtitle files into UTF-8, if not",
+        "disabled": false,
+        "forks_count": 15,
+        "full_name": "ukdtom/SRT2UTF-8.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/ukdtom/SRT2UTF-8.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "SRT2UTF-8.bundle",
+        "open_issues_count": 5,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 122,
+        "thumb_image_url": "https://raw.githubusercontent.com/ukdtom/SRT2UTF-8.bundle/master/Contents/Resources/icon-default.png"
+    },
     "15983401": {
         "archived": false,
         "attribution_image_url": null,
