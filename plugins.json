@@ -7976,6 +7976,262 @@
         "stargazers_count": 28,
         "thumb_image_url": null
     },
+    "78966914": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/4699449?v=4",
+        "branches": [
+            {
+                "commit_date": "2022-10-23T04:24:25Z",
+                "commit_sha": "ad012f06e53ed8452ef33ff5eb3208109bd48221",
+                "download_url": "https://github.com/ukdtom/ExportTools.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2021-01-27T23:56:33Z",
+                "commit_sha": "fe58ebdcf0bb6959c4b1257963d6040bebc20754",
+                "download_url": "https://github.com/ukdtom/ExportTools.bundle/archive/refs/heads/tommy-work.zip",
+                "name": "tommy-work"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "Export tools for Plex",
+        "disabled": false,
+        "forks_count": 31,
+        "full_name": "ukdtom/ExportTools.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "https://forums.plex.tv/t/rel-exporttools/175915",
+        "html_url": "https://github.com/ukdtom/ExportTools.bundle",
+        "license": "The Unlicense",
+        "license_url": "https://api.github.com/licenses/unlicense",
+        "name": "ExportTools.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.16/ExportTools.bundle.zip",
+                "name": "V2.0.0.16",
+                "prerelease": false,
+                "release_date": "2021-01-28T00:00:33Z",
+                "tag_name": "V2.0.0.16"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.15/ExportTools.bundle.zip",
+                "name": "V2.0.0.15",
+                "prerelease": false,
+                "release_date": "2021-01-02T22:34:55Z",
+                "tag_name": "V2.0.0.15"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.14/ExportTools.bundle.zip",
+                "name": "V2.0.0.14",
+                "prerelease": false,
+                "release_date": "2020-12-27T21:59:52Z",
+                "tag_name": "V2.0.0.14"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.13/ExportTools.bundle.zip",
+                "name": "V2.0.0.13",
+                "prerelease": false,
+                "release_date": "2020-12-22T00:42:39Z",
+                "tag_name": "V2.0.0.13"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.12/ExportTools.bundle.zip",
+                "name": "V2.0.0.12",
+                "prerelease": false,
+                "release_date": "2020-07-02T21:04:12Z",
+                "tag_name": "V2.0.0.12"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.11/ExportTools.bundle.zip",
+                "name": "V2.0.0.11",
+                "prerelease": false,
+                "release_date": "2020-05-22T19:02:48Z",
+                "tag_name": "V2.0.0.11"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.10/ExportTools.bundle.zip",
+                "name": "V2.0.0.10",
+                "prerelease": false,
+                "release_date": "2020-05-20T22:02:39Z",
+                "tag_name": "V2.0.0.10"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.9/ExportTools.bundle.zip",
+                "name": "V2.0.0.9",
+                "prerelease": false,
+                "release_date": "2020-05-18T13:18:27Z",
+                "tag_name": "V2.0.0.9"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.8/ExportTools.bundle.zip",
+                "name": "V2.0.0.8",
+                "prerelease": false,
+                "release_date": "2020-01-26T23:27:09Z",
+                "tag_name": "V2.0.0.8"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.7/ExportTools.bundle.zip",
+                "name": "V2.0.0.7",
+                "prerelease": false,
+                "release_date": "2019-09-24T18:37:25Z",
+                "tag_name": "V2.0.0.7"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.6/ExportTools.bundle.zip",
+                "name": "V2.0.0.6",
+                "prerelease": false,
+                "release_date": "2019-08-27T12:47:11Z",
+                "tag_name": "V2.0.0.6"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.5/ExportTools.bundle.zip",
+                "name": "V2.0.0.5",
+                "prerelease": false,
+                "release_date": "2019-08-05T19:21:48Z",
+                "tag_name": "V2.0.0.5"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.4/ExportTools.bundle.zip",
+                "name": "V2.0.0.4",
+                "prerelease": false,
+                "release_date": "2019-07-25T08:06:07Z",
+                "tag_name": "V2.0.0.4"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.3/ExportTools.bundle.zip",
+                "name": "V2.0.0.3",
+                "prerelease": false,
+                "release_date": "2019-07-13T08:23:53Z",
+                "tag_name": "V2.0.0.3"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.2/ExportTools.bundle.zip",
+                "name": "V2.0.0.2",
+                "prerelease": false,
+                "release_date": "2019-07-10T22:05:10Z",
+                "tag_name": "V2.0.0.2"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.1/ExportTools.bundle.zip",
+                "name": "V2.0.0.1",
+                "prerelease": false,
+                "release_date": "2019-07-09T19:12:07Z",
+                "tag_name": "V2.0.0.1"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.18/ExportTools.bundle.zip",
+                "name": "V1.0.2.18",
+                "prerelease": false,
+                "release_date": "2019-03-17T16:33:52Z",
+                "tag_name": "V1.0.2.18"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/1.0.2.17/ExportTools.bundle.zip",
+                "name": "V1.0.2.17",
+                "prerelease": false,
+                "release_date": "2019-02-16T21:53:26Z",
+                "tag_name": "1.0.2.17"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.16/ExportTools.bundle.zip",
+                "name": "V1.0.2.16",
+                "prerelease": false,
+                "release_date": "2019-01-22T20:26:32Z",
+                "tag_name": "V1.0.2.16"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.15/ExportTools.bundle.zip",
+                "name": "V1.0.2.15",
+                "prerelease": false,
+                "release_date": "2018-07-01T23:16:24Z",
+                "tag_name": "V1.0.2.15"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.14/ExportTools.bundle.zip",
+                "name": "V1.0.2.14",
+                "prerelease": false,
+                "release_date": "2018-05-11T09:14:15Z",
+                "tag_name": "V1.0.2.14"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.13/ExportTools.bundle.zip",
+                "name": "V1.0.2.13",
+                "prerelease": false,
+                "release_date": "2018-04-11T23:19:51Z",
+                "tag_name": "V1.0.2.13"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.12/ExportTools.bundle.zip",
+                "name": "V1.0.2.12",
+                "prerelease": false,
+                "release_date": "2018-03-14T20:46:14Z",
+                "tag_name": "V1.0.2.12"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.11-2/ExportTools.bundle.zip",
+                "name": "V1.0.2.11-2",
+                "prerelease": false,
+                "release_date": "2018-03-11T19:05:24Z",
+                "tag_name": "V1.0.2.11-2"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.11/ExportTools.bundle.zip",
+                "name": "V1.0.2.11",
+                "prerelease": false,
+                "release_date": "2018-03-11T18:28:47Z",
+                "tag_name": "V1.0.2.11"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.10/ExportTools.bundle.zip",
+                "name": "V1.0.2.10",
+                "prerelease": false,
+                "release_date": "2018-03-11T10:37:10Z",
+                "tag_name": "V1.0.2.10"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.9/ExportTools.bundle.zip",
+                "name": "V1.0.2.9",
+                "prerelease": false,
+                "release_date": "2018-03-09T19:23:57Z",
+                "tag_name": "V1.0.2.9"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.8/ExportTools.bundle.zip",
+                "name": "V1.0.2.8",
+                "prerelease": false,
+                "release_date": "2017-12-16T16:42:52Z",
+                "tag_name": "V1.0.2.8"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.7/ExportTools.bundle.zip",
+                "name": "V1.0.2.7",
+                "prerelease": false,
+                "release_date": "2017-12-16T11:33:14Z",
+                "tag_name": "V1.0.2.7"
+            },
+            {
+                "bundle_url": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.6/ExportTools.bundle.zip",
+                "name": "V1.0.2.6",
+                "prerelease": false,
+                "release_date": "2017-11-21T22:05:42Z",
+                "tag_name": "V1.0.2.6"
+            }
+        ],
+        "stargazers_count": 328,
+        "thumb_image_url": "https://raw.githubusercontent.com/ukdtom/ExportTools.bundle/master/Contents/Resources/icon-default.png"
+    },
     "79772186": {
         "archived": false,
         "attribution_image_url": null,
