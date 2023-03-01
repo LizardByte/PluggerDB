@@ -3676,6 +3676,122 @@
         "stargazers_count": 1259,
         "thumb_image_url": null
     },
+    "254866276": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/17012946?v=4",
+        "branches": [
+            {
+                "commit_date": "2021-10-06T22:29:12Z",
+                "commit_sha": "24953d1ae1ba34fb2630a31e9db506cc10f4fa24",
+                "download_url": "https://github.com/seanap/Audiobooks.bundle/archive/refs/heads/develop.zip",
+                "name": "develop"
+            },
+            {
+                "commit_date": "2021-10-08T00:12:58Z",
+                "commit_sha": "2dad6991d98aaf81f3e3cf8714ff4ff8231bf7a2",
+                "download_url": "https://github.com/seanap/Audiobooks.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Music"
+        ],
+        "default_branch": "master",
+        "description": "Audiobook metadata agent for Plex",
+        "disabled": false,
+        "forks_count": 11,
+        "full_name": "seanap/Audiobooks.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/seanap/Audiobooks.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Audiobooks.bundle",
+        "open_issues_count": 6,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/seanap/Audiobooks.bundle/zipball/v2021.09.13.1",
+                "name": "v2021.09.13.1",
+                "prerelease": false,
+                "release_date": "2021-09-15T22:34:23Z",
+                "tag_name": "v2021.09.13.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/seanap/Audiobooks.bundle/zipball/v2021.09.02.1",
+                "name": "v2021.09.02.1",
+                "prerelease": false,
+                "release_date": "2021-09-02T21:46:29Z",
+                "tag_name": "v2021.09.02.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/seanap/Audiobooks.bundle/zipball/v2021.08.30.2",
+                "name": "v2021.08.30.2",
+                "prerelease": false,
+                "release_date": "2021-08-30T22:34:29Z",
+                "tag_name": "v2021.08.30.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/seanap/Audiobooks.bundle/zipball/v2021.08.30.1",
+                "name": "v2021.08.30.1",
+                "prerelease": false,
+                "release_date": "2021-08-30T22:25:25Z",
+                "tag_name": "v2021.08.30.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/seanap/Audiobooks.bundle/zipball/v2021.08.29.2",
+                "name": "v2021.08.29.2",
+                "prerelease": false,
+                "release_date": "2021-08-30T06:44:43Z",
+                "tag_name": "v2021.08.29.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/seanap/Audiobooks.bundle/zipball/v2021.08.28.1",
+                "name": "v2021.08.28.1",
+                "prerelease": false,
+                "release_date": "2021-08-28T23:52:30Z",
+                "tag_name": "v2021.08.28.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/seanap/Audiobooks.bundle/zipball/2021.08.27.1",
+                "name": "v2021.08.27.1",
+                "prerelease": false,
+                "release_date": "2021-08-28T22:39:38Z",
+                "tag_name": "2021.08.27.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/seanap/Audiobooks.bundle/zipball/v2021.08.24.2",
+                "name": "v2021.08.24.2",
+                "prerelease": false,
+                "release_date": "2021-08-28T22:35:32Z",
+                "tag_name": "v2021.08.24.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/seanap/Audiobooks.bundle/zipball/v2021.08.24.1",
+                "name": "v2021.08.24.1",
+                "prerelease": false,
+                "release_date": "2021-08-28T22:35:20Z",
+                "tag_name": "v2021.08.24.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/seanap/Audiobooks.bundle/zipball/v2019.07.29.1",
+                "name": "v2019.07.29.1",
+                "prerelease": false,
+                "release_date": "2021-08-28T22:19:49Z",
+                "tag_name": "v2019.07.29.1"
+            }
+        ],
+        "stargazers_count": 113,
+        "thumb_image_url": null
+    },
     "2644137": {
         "archived": false,
         "attribution_image_url": null,
