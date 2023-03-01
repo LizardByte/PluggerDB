@@ -2359,6 +2359,74 @@
         "stargazers_count": 12,
         "thumb_image_url": "https://raw.githubusercontent.com/vmirage/TMDBTrailer.bundle/master/Contents/Resources/icon-default.jpg"
     },
+    "171079928": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3175035?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-11-21T22:22:40Z",
+                "commit_sha": "53435ef93e7007e5b44df92a3f89724309b44137",
+                "download_url": "https://github.com/suparngp/plex-personal-shows-agent.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex Metadata agent to manage personal shows",
+        "disabled": false,
+        "forks_count": 8,
+        "full_name": "suparngp/plex-personal-shows-agent",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/suparngp/plex-personal-shows-agent.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "plex-personal-shows-agent",
+        "open_issues_count": 5,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/suparngp/plex-personal-shows-agent.bundle/zipball/v1.0.3",
+                "name": "Bug Fixes",
+                "prerelease": false,
+                "release_date": "2020-02-29T23:44:40Z",
+                "tag_name": "v1.0.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/suparngp/plex-personal-shows-agent.bundle/zipball/v1.0.2",
+                "name": "Season Summary + Single Level Directories",
+                "prerelease": false,
+                "release_date": "2019-02-23T01:47:13Z",
+                "tag_name": "v1.0.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/suparngp/plex-personal-shows-agent.bundle/zipball/v1.0.1",
+                "name": "Default and Relative Poster Paths",
+                "prerelease": false,
+                "release_date": "2019-02-18T08:41:06Z",
+                "tag_name": "v1.0.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/suparngp/plex-personal-shows-agent.bundle/zipball/v1.0.0",
+                "name": "First Release",
+                "prerelease": false,
+                "release_date": "2019-02-18T06:04:56Z",
+                "tag_name": "v1.0.0"
+            }
+        ],
+        "stargazers_count": 38,
+        "thumb_image_url": null
+    },
     "17290702": {
         "archived": false,
         "attribution_image_url": null,
