@@ -1632,6 +1632,46 @@
         "stargazers_count": 46,
         "thumb_image_url": "https://raw.githubusercontent.com/tschaumburg/MythRecordings.bundle/master/Contents/Resources/icon-default.png"
     },
+    "1448061": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/54129?v=4",
+        "branches": [
+            {
+                "commit_date": "2011-07-09T21:13:49Z",
+                "commit_sha": "a041d08130b1f9524f6d145478ed8645263613d2",
+                "download_url": "https://github.com/maxandersen/DRNU.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Music",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex plugin for dr.dk/nu",
+        "disabled": false,
+        "forks_count": 5,
+        "full_name": "maxandersen/DRNU",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "http://dr.dk/nu/api",
+        "html_url": "https://github.com/maxandersen/DRNU.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "DRNU",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 3,
+        "thumb_image_url": "https://raw.githubusercontent.com/maxandersen/DRNU.bundle/master/Contents/Resources/icon-default.png"
+    },
     "14555409": {
         "archived": false,
         "attribution_image_url": null,
