@@ -1833,6 +1833,51 @@
         "stargazers_count": 1,
         "thumb_image_url": "https://raw.githubusercontent.com/joshuaavalon/AvalonRestAgent.bundle/master/Contents/Resources/icon-default.png"
     },
+    "14733551": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/776060?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-01-02T19:15:08Z",
+                "commit_sha": "4bc5d31fd028d11a53ccf84b9d36c8a4ff733b00",
+                "download_url": "https://github.com/datvance/NBCSports.bundle/archive/refs/heads/develop.zip",
+                "name": "develop"
+            },
+            {
+                "commit_date": "2016-01-02T19:15:08Z",
+                "commit_sha": "4bc5d31fd028d11a53ccf84b9d36c8a4ff733b00",
+                "download_url": "https://github.com/datvance/NBCSports.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Channel plug-in for NBC Sports",
+        "disabled": false,
+        "forks_count": 4,
+        "full_name": "datvance/NBCSports",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/datvance/NBCSports.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "NBCSports",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 4,
+        "thumb_image_url": "https://raw.githubusercontent.com/datvance/NBCSports.bundle/master/Contents/Resources/icon-default.jpg"
+    },
     "147920532": {
         "archived": false,
         "attribution_image_url": null,
