@@ -5452,6 +5452,46 @@
         "stargazers_count": 9,
         "thumb_image_url": "https://raw.githubusercontent.com/vofik/ExcaliburFilms.bundle/master/Contents/Resources/icon-default.png"
     },
+    "26968294": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1116969?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-11-21T16:59:14Z",
+                "commit_sha": "8fa58ca8bf73367c3fed07e66b9e02f80a2eb847",
+                "download_url": "https://github.com/lotooo/AlJazeera.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "News",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Al Jazeera Plex channel",
+        "disabled": false,
+        "forks_count": 5,
+        "full_name": "lotooo/AlJazeera",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/lotooo/AlJazeera.bundle",
+        "license": "GNU General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/gpl-3.0",
+        "name": "AlJazeera",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/lotooo/AlJazeera.bundle/master/Contents/Resources/icon-default.png"
+    },
     "27304929": {
         "archived": false,
         "attribution_image_url": null,
