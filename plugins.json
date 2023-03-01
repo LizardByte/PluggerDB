@@ -579,6 +579,75 @@
         "stargazers_count": 1068,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
+    "1210048": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/277223?v=4",
+        "branches": [
+            {
+                "commit_date": "2012-09-20T15:38:13Z",
+                "commit_sha": "dd0a25a377263a6f21482a5b4b8b4bb325e0e222",
+                "download_url": "https://github.com/mikedm139/SABnzbd.bundle/archive/refs/heads/3rdParty.zip",
+                "name": "3rdParty"
+            },
+            {
+                "commit_date": "2013-05-07T02:10:13Z",
+                "commit_sha": "9c8b6946e0637c1ace5e8d7f5e8974904d54c3a5",
+                "download_url": "https://github.com/mikedm139/SABnzbd.bundle/archive/refs/heads/applications.zip",
+                "name": "applications"
+            },
+            {
+                "commit_date": "2012-10-27T22:28:54Z",
+                "commit_sha": "9a7a95126c9ff6498ae0e2f0e42baaca387129d0",
+                "download_url": "https://github.com/mikedm139/SABnzbd.bundle/archive/refs/heads/dev.zip",
+                "name": "dev"
+            },
+            {
+                "commit_date": "2013-05-05T19:39:22Z",
+                "commit_sha": "25f2b5c12538519d5e8f59d4e27eda1bb26da0b2",
+                "download_url": "https://github.com/mikedm139/SABnzbd.bundle/archive/refs/heads/framework2.1.zip",
+                "name": "framework2.1"
+            },
+            {
+                "commit_date": "2014-08-24T16:36:50Z",
+                "commit_sha": "0ba316468ee515ad9c52ca7cac4c04e9ab22d126",
+                "download_url": "https://github.com/mikedm139/SABnzbd.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2013-05-07T02:10:13Z",
+                "commit_sha": "abf66332f9f80df88bf0b9e6c1cb63968dee46f7",
+                "download_url": "https://github.com/mikedm139/SABnzbd.bundle/archive/refs/heads/videos.zip",
+                "name": "videos"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 4,
+        "full_name": "mikedm139/SABnzbd.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/mikedm139/SABnzbd.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "SABnzbd.bundle",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 10,
+        "thumb_image_url": "https://raw.githubusercontent.com/mikedm139/SABnzbd.bundle/master/Contents/Resources/icon-default.png"
+    },
     "12186768": {
         "archived": false,
         "attribution_image_url": null,
