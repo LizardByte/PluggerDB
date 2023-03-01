@@ -477,6 +477,46 @@
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/jashk/Crunchyroll.bundle/master/Contents/Resources/icon-default.png"
     },
+    "118404983": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/wonipapa/DaumMovieTVSeries.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/5883573?v=4",
+        "branches": [
+            {
+                "commit_date": "2021-04-23T13:18:40Z",
+                "commit_sha": "f6e70453fa91f7af9990793cbecb13a14ca3909c",
+                "download_url": "https://github.com/wonipapa/DaumMovieTVSeries.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex Metadata Agent for daum movie & tv series",
+        "disabled": false,
+        "forks_count": 14,
+        "full_name": "wonipapa/DaumMovieTVSeries.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/wonipapa/DaumMovieTVSeries.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "DaumMovieTVSeries.bundle",
+        "open_issues_count": 5,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 38,
+        "thumb_image_url": "https://raw.githubusercontent.com/wonipapa/DaumMovieTVSeries.bundle/master/Contents/Resources/icon-default.png"
+    },
     "12186768": {
         "archived": false,
         "attribution_image_url": null,
