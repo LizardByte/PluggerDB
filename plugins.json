@@ -8672,6 +8672,46 @@
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/daeks/ArgusTV-Agent.bundle/master/Contents/Resources/icon-default.png"
     },
+    "71804753": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3989440?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-07-24T08:39:03Z",
+                "commit_sha": "0b9b0dcff4a51df1e763e5b8583983f790a57c6c",
+                "download_url": "https://github.com/daeks/StaticMedia-Agent.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Static Media Agent for Plex",
+        "disabled": false,
+        "forks_count": 3,
+        "full_name": "daeks/StaticMedia-Agent.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/daeks/StaticMedia-Agent.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "StaticMedia-Agent.bundle",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 10,
+        "thumb_image_url": "https://raw.githubusercontent.com/daeks/StaticMedia-Agent.bundle/master/Contents/Resources/icon-default.png"
+    },
     "7257641": {
         "archived": false,
         "attribution_image_url": null,
