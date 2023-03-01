@@ -7494,6 +7494,45 @@
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/HuXDK/Media-Flags.bundle/master/Contents/Resources/icon-default.png"
     },
+    "72892181": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/bubonic/TGC.bundle/master/TGC.bundle/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/15696467?v=4",
+        "branches": [
+            {
+                "commit_date": "2021-02-24T02:20:49Z",
+                "commit_sha": "8d94f0b54ed65013a62cdc362e21249a80d35ecb",
+                "download_url": "https://github.com/bubonic/TGC.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "The Great Courses Agent for Plex",
+        "disabled": false,
+        "forks_count": 8,
+        "full_name": "bubonic/TGC.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/bubonic/TGC.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "TGC.bundle",
+        "open_issues_count": 6,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 41,
+        "thumb_image_url": "https://raw.githubusercontent.com/bubonic/TGC.bundle/master/TGC.bundle/Contents/Resources/icon-default.png"
+    },
     "7527303": {
         "archived": false,
         "attribution_image_url": null,
