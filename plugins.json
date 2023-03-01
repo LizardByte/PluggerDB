@@ -2414,6 +2414,59 @@
         "stargazers_count": 56,
         "thumb_image_url": null
     },
+    "18257694": {
+        "archived": true,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/7104931?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-05-23T04:21:50Z",
+                "commit_sha": "5acb31a1782666b9051a82a5f634e15a68e8b609",
+                "download_url": "https://github.com/BrutuZ/LegendasTV.bundle/archive/refs/heads/deprecated.zip",
+                "name": "deprecated"
+            },
+            {
+                "commit_date": "2017-08-11T22:56:36Z",
+                "commit_sha": "4af961acbfcd63e59e3a82e71e1d688ee1a6dc5b",
+                "download_url": "https://github.com/BrutuZ/LegendasTV.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2014-11-15T19:32:19Z",
+                "commit_sha": "474afd62c42f042da4952a51b05bb0ceb8fa20d0",
+                "download_url": "https://github.com/BrutuZ/LegendasTV.bundle/archive/refs/heads/test.zip",
+                "name": "test"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Subtitles",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex Subtitle Agent for Legendas.tv",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "BrutuZ/LegendasTV.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/BrutuZ/LegendasTV.bundle",
+        "license": "GNU General Public License v2.0",
+        "license_url": "https://api.github.com/licenses/gpl-2.0",
+        "name": "LegendasTV.bundle",
+        "open_issues_count": 5,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 16,
+        "thumb_image_url": "https://raw.githubusercontent.com/BrutuZ/LegendasTV.bundle/master/Contents/Resources/icon-default.png"
+    },
     "18277980": {
         "archived": false,
         "attribution_image_url": null,
