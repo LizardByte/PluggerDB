@@ -2567,6 +2567,65 @@
         "stargazers_count": 1,
         "thumb_image_url": "https://raw.githubusercontent.com/mattpwalsh/TiVo.bundle/master/Contents/Resources/icon-default.jpg"
     },
+    "21787506": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3511293?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-08-01T07:09:22Z",
+                "commit_sha": "50f5194be46d21718cfc18acd0898c8b749a2000",
+                "download_url": "https://github.com/bramwalet/Subliminal.bundle/archive/refs/heads/add_languagues.zip",
+                "name": "add_languagues"
+            },
+            {
+                "commit_date": "2015-10-11T14:39:17Z",
+                "commit_sha": "d9c26e88a412aab4c9ed304e071ba2b6157b71c2",
+                "download_url": "https://github.com/bramwalet/Subliminal.bundle/archive/refs/heads/guessit-0.11.zip",
+                "name": "guessit-0.11"
+            },
+            {
+                "commit_date": "2015-10-11T14:32:54Z",
+                "commit_sha": "ecb84c68d913ed49146243d1b5e0b07ff7876f0b",
+                "download_url": "https://github.com/bramwalet/Subliminal.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2015-02-15T16:19:11Z",
+                "commit_sha": "3b3fdb34e32f378224d77396df3f1025c1d75163",
+                "download_url": "https://github.com/bramwalet/Subliminal.bundle/archive/refs/heads/unicode_characters.zip",
+                "name": "unicode_characters"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Subtitles",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex Metadata agent plugin based on Subliminal ",
+        "disabled": false,
+        "forks_count": 147,
+        "full_name": "bramwalet/Subliminal.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/bramwalet/Subliminal.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "Subliminal.bundle",
+        "open_issues_count": 18,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 147,
+        "thumb_image_url": "https://raw.githubusercontent.com/bramwalet/Subliminal.bundle/master/Contents/Resources/icon-default.png"
+    },
     "22023072": {
         "archived": true,
         "attribution_image_url": null,
