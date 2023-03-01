@@ -1662,6 +1662,48 @@
         "stargazers_count": 143,
         "thumb_image_url": "https://raw.githubusercontent.com/sharkone/BitTorrent.bundle/master/Contents/Resources/icon-default.png"
     },
+    "168845727": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/ajtatum/AvalonRestAgent.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/318022?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-02-29T06:48:44Z",
+                "commit_sha": "c5629b85be8553efbfe52f22bdbe3c68a246ae57",
+                "download_url": "https://github.com/ajtatum/AvalonRestAgent.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Music",
+            "TV",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "Plex rest api agent for developer",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "ajtatum/AvalonRestAgent.bundle",
+        "gh_pages_url": "https://ajtatum.github.io/AvalonRestAgent.bundle/",
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": "https://ajtatum.github.io/AvalonRestAgent.bundle",
+        "html_url": "https://github.com/ajtatum/AvalonRestAgent.bundle",
+        "license": "Apache License 2.0",
+        "license_url": "https://api.github.com/licenses/apache-2.0",
+        "name": "AvalonRestAgent.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/ajtatum/AvalonRestAgent.bundle/master/Contents/Resources/icon-default.png"
+    },
     "17290702": {
         "archived": false,
         "attribution_image_url": null,
