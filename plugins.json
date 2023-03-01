@@ -1065,6 +1065,108 @@
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/dbl-a/ABC.bundle/master/Contents/Resources/icon-default.png"
     },
+    "136007302": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1188502?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-05-20T22:08:45Z",
+                "commit_sha": "663f5d8b3abeeccddd9939876d6e1d3803011f5f",
+                "download_url": "https://github.com/amirotin/Kinopoisk.bundle/archive/refs/heads/beta.zip",
+                "name": "beta"
+            },
+            {
+                "commit_date": "2021-10-25T21:16:30Z",
+                "commit_sha": "2db1b0001f55b752dda05b713dd4dcc2177f5a49",
+                "download_url": "https://github.com/amirotin/Kinopoisk.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2021-11-04T16:26:48Z",
+                "commit_sha": "c12441d2078881b0df2d1a048a00c2052dbf4b90",
+                "download_url": "https://github.com/amirotin/Kinopoisk.bundle/archive/refs/heads/renovate/configure.zip",
+                "name": "renovate/configure"
+            },
+            {
+                "commit_date": "2020-02-29T11:19:12Z",
+                "commit_sha": "cd538fb9ce8c7c9ee8edc57032ff7126b1989701",
+                "download_url": "https://github.com/amirotin/Kinopoisk.bundle/archive/refs/heads/revert-10-master.zip",
+                "name": "revert-10-master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Services",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 40,
+        "full_name": "amirotin/Kinopoisk.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/amirotin/Kinopoisk.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Kinopoisk.bundle",
+        "open_issues_count": 29,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/amirotin/Kinopoisk.bundle/zipball/2.0.11",
+                "name": "FIX \u043f\u043e\u0441\u0442\u0435\u0440\u043e\u0432",
+                "prerelease": false,
+                "release_date": "2021-03-18T05:55:06Z",
+                "tag_name": "2.0.11"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/amirotin/Kinopoisk.bundle/zipball/v2.0.10",
+                "name": "\u0421\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0440\u0435\u043b\u0438\u0437 v2.0.10",
+                "prerelease": false,
+                "release_date": "2020-05-21T20:16:05Z",
+                "tag_name": "v2.0.10"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/amirotin/Kinopoisk.bundle/zipball/v2.0.9",
+                "name": "\u0421\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0440\u0435\u043b\u0438\u0437 v2.0.9",
+                "prerelease": false,
+                "release_date": "2020-05-20T23:21:08Z",
+                "tag_name": "v2.0.9"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/amirotin/Kinopoisk.bundle/zipball/v2.0.8",
+                "name": "\u0421\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0440\u0435\u043b\u0438\u0437 v2.0.8",
+                "prerelease": false,
+                "release_date": "2020-05-20T22:38:15Z",
+                "tag_name": "v2.0.8"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/amirotin/Kinopoisk.bundle/zipball/v2.0.7",
+                "name": "\u0421\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0440\u0435\u043b\u0438\u0437 v2.0.7",
+                "prerelease": false,
+                "release_date": "2020-03-02T12:16:33Z",
+                "tag_name": "v2.0.7"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/amirotin/Kinopoisk.bundle/zipball/v2.0.0",
+                "name": "\u0421\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0440\u0435\u043b\u0438\u0437 v2.0.0",
+                "prerelease": false,
+                "release_date": "2019-03-30T15:29:17Z",
+                "tag_name": "v2.0.0"
+            }
+        ],
+        "stargazers_count": 156,
+        "thumb_image_url": "https://raw.githubusercontent.com/amirotin/Kinopoisk.bundle/master/Contents/Resources/icon-default.png"
+    },
     "137607528": {
         "archived": false,
         "attribution_image_url": null,
