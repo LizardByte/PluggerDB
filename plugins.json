@@ -3276,6 +3276,45 @@
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/gentiho/PlexTools.bundle/master/Contents/Resources/icon-default.png"
     },
+    "19215306": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/4339683?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-10-18T15:41:55Z",
+                "commit_sha": "5fafce1b3b8f221d470b9074de33e7856d248ac6",
+                "download_url": "https://github.com/bmihovski/plex-vdr-live-samsung-tv-plugin.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 5,
+        "full_name": "bmihovski/plex-vdr-live-samsung-tv-plugin",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/bmihovski/plex-vdr-live-samsung-tv-plugin.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "plex-vdr-live-samsung-tv-plugin",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 3,
+        "thumb_image_url": "https://raw.githubusercontent.com/bmihovski/plex-vdr-live-samsung-tv-plugin.bundle/master/Contents/Resources/icon-default.png"
+    },
     "19236973": {
         "archived": true,
         "attribution_image_url": null,
