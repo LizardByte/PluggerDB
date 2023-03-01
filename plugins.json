@@ -5281,6 +5281,46 @@
         "stargazers_count": 15,
         "thumb_image_url": "https://raw.githubusercontent.com/cccc/MediaCCC.bundle/master/Contents/Resources/icon-default.png"
     },
+    "28776926": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/10390140?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-12-15T00:59:35Z",
+                "commit_sha": "926770d5c1c64003070f65ac4eaa70b1d5a01d0b",
+                "download_url": "https://github.com/LanRochpenn/xHamster.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Media Server channel for adult website xhamster.com -- 18+ content, NSFW",
+        "disabled": false,
+        "forks_count": 6,
+        "full_name": "LanRochpenn/xHamster",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/LanRochpenn/xHamster.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "xHamster",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 14,
+        "thumb_image_url": "https://raw.githubusercontent.com/LanRochpenn/xHamster.bundle/master/Contents/Resources/icon-default.png"
+    },
     "28979610": {
         "archived": false,
         "attribution_image_url": null,
