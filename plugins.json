@@ -2052,6 +2052,45 @@
         "stargazers_count": 83,
         "thumb_image_url": "https://raw.githubusercontent.com/contrary-cat/LocalTVExtras.bundle/master/Contents/Resources/icon-default.png"
     },
+    "1633366": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/735296?v=4",
+        "branches": [
+            {
+                "commit_date": "2011-04-19T04:40:55Z",
+                "commit_sha": "a57804ad76b6d27aaf56c36e04b9c415f13dd600",
+                "download_url": "https://github.com/plex-unofficial/Channels.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Use your Channels.com Reader on your TV through Plex.",
+        "disabled": false,
+        "forks_count": 8,
+        "full_name": "plex-unofficial/Channels",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/plex-unofficial/Channels.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Channels",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/plex-unofficial/Channels.bundle/master/Contents/Resources/icon-default.png"
+    },
     "166753315": {
         "archived": false,
         "attribution_image_url": null,
