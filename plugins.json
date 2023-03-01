@@ -1357,6 +1357,46 @@
         "stargazers_count": 15,
         "thumb_image_url": "https://raw.githubusercontent.com/PhoenixPlexCode/Data18-Phoenix.bundle/master/Contents/Resources/icon-default.png"
     },
+    "148073215": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/43088899?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-10-02T22:59:52Z",
+                "commit_sha": "1b06b1a909c41c40f3031ed17decb7a9b9734901",
+                "download_url": "https://github.com/PhoenixPlexCode/PhoenixAdult.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Plex Meta-Data Agent for scene videos from multiple adult sites",
+        "disabled": false,
+        "forks_count": 218,
+        "full_name": "PhoenixPlexCode/PhoenixAdult.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/PhoenixPlexCode/PhoenixAdult.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "PhoenixAdult.bundle",
+        "open_issues_count": 26,
+        "open_pull_requests_count": 4,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 86,
+        "thumb_image_url": "https://raw.githubusercontent.com/PhoenixPlexCode/PhoenixAdult.bundle/master/Contents/Resources/icon-default.png"
+    },
     "1512575": {
         "archived": false,
         "attribution_image_url": null,
