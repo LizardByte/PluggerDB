@@ -6516,6 +6516,46 @@
         "stargazers_count": 8,
         "thumb_image_url": "https://raw.githubusercontent.com/DeeZem/Superchillin.bundle/master/Contents/Resources/icon-default.png"
     },
+    "389395289": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/8982940?v=4",
+        "branches": [
+            {
+                "commit_date": "2023-02-21T14:07:40Z",
+                "commit_sha": "31d3231786741d5b0b5c06b8390c234e4cab231d",
+                "download_url": "https://github.com/Xavier-Lam/JAV.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "A plex agent for Japanese porn videos. It collects data from JavLibrary, AVEntertainments and some studio's official sites.",
+        "disabled": false,
+        "forks_count": 4,
+        "full_name": "Xavier-Lam/JAV",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/Xavier-Lam/JAV.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "JAV",
+        "open_issues_count": 2,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 32,
+        "thumb_image_url": null
+    },
     "39710142": {
         "archived": false,
         "attribution_image_url": null,
