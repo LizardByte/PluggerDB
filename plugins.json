@@ -5280,6 +5280,45 @@
         "stargazers_count": 38,
         "thumb_image_url": "https://raw.githubusercontent.com/tivoguy/TiVoToGo.bundle/master/Contents/Resources/icon-default.jpg"
     },
+    "28444740": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1271035?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-11-11T19:56:22Z",
+                "commit_sha": "7be09982b06e7d4aa7a2db85cde34ccce2c2ef9a",
+                "download_url": "https://github.com/matthijsvdr/Tweakers.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex channel for tweakers.net",
+        "disabled": false,
+        "forks_count": 6,
+        "full_name": "matthijsvdr/Tweakers",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/matthijsvdr/Tweakers.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "Tweakers",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/matthijsvdr/Tweakers.bundle/master/Contents/Resources/icon-default.jpg"
+    },
     "28475989": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/Fribb/MyAnimeList.bundle/master/Contents/Resources/attribution.png",
