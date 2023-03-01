@@ -2688,6 +2688,144 @@
         "stargazers_count": 1,
         "thumb_image_url": "https://raw.githubusercontent.com/mattpwalsh/TiVo.bundle/master/Contents/Resources/icon-default.jpg"
     },
+    "217692442": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/AdultScraperX/AdultScraperX.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/63276197?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-04-12T06:08:22Z",
+                "commit_sha": "3eb8e5362823f1b2b7536817f32630d40fd30758",
+                "download_url": "https://github.com/AdultScraperX/AdultScraperX.bundle/archive/refs/heads/dev.zip",
+                "name": "dev"
+            },
+            {
+                "commit_date": "2021-07-17T10:36:46Z",
+                "commit_sha": "a817fbc90b0a124a27183ead8d3c9800ea59ad2a",
+                "download_url": "https://github.com/AdultScraperX/AdultScraperX.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "plex adult scraper",
+        "disabled": false,
+        "forks_count": 20,
+        "full_name": "AdultScraperX/AdultScraperX.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/AdultScraperX/AdultScraperX.bundle",
+        "license": "GNU General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/gpl-3.0",
+        "name": "AdultScraperX.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.6.3",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2020-03-27T07:52:23Z",
+                "tag_name": "1.6.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.6.2",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2020-03-22T14:15:00Z",
+                "tag_name": "1.6.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.6.1",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2020-03-22T12:07:53Z",
+                "tag_name": "1.6.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.6.0",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2020-03-22T08:04:55Z",
+                "tag_name": "1.6.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.5.1",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2020-03-16T15:59:05Z",
+                "tag_name": "1.5.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.5.0",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2020-03-15T13:11:53Z",
+                "tag_name": "1.5.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.3.2",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2020-03-13T08:13:21Z",
+                "tag_name": "1.3.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.3.1",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2020-03-13T05:11:27Z",
+                "tag_name": "1.3.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.3.0",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2020-03-12T17:07:43Z",
+                "tag_name": "1.3.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.2.0",
+                "name": "",
+                "prerelease": true,
+                "release_date": "2020-03-09T12:58:38Z",
+                "tag_name": "1.2.0"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.1.2",
+                "name": "",
+                "prerelease": true,
+                "release_date": "2020-03-09T10:25:40Z",
+                "tag_name": "1.1.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.1",
+                "name": "1.1",
+                "prerelease": false,
+                "release_date": "2020-03-02T10:47:31Z",
+                "tag_name": "1.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/AdultScraperX/AdultScraperX.bundle/zipball/1.0",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2019-12-14T15:16:43Z",
+                "tag_name": "1.0"
+            }
+        ],
+        "stargazers_count": 117,
+        "thumb_image_url": "https://raw.githubusercontent.com/AdultScraperX/AdultScraperX.bundle/master/Contents/Resources/icon-default.png"
+    },
     "21787506": {
         "archived": false,
         "attribution_image_url": null,
