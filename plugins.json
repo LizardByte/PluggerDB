@@ -4882,6 +4882,45 @@
         "stargazers_count": 573,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
+    "3621098": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/370329?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-09-16T15:53:43Z",
+                "commit_sha": "534e7737886135b2d0b43d8ae9ee394f1a116051",
+                "download_url": "https://github.com/gboudreau/XBMCnfoTVImporter.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 60,
+        "full_name": "gboudreau/XBMCnfoTVImporter.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/gboudreau/XBMCnfoTVImporter.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "XBMCnfoTVImporter.bundle",
+        "open_issues_count": 24,
+        "open_pull_requests_count": 5,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 289,
+        "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
+    },
     "36627179": {
         "archived": false,
         "attribution_image_url": null,
