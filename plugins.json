@@ -9322,6 +9322,45 @@
         "stargazers_count": 28,
         "thumb_image_url": null
     },
+    "78492275": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/13565327?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-01-10T23:32:31Z",
+                "commit_sha": "881cb1e380abd78cae41fe5e09050d565503d208",
+                "download_url": "https://github.com/Twoure/Speedtest.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "Plex Utility Channel to test Plex Media Server Internet Speed",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "Twoure/Speedtest.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/Twoure/Speedtest.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Speedtest.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 11,
+        "thumb_image_url": "https://raw.githubusercontent.com/Twoure/Speedtest.bundle/master/Contents/Resources/icon-default.png"
+    },
     "78966914": {
         "archived": false,
         "attribution_image_url": null,
