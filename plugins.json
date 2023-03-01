@@ -9068,6 +9068,79 @@
         "stargazers_count": 10,
         "thumb_image_url": "https://raw.githubusercontent.com/Nosinden/SpankBang.bundle/master/Contents/Resources/icon-default.png"
     },
+    "48314065": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/13565327?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-10-30T20:33:17Z",
+                "commit_sha": "dbfc7416cd9ba67a7bf3185ea3ec9f01732aecd8",
+                "download_url": "https://github.com/Twoure/GreekTV.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2016-11-22T01:04:25Z",
+                "commit_sha": "c9f0f76ac9430ba34368501e7ffe0bb1ab1066c3",
+                "download_url": "https://github.com/Twoure/GreekTV.bundle/archive/refs/heads/plexinc-plugins-dev.zip",
+                "name": "plexinc-plugins-dev"
+            },
+            {
+                "commit_date": "2016-10-31T12:42:15Z",
+                "commit_sha": "8ebdd0670f2addce19966cb6099e7a0ac0c42b17",
+                "download_url": "https://github.com/Twoure/GreekTV.bundle/archive/refs/heads/plexinc-plugins-master.zip",
+                "name": "plexinc-plugins-master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Channel to watch IPTV from http://greektv.upg.gr/",
+        "disabled": false,
+        "forks_count": 5,
+        "full_name": "Twoure/GreekTV",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/Twoure/GreekTV.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "GreekTV",
+        "open_issues_count": 5,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/Twoure/GreekTV.bundle/zipball/v1.0.2",
+                "name": "v1.0.2",
+                "prerelease": false,
+                "release_date": "2016-10-30T20:33:54Z",
+                "tag_name": "v1.0.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Twoure/GreekTV.bundle/zipball/v1.0.1",
+                "name": "v1.0.1",
+                "prerelease": false,
+                "release_date": "2015-12-23T18:18:40Z",
+                "tag_name": "v1.0.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Twoure/GreekTV.bundle/zipball/v1.0.0",
+                "name": "v1.0.0",
+                "prerelease": false,
+                "release_date": "2015-12-23T18:02:48Z",
+                "tag_name": "v1.0.0"
+            }
+        ],
+        "stargazers_count": 5,
+        "thumb_image_url": "https://raw.githubusercontent.com/Twoure/GreekTV.bundle/master/Contents/Resources/icon-default.png"
+    },
     "50203056": {
         "archived": false,
         "attribution_image_url": null,
