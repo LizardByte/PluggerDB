@@ -1704,6 +1704,67 @@
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/ajtatum/AvalonRestAgent.bundle/master/Contents/Resources/icon-default.png"
     },
+    "169829934": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/105443?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-05-11T10:35:41Z",
+                "commit_sha": "7fe10598f0dc63ce4ae071c43cba7c704a35599c",
+                "download_url": "https://github.com/vmirage/TMDBTrailer.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "vmirage/TMDBTrailer.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/vmirage/TMDBTrailer.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "TMDBTrailer.bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://github.com/vmirage/TMDBTrailer.bundle/releases/download/v4.2/TMDBTrailer.bundle.zip",
+                "name": "v4.2",
+                "prerelease": false,
+                "release_date": "2020-05-11T10:38:20Z",
+                "tag_name": "v4.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/vmirage/TMDBTrailer.bundle/zipball/v4.1",
+                "name": "v4.1",
+                "prerelease": false,
+                "release_date": "2020-01-13T02:14:45Z",
+                "tag_name": "v4.1"
+            },
+            {
+                "bundle_url": "https://github.com/vmirage/TMDBTrailer.bundle/releases/download/v4.0/TMDBTrailer.zip",
+                "name": "v4.0",
+                "prerelease": false,
+                "release_date": "2019-02-09T06:59:14Z",
+                "tag_name": "v4.0"
+            }
+        ],
+        "stargazers_count": 12,
+        "thumb_image_url": "https://raw.githubusercontent.com/vmirage/TMDBTrailer.bundle/master/Contents/Resources/icon-default.jpg"
+    },
     "17290702": {
         "archived": false,
         "attribution_image_url": null,
