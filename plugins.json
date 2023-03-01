@@ -2168,6 +2168,45 @@
         "stargazers_count": 2,
         "thumb_image_url": "https://raw.githubusercontent.com/datvance/Big12Sports.bundle/master/Contents/Resources/icon-default.png"
     },
+    "15509058": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/2862240?v=4",
+        "branches": [
+            {
+                "commit_date": "2013-12-29T17:36:14Z",
+                "commit_sha": "34e7da6757e05faf6f21002e41e206fd761cd978",
+                "download_url": "https://github.com/vralfy/Ebooks.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Photos"
+        ],
+        "default_branch": "master",
+        "description": "E-Books bundle for Plex Media Server",
+        "disabled": false,
+        "forks_count": 3,
+        "full_name": "vralfy/Ebooks",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/vralfy/Ebooks.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Ebooks",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 6,
+        "thumb_image_url": "https://raw.githubusercontent.com/vralfy/Ebooks.bundle/master/Contents/Resources/icon-default.png"
+    },
     "15514185": {
         "archived": false,
         "attribution_image_url": null,
