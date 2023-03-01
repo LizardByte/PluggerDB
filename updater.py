@@ -278,7 +278,7 @@ def process_github_url(owner: str, repo: str, categories: Optional[str] = None) 
 """
                 # dynamically create the Markdown table
                 for data_key, value in og_data[str(github_data['id'])].items():
-                    if 'image_url' in data_key and value:
+                    if 'image_url' in data_key and 'avatar' not in data_key and value:
                         issue_comment += f'| {data_key} | ![{data_key}]({value}) |\n'
                     else:
                         issue_comment += f'| {data_key} | {value} |\n'
