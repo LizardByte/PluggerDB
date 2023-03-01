@@ -8027,6 +8027,45 @@
         "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/cerk/Lifetime.bundle/master/Contents/Resources/icon-default.png"
     },
+    "86371231": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/960553?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-12-11T14:31:33Z",
+                "commit_sha": "82f65782f025187e168524e88aacd1864844ef21",
+                "download_url": "https://github.com/nomego/Lazyman.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Lazyman Plex Channel",
+        "disabled": false,
+        "forks_count": 27,
+        "full_name": "nomego/Lazyman.bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/nomego/Lazyman.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Lazyman.bundle",
+        "open_issues_count": 21,
+        "open_pull_requests_count": 2,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 106,
+        "thumb_image_url": null
+    },
     "86917897": {
         "archived": false,
         "attribution_image_url": null,
