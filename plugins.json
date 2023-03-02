@@ -8885,6 +8885,108 @@
         "stargazers_count": 12,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/Asstosrt.bundle/main/Contents/Resources/icon-default.png"
     },
+    "38807376": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/458420?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-08-26T17:20:55Z",
+                "commit_sha": "210fcd065317a0fcbc51d1a3b65c2cb3124837f0",
+                "download_url": "https://github.com/manfer/AIPTV.bundle/archive/refs/heads/gh-pages.zip",
+                "name": "gh-pages"
+            },
+            {
+                "commit_date": "2015-08-26T17:18:27Z",
+                "commit_sha": "37acc1b3ccf277c401c02cebab9a3cd10d6b50f7",
+                "download_url": "https://github.com/manfer/AIPTV.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Alternative IPTV for Plex",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "manfer/AIPTV",
+        "gh_pages_url": "http://manfer.github.io/AIPTV.bundle/",
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/manfer/AIPTV.bundle",
+        "license": "GNU General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/gpl-3.0",
+        "name": "AIPTV",
+        "open_issues_count": 2,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/manfer/AIPTV.bundle/zipball/v0.8",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2015-08-26T17:22:17Z",
+                "tag_name": "v0.8"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/manfer/AIPTV.bundle/zipball/v0.7",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2015-08-24T10:11:18Z",
+                "tag_name": "v0.7"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/manfer/AIPTV.bundle/zipball/v0.6",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2015-08-23T16:12:59Z",
+                "tag_name": "v0.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/manfer/AIPTV.bundle/zipball/v0.5",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2015-08-23T12:03:37Z",
+                "tag_name": "v0.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/manfer/AIPTV.bundle/zipball/v0.4",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2015-08-22T14:42:58Z",
+                "tag_name": "v0.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/manfer/AIPTV.bundle/zipball/v0.3",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2015-08-20T23:19:02Z",
+                "tag_name": "v0.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/manfer/AIPTV.bundle/zipball/v0.2",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2015-07-15T23:00:14Z",
+                "tag_name": "v0.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/manfer/AIPTV.bundle/zipball/v0.1",
+                "name": "",
+                "prerelease": false,
+                "release_date": "2015-07-13T23:48:08Z",
+                "tag_name": "v0.1"
+            }
+        ],
+        "stargazers_count": 2,
+        "thumb_image_url": null
+    },
     "389395289": {
         "archived": false,
         "attribution_image_url": null,
