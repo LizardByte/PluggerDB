@@ -6528,6 +6528,45 @@
         "stargazers_count": 8,
         "thumb_image_url": null
     },
+    "2963236": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/35614?v=4",
+        "branches": [
+            {
+                "commit_date": "2012-02-23T13:11:34Z",
+                "commit_sha": "1a789b05655986384cea4663626d515d17f860d5",
+                "download_url": "https://github.com/tru/SC2Casts.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex plugin for SC2Casts",
+        "disabled": false,
+        "forks_count": 3,
+        "full_name": "tru/SC2Casts",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/tru/SC2Casts.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "SC2Casts",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/tru/SC2Casts.bundle/master/Contents/Resources/icon-default.png"
+    },
     "29997283": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/tomfin46/IFDB.bundle/master/Contents/Resources/attribution.png",
