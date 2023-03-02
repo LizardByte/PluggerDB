@@ -1977,7 +1977,7 @@
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "releases": [],
-        "stargazers_count": 116,
+        "stargazers_count": 117,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Lambda.bundle/master/Contents/Resources/icon-default.png"
     },
     "14254798": {
@@ -6113,7 +6113,7 @@
                 "tag_name": "v2019.07.29.1"
             }
         ],
-        "stargazers_count": 113,
+        "stargazers_count": 114,
         "thumb_image_url": null
     },
     "2644137": {
@@ -10547,7 +10547,7 @@
         "default_branch": "master",
         "description": "Plex Media Server channel for comic archives.",
         "disabled": false,
-        "forks_count": 10,
+        "forks_count": 11,
         "full_name": "coryo/ComicReader",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -11274,8 +11274,8 @@
                 "name": "dependabot/npm_and_yarn/nightly/jquery-3.6.3"
             },
             {
-                "commit_date": "2023-02-27T03:37:41Z",
-                "commit_sha": "95e346e433fa1d66e31638b1d489a2a701b8c85d",
+                "commit_date": "2023-03-02T03:15:13Z",
+                "commit_sha": "933d8aa8d035a5ec4555070e925d717aed633ee6",
                 "download_url": "https://github.com/LizardByte/Plugger/archive/refs/heads/featurize.zip",
                 "name": "featurize"
             },
