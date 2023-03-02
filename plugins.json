@@ -635,6 +635,46 @@
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/sfeakes/Radio-Tuner.bundle/master/Contents/Resources/icon-default.png"
     },
+    "11639490": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/643609?v=4",
+        "branches": [
+            {
+                "commit_date": "2013-07-24T19:24:15Z",
+                "commit_sha": "44b3c5672335c1fe158103e5923428bca829edc1",
+                "download_url": "https://github.com/jgenender/DenverNews.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "News",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Media Center Plugin offering Denver news channels",
+        "disabled": false,
+        "forks_count": 3,
+        "full_name": "jgenender/DenverNews",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/jgenender/DenverNews.bundle",
+        "license": "GNU General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/gpl-3.0",
+        "name": "DenverNews",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 4,
+        "thumb_image_url": "https://raw.githubusercontent.com/jgenender/DenverNews.bundle/master/Contents/Resources/icon-default.png"
+    },
     "1169198": {
         "archived": false,
         "attribution_image_url": null,
