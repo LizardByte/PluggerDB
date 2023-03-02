@@ -10254,6 +10254,45 @@
         "stargazers_count": 28,
         "thumb_image_url": "https://raw.githubusercontent.com/eithe/NRKTV.bundle/master/Contents/Resources/icon-default.png"
     },
+    "5513051": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1168429?v=4",
+        "branches": [
+            {
+                "commit_date": "2012-11-01T11:26:29Z",
+                "commit_sha": "25e1ad3657731e4d1af59712422407a2f2fdce7b",
+                "download_url": "https://github.com/dkplex/TV2Play.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Plugin fo Dansih National Broadcaster, TV 2 / Danmark's video-ondemand ",
+        "disabled": false,
+        "forks_count": 4,
+        "full_name": "dkplex/TV2Play",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/dkplex/TV2Play.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "TV2Play",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 4,
+        "thumb_image_url": null
+    },
     "55334891": {
         "archived": false,
         "attribution_image_url": null,
