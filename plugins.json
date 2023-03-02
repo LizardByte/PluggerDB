@@ -13980,6 +13980,45 @@
         "stargazers_count": 2,
         "thumb_image_url": "https://raw.githubusercontent.com/nsgundy/InternetRadio.bundle/master/Contents/Resources/icon-default.png"
     },
+    "889909": {
+        "archived": true,
+        "attribution_image_url": "https://raw.githubusercontent.com/oncleben31/CinePassion.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/93244?v=4",
+        "branches": [
+            {
+                "commit_date": "2011-03-10T00:56:38Z",
+                "commit_sha": "9e41f31f720180c6efcf10a837c1d7efa72b2660",
+                "download_url": "https://github.com/oncleben31/CinePassion.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "CinePassion metadata agent for Plex 9",
+        "disabled": false,
+        "forks_count": 3,
+        "full_name": "oncleben31/CinePassion",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "http://oncleben31.cc/",
+        "html_url": "https://github.com/oncleben31/CinePassion.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "CinePassion",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/oncleben31/CinePassion.bundle/master/Contents/Resources/icon-default.png"
+    },
     "90920737": {
         "archived": false,
         "attribution_image_url": null,
