@@ -120,6 +120,46 @@
         "stargazers_count": 31,
         "thumb_image_url": "https://raw.githubusercontent.com/chidychi/Data18.bundle/master/Contents/Resources/icon-default.png"
     },
+    "105984957": {
+        "archived": true,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/140623?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-03-20T19:47:49Z",
+                "commit_sha": "69a9b343f819c535e8836794ce7393d5f1dbb571",
+                "download_url": "https://github.com/oskameDEV/HawaiiNews.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "News",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex channel plugin for local Hawai'i news channels",
+        "disabled": false,
+        "forks_count": 3,
+        "full_name": "oskameDEV/HawaiiNews",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/oskameDEV/HawaiiNews.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "HawaiiNews",
+        "open_issues_count": 3,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 5,
+        "thumb_image_url": "https://raw.githubusercontent.com/oskameDEV/HawaiiNews.bundle/master/Contents/Resources/icon-default.png"
+    },
     "107399775": {
         "archived": false,
         "attribution_image_url": null,
