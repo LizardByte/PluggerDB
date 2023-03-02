@@ -2818,6 +2818,45 @@
         "stargazers_count": 83,
         "thumb_image_url": "https://raw.githubusercontent.com/contrary-cat/LocalTVExtras.bundle/master/Contents/Resources/icon-default.png"
     },
+    "1633231": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/737571?v=4",
+        "branches": [
+            {
+                "commit_date": "2011-04-19T03:16:07Z",
+                "commit_sha": "5ff3f8caf346969146dbb570b16a902b501dab7c",
+                "download_url": "https://github.com/christarczon/Facebook.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Photos"
+        ],
+        "default_branch": "master",
+        "description": "Facebook plug-in for Plex",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "christarczon/Facebook",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "https://dcstewieg.no-ip.org/plex-facebook/",
+        "html_url": "https://github.com/christarczon/Facebook.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Facebook",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 3,
+        "thumb_image_url": "https://raw.githubusercontent.com/christarczon/Facebook.bundle/master/Contents/Resources/icon-default.png"
+    },
     "1633366": {
         "archived": false,
         "attribution_image_url": null,
