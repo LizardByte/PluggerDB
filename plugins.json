@@ -9162,6 +9162,45 @@
         "stargazers_count": 6,
         "thumb_image_url": "https://raw.githubusercontent.com/HuggableSquare/PlexThemeMusic.bundle/master/Contents/Resources/icon-default.png"
     },
+    "46013071": {
+        "archived": true,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/5242865?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-11-11T22:28:51Z",
+                "commit_sha": "89e91e1482d2dcb446814b548abc42aa26dbbd06",
+                "download_url": "https://github.com/HuggableSquare/DVDOrderAgent.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "plex metadata agent for putting shows in dvd order from thetvdb",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "HuggableSquare/DVDOrderAgent",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/HuggableSquare/DVDOrderAgent.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "DVDOrderAgent",
+        "open_issues_count": 2,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 26,
+        "thumb_image_url": "https://raw.githubusercontent.com/HuggableSquare/DVDOrderAgent.bundle/master/Contents/Resources/icon-default.png"
+    },
     "46782439": {
         "archived": false,
         "attribution_image_url": null,
