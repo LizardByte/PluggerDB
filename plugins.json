@@ -6000,6 +6000,45 @@
         "stargazers_count": 38,
         "thumb_image_url": "https://raw.githubusercontent.com/tivoguy/TiVoToGo.bundle/master/Contents/Resources/icon-default.jpg"
     },
+    "281039358": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/greatfun1981/AlsongLyricFind.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/67256238?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-09-20T01:33:15Z",
+                "commit_sha": "9ac4c02aa6b3d743cf7f922f1bae71e3e17dfdf7",
+                "download_url": "https://github.com/greatfun1981/AlsongLyricFind.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Music"
+        ],
+        "default_branch": "master",
+        "description": "\uc54c\uc1a1\uc11c\ubc84\uc5d0\uc11c \uac00\uc0ac\ub97c \ucc3e\uc544\uc8fc\ub294 Plex Sub Agent",
+        "disabled": false,
+        "forks_count": 5,
+        "full_name": "greatfun1981/AlsongLyricFind",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/greatfun1981/AlsongLyricFind.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "AlsongLyricFind",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/greatfun1981/AlsongLyricFind.bundle/master/Contents/Resources/icon-default.png"
+    },
     "28444740": {
         "archived": false,
         "attribution_image_url": null,
