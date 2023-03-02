@@ -9770,6 +9770,102 @@
         "stargazers_count": 28,
         "thumb_image_url": "https://raw.githubusercontent.com/eithe/NRKTV.bundle/master/Contents/Resources/icon-default.png"
     },
+    "55334891": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/15528156?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-11-03T20:07:14Z",
+                "commit_sha": "bb55ef7e4b10784f6d98afb6d2ce150001aaf4d3",
+                "download_url": "https://github.com/Nosinden/JavHiHi.bundle/archive/refs/heads/dev.zip",
+                "name": "dev"
+            },
+            {
+                "commit_date": "2016-11-03T20:07:14Z",
+                "commit_sha": "bb55ef7e4b10784f6d98afb6d2ce150001aaf4d3",
+                "download_url": "https://github.com/Nosinden/JavHiHi.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Video Channel to watch content from http://javhihi.com/",
+        "disabled": false,
+        "forks_count": 3,
+        "full_name": "Nosinden/JavHiHi",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/Nosinden/JavHiHi.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "JavHiHi",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/JavHiHi.bundle/zipball/v1.0.6",
+                "name": "v1.0.6",
+                "prerelease": false,
+                "release_date": "2016-11-03T20:09:41Z",
+                "tag_name": "v1.0.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/JavHiHi.bundle/zipball/v1.0.5",
+                "name": "v1.0.5",
+                "prerelease": false,
+                "release_date": "2016-09-08T22:58:19Z",
+                "tag_name": "v1.0.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/JavHiHi.bundle/zipball/v1.0.4",
+                "name": "v1.0.4",
+                "prerelease": false,
+                "release_date": "2016-05-27T22:09:51Z",
+                "tag_name": "v1.0.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/JavHiHi.bundle/zipball/v1.0.3",
+                "name": "v1.0.3",
+                "prerelease": false,
+                "release_date": "2016-04-05T19:47:55Z",
+                "tag_name": "v1.0.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/JavHiHi.bundle/zipball/v1.0.2",
+                "name": "v1.0.2",
+                "prerelease": false,
+                "release_date": "2016-04-03T08:28:09Z",
+                "tag_name": "v1.0.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/JavHiHi.bundle/zipball/v1.0.1",
+                "name": "v1.0.1",
+                "prerelease": false,
+                "release_date": "2016-04-03T07:37:00Z",
+                "tag_name": "v1.0.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/JavHiHi.bundle/zipball/v1.0.0",
+                "name": "v1.0.0",
+                "prerelease": false,
+                "release_date": "2016-04-03T07:32:52Z",
+                "tag_name": "v1.0.0"
+            }
+        ],
+        "stargazers_count": 6,
+        "thumb_image_url": "https://raw.githubusercontent.com/Nosinden/JavHiHi.bundle/master/Contents/Resources/icon-default.png"
+    },
     "55771280": {
         "archived": false,
         "attribution_image_url": null,
