@@ -595,6 +595,46 @@
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/jashk/Crunchyroll.bundle/master/Contents/Resources/icon-default.png"
     },
+    "116314109": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/14110299?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-04-23T15:56:04Z",
+                "commit_sha": "ef0091836811400d7e430852fcd86037f409af28",
+                "download_url": "https://github.com/sfeakes/Radio-Tuner.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Music",
+            "Radio"
+        ],
+        "default_branch": "master",
+        "description": "Plex channel plugin for customizable music streams",
+        "disabled": false,
+        "forks_count": 3,
+        "full_name": "sfeakes/Radio-Tuner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/sfeakes/Radio-Tuner.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Radio-Tuner",
+        "open_issues_count": 4,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 3,
+        "thumb_image_url": "https://raw.githubusercontent.com/sfeakes/Radio-Tuner.bundle/master/Contents/Resources/icon-default.png"
+    },
     "1169198": {
         "archived": false,
         "attribution_image_url": null,
