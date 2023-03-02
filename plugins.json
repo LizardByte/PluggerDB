@@ -1735,6 +1735,45 @@
         "stargazers_count": 7,
         "thumb_image_url": "https://raw.githubusercontent.com/kolsys/TorrServer.bundle/master/Contents/Resources/icon-default.png"
     },
+    "14094401": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1214575?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-04-03T16:32:12Z",
+                "commit_sha": "0207567c8e2193d9e27dbb91f1feadca70ecd687",
+                "download_url": "https://github.com/redgoose/Songza.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Music"
+        ],
+        "default_branch": "master",
+        "description": "Songza music plugin for Plex Media Server",
+        "disabled": false,
+        "forks_count": 3,
+        "full_name": "redgoose/Songza",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/redgoose/Songza.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Songza",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 3,
+        "thumb_image_url": "https://raw.githubusercontent.com/redgoose/Songza.bundle/master/Contents/Resources/icon-default.png"
+    },
     "142117804": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/ZeroQI/Lambda.bundle/master/Contents/Resources/attribution.png",
