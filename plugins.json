@@ -4193,6 +4193,45 @@
         "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/adamrumbold/Channel10.bundle/master/Contents/Resources/icon-default.jpg"
     },
+    "2130747": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/461355?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-01-27T01:39:55Z",
+                "commit_sha": "6b4584966a6014d959e1e03e937706c9b65a9270",
+                "download_url": "https://github.com/adamrumbold/Channel9.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Media Server plugin for on demand streaming of Aust. Channel 9 ",
+        "disabled": false,
+        "forks_count": 3,
+        "full_name": "adamrumbold/Channel9",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/adamrumbold/Channel9.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Channel9",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 8,
+        "thumb_image_url": "https://raw.githubusercontent.com/adamrumbold/Channel9.bundle/master/Contents/Resources/icon-default.png"
+    },
     "21631700": {
         "archived": false,
         "attribution_image_url": null,
