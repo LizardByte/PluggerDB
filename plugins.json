@@ -11765,6 +11765,137 @@
         "stargazers_count": 64,
         "thumb_image_url": "https://raw.githubusercontent.com/ReallyFuzzy/IceFilms.bundle/master/Contents/Resources/icon-default.png"
     },
+    "69209707": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/10291660?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-10-16T10:39:40Z",
+                "commit_sha": "3f700fd37523a0d93f5c6d6cd84f3d6b7f5e8cfa",
+                "download_url": "https://github.com/coder-alpha/DesiTelly.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Media Server plug-in designed for Desi Entertainment. This plugin builds from my older version located - https://github.com/coder-alpha/DesiTV.bundle",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "coder-alpha/DesiTelly",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/coder-alpha/DesiTelly.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "DesiTelly",
+        "open_issues_count": 3,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.13",
+                "name": "Ver. 0.13",
+                "prerelease": false,
+                "release_date": "2018-10-16T10:41:49Z",
+                "tag_name": "v0.13"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.12",
+                "name": "Ver. 0.12",
+                "prerelease": false,
+                "release_date": "2018-08-23T07:18:19Z",
+                "tag_name": "v0.12"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.11",
+                "name": "Ver. 0.11",
+                "prerelease": false,
+                "release_date": "2018-06-29T23:12:51Z",
+                "tag_name": "v0.11"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.10",
+                "name": "Ver. 0.10",
+                "prerelease": false,
+                "release_date": "2017-10-03T17:32:59Z",
+                "tag_name": "v0.10"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.09",
+                "name": "Ver. 0.09",
+                "prerelease": false,
+                "release_date": "2017-09-16T19:17:21Z",
+                "tag_name": "v0.09"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.08",
+                "name": "Ver. 0.08",
+                "prerelease": false,
+                "release_date": "2017-08-31T05:35:00Z",
+                "tag_name": "v0.08"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.07",
+                "name": "Ver. 0.07",
+                "prerelease": false,
+                "release_date": "2017-05-28T12:52:55Z",
+                "tag_name": "v0.07"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.06",
+                "name": "Ver. 0.06",
+                "prerelease": false,
+                "release_date": "2017-05-23T00:43:53Z",
+                "tag_name": "v0.06"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.05",
+                "name": "Ver. 0.05",
+                "prerelease": false,
+                "release_date": "2017-01-24T04:58:06Z",
+                "tag_name": "v0.05"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.04",
+                "name": "Ver. 0.04",
+                "prerelease": false,
+                "release_date": "2016-11-06T00:00:12Z",
+                "tag_name": "v0.04"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.03",
+                "name": "Ver. 0.03",
+                "prerelease": false,
+                "release_date": "2016-11-05T23:27:53Z",
+                "tag_name": "v0.03"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.02",
+                "name": "Ver. 0.02",
+                "prerelease": false,
+                "release_date": "2016-09-26T07:29:26Z",
+                "tag_name": "v0.02"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.01",
+                "name": "Ver. 0.01",
+                "prerelease": false,
+                "release_date": "2016-09-26T04:00:25Z",
+                "tag_name": "v0.01"
+            }
+        ],
+        "stargazers_count": 3,
+        "thumb_image_url": "https://raw.githubusercontent.com/coder-alpha/DesiTelly.bundle/master/Contents/Resources/icon-default.png"
+    },
     "69560029": {
         "archived": false,
         "attribution_image_url": null,
