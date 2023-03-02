@@ -3767,6 +3767,52 @@
         "stargazers_count": 24,
         "thumb_image_url": "https://raw.githubusercontent.com/phrawzty/AudioAddict.bundle/main/Contents/Resources/icon-default.jpg"
     },
+    "19393832": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/4621958?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-03-21T15:27:30Z",
+                "commit_sha": "3655d43fa21ed13684e245d2a08b323e884c7e97",
+                "download_url": "https://github.com/Zerosu/rawrANIME.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2014-05-03T02:36:27Z",
+                "commit_sha": "9a1e107ea9f915c3555a9c8ea0d5b18bf7eadf5a",
+                "download_url": "https://github.com/Zerosu/rawrANIME.bundle/archive/refs/heads/patch-1.zip",
+                "name": "patch-1"
+            }
+        ],
+        "categories": [
+            "Anime",
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex plugin to view content indexed by rawranime.tv.",
+        "disabled": false,
+        "forks_count": 5,
+        "full_name": "Zerosu/rawrANIME",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/Zerosu/rawrANIME.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "rawrANIME",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/Zerosu/rawrANIME.bundle/master/Contents/Resources/icon-default.png"
+    },
     "20152311": {
         "archived": false,
         "attribution_image_url": null,
