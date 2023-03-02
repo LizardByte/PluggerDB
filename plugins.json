@@ -8408,6 +8408,46 @@
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/coder-alpha/DesiTV.bundle/master/Contents/Resources/icon-default.png"
     },
+    "37044246": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3623410?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-06-08T03:48:10Z",
+                "commit_sha": "fcc7c4bbdfc14456b49a83bf4bd78c0910edb538",
+                "download_url": "https://github.com/TechButton/RadioRiff.Bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Music",
+            "Radio"
+        ],
+        "default_branch": "master",
+        "description": "Radio Riff Online Radio Plex Channel",
+        "disabled": false,
+        "forks_count": 4,
+        "full_name": "TechButton/RadioRiff.Bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/TechButton/RadioRiff.Bundle",
+        "license": null,
+        "license_url": null,
+        "name": "RadioRiff.Bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/TechButton/RadioRiff.Bundle/master/Contents/Resources/icon-default.png"
+    },
     "37121031": {
         "archived": false,
         "attribution_image_url": null,
