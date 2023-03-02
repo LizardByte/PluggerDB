@@ -8273,6 +8273,102 @@
         "stargazers_count": 16,
         "thumb_image_url": null
     },
+    "37035416": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/10291660?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-11-05T23:47:06Z",
+                "commit_sha": "d3c5b20139fcdc54f18432871c6d4b45724d7491",
+                "download_url": "https://github.com/coder-alpha/DesiTV.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Media Server plug-in designed for Desi Entertainment (Discontinued - Please use DesiTelly channel - https://github.com/coder-alpha/DesiTelly.bundle)",
+        "disabled": false,
+        "forks_count": 6,
+        "full_name": "coder-alpha/DesiTV",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/coder-alpha/DesiTV.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "DesiTV",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/DesiTV.bundle/zipball/v0.08",
+                "name": "Ver. 0.08",
+                "prerelease": false,
+                "release_date": "2016-08-13T21:56:19Z",
+                "tag_name": "v0.08"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/DesiTV.bundle/zipball/v0.07",
+                "name": "Ver. 0.07",
+                "prerelease": false,
+                "release_date": "2016-08-13T21:15:38Z",
+                "tag_name": "v0.07"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/DesiTV.bundle/zipball/v0.06",
+                "name": "Ver. 0.06",
+                "prerelease": false,
+                "release_date": "2015-10-02T05:07:08Z",
+                "tag_name": "v0.06"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/DesiTV.bundle/zipball/v0.05",
+                "name": "Ver. 0.05",
+                "prerelease": false,
+                "release_date": "2015-09-21T10:05:14Z",
+                "tag_name": "v0.05"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/DesiTV.bundle/zipball/v0.04",
+                "name": "Ver. 0.04",
+                "prerelease": false,
+                "release_date": "2015-09-21T09:53:02Z",
+                "tag_name": "v0.04"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/DesiTV.bundle/zipball/v0.03",
+                "name": "Ver. 0.03",
+                "prerelease": false,
+                "release_date": "2015-07-17T09:16:11Z",
+                "tag_name": "v0.03"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/DesiTV.bundle/zipball/v0.02",
+                "name": "Ver. 0.02",
+                "prerelease": false,
+                "release_date": "2015-06-26T20:49:14Z",
+                "tag_name": "v0.02"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coder-alpha/DesiTV.bundle/zipball/v0.01",
+                "name": "Ver. 0.01",
+                "prerelease": false,
+                "release_date": "2015-06-26T20:42:13Z",
+                "tag_name": "v0.01"
+            }
+        ],
+        "stargazers_count": 3,
+        "thumb_image_url": "https://raw.githubusercontent.com/coder-alpha/DesiTV.bundle/master/Contents/Resources/icon-default.png"
+    },
     "37121031": {
         "archived": false,
         "attribution_image_url": null,
