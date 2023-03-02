@@ -15,7 +15,8 @@ body:
   - type: dropdown
     id: categories
     attributes:
-      label: What categories does the plugin belong to?
+      label: Categories
+      description: What categories does the plugin belong to?
       multiple: true
       options:
         - Adult
