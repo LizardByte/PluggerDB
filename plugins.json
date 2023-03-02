@@ -8934,6 +8934,45 @@
         "stargazers_count": 78,
         "thumb_image_url": null
     },
+    "41901114": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/680871?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-09-21T23:46:38Z",
+                "commit_sha": "ec27171bff5cc3bd5b8271cdfbfa54d182278dda",
+                "download_url": "https://github.com/devbobo/FetchTV.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Media Server plugin for FetchTV",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "devbobo/FetchTV",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/devbobo/FetchTV.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "FetchTV",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 6,
+        "thumb_image_url": "https://raw.githubusercontent.com/devbobo/FetchTV.bundle/master/Contents/Resources/icon-default.png"
+    },
     "4192202": {
         "archived": false,
         "attribution_image_url": null,
