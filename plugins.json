@@ -3640,6 +3640,46 @@
         "stargazers_count": 56,
         "thumb_image_url": null
     },
+    "179766116": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/alxpnt2/PlexJav18.bundle/master/Jav18.bundle/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/42106281?v=4",
+        "branches": [
+            {
+                "commit_date": "2023-01-27T22:50:18Z",
+                "commit_sha": "cfc24828aa4679a76424520b20c835ac92b5fc5f",
+                "download_url": "https://github.com/alxpnt2/PlexJav18.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "alxpnt2/PlexJav18",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/alxpnt2/PlexJav18.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "PlexJav18",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 16,
+        "thumb_image_url": "https://raw.githubusercontent.com/alxpnt2/PlexJav18.bundle/master/Jav18.bundle/Contents/Resources/icon-default.png"
+    },
     "18257694": {
         "archived": true,
         "attribution_image_url": null,
