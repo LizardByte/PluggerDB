@@ -6402,6 +6402,51 @@
         "stargazers_count": 38,
         "thumb_image_url": "https://raw.githubusercontent.com/tivoguy/TiVoToGo.bundle/master/Contents/Resources/icon-default.jpg"
     },
+    "2775441": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1168429?v=4",
+        "branches": [
+            {
+                "commit_date": "2011-12-14T18:14:17Z",
+                "commit_sha": "844a450a684ced73ddf4d04e6cbe6ce3e9fbe521",
+                "download_url": "https://github.com/dkplex/DFI.bundle/archive/refs/heads/DFI.zip",
+                "name": "DFI"
+            },
+            {
+                "commit_date": "2014-04-19T17:56:10Z",
+                "commit_sha": "c832d517470859d8e017251b568067fb67c2acf6",
+                "download_url": "https://github.com/dkplex/DFI.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Metadata plugin for Plex accessing data fra dfi.dk(Danish Film Institute)",
+        "disabled": false,
+        "forks_count": 4,
+        "full_name": "dkplex/DFI",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/dkplex/DFI.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "DFI",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/dkplex/DFI.bundle/master/Contents/Resources/icon-default.png"
+    },
     "281039358": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/greatfun1981/AlsongLyricFind.bundle/master/Contents/Resources/attribution.png",
