@@ -11461,6 +11461,45 @@
         "stargazers_count": 135,
         "thumb_image_url": "https://raw.githubusercontent.com/mikew/ss-plex.bundle/stable/Contents/Resources/icon-default.png"
     },
+    "6366490": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1619972?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-09-01T20:12:20Z",
+                "commit_sha": "b097091e61c3f333f1aee943567b7cb4c78f6e28",
+                "download_url": "https://github.com/hitolaus/DR-TV.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex plugin for http://dr.dk/TV that uses the iOS HLS streams instead of Flash.",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "hitolaus/DR-TV",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/hitolaus/DR-TV.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "DR-TV",
+        "open_issues_count": 3,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 8,
+        "thumb_image_url": "https://raw.githubusercontent.com/hitolaus/DR-TV.bundle/master/Contents/Resources/icon-default.jpg"
+    },
     "66188656": {
         "archived": false,
         "attribution_image_url": null,
