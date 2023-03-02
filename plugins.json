@@ -7278,6 +7278,45 @@
         "stargazers_count": 67,
         "thumb_image_url": "https://raw.githubusercontent.com/pgaubatz/TvplexendChannel.bundle/master/Contents/Resources/icon-default.png"
     },
+    "30945816": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3726273?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-10-01T16:31:57Z",
+                "commit_sha": "6d55716f7ca22b28247f3714a30d0ed750b0c3a5",
+                "download_url": "https://github.com/egemenyildiz/TurkishChannels.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex channel/plug-in to stream popular Turkish TV channels",
+        "disabled": false,
+        "forks_count": 3,
+        "full_name": "egemenyildiz/TurkishChannels",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/egemenyildiz/TurkishChannels.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "TurkishChannels",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 3,
+        "thumb_image_url": "https://raw.githubusercontent.com/egemenyildiz/TurkishChannels.bundle/master/Contents/Resources/icon-default.png"
+    },
     "31164511": {
         "archived": false,
         "attribution_image_url": null,
