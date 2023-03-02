@@ -13003,6 +13003,137 @@
         "stargazers_count": 16,
         "thumb_image_url": "https://raw.githubusercontent.com/brandonm/HBO.bundle/master/Contents/Resources/icon-default.png"
     },
+    "75879406": {
+        "archived": true,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/453429?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-01-08T16:33:46Z",
+                "commit_sha": "913924b3e448f1416336652a718ea9180d46b1ca",
+                "download_url": "https://github.com/piplongrun/muvio.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Music"
+        ],
+        "default_branch": "master",
+        "description": "A music video extras agent for Plex",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "piplongrun/muvio",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/piplongrun/muvio.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "muvio",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://github.com/piplongrun/muvio.bundle/releases/download/v3.3/muvio.zip",
+                "name": "v3.3",
+                "prerelease": false,
+                "release_date": "2018-05-08T20:07:19Z",
+                "tag_name": "v3.3"
+            },
+            {
+                "bundle_url": "https://github.com/piplongrun/muvio.bundle/releases/download/v3.2/muvio.zip",
+                "name": "v3.2",
+                "prerelease": false,
+                "release_date": "2018-04-06T10:54:18Z",
+                "tag_name": "v3.2"
+            },
+            {
+                "bundle_url": "https://github.com/piplongrun/muvio.bundle/releases/download/v3.0/muvio.zip",
+                "name": "v3.0",
+                "prerelease": false,
+                "release_date": "2018-02-21T15:02:51Z",
+                "tag_name": "v3.0"
+            },
+            {
+                "bundle_url": "https://github.com/piplongrun/muvio.bundle/releases/download/v2.6/muvio.zip",
+                "name": "v2.6",
+                "prerelease": false,
+                "release_date": "2018-01-04T20:35:21Z",
+                "tag_name": "v2.6"
+            },
+            {
+                "bundle_url": "https://github.com/piplongrun/muvio.bundle/releases/download/v2.5/muvio.zip",
+                "name": "v2.5",
+                "prerelease": false,
+                "release_date": "2017-12-29T22:04:02Z",
+                "tag_name": "v2.5"
+            },
+            {
+                "bundle_url": "https://github.com/piplongrun/muvio.bundle/releases/download/v2.4/muvio.zip",
+                "name": "v2.4",
+                "prerelease": false,
+                "release_date": "2017-12-24T03:21:50Z",
+                "tag_name": "v2.4"
+            },
+            {
+                "bundle_url": "https://github.com/piplongrun/muvio.bundle/releases/download/v2.3/muvio.zip",
+                "name": "v2.3",
+                "prerelease": false,
+                "release_date": "2017-05-01T22:04:07Z",
+                "tag_name": "v2.3"
+            },
+            {
+                "bundle_url": "https://github.com/piplongrun/muvio.bundle/releases/download/v2.2/muvio.zip",
+                "name": "v2.2",
+                "prerelease": false,
+                "release_date": "2017-04-29T12:50:54Z",
+                "tag_name": "v2.2"
+            },
+            {
+                "bundle_url": "https://github.com/piplongrun/muvio.bundle/releases/download/v2.1/muvio.zip",
+                "name": "v2.1",
+                "prerelease": false,
+                "release_date": "2017-03-26T17:10:18Z",
+                "tag_name": "v2.1"
+            },
+            {
+                "bundle_url": "https://github.com/piplongrun/muvio.bundle/releases/download/v2.0/muvio.zip",
+                "name": "v2.0",
+                "prerelease": false,
+                "release_date": "2017-03-04T03:46:39Z",
+                "tag_name": "v2.0"
+            },
+            {
+                "bundle_url": "https://github.com/piplongrun/muvio.bundle/releases/download/v1.0.2/muvio.zip",
+                "name": "v1.0.2",
+                "prerelease": false,
+                "release_date": "2017-02-25T03:23:13Z",
+                "tag_name": "v1.0.2"
+            },
+            {
+                "bundle_url": "https://github.com/piplongrun/muvio.bundle/releases/download/v1.0.1/muvio.zip",
+                "name": "v1.0.1",
+                "prerelease": false,
+                "release_date": "2017-02-20T23:45:40Z",
+                "tag_name": "v1.0.1"
+            },
+            {
+                "bundle_url": "https://github.com/piplongrun/muvio.bundle/releases/download/v1.0/muvio.zip",
+                "name": "v1.0",
+                "prerelease": false,
+                "release_date": "2017-02-11T13:49:15Z",
+                "tag_name": "v1.0"
+            }
+        ],
+        "stargazers_count": 14,
+        "thumb_image_url": "https://raw.githubusercontent.com/piplongrun/muvio.bundle/master/Contents/Resources/icon-default.jpg"
+    },
     "77491291": {
         "archived": false,
         "attribution_image_url": null,
