@@ -9914,6 +9914,46 @@
         "stargazers_count": 96,
         "thumb_image_url": "https://raw.githubusercontent.com/Twoure/KissNetwork.bundle/master/Contents/Resources/icon-default.png"
     },
+    "43788952": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/bassrock/iTunesMetadata.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1010384?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-08-11T05:22:32Z",
+                "commit_sha": "f20d0088e3b351bbb6a76ac35569a08d187eb0d5",
+                "download_url": "https://github.com/bassrock/iTunesMetadata.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "An agent for Plex iTunes Metadata",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "bassrock/iTunesMetadata",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/bassrock/iTunesMetadata.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "iTunesMetadata",
+        "open_issues_count": 2,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 13,
+        "thumb_image_url": "https://raw.githubusercontent.com/bassrock/iTunesMetadata.bundle/master/Contents/Resources/icon-default.png"
+    },
     "4388180": {
         "archived": true,
         "attribution_image_url": null,
