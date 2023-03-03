@@ -2175,6 +2175,46 @@
         "stargazers_count": 46,
         "thumb_image_url": "https://raw.githubusercontent.com/tschaumburg/MythRecordings.bundle/master/Contents/Resources/icon-default.png"
     },
+    "14358795": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1356875?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-02-05T11:01:05Z",
+                "commit_sha": "acdd602be7a1526c1e9db72ac628a1578cdc4706",
+                "download_url": "https://github.com/beeftornado/plex-custom-media-scanner/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Movies",
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Custom scanner to be used with Plex Media Server configured to recognize my Tivo recordings transferred with kmttg",
+        "disabled": false,
+        "forks_count": 6,
+        "full_name": "beeftornado/plex-custom-media-scanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/beeftornado/plex-custom-media-scanner",
+        "license": "GNU General Public License v2.0",
+        "license_url": "https://api.github.com/licenses/gpl-2.0",
+        "name": "plex-custom-media-scanner",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 18,
+        "thumb_image_url": null
+    },
     "1448061": {
         "archived": false,
         "attribution_image_url": null,
