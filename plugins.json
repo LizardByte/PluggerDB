@@ -7768,6 +7768,62 @@
         "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/adamrumbold/SBS.bundle/master/Contents/Resources/icon-default.png"
     },
+    "33955579": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/6312063?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-08-29T19:51:42Z",
+                "commit_sha": "24333f0290b628cbe971a8ee09a5a60dc0b5cdb5",
+                "download_url": "https://github.com/kolsys/MailRu.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Music",
+            "Photos",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex My World@Mail.Ru media plugin",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "kolsys/MailRu",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/kolsys/MailRu.bundle",
+        "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "license_url": "https://api.github.com/licenses/bsd-3-clause",
+        "name": "MailRu",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/MailRu.bundle/zipball/v1.1",
+                "name": "MailRu.bundle",
+                "prerelease": false,
+                "release_date": "2015-06-03T20:53:11Z",
+                "tag_name": "v1.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/MailRu.bundle/zipball/v1.0",
+                "name": "MailRu.bundle",
+                "prerelease": false,
+                "release_date": "2015-04-14T20:50:28Z",
+                "tag_name": "v1.0"
+            }
+        ],
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/kolsys/MailRu.bundle/master/Contents/Resources/icon-default.png"
+    },
     "340971636": {
         "archived": false,
         "attribution_image_url": null,
