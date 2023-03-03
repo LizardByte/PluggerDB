@@ -10752,6 +10752,45 @@
         "stargazers_count": 26,
         "thumb_image_url": "https://raw.githubusercontent.com/HuggableSquare/DVDOrderAgent.bundle/master/Contents/Resources/icon-default.png"
     },
+    "463928137": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/12462792?v=4",
+        "branches": [
+            {
+                "commit_date": "2023-02-22T18:00:04Z",
+                "commit_sha": "d64271cd6fde5aa74064871d9ef0953f6ad52201",
+                "download_url": "https://github.com/go2tom42/TubeSync-NFO-Agent.bundle/archive/refs/heads/main.zip",
+                "name": "main"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "TV"
+        ],
+        "default_branch": "main",
+        "description": "A plex metadata agent for TubeSync's NFO Files",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "go2tom42/TubeSync-NFO-Agent",
+        "gh_pages_url": null,
+        "has_discussions": true,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/go2tom42/TubeSync-NFO-Agent.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "TubeSync-NFO-Agent",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 14,
+        "thumb_image_url": null
+    },
     "46782439": {
         "archived": false,
         "attribution_image_url": null,
