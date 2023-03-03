@@ -4514,6 +4514,66 @@
         "stargazers_count": 32,
         "thumb_image_url": null
     },
+    "20955102": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/5163877?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-04-14T22:51:31Z",
+                "commit_sha": "b789c6963526eed871dcd72dfa7d0cc9026caa0d",
+                "download_url": "https://github.com/ZeroQI/Absolute-Series-Scanner/archive/refs/heads/ZeroQI-Filebot.zip",
+                "name": "ZeroQI-Filebot"
+            },
+            {
+                "commit_date": "2021-03-05T01:04:56Z",
+                "commit_sha": "d0c1c3a981bafc828306f6c1a2ffc0acb5302866",
+                "download_url": "https://github.com/ZeroQI/Absolute-Series-Scanner/archive/refs/heads/fix-399.zip",
+                "name": "fix-399"
+            },
+            {
+                "commit_date": "2022-11-28T17:38:21Z",
+                "commit_sha": "100c5081adcc928b4c23f2ad51c5aee8ba64eb0a",
+                "download_url": "https://github.com/ZeroQI/Absolute-Series-Scanner/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Music",
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Seasons, absolute mode, Subfolders...",
+        "disabled": false,
+        "forks_count": 154,
+        "full_name": "ZeroQI/Absolute-Series-Scanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/ZeroQI/Absolute-Series-Scanner",
+        "license": null,
+        "license_url": null,
+        "name": "Absolute-Series-Scanner",
+        "open_issues_count": 6,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/ZeroQI/Absolute-Series-Scanner/zipball/2015-10-10",
+                "name": "scanner files for logs folder",
+                "prerelease": false,
+                "release_date": "2015-10-10T11:45:42Z",
+                "tag_name": "2015-10-10"
+            }
+        ],
+        "stargazers_count": 877,
+        "thumb_image_url": null
+    },
     "21045557": {
         "archived": false,
         "attribution_image_url": null,
