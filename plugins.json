@@ -7173,6 +7173,75 @@
         "stargazers_count": 8,
         "thumb_image_url": null
     },
+    "29514945": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3360939?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-10-31T06:18:34Z",
+                "commit_sha": "7500ddb205ca4007db1eed1825d92fc1d321738f",
+                "download_url": "https://github.com/vmasalov/seasonvar.bundle/archive/refs/heads/bugfix/unicode-traslation-title.zip",
+                "name": "bugfix/unicode-traslation-title"
+            },
+            {
+                "commit_date": "2018-10-16T16:25:47Z",
+                "commit_sha": "4108dedef687e1d8769591c8a64ce82200fff76e",
+                "download_url": "https://github.com/vmasalov/seasonvar.bundle/archive/refs/heads/feature/configure-clear-bookmarks-button.zip",
+                "name": "feature/configure-clear-bookmarks-button"
+            },
+            {
+                "commit_date": "2018-01-29T19:39:42Z",
+                "commit_sha": "1771069bfdf23f281e69fdb3071e764fef20636f",
+                "download_url": "https://github.com/vmasalov/seasonvar.bundle/archive/refs/heads/feature/implement-video-resolution.zip",
+                "name": "feature/implement-video-resolution"
+            },
+            {
+                "commit_date": "2018-05-14T21:58:23Z",
+                "commit_sha": "46c9c3fb6c9b3fc064ded383e0fded4215e2f59a",
+                "download_url": "https://github.com/vmasalov/seasonvar.bundle/archive/refs/heads/feature/subtitles.zip",
+                "name": "feature/subtitles"
+            },
+            {
+                "commit_date": "2019-05-30T03:45:11Z",
+                "commit_sha": "557683b4989c1419ceb06811ac8915c03bea354c",
+                "download_url": "https://github.com/vmasalov/seasonvar.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2017-11-14T07:35:52Z",
+                "commit_sha": "998f905f723aac9abe3f76c9ea12bd2b4f184aa8",
+                "download_url": "https://github.com/vmasalov/seasonvar.bundle/archive/refs/heads/vmasalov-letter-patch.zip",
+                "name": "vmasalov-letter-patch"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Seasonvar.RU Plex media plugin",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "vmasalov/seasonvar",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/vmasalov/seasonvar.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "seasonvar",
+        "open_issues_count": 2,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 7,
+        "thumb_image_url": "https://raw.githubusercontent.com/vmasalov/seasonvar.bundle/master/Contents/Resources/icon-default.png"
+    },
     "2963236": {
         "archived": false,
         "attribution_image_url": null,
