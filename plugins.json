@@ -7729,6 +7729,89 @@
         "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/adamrumbold/SBS.bundle/master/Contents/Resources/icon-default.png"
     },
+    "340971636": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/82969119?v=4",
+        "branches": [
+            {
+                "commit_date": "2021-11-18T03:45:55Z",
+                "commit_sha": "537f5abe8b3931202883cfc22c252a08e0c07e17",
+                "download_url": "https://github.com/RatingPosterDB/RPDB-Media-Agent.bundle/archive/refs/heads/main.zip",
+                "name": "main"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "TV"
+        ],
+        "default_branch": "main",
+        "description": "RPDB Plug-in for Plex; Adds Posters / Backgrounds with Ratings",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "RatingPosterDB/RPDB-Media-Agent",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/RatingPosterDB/RPDB-Media-Agent.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "RPDB-Media-Agent",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://github.com/RatingPosterDB/RPDB-Media-Agent.bundle/releases/download/v0.0.6/RPDB-Media-Agent.bundle.zip",
+                "name": "Sixth Release (Beta)",
+                "prerelease": true,
+                "release_date": "2021-07-04T17:30:58Z",
+                "tag_name": "v0.0.6"
+            },
+            {
+                "bundle_url": "https://github.com/RatingPosterDB/RPDB-Media-Agent.bundle/releases/download/v0.0.5/RPDB-Media-Agent.bundle.zip",
+                "name": "Fifth Release (Stable)",
+                "prerelease": false,
+                "release_date": "2021-06-06T23:28:29Z",
+                "tag_name": "v0.0.5"
+            },
+            {
+                "bundle_url": "https://github.com/RatingPosterDB/RPDB-Media-Agent.bundle/releases/download/v0.0.4/RPDB-Media-Agent.bundle.zip",
+                "name": "Forth Release",
+                "prerelease": false,
+                "release_date": "2021-05-23T19:20:08Z",
+                "tag_name": "v0.0.4"
+            },
+            {
+                "bundle_url": "https://github.com/RatingPosterDB/RPDB-Media-Agent.bundle/releases/download/v0.0.3/RPDB-Media-Agent.bundle.zip",
+                "name": "Third Release",
+                "prerelease": false,
+                "release_date": "2021-03-17T06:55:35Z",
+                "tag_name": "v0.0.3"
+            },
+            {
+                "bundle_url": "https://github.com/RatingPosterDB/RPDB-Media-Agent.bundle/releases/download/v0.0.2/RPDB-Media-Agent.bundle.zip",
+                "name": "Second Release",
+                "prerelease": false,
+                "release_date": "2021-02-28T09:23:17Z",
+                "tag_name": "v0.0.2"
+            },
+            {
+                "bundle_url": "https://github.com/RatingPosterDB/RPDB-Media-Agent.bundle/releases/download/v0.0.1/RPDB-Media-Agent.bundle.zip",
+                "name": "First Release",
+                "prerelease": false,
+                "release_date": "2021-02-21T18:22:10Z",
+                "tag_name": "v0.0.1"
+            }
+        ],
+        "stargazers_count": 14,
+        "thumb_image_url": "https://raw.githubusercontent.com/RatingPosterDB/RPDB-Media-Agent.bundle/main/Contents/Resources/icon-default.jpg"
+    },
     "34228836": {
         "archived": false,
         "attribution_image_url": null,
