@@ -7809,6 +7809,45 @@
         "stargazers_count": 15,
         "thumb_image_url": "https://raw.githubusercontent.com/vofik/Kink.bundle/master/Contents/Resources/icon-default.png"
     },
+    "30839236": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1269060?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-02-16T00:16:55Z",
+                "commit_sha": "2e748cb382111acb06a1edcbaf1a62185ba9585c",
+                "download_url": "https://github.com/alondero/PlexF1MediaScanner/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Simple F1 Plex Media Scanner",
+        "disabled": false,
+        "forks_count": 5,
+        "full_name": "alondero/PlexF1MediaScanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/alondero/PlexF1MediaScanner",
+        "license": null,
+        "license_url": null,
+        "name": "PlexF1MediaScanner",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 3,
+        "thumb_image_url": null
+    },
     "30866767": {
         "archived": false,
         "attribution_image_url": null,
