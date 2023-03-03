@@ -1,4 +1,44 @@
 {
+    "100761235": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1099463?v=4",
+        "branches": [
+            {
+                "commit_date": "2022-03-04T14:08:02Z",
+                "commit_sha": "33d1af5c7577bd7a50da9d61b12f2bcf0be9e4ae",
+                "download_url": "https://github.com/jmichas/PlexTrainingVideoScannerAndAgent/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "A Plex scanner and agent for training videos i.e. Pluralsight, Lynda.com, etc.",
+        "disabled": false,
+        "forks_count": 13,
+        "full_name": "jmichas/PlexTrainingVideoScannerAndAgent",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/jmichas/PlexTrainingVideoScannerAndAgent",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "PlexTrainingVideoScannerAndAgent",
+        "open_issues_count": 8,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 75,
+        "thumb_image_url": null
+    },
     "10147260": {
         "archived": false,
         "attribution_image_url": null,
