@@ -14,7 +14,8 @@ valid_submission = dict(
     github_url='https://github.com/LizardByte/Plugger',
     categories='Utility',
     other_category='',
-    additional_comments=''
+    additional_comments='',
+    scanner_mapping="{\n  \"Common\": [\n  ],\n  \"Movies\": [\n  ],\n  \"Music\": [\n  ],\n  \"Series\": [\n  ]\n}\n"
 )
 
 

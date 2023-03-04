@@ -33,8 +33,8 @@ else:
     og_data = dict()
 
 
-def exception_writer(error: Exception, site: str):
-    print(f'Error processing {site} url: {error}')
+def exception_writer(error: Exception, name: str):
+    print(f'Error processing {name}: {error}')
 
     files = ['comment.md', 'exceptions.md']
     for file in files:
@@ -105,7 +105,7 @@ for t in range(3):
         break
 
 
-def process_github_url(owner: str, repo: str, categories: Optional[str] = None) -> dict:
+def process_github_url(owner: str, repo: str, submission: Optional[dict] = None) -> dict:
     api_repo_url = f'https://api.github.com/repos/{owner}/{repo}'
     response = requests_loop(url=api_repo_url, headers=github_headers)
 
@@ -209,6 +209,9 @@ def process_github_url(owner: str, repo: str, categories: Optional[str] = None) 
         # get the original data, not available through APIs
         non_github_data = dict()
 
+        categories = None
+        scanner_mapping = None
+
         try:
             args
         except NameError:
@@ -221,13 +224,72 @@ def process_github_url(owner: str, repo: str, categories: Optional[str] = None) 
                         non_github_data[k] = og_data[str(github_data['id'])][k]
 
                 categories = og_data[str(github_data['id'])]['categories']
+
+                try:
+                    scanner_mapping = og_data[str(github_data['id'])]['scanner_mapping']
+                except KeyError:
+                    scanner_mapping = dict(  # default dictionary for migration purposes
+                        Common=[],
+                        Movies=[],
+                        Music=[],
+                        Series=[]
+                    )
             elif args.issue_update:
                 # add the categories to the data
-                if categories:
-                    categories = categories.split(', ')
+                if submission['categories']:
+                    categories = submission['categories']
                 else:
-                    exception_writer(error=Exception('No categories selected'), site='GitHub')
+                    exception_writer(error=Exception('No categories selected'), name='categories')
                     categories = ':bangbang: NONE :bangbang:'
+
+                scanner_mapping = submission['scanner_mapping']
+
+                scanners = []
+
+                # check the scanner mapping
+                for k in scanner_mapping:
+                    if scanner_mapping[k]:
+                        for scanner in scanner_mapping[k]:
+                            if not scanner.endswith('.py'):
+                                exception_writer(error=Exception(f'Invalid file extension for scanner: {scanner}'),
+                                                 name='scanner_mapping')
+                                break
+
+                            file_check_response = requests_loop(url=f'{api_repo_url}/contents/{scanner}',
+                                                                headers=github_headers)
+
+                            if file_check_response.status_code != requests.codes.ok:
+                                exception_writer(error=Exception(f'Invalid scanner path: {scanner}'),
+                                                 name='scanner_mapping')
+                                break
+
+                            # check if file
+                            if file_check_response.json()['type'] != 'file':
+                                exception_writer(error=Exception(f'Found "{scanner}" but it is not a file.'),
+                                                 name='scanner_mapping')
+                                break
+
+                            # if we made it this far, add the scanner to the list
+                            scanners.append(scanner)
+
+                if "Scanner" in categories:
+                    if not scanners:
+                        # check if "Scanners" directory exists
+                        file_check_response = requests_loop(url=f'{api_repo_url}/contents/Scanners',
+                                                            headers=github_headers)
+
+                        if file_check_response.status_code != requests.codes.ok:
+                            exception_writer(error=Exception('No "Scanners" directory found in repo.'), name='scanners')
+                        else:
+                            # check if directory
+                            if file_check_response.json()['type'] != 'dir':
+                                exception_writer(error=Exception('Found "Scanners" but it is not a directory.'),
+                                                 name='scanners')
+                            else:
+                                scanners = True
+
+                    if not scanners:
+                        exception_writer(error=Exception('No valid scanners found.'), name='scanners')
 
         with lock:
             # only GitHub data first, where keys match exactly
@@ -264,6 +326,7 @@ def process_github_url(owner: str, repo: str, categories: Optional[str] = None) 
             og_data[str(github_data['id'])]['open_issues_count'] = open_issues
             og_data[str(github_data['id'])]['open_pull_requests_count'] = open_pull_requests
             og_data[str(github_data['id'])]['releases'] = releases
+            og_data[str(github_data['id'])]['scanner_mapping'] = scanner_mapping
             og_data[str(github_data['id'])]['thumb_image_url'] = thumb_image_url
 
             # remove `.bundle` from end of name and full name
@@ -289,7 +352,7 @@ def process_github_url(owner: str, repo: str, categories: Optional[str] = None) 
                         og_data[str(github_data['id'])]['has_wiki'] = False
                 else:
                     og_data[str(github_data['id'])]['has_wiki'] = False
-                    exception_writer(error=Exception(f'Unable to search wiki for {owner}/{repo}'), site='GitHub')
+                    exception_writer(error=Exception(f'Unable to search wiki for {owner}/{repo}'), name='GitHub Wiki')
 
         try:
             args.issue_update
@@ -366,7 +429,7 @@ def process_issue_update() -> None:
     # check validity of provided GitHub url
     git_owner, git_repo = check_github(data=submission)
 
-    process_github_url(owner=git_owner, repo=git_repo, categories=submission['categories'])
+    process_github_url(owner=git_owner, repo=git_repo, submission=submission)
 
 
 def check_github(data: dict) -> tuple:
@@ -389,6 +452,20 @@ def check_github(data: dict) -> tuple:
 def process_submission() -> dict:
     with open(file='submission.json') as file:
         data = json.load(file)
+
+    # convert string to list
+    try:
+        data['categories'] = data['categories'].split(', ')
+    except KeyError:
+        exception_writer(error=Exception('No categories provided'), name='categories')
+
+    # convert json string to dict
+    try:
+        data['scanner_mapping'] = json.loads(data['scanner_mapping'])
+    except KeyError:
+        exception_writer(error=Exception('No scanner mapping provided'), name='scanner_mapping')
+    except json.decoder.JSONDecodeError:
+        exception_writer(error=Exception('Invalid scanner mapping provided'), name='scanner_mapping')
 
     return data
 
