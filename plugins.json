@@ -1,4 +1,44 @@
 {
+    "100761235": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1099463?v=4",
+        "branches": [
+            {
+                "commit_date": "2022-03-04T14:08:02Z",
+                "commit_sha": "33d1af5c7577bd7a50da9d61b12f2bcf0be9e4ae",
+                "download_url": "https://github.com/jmichas/PlexTrainingVideoScannerAndAgent/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "A Plex scanner and agent for training videos i.e. Pluralsight, Lynda.com, etc.",
+        "disabled": false,
+        "forks_count": 13,
+        "full_name": "jmichas/PlexTrainingVideoScannerAndAgent",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/jmichas/PlexTrainingVideoScannerAndAgent",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "PlexTrainingVideoScannerAndAgent",
+        "open_issues_count": 8,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 75,
+        "thumb_image_url": null
+    },
     "10147260": {
         "archived": false,
         "attribution_image_url": null,
@@ -714,6 +754,46 @@
         "stargazers_count": 1,
         "thumb_image_url": "https://raw.githubusercontent.com/JoeFresso/abcfamily.bundle/master/Contents/Resources/icon-default.jpg"
     },
+    "11722446": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/471026?v=4",
+        "branches": [
+            {
+                "commit_date": "2013-07-28T16:44:09Z",
+                "commit_sha": "e6abd064377d34eee15b3abb0b65b29e4093640d",
+                "download_url": "https://github.com/pooploser/ResonanceFM.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Music",
+            "Radio"
+        ],
+        "default_branch": "master",
+        "description": "A Plex channel for the Independent London Radio Station Resonance 104.4 FM ",
+        "disabled": false,
+        "forks_count": 4,
+        "full_name": "pooploser/ResonanceFM",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/pooploser/ResonanceFM.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "ResonanceFM",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/pooploser/ResonanceFM.bundle/master/Contents/Resources/icon-default.jpg"
+    },
     "118404983": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/wonipapa/DaumMovieTVSeries.bundle/master/Contents/Resources/attribution.png",
@@ -1250,7 +1330,7 @@
         "default_branch": "master",
         "description": "Plex Metadata Agent for Movies and TV Series libraries",
         "disabled": false,
-        "forks_count": 45,
+        "forks_count": 46,
         "full_name": "ZeroQI/YouTube-Agent",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -1472,7 +1552,7 @@
         "default_branch": "master",
         "description": "Plex plug-in that plays live streams (like IPTV) from a M3U playlist",
         "disabled": false,
-        "forks_count": 315,
+        "forks_count": 314,
         "full_name": "Cigaras/IPTV",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -1616,7 +1696,7 @@
                 "tag_name": "v1.0.11"
             }
         ],
-        "stargazers_count": 879,
+        "stargazers_count": 880,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -2095,6 +2175,46 @@
         "stargazers_count": 46,
         "thumb_image_url": "https://raw.githubusercontent.com/tschaumburg/MythRecordings.bundle/master/Contents/Resources/icon-default.png"
     },
+    "14358795": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1356875?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-02-05T11:01:05Z",
+                "commit_sha": "acdd602be7a1526c1e9db72ac628a1578cdc4706",
+                "download_url": "https://github.com/beeftornado/plex-custom-media-scanner/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Movies",
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Custom scanner to be used with Plex Media Server configured to recognize my Tivo recordings transferred with kmttg",
+        "disabled": false,
+        "forks_count": 6,
+        "full_name": "beeftornado/plex-custom-media-scanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/beeftornado/plex-custom-media-scanner",
+        "license": "GNU General Public License v2.0",
+        "license_url": "https://api.github.com/licenses/gpl-2.0",
+        "name": "plex-custom-media-scanner",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 18,
+        "thumb_image_url": null
+    },
     "1448061": {
         "archived": false,
         "attribution_image_url": null,
@@ -2335,7 +2455,7 @@
         "license": null,
         "license_url": null,
         "name": "PhoenixAdult",
-        "open_issues_count": 26,
+        "open_issues_count": 25,
         "open_pull_requests_count": 4,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -2637,6 +2757,45 @@
         "releases": [],
         "stargazers_count": 3,
         "thumb_image_url": null
+    },
+    "15608575": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/4150852?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-02-11T20:54:31Z",
+                "commit_sha": "3213311d274341755e5f7e8b44bf10145d1c5c41",
+                "download_url": "https://github.com/iBaa/Queue.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Media Server Plugin (or Channel) to access your MyPlex Queue",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "iBaa/Queue",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/iBaa/Queue.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Queue",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 5,
+        "thumb_image_url": "https://raw.githubusercontent.com/iBaa/Queue.bundle/master/Contents/Resources/icon-default.png"
     },
     "1563308": {
         "archived": false,
@@ -4214,6 +4373,47 @@
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/Zerosu/rawrANIME.bundle/master/Contents/Resources/icon-default.png"
     },
+    "199600808": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/6067770?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-06-05T06:17:18Z",
+                "commit_sha": "ab6ebb811ca9d94dea0f72eebf17b45465877c7e",
+                "download_url": "https://github.com/filebot/plex-agents/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "FileBot Xattr Metadata Scanners & Plug-ins for Plex",
+        "disabled": false,
+        "forks_count": 4,
+        "full_name": "filebot/plex-agents",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/filebot/plex-agents",
+        "license": "Apache License 2.0",
+        "license_url": "https://api.github.com/licenses/apache-2.0",
+        "name": "plex-agents",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 33,
+        "thumb_image_url": null
+    },
     "20152311": {
         "archived": false,
         "attribution_image_url": null,
@@ -4433,6 +4633,66 @@
             }
         ],
         "stargazers_count": 32,
+        "thumb_image_url": null
+    },
+    "20955102": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/5163877?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-04-14T22:51:31Z",
+                "commit_sha": "b789c6963526eed871dcd72dfa7d0cc9026caa0d",
+                "download_url": "https://github.com/ZeroQI/Absolute-Series-Scanner/archive/refs/heads/ZeroQI-Filebot.zip",
+                "name": "ZeroQI-Filebot"
+            },
+            {
+                "commit_date": "2021-03-05T01:04:56Z",
+                "commit_sha": "d0c1c3a981bafc828306f6c1a2ffc0acb5302866",
+                "download_url": "https://github.com/ZeroQI/Absolute-Series-Scanner/archive/refs/heads/fix-399.zip",
+                "name": "fix-399"
+            },
+            {
+                "commit_date": "2022-11-28T17:38:21Z",
+                "commit_sha": "100c5081adcc928b4c23f2ad51c5aee8ba64eb0a",
+                "download_url": "https://github.com/ZeroQI/Absolute-Series-Scanner/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Music",
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Seasons, absolute mode, Subfolders...",
+        "disabled": false,
+        "forks_count": 154,
+        "full_name": "ZeroQI/Absolute-Series-Scanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/ZeroQI/Absolute-Series-Scanner",
+        "license": null,
+        "license_url": null,
+        "name": "Absolute-Series-Scanner",
+        "open_issues_count": 6,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/ZeroQI/Absolute-Series-Scanner/zipball/2015-10-10",
+                "name": "scanner files for logs folder",
+                "prerelease": false,
+                "release_date": "2015-10-10T11:45:42Z",
+                "tag_name": "2015-10-10"
+            }
+        ],
+        "stargazers_count": 877,
         "thumb_image_url": null
     },
     "21045557": {
@@ -4807,7 +5067,7 @@
                 "tag_name": "1.0"
             }
         ],
-        "stargazers_count": 117,
+        "stargazers_count": 116,
         "thumb_image_url": "https://raw.githubusercontent.com/AdultScraperX/AdultScraperX.bundle/master/Contents/Resources/icon-default.png"
     },
     "21787506": {
@@ -6195,6 +6455,46 @@
         "stargazers_count": 114,
         "thumb_image_url": null
     },
+    "2623430": {
+        "archived": true,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/170270?v=4",
+        "branches": [
+            {
+                "commit_date": "2012-05-31T16:53:49Z",
+                "commit_sha": "761cff2bc92cee86a4e2ef05dad8b96615eff80e",
+                "download_url": "https://github.com/sindresorhus/Dagbladet-bildeserier.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "News",
+            "Photos"
+        ],
+        "default_branch": "master",
+        "description": "[DEPRECATED] Plex app - Slideshows from the norwegian newspaper dagbladet.no",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "sindresorhus/Dagbladet-bildeserier",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "http://www.dagbladet.no/bildeserier/",
+        "html_url": "https://github.com/sindresorhus/Dagbladet-bildeserier.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Dagbladet-bildeserier",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 3,
+        "thumb_image_url": "https://raw.githubusercontent.com/sindresorhus/Dagbladet-bildeserier.bundle/master/Contents/Resources/icon-default.png"
+    },
     "2644137": {
         "archived": false,
         "attribution_image_url": null,
@@ -7054,6 +7354,75 @@
         "stargazers_count": 8,
         "thumb_image_url": null
     },
+    "29514945": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3360939?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-10-31T06:18:34Z",
+                "commit_sha": "7500ddb205ca4007db1eed1825d92fc1d321738f",
+                "download_url": "https://github.com/vmasalov/seasonvar.bundle/archive/refs/heads/bugfix/unicode-traslation-title.zip",
+                "name": "bugfix/unicode-traslation-title"
+            },
+            {
+                "commit_date": "2018-10-16T16:25:47Z",
+                "commit_sha": "4108dedef687e1d8769591c8a64ce82200fff76e",
+                "download_url": "https://github.com/vmasalov/seasonvar.bundle/archive/refs/heads/feature/configure-clear-bookmarks-button.zip",
+                "name": "feature/configure-clear-bookmarks-button"
+            },
+            {
+                "commit_date": "2018-01-29T19:39:42Z",
+                "commit_sha": "1771069bfdf23f281e69fdb3071e764fef20636f",
+                "download_url": "https://github.com/vmasalov/seasonvar.bundle/archive/refs/heads/feature/implement-video-resolution.zip",
+                "name": "feature/implement-video-resolution"
+            },
+            {
+                "commit_date": "2018-05-14T21:58:23Z",
+                "commit_sha": "46c9c3fb6c9b3fc064ded383e0fded4215e2f59a",
+                "download_url": "https://github.com/vmasalov/seasonvar.bundle/archive/refs/heads/feature/subtitles.zip",
+                "name": "feature/subtitles"
+            },
+            {
+                "commit_date": "2019-05-30T03:45:11Z",
+                "commit_sha": "557683b4989c1419ceb06811ac8915c03bea354c",
+                "download_url": "https://github.com/vmasalov/seasonvar.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2017-11-14T07:35:52Z",
+                "commit_sha": "998f905f723aac9abe3f76c9ea12bd2b4f184aa8",
+                "download_url": "https://github.com/vmasalov/seasonvar.bundle/archive/refs/heads/vmasalov-letter-patch.zip",
+                "name": "vmasalov-letter-patch"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Seasonvar.RU Plex media plugin",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "vmasalov/seasonvar",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/vmasalov/seasonvar.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "seasonvar",
+        "open_issues_count": 2,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 7,
+        "thumb_image_url": "https://raw.githubusercontent.com/vmasalov/seasonvar.bundle/master/Contents/Resources/icon-default.png"
+    },
     "2963236": {
         "archived": false,
         "attribution_image_url": null,
@@ -7440,6 +7809,45 @@
         "stargazers_count": 15,
         "thumb_image_url": "https://raw.githubusercontent.com/vofik/Kink.bundle/master/Contents/Resources/icon-default.png"
     },
+    "30839236": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1269060?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-02-16T00:16:55Z",
+                "commit_sha": "2e748cb382111acb06a1edcbaf1a62185ba9585c",
+                "download_url": "https://github.com/alondero/PlexF1MediaScanner/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Simple F1 Plex Media Scanner",
+        "disabled": false,
+        "forks_count": 5,
+        "full_name": "alondero/PlexF1MediaScanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/alondero/PlexF1MediaScanner",
+        "license": null,
+        "license_url": null,
+        "name": "PlexF1MediaScanner",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 3,
+        "thumb_image_url": null
+    },
     "30866767": {
         "archived": false,
         "attribution_image_url": null,
@@ -7728,6 +8136,145 @@
         "releases": [],
         "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/adamrumbold/SBS.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "33955579": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/6312063?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-08-29T19:51:42Z",
+                "commit_sha": "24333f0290b628cbe971a8ee09a5a60dc0b5cdb5",
+                "download_url": "https://github.com/kolsys/MailRu.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Music",
+            "Photos",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex My World@Mail.Ru media plugin",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "kolsys/MailRu",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/kolsys/MailRu.bundle",
+        "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "license_url": "https://api.github.com/licenses/bsd-3-clause",
+        "name": "MailRu",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/MailRu.bundle/zipball/v1.1",
+                "name": "MailRu.bundle",
+                "prerelease": false,
+                "release_date": "2015-06-03T20:53:11Z",
+                "tag_name": "v1.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/MailRu.bundle/zipball/v1.0",
+                "name": "MailRu.bundle",
+                "prerelease": false,
+                "release_date": "2015-04-14T20:50:28Z",
+                "tag_name": "v1.0"
+            }
+        ],
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/kolsys/MailRu.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "340971636": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/82969119?v=4",
+        "branches": [
+            {
+                "commit_date": "2021-11-18T03:45:55Z",
+                "commit_sha": "537f5abe8b3931202883cfc22c252a08e0c07e17",
+                "download_url": "https://github.com/RatingPosterDB/RPDB-Media-Agent.bundle/archive/refs/heads/main.zip",
+                "name": "main"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "TV"
+        ],
+        "default_branch": "main",
+        "description": "RPDB Plug-in for Plex; Adds Posters / Backgrounds with Ratings",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "RatingPosterDB/RPDB-Media-Agent",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/RatingPosterDB/RPDB-Media-Agent.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "RPDB-Media-Agent",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://github.com/RatingPosterDB/RPDB-Media-Agent.bundle/releases/download/v0.0.6/RPDB-Media-Agent.bundle.zip",
+                "name": "Sixth Release (Beta)",
+                "prerelease": true,
+                "release_date": "2021-07-04T17:30:58Z",
+                "tag_name": "v0.0.6"
+            },
+            {
+                "bundle_url": "https://github.com/RatingPosterDB/RPDB-Media-Agent.bundle/releases/download/v0.0.5/RPDB-Media-Agent.bundle.zip",
+                "name": "Fifth Release (Stable)",
+                "prerelease": false,
+                "release_date": "2021-06-06T23:28:29Z",
+                "tag_name": "v0.0.5"
+            },
+            {
+                "bundle_url": "https://github.com/RatingPosterDB/RPDB-Media-Agent.bundle/releases/download/v0.0.4/RPDB-Media-Agent.bundle.zip",
+                "name": "Forth Release",
+                "prerelease": false,
+                "release_date": "2021-05-23T19:20:08Z",
+                "tag_name": "v0.0.4"
+            },
+            {
+                "bundle_url": "https://github.com/RatingPosterDB/RPDB-Media-Agent.bundle/releases/download/v0.0.3/RPDB-Media-Agent.bundle.zip",
+                "name": "Third Release",
+                "prerelease": false,
+                "release_date": "2021-03-17T06:55:35Z",
+                "tag_name": "v0.0.3"
+            },
+            {
+                "bundle_url": "https://github.com/RatingPosterDB/RPDB-Media-Agent.bundle/releases/download/v0.0.2/RPDB-Media-Agent.bundle.zip",
+                "name": "Second Release",
+                "prerelease": false,
+                "release_date": "2021-02-28T09:23:17Z",
+                "tag_name": "v0.0.2"
+            },
+            {
+                "bundle_url": "https://github.com/RatingPosterDB/RPDB-Media-Agent.bundle/releases/download/v0.0.1/RPDB-Media-Agent.bundle.zip",
+                "name": "First Release",
+                "prerelease": false,
+                "release_date": "2021-02-21T18:22:10Z",
+                "tag_name": "v0.0.1"
+            }
+        ],
+        "stargazers_count": 14,
+        "thumb_image_url": "https://raw.githubusercontent.com/RatingPosterDB/RPDB-Media-Agent.bundle/main/Contents/Resources/icon-default.jpg"
     },
     "34228836": {
         "archived": false,
@@ -8330,7 +8877,7 @@
         "default_branch": "master",
         "description": null,
         "disabled": false,
-        "forks_count": 138,
+        "forks_count": 139,
         "full_name": "gboudreau/XBMCnfoMoviesImporter",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -9421,7 +9968,7 @@
                 "tag_name": "v0.1.1"
             }
         ],
-        "stargazers_count": 283,
+        "stargazers_count": 284,
         "thumb_image_url": null
     },
     "41394428": {
@@ -9656,6 +10203,67 @@
         "releases": [],
         "stargazers_count": 6,
         "thumb_image_url": null
+    },
+    "43033994": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/6312063?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-11-30T01:20:57Z",
+                "commit_sha": "b88e8b192385e911d8cfe9670a9ddf338d11035e",
+                "download_url": "https://github.com/kolsys/Mixcloud.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Music"
+        ],
+        "default_branch": "master",
+        "description": "Plex Mixcloud music plugin",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "kolsys/Mixcloud",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/kolsys/Mixcloud.bundle",
+        "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "license_url": "https://api.github.com/licenses/bsd-3-clause",
+        "name": "Mixcloud",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/Mixcloud.bundle/zipball/v1.2",
+                "name": "Mixcloud.bundle",
+                "prerelease": false,
+                "release_date": "2017-11-30T01:24:21Z",
+                "tag_name": "v1.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/Mixcloud.bundle/zipball/v1.1",
+                "name": "Mixcloud.bundle",
+                "prerelease": false,
+                "release_date": "2016-07-18T21:17:01Z",
+                "tag_name": "v1.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/Mixcloud.bundle/zipball/v1.0",
+                "name": "Mixcloud.bundle",
+                "prerelease": false,
+                "release_date": "2015-09-24T00:33:11Z",
+                "tag_name": "v1.0"
+            }
+        ],
+        "stargazers_count": 8,
+        "thumb_image_url": "https://raw.githubusercontent.com/kolsys/Mixcloud.bundle/master/Contents/Resources/icon-default.png"
     },
     "43524912": {
         "archived": false,
@@ -10363,6 +10971,45 @@
         "releases": [],
         "stargazers_count": 26,
         "thumb_image_url": "https://raw.githubusercontent.com/HuggableSquare/DVDOrderAgent.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "463928137": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/12462792?v=4",
+        "branches": [
+            {
+                "commit_date": "2023-02-22T18:00:04Z",
+                "commit_sha": "d64271cd6fde5aa74064871d9ef0953f6ad52201",
+                "download_url": "https://github.com/go2tom42/TubeSync-NFO-Agent.bundle/archive/refs/heads/main.zip",
+                "name": "main"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "TV"
+        ],
+        "default_branch": "main",
+        "description": "A plex metadata agent for TubeSync's NFO Files",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "go2tom42/TubeSync-NFO-Agent",
+        "gh_pages_url": null,
+        "has_discussions": true,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/go2tom42/TubeSync-NFO-Agent.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "TubeSync-NFO-Agent",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 14,
+        "thumb_image_url": null
     },
     "46782439": {
         "archived": false,
@@ -11534,8 +12181,8 @@
                 "name": "dependabot/npm_and_yarn/nightly/jquery-3.6.3"
             },
             {
-                "commit_date": "2023-03-02T22:33:05Z",
-                "commit_sha": "28193d97576e3a7c4dbf554ffa7d8f37523c10eb",
+                "commit_date": "2023-03-03T13:37:14Z",
+                "commit_sha": "3929155aaa73065e3aaef5bcc3acfbe0d6e717e8",
                 "download_url": "https://github.com/LizardByte/Plugger/archive/refs/heads/featurize.zip",
                 "name": "featurize"
             },
@@ -12580,6 +13227,173 @@
         "stargazers_count": 26,
         "thumb_image_url": "https://raw.githubusercontent.com/quavarus/Spotify.bundle/master/Contents/Resources/icon-default.png"
     },
+    "70106229": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/14905596?v=4",
+        "branches": [
+            {
+                "commit_date": "2022-12-12T01:37:04Z",
+                "commit_sha": "c335d2a5e7013c8917675bc0b84504f5779c910c",
+                "download_url": "https://github.com/Dingmatt/AMSA/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "A Plex anime agent using TVDB and AniDB data",
+        "disabled": false,
+        "forks_count": 5,
+        "full_name": "Dingmatt/AMSA",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/Dingmatt/AMSA",
+        "license": "GNU General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/gpl-3.0",
+        "name": "AMSA",
+        "open_issues_count": 5,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/V1_0_7_2",
+                "name": "v1.07 Hotfix 2",
+                "prerelease": false,
+                "release_date": "2022-12-12T01:39:30Z",
+                "tag_name": "V1_0_7_2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v1_0_6",
+                "name": "v1.06 Hotfix",
+                "prerelease": false,
+                "release_date": "2021-09-29T23:53:22Z",
+                "tag_name": "v1_0_6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v1_0_5",
+                "name": "v1.05 Hotfix",
+                "prerelease": false,
+                "release_date": "2021-04-29T23:23:17Z",
+                "tag_name": "v1_0_5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v1_0_4",
+                "name": "v1.04 Hotfix",
+                "prerelease": false,
+                "release_date": "2021-04-25T02:21:34Z",
+                "tag_name": "v1_0_4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v1_0_3",
+                "name": "v1.03 Hotfix",
+                "prerelease": false,
+                "release_date": "2020-08-28T02:41:51Z",
+                "tag_name": "v1_0_3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v1_0_2",
+                "name": "v1.02 Hotfix",
+                "prerelease": false,
+                "release_date": "2020-05-10T13:24:40Z",
+                "tag_name": "v1_0_2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v1_0_1",
+                "name": "v1.01 Hotfix",
+                "prerelease": false,
+                "release_date": "2020-05-05T21:00:07Z",
+                "tag_name": "v1_0_1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v1",
+                "name": "v1",
+                "prerelease": false,
+                "release_date": "2020-02-06T11:31:22Z",
+                "tag_name": "v1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v0.1.4-alpha-demo7",
+                "name": "v0.1.4 Alpha Demo 7",
+                "prerelease": true,
+                "release_date": "2017-06-19T21:33:10Z",
+                "tag_name": "v0.1.4-alpha-demo7"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v0.1.4-alpha-demo6",
+                "name": "v0.1.4 Alpha Demo 6",
+                "prerelease": true,
+                "release_date": "2017-04-14T01:00:56Z",
+                "tag_name": "v0.1.4-alpha-demo6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v0.1.4-alpha-demo5",
+                "name": "v0.1.4 Alpha Demo 5",
+                "prerelease": true,
+                "release_date": "2017-04-09T12:35:32Z",
+                "tag_name": "v0.1.4-alpha-demo5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v0.1.4-alpha-demo4",
+                "name": "v0.1.4 Alpha Demo 4",
+                "prerelease": true,
+                "release_date": "2017-04-05T00:58:16Z",
+                "tag_name": "v0.1.4-alpha-demo4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v0.1.4-alpha-demo3",
+                "name": "v0.1.4 Alpha Demo 3",
+                "prerelease": true,
+                "release_date": "2017-03-22T01:02:08Z",
+                "tag_name": "v0.1.4-alpha-demo3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v0.1.4-alpha-demo2",
+                "name": "v0.1.4 Alpha Demo 2",
+                "prerelease": true,
+                "release_date": "2017-03-15T12:04:25Z",
+                "tag_name": "v0.1.4-alpha-demo2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v0.1.4-alpha-demo1",
+                "name": "v0.1.4 Alpha Demo 1",
+                "prerelease": true,
+                "release_date": "2017-03-06T12:31:23Z",
+                "tag_name": "v0.1.4-alpha-demo1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v0.1.3-alpha",
+                "name": "v0.1.3 Alpha",
+                "prerelease": true,
+                "release_date": "2016-11-23T16:56:09Z",
+                "tag_name": "v0.1.3-alpha"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v0.1.2-alpha-hotfix",
+                "name": "v0.1.2 Alpha Hotfix",
+                "prerelease": true,
+                "release_date": "2016-10-20T11:34:49Z",
+                "tag_name": "v0.1.2-alpha-hotfix"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v0.1.1-alpha",
+                "name": "First Alpha Release",
+                "prerelease": true,
+                "release_date": "2016-10-05T23:43:47Z",
+                "tag_name": "v0.1.1-alpha"
+            }
+        ],
+        "stargazers_count": 185,
+        "thumb_image_url": null
+    },
     "7034455": {
         "archived": false,
         "attribution_image_url": null,
@@ -13121,6 +13935,46 @@
         "releases": [],
         "stargazers_count": 16,
         "thumb_image_url": "https://raw.githubusercontent.com/brandonm/HBO.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "75607108": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/4643257?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-12-17T15:59:36Z",
+                "commit_sha": "5b8c308607251216b37ce0d01b4bd34279d58e32",
+                "download_url": "https://github.com/AeonLucid/KitsuScrobble.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Anime",
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Plug-in to scrobble anime to Kitsu.",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "AeonLucid/KitsuScrobble",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/AeonLucid/KitsuScrobble.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "KitsuScrobble",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "stargazers_count": 3,
+        "thumb_image_url": "https://raw.githubusercontent.com/AeonLucid/KitsuScrobble.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "75879406": {
         "archived": true,
