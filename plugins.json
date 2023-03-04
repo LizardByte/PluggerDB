@@ -1330,7 +1330,7 @@
         "default_branch": "master",
         "description": "Plex Metadata Agent for Movies and TV Series libraries",
         "disabled": false,
-        "forks_count": 45,
+        "forks_count": 46,
         "full_name": "ZeroQI/YouTube-Agent",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -1552,7 +1552,7 @@
         "default_branch": "master",
         "description": "Plex plug-in that plays live streams (like IPTV) from a M3U playlist",
         "disabled": false,
-        "forks_count": 315,
+        "forks_count": 314,
         "full_name": "Cigaras/IPTV",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -1696,7 +1696,7 @@
                 "tag_name": "v1.0.11"
             }
         ],
-        "stargazers_count": 879,
+        "stargazers_count": 880,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -2455,7 +2455,7 @@
         "license": null,
         "license_url": null,
         "name": "PhoenixAdult",
-        "open_issues_count": 26,
+        "open_issues_count": 25,
         "open_pull_requests_count": 4,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -5067,7 +5067,7 @@
                 "tag_name": "1.0"
             }
         ],
-        "stargazers_count": 117,
+        "stargazers_count": 116,
         "thumb_image_url": "https://raw.githubusercontent.com/AdultScraperX/AdultScraperX.bundle/master/Contents/Resources/icon-default.png"
     },
     "21787506": {
@@ -8877,7 +8877,7 @@
         "default_branch": "master",
         "description": null,
         "disabled": false,
-        "forks_count": 138,
+        "forks_count": 139,
         "full_name": "gboudreau/XBMCnfoMoviesImporter",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -9968,7 +9968,7 @@
                 "tag_name": "v0.1.1"
             }
         ],
-        "stargazers_count": 283,
+        "stargazers_count": 284,
         "thumb_image_url": null
     },
     "41394428": {
@@ -12181,8 +12181,8 @@
                 "name": "dependabot/npm_and_yarn/nightly/jquery-3.6.3"
             },
             {
-                "commit_date": "2023-03-02T22:33:05Z",
-                "commit_sha": "28193d97576e3a7c4dbf554ffa7d8f37523c10eb",
+                "commit_date": "2023-03-03T13:37:14Z",
+                "commit_sha": "3929155aaa73065e3aaef5bcc3acfbe0d6e717e8",
                 "download_url": "https://github.com/LizardByte/Plugger/archive/refs/heads/featurize.zip",
                 "name": "featurize"
             },
@@ -13391,7 +13391,7 @@
                 "tag_name": "v0.1.1-alpha"
             }
         ],
-        "stargazers_count": 184,
+        "stargazers_count": 185,
         "thumb_image_url": null
     },
     "7034455": {
