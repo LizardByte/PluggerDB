@@ -13227,6 +13227,173 @@
         "stargazers_count": 26,
         "thumb_image_url": "https://raw.githubusercontent.com/quavarus/Spotify.bundle/master/Contents/Resources/icon-default.png"
     },
+    "70106229": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/14905596?v=4",
+        "branches": [
+            {
+                "commit_date": "2022-12-12T01:37:04Z",
+                "commit_sha": "c335d2a5e7013c8917675bc0b84504f5779c910c",
+                "download_url": "https://github.com/Dingmatt/AMSA/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "A Plex anime agent using TVDB and AniDB data",
+        "disabled": false,
+        "forks_count": 5,
+        "full_name": "Dingmatt/AMSA",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/Dingmatt/AMSA",
+        "license": "GNU General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/gpl-3.0",
+        "name": "AMSA",
+        "open_issues_count": 5,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/V1_0_7_2",
+                "name": "v1.07 Hotfix 2",
+                "prerelease": false,
+                "release_date": "2022-12-12T01:39:30Z",
+                "tag_name": "V1_0_7_2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v1_0_6",
+                "name": "v1.06 Hotfix",
+                "prerelease": false,
+                "release_date": "2021-09-29T23:53:22Z",
+                "tag_name": "v1_0_6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v1_0_5",
+                "name": "v1.05 Hotfix",
+                "prerelease": false,
+                "release_date": "2021-04-29T23:23:17Z",
+                "tag_name": "v1_0_5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v1_0_4",
+                "name": "v1.04 Hotfix",
+                "prerelease": false,
+                "release_date": "2021-04-25T02:21:34Z",
+                "tag_name": "v1_0_4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v1_0_3",
+                "name": "v1.03 Hotfix",
+                "prerelease": false,
+                "release_date": "2020-08-28T02:41:51Z",
+                "tag_name": "v1_0_3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v1_0_2",
+                "name": "v1.02 Hotfix",
+                "prerelease": false,
+                "release_date": "2020-05-10T13:24:40Z",
+                "tag_name": "v1_0_2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v1_0_1",
+                "name": "v1.01 Hotfix",
+                "prerelease": false,
+                "release_date": "2020-05-05T21:00:07Z",
+                "tag_name": "v1_0_1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v1",
+                "name": "v1",
+                "prerelease": false,
+                "release_date": "2020-02-06T11:31:22Z",
+                "tag_name": "v1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v0.1.4-alpha-demo7",
+                "name": "v0.1.4 Alpha Demo 7",
+                "prerelease": true,
+                "release_date": "2017-06-19T21:33:10Z",
+                "tag_name": "v0.1.4-alpha-demo7"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v0.1.4-alpha-demo6",
+                "name": "v0.1.4 Alpha Demo 6",
+                "prerelease": true,
+                "release_date": "2017-04-14T01:00:56Z",
+                "tag_name": "v0.1.4-alpha-demo6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v0.1.4-alpha-demo5",
+                "name": "v0.1.4 Alpha Demo 5",
+                "prerelease": true,
+                "release_date": "2017-04-09T12:35:32Z",
+                "tag_name": "v0.1.4-alpha-demo5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v0.1.4-alpha-demo4",
+                "name": "v0.1.4 Alpha Demo 4",
+                "prerelease": true,
+                "release_date": "2017-04-05T00:58:16Z",
+                "tag_name": "v0.1.4-alpha-demo4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v0.1.4-alpha-demo3",
+                "name": "v0.1.4 Alpha Demo 3",
+                "prerelease": true,
+                "release_date": "2017-03-22T01:02:08Z",
+                "tag_name": "v0.1.4-alpha-demo3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v0.1.4-alpha-demo2",
+                "name": "v0.1.4 Alpha Demo 2",
+                "prerelease": true,
+                "release_date": "2017-03-15T12:04:25Z",
+                "tag_name": "v0.1.4-alpha-demo2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v0.1.4-alpha-demo1",
+                "name": "v0.1.4 Alpha Demo 1",
+                "prerelease": true,
+                "release_date": "2017-03-06T12:31:23Z",
+                "tag_name": "v0.1.4-alpha-demo1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v0.1.3-alpha",
+                "name": "v0.1.3 Alpha",
+                "prerelease": true,
+                "release_date": "2016-11-23T16:56:09Z",
+                "tag_name": "v0.1.3-alpha"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v0.1.2-alpha-hotfix",
+                "name": "v0.1.2 Alpha Hotfix",
+                "prerelease": true,
+                "release_date": "2016-10-20T11:34:49Z",
+                "tag_name": "v0.1.2-alpha-hotfix"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v0.1.1-alpha",
+                "name": "First Alpha Release",
+                "prerelease": true,
+                "release_date": "2016-10-05T23:43:47Z",
+                "tag_name": "v0.1.1-alpha"
+            }
+        ],
+        "stargazers_count": 184,
+        "thumb_image_url": null
+    },
     "7034455": {
         "archived": false,
         "attribution_image_url": null,
