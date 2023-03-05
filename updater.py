@@ -221,10 +221,15 @@ def process_github_url(owner: str, repo: str, submission: Optional[dict] = None)
             pass
         else:
             # move these keys to non GitHub data dict as they don't exist in the GitHub API
-            for k in og_data[str(github_data['id'])]:
-                if k not in github_data:
-                    print(k)
-                    non_github_data[k] = og_data[str(github_data['id'])][k]
+            try:
+                for k in og_data[str(github_data['id'])]:
+                    if k not in github_data:
+                        print(k)
+                        non_github_data[k] = og_data[str(github_data['id'])][k]
+            except KeyError as e:
+                if args.daily_update:
+                    exception_writer(error=Exception(f'Error processing plugin: {e}'), name='og_data', end_program=True)
+                # okay if issue update
 
             if args.daily_update:
                 categories = og_data[str(github_data['id'])]['categories']
