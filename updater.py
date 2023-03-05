@@ -33,13 +33,16 @@ else:
     og_data = dict()
 
 
-def exception_writer(error: Exception, name: str):
+def exception_writer(error: Exception, name: str, end_program: bool = False) -> None:
     print(f'Error processing {name}: {error}')
 
     files = ['comment.md', 'exceptions.md']
     for file in files:
         with open(file, "a") as f:
             f.write(f'# :bangbang: **Exception Occurred** :bangbang:\n\n```txt\n{error}\n```\n\n')
+
+    if end_program:
+        raise error
 
 
 def requests_loop(url: str,
@@ -457,15 +460,15 @@ def process_submission() -> dict:
     try:
         data['categories'] = data['categories'].split(', ')
     except KeyError:
-        exception_writer(error=Exception('No categories provided'), name='categories')
+        exception_writer(error=Exception('No categories provided'), name='categories', end_program=True)
 
-    # convert json string to dict
+    # convert json string to dict, removing ```JSON from start and ``` from end of string
     try:
-        data['scanner_mapping'] = json.loads(data['scanner_mapping'])
+        data['scanner_mapping'] = json.loads(data['scanner_mapping'].strip().strip('`').strip('JSON'))
     except KeyError:
-        exception_writer(error=Exception('No scanner mapping provided'), name='scanner_mapping')
+        exception_writer(error=Exception('No scanner mapping provided'), name='scanner_mapping', end_program=True)
     except json.decoder.JSONDecodeError:
-        exception_writer(error=Exception('Invalid scanner mapping provided'), name='scanner_mapping')
+        exception_writer(error=Exception('Invalid scanner mapping provided'), name='scanner_mapping', end_program=True)
 
     return data
 
