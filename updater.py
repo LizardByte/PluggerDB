@@ -220,12 +220,13 @@ def process_github_url(owner: str, repo: str, submission: Optional[dict] = None)
         except NameError:
             pass
         else:
-            if args.daily_update:
-                # move these keys to non GitHub data dict as they don't exist in the GitHub API
-                for k in og_data[str(github_data['id'])]:
-                    if k not in github_data:
-                        non_github_data[k] = og_data[str(github_data['id'])][k]
+            # move these keys to non GitHub data dict as they don't exist in the GitHub API
+            for k in og_data[str(github_data['id'])]:
+                if k not in github_data:
+                    print(k)
+                    non_github_data[k] = og_data[str(github_data['id'])][k]
 
+            if args.daily_update:
                 categories = og_data[str(github_data['id'])]['categories']
 
                 try:
