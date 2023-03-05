@@ -23,6 +23,7 @@ body:
         - Anime
         - Channels
         - Games
+        - Kids
         - Metadata Agent
         - Movies
         - Music
@@ -32,11 +33,11 @@ body:
         - Radio
         - Scanner
         - Services
+        - Sports
         - Subtitles
         - TV
         - Utility
         - Videos
-        - other (please specify)
     validations:
       required: true
   - type: input
@@ -47,6 +48,27 @@ body:
       placeholder: ex. Services
     validations:
       required: false
+  - type: textarea
+    id: scanner_mapping
+    attributes:
+      label: Scanner mapping
+      description: >-
+        If the plugin is a scanner, we need to map scanner files in the repo to the proper "Scanners" sub-directory.
+        This is required only if the repo does not contain a "Scanners" directory at the root level.
+        The scanner files should be entered as a JSON list within the key that they should be mapped to.
+      render: JSON
+      value: |
+        {
+          "Common": [
+          ],
+          "Movies": [
+          ],
+          "Music": [
+          ],
+          "Series": [
+          ]
+        }
+
   - type: textarea
     id: additional_comments
     attributes:
