@@ -8236,6 +8236,53 @@
         "stargazers_count": 7,
         "thumb_image_url": "https://raw.githubusercontent.com/zynine-/HDHRViewer.bundle/master/Contents/Resources/icon-default.png"
     },
+    "29254194": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/2184979?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-01-15T04:39:56Z",
+                "commit_sha": "625854e1bde2509e630817860a752f98fd0d1097",
+                "download_url": "https://github.com/spokanedj/plexmce/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex File Scanner fdor Media Center RecordedTV (WTV) Files",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "spokanedj/plexmce",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/spokanedj/plexmce",
+        "license": "Apache License 2.0",
+        "license_url": "https://api.github.com/licenses/apache-2.0",
+        "name": "plexmce",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": [
+                "Plex Scanner For Media Center TV Shows.py"
+            ]
+        },
+        "stargazers_count": 3,
+        "thumb_image_url": null
+    },
     "29279498": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/NoMoreNicksLeft/TheGamesDB.bundle/master/Contents/Resources/attribution.png",
