@@ -450,6 +450,52 @@
         "stargazers_count": 28,
         "thumb_image_url": "https://raw.githubusercontent.com/mikedm139/CouchPotato.bundle/master/Contents/Resources/icon-default.png"
     },
+    "111306588": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/6397305?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-11-19T16:52:52Z",
+                "commit_sha": "4fe9383b709305a55d272cf7d295bf3fefe2f050",
+                "download_url": "https://github.com/Zuikkis/VDR-Plex/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Movies",
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex scanner for VDR recordings",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "Zuikkis/VDR-Plex",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/Zuikkis/VDR-Plex",
+        "license": null,
+        "license_url": null,
+        "name": "VDR-Plex",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
+    },
     "115029993": {
         "archived": false,
         "attribution_image_url": null,
