@@ -7547,6 +7547,53 @@
         "stargazers_count": 38,
         "thumb_image_url": "https://raw.githubusercontent.com/tivoguy/TiVoToGo.bundle/master/Contents/Resources/icon-default.jpg"
     },
+    "27581433": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/179065?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-12-05T08:25:07Z",
+                "commit_sha": "2667fce3dbb31674d2a4b3bfb2a83edcc332a3ce",
+                "download_url": "https://github.com/haileys/plex_better_itunes_scanner/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Music",
+            "Scanner"
+        ],
+        "default_branch": "master",
+        "description": "A better iTunes scanner for Plex",
+        "disabled": false,
+        "forks_count": 3,
+        "full_name": "haileys/plex_better_itunes_scanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/haileys/plex_better_itunes_scanner",
+        "license": null,
+        "license_url": null,
+        "name": "plex_better_itunes_scanner",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [
+                "Plex Better iTunes Scanner.py"
+            ],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": null
+    },
     "2775441": {
         "archived": false,
         "attribution_image_url": null,
