@@ -8814,7 +8814,9 @@
             "Common": [],
             "Movies": [],
             "Music": [],
-            "Series": []
+            "Series": [
+                "Video Games Scanner.py"
+            ]
         },
         "stargazers_count": 8,
         "thumb_image_url": null
