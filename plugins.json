@@ -16769,6 +16769,8 @@
         ],
         "categories": [
             "Metadata Agent",
+            "Movies",
+            "Scanner",
             "TV"
         ],
         "default_branch": "master",
@@ -16857,9 +16859,13 @@
         ],
         "scanner_mapping": {
             "Common": [],
-            "Movies": [],
+            "Movies": [
+                "Contents/Resources/Movies/Shoko Movie Scanner.py"
+            ],
             "Music": [],
-            "Series": []
+            "Series": [
+                "Contents/Resources/Series/Shoko Series Scanner.py"
+            ]
         },
         "stargazers_count": 28,
         "thumb_image_url": null
