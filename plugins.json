@@ -12029,7 +12029,8 @@
         "categories": [
             "Metadata Agent",
             "Movies",
-            "Scanner"
+            "Scanner",
+            "TV"
         ],
         "default_branch": "master",
         "description": "Plex EyeTV Tools: Scanner and Agent (information) Bundle",
@@ -12053,9 +12054,13 @@
         "releases": [],
         "scanner_mapping": {
             "Common": [],
-            "Movies": [],
+            "Movies": [
+                "EyeTV Movies.py"
+            ],
             "Music": [],
-            "Series": []
+            "Series": [
+                "EyeTV Series.py"
+            ]
         },
         "stargazers_count": 6,
         "thumb_image_url": null
