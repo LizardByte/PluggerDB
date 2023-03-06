@@ -2322,6 +2322,53 @@
         "stargazers_count": 18,
         "thumb_image_url": null
     },
+    "138758931": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/18417628?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-11-19T14:23:36Z",
+                "commit_sha": "24ca34648e407221dfef73b2c4076420451ace13",
+                "download_url": "https://github.com/Aanok/tinytag-scanner/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Music",
+            "Scanner"
+        ],
+        "default_branch": "master",
+        "description": "Plex Media Server music scanner based on https://github.com/devsnd/tinytag",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "Aanok/tinytag-scanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/Aanok/tinytag-scanner",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "tinytag-scanner",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [
+                "TinyTag Scanner.py"
+            ],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
+    },
     "139184077": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/adultplexdev/AdultDVDEmpire.bundle/master/Contents/Resources/attribution.png",
