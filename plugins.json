@@ -3938,6 +3938,56 @@
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/ajtatum/AvalonRestAgent.bundle/master/Contents/Resources/icon-default.png"
     },
+    "169606889": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1152732?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-01-28T08:21:35Z",
+                "commit_sha": "5028c8c4aa58d4514f77ab46f3155f288c64b6f5",
+                "download_url": "https://github.com/sunyruru/SJVA-Scanners/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex Series Scanner For Korea",
+        "disabled": false,
+        "forks_count": 3,
+        "full_name": "sunyruru/SJVA-Scanners",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/sunyruru/SJVA-Scanners",
+        "license": null,
+        "license_url": null,
+        "name": "SJVA-Scanners",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": [
+                "Plex Series Scanner For Korea OLD.py",
+                "Plex_Series_Scanner_Patch.py",
+                "SJVA_Scanner_KoreaTV.py",
+                "SJVA_Scanner_KoreaTV_Download.py"
+            ]
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": null
+    },
     "169829934": {
         "archived": false,
         "attribution_image_url": null,
