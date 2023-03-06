@@ -450,6 +450,52 @@
         "stargazers_count": 28,
         "thumb_image_url": "https://raw.githubusercontent.com/mikedm139/CouchPotato.bundle/master/Contents/Resources/icon-default.png"
     },
+    "111306588": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/6397305?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-11-19T16:52:52Z",
+                "commit_sha": "4fe9383b709305a55d272cf7d295bf3fefe2f050",
+                "download_url": "https://github.com/Zuikkis/VDR-Plex/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Movies",
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex scanner for VDR recordings",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "Zuikkis/VDR-Plex",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/Zuikkis/VDR-Plex",
+        "license": null,
+        "license_url": null,
+        "name": "VDR-Plex",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
+    },
     "115029993": {
         "archived": false,
         "attribution_image_url": null,
@@ -1005,6 +1051,56 @@
         "stargazers_count": 1,
         "thumb_image_url": "https://raw.githubusercontent.com/shopgirl284/Paramount.bundle/master/Contents/Resources/icon-default.jpg"
     },
+    "120181605": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/7710340?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-02-04T12:25:58Z",
+                "commit_sha": "d45ddcf46e2e441683bec040118530b2767ef640",
+                "download_url": "https://github.com/kOchirasu/Plex-Scanner-Logger/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Movies",
+            "Music",
+            "Scanner",
+            "TV",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "Logger to be used with Plex Scanners",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "kOchirasu/Plex-Scanner-Logger",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/kOchirasu/Plex-Scanner-Logger",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "Plex-Scanner-Logger",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [
+                "Logger.py"
+            ],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": null
+    },
     "120241064": {
         "archived": false,
         "attribution_image_url": null,
@@ -1239,6 +1335,60 @@
         },
         "stargazers_count": 21,
         "thumb_image_url": "https://raw.githubusercontent.com/shopgirl284/RSSFeed.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "121975172": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1570280?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-02-18T18:05:25Z",
+                "commit_sha": "851872adcc92e33eeba0b44c4a4b4cf6f30c4ab0",
+                "download_url": "https://github.com/FennyFatal/Plex-Anime-Scanner/archive/refs/heads/FennyFatal-patch-1.zip",
+                "name": "FennyFatal-patch-1"
+            },
+            {
+                "commit_date": "2018-01-02T11:22:12Z",
+                "commit_sha": "48351dae758b1b788c71db02ce05644eb7a8d613",
+                "download_url": "https://github.com/FennyFatal/Plex-Anime-Scanner/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Anime",
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "A simple Plex Anime Scanner",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "FennyFatal/Plex-Anime-Scanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": "https://forums.plex.tv/discussion/299631/release-plex-anime-scanner",
+        "html_url": "https://github.com/FennyFatal/Plex-Anime-Scanner",
+        "license": null,
+        "license_url": null,
+        "name": "Plex-Anime-Scanner",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": [
+                "Anime Scanner.py"
+            ]
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
     },
     "12350271": {
         "archived": false,
@@ -1533,7 +1683,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 315,
+        "stargazers_count": 316,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -1762,7 +1912,7 @@
         "default_branch": "master",
         "description": "Plex plug-in that plays live streams (like IPTV) from a M3U playlist",
         "disabled": false,
-        "forks_count": 314,
+        "forks_count": 315,
         "full_name": "Cigaras/IPTV",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -2170,6 +2320,53 @@
             "Series": []
         },
         "stargazers_count": 18,
+        "thumb_image_url": null
+    },
+    "138758931": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/18417628?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-11-19T14:23:36Z",
+                "commit_sha": "24ca34648e407221dfef73b2c4076420451ace13",
+                "download_url": "https://github.com/Aanok/tinytag-scanner/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Music",
+            "Scanner"
+        ],
+        "default_branch": "master",
+        "description": "Plex Media Server music scanner based on https://github.com/devsnd/tinytag",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "Aanok/tinytag-scanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/Aanok/tinytag-scanner",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "tinytag-scanner",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [
+                "TinyTag Scanner.py"
+            ],
+            "Series": []
+        },
+        "stargazers_count": 0,
         "thumb_image_url": null
     },
     "139184077": {
@@ -3081,6 +3278,7 @@
         ],
         "categories": [
             "Metadata Agent",
+            "Movies",
             "Scanner"
         ],
         "default_branch": "master",
@@ -3938,6 +4136,56 @@
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/ajtatum/AvalonRestAgent.bundle/master/Contents/Resources/icon-default.png"
     },
+    "169606889": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1152732?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-01-28T08:21:35Z",
+                "commit_sha": "5028c8c4aa58d4514f77ab46f3155f288c64b6f5",
+                "download_url": "https://github.com/sunyruru/SJVA-Scanners/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex Series Scanner For Korea",
+        "disabled": false,
+        "forks_count": 3,
+        "full_name": "sunyruru/SJVA-Scanners",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/sunyruru/SJVA-Scanners",
+        "license": null,
+        "license_url": null,
+        "name": "SJVA-Scanners",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": [
+                "Plex Series Scanner For Korea OLD.py",
+                "Plex_Series_Scanner_Patch.py",
+                "SJVA_Scanner_KoreaTV.py",
+                "SJVA_Scanner_KoreaTV_Download.py"
+            ]
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": null
+    },
     "169829934": {
         "archived": false,
         "attribution_image_url": null,
@@ -4422,6 +4670,56 @@
         "stargazers_count": 72,
         "thumb_image_url": "https://raw.githubusercontent.com/fuzeman/Spotify2.bundle/master/Contents/Resources/icon-default.png"
     },
+    "177191637": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1591243?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-03-24T19:46:54Z",
+                "commit_sha": "e323a2013e0d7401afd9a7cc4d882cfdd648630f",
+                "download_url": "https://github.com/gbonk/plex-scanner/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Movies",
+            "Scanner"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "gbonk/plex-scanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/gbonk/plex-scanner",
+        "license": null,
+        "license_url": null,
+        "name": "plex-scanner",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [
+                "bonk-scanner.py",
+                "simple-scanner.py",
+                "simple-scanner2.py",
+                "simple-scanner3.py"
+            ],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": null
+    },
     "17724062": {
         "archived": false,
         "attribution_image_url": null,
@@ -4721,6 +5019,53 @@
         },
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/bmihovski/plex-vdr-live-samsung-tv-plugin.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "19219204": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/212827?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-04-27T22:39:52Z",
+                "commit_sha": "a5314bd1e2d93d07e32a97462995ddfdd41775ff",
+                "download_url": "https://github.com/doublerebel/plex-series-scanner-bdmv/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex series scanner with additional bdmv disc image support",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "doublerebel/plex-series-scanner-bdmv",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/doublerebel/plex-series-scanner-bdmv",
+        "license": null,
+        "license_url": null,
+        "name": "plex-series-scanner-bdmv",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": [
+                "Plex Series Scanner (with disc image support).py"
+            ]
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": null
     },
     "19236973": {
         "archived": true,
@@ -5370,6 +5715,54 @@
         },
         "stargazers_count": 8,
         "thumb_image_url": "https://raw.githubusercontent.com/adamrumbold/Channel9.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "213552894": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/8241142?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-02-20T06:07:18Z",
+                "commit_sha": "d757127390687a205061c105d9c4639062c2ed3a",
+                "download_url": "https://github.com/artificialintellect/plex-scanners/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Kids",
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Custom scanners for Plex",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "artificialintellect/plex-scanners",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/artificialintellect/plex-scanners",
+        "license": null,
+        "license_url": null,
+        "name": "plex-scanners",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": [
+                "PBS Kids Scanner.py"
+            ]
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": null
     },
     "21631700": {
         "archived": false,
@@ -6768,6 +7161,51 @@
         "stargazers_count": 19,
         "thumb_image_url": "https://raw.githubusercontent.com/kolsys/HDSerials.bundle/master/Contents/Resources/icon-default.png"
     },
+    "24320253": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/7888966?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-11-16T16:17:10Z",
+                "commit_sha": "7cea6602cd250c4338092b43e1e9771dd5faba15",
+                "download_url": "https://github.com/witjoh/enigma2_dreambox_scanner/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Movies",
+            "Scanner"
+        ],
+        "default_branch": "master",
+        "description": "A plex movie scanner using the ts.meta info for sreambox recorded satellite movies",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "witjoh/enigma2_dreambox_scanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/witjoh/enigma2_dreambox_scanner",
+        "license": "GNU General Public License v2.0",
+        "license_url": "https://api.github.com/licenses/gpl-2.0",
+        "name": "enigma2_dreambox_scanner",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 4,
+        "thumb_image_url": null
+    },
     "24531005": {
         "archived": false,
         "attribution_image_url": null,
@@ -6918,6 +7356,52 @@
         "stargazers_count": 1263,
         "thumb_image_url": null
     },
+    "24851830": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/480845?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-02-29T23:11:48Z",
+                "commit_sha": "c80d2b97868b8fdb4aff48903244e7cea1ee9603",
+                "download_url": "https://github.com/Alphadelta14/plex-amv-scanner/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Anime",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Anime Music Video Scanner for Plex",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "Alphadelta14/plex-amv-scanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/Alphadelta14/plex-amv-scanner",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "plex-amv-scanner",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 8,
+        "thumb_image_url": "https://raw.githubusercontent.com/Alphadelta14/plex-amv-scanner/master/Contents/Resources/icon-default.png"
+    },
     "249199173": {
         "archived": false,
         "attribution_image_url": null,
@@ -7003,6 +7487,53 @@
             "Series": []
         },
         "stargazers_count": 5,
+        "thumb_image_url": null
+    },
+    "250447765": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/29137584?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-03-27T05:25:08Z",
+                "commit_sha": "45b00a199bfb49c541514e745b499471673b3d86",
+                "download_url": "https://github.com/doodyd/Plex-Series-Scanner/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Python script to parse TV episodes for Plex Media Server using my preferred naming convention.",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "doodyd/Plex-Series-Scanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/doodyd/Plex-Series-Scanner",
+        "license": null,
+        "license_url": null,
+        "name": "Plex-Series-Scanner",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": [
+                "DCD Series Scanner.py"
+            ]
+        },
+        "stargazers_count": 2,
         "thumb_image_url": null
     },
     "254866276": {
@@ -7500,6 +8031,53 @@
         },
         "stargazers_count": 38,
         "thumb_image_url": "https://raw.githubusercontent.com/tivoguy/TiVoToGo.bundle/master/Contents/Resources/icon-default.jpg"
+    },
+    "27581433": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/179065?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-12-05T08:25:07Z",
+                "commit_sha": "2667fce3dbb31674d2a4b3bfb2a83edcc332a3ce",
+                "download_url": "https://github.com/haileys/plex_better_itunes_scanner/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Music",
+            "Scanner"
+        ],
+        "default_branch": "master",
+        "description": "A better iTunes scanner for Plex",
+        "disabled": false,
+        "forks_count": 3,
+        "full_name": "haileys/plex_better_itunes_scanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/haileys/plex_better_itunes_scanner",
+        "license": null,
+        "license_url": null,
+        "name": "plex_better_itunes_scanner",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [
+                "Plex Better iTunes Scanner.py"
+            ],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": null
     },
     "2775441": {
         "archived": false,
@@ -8048,6 +8626,107 @@
         "stargazers_count": 7,
         "thumb_image_url": "https://raw.githubusercontent.com/zynine-/HDHRViewer.bundle/master/Contents/Resources/icon-default.png"
     },
+    "29106837": {
+        "archived": true,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/4490736?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-01-20T01:31:14Z",
+                "commit_sha": "91a09c22bc45b32fbbb5b020e6715fcfee73f514",
+                "download_url": "https://github.com/mark-ignacio/plex-aniMess/archive/refs/heads/gorpc.zip",
+                "name": "gorpc"
+            },
+            {
+                "commit_date": "2020-01-20T01:31:14Z",
+                "commit_sha": "91a09c22bc45b32fbbb5b020e6715fcfee73f514",
+                "download_url": "https://github.com/mark-ignacio/plex-aniMess/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Anime",
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "The Plex scanner for anime that isn't organized at all.",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "mark-ignacio/plex-aniMess",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/mark-ignacio/plex-aniMess",
+        "license": "GNU General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/gpl-3.0",
+        "name": "plex-aniMess",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": [
+                "aniMess.py"
+            ]
+        },
+        "stargazers_count": 3,
+        "thumb_image_url": null
+    },
+    "29254194": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/2184979?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-01-15T04:39:56Z",
+                "commit_sha": "625854e1bde2509e630817860a752f98fd0d1097",
+                "download_url": "https://github.com/spokanedj/plexmce/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex File Scanner fdor Media Center RecordedTV (WTV) Files",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "spokanedj/plexmce",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/spokanedj/plexmce",
+        "license": "Apache License 2.0",
+        "license_url": "https://api.github.com/licenses/apache-2.0",
+        "name": "plexmce",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": [
+                "Plex Scanner For Media Center TV Shows.py"
+            ]
+        },
+        "stargazers_count": 3,
+        "thumb_image_url": null
+    },
     "29279498": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/NoMoreNicksLeft/TheGamesDB.bundle/master/Contents/Resources/attribution.png",
@@ -8135,7 +8814,9 @@
             "Common": [],
             "Movies": [],
             "Music": [],
-            "Series": []
+            "Series": [
+                "Video Games Scanner.py"
+            ]
         },
         "stargazers_count": 8,
         "thumb_image_url": null
@@ -8639,6 +9320,7 @@
         ],
         "categories": [
             "Scanner",
+            "Sports",
             "TV"
         ],
         "default_branch": "master",
@@ -8665,7 +9347,9 @@
             "Common": [],
             "Movies": [],
             "Music": [],
-            "Series": []
+            "Series": [
+                "Formula1.py"
+            ]
         },
         "stargazers_count": 3,
         "thumb_image_url": null
@@ -8859,6 +9543,55 @@
         },
         "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/masse75/xHamster.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "316377895": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/7141827?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-11-27T04:51:02Z",
+                "commit_sha": "7f4e036f0b3c181570e42ba615d7bd20fb7fbcc9",
+                "download_url": "https://github.com/baseballlover723/custom_plex_scanner/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Scanner",
+            "Sports",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "A custom scanner for Plex, designed to be easily extensible",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "baseballlover723/custom_plex_scanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/baseballlover723/custom_plex_scanner",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "custom_plex_scanner",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": [
+                "base_scanner.py",
+                "baseballlover723_scanner.py"
+            ]
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": null
     },
     "327541445": {
         "archived": false,
@@ -9818,7 +10551,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 574,
+        "stargazers_count": 575,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -10477,6 +11210,58 @@
         "stargazers_count": 12,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/Asstosrt.bundle/main/Contents/Resources/icon-default.png"
     },
+    "382535741": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/60153227?v=4",
+        "branches": [
+            {
+                "commit_date": "2021-11-20T13:22:06Z",
+                "commit_sha": "250d21d85f80270a9cf4a4ae5f5445078380e320",
+                "download_url": "https://github.com/waldosax/PlexSports/archive/refs/heads/archive/local-json-database.zip",
+                "name": "archive/local-json-database"
+            },
+            {
+                "commit_date": "2022-01-27T16:05:54Z",
+                "commit_sha": "9385a1d3a6cb1e32b813144dee058b954cc67ff1",
+                "download_url": "https://github.com/waldosax/PlexSports/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "waldosax/PlexSports",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/waldosax/PlexSports",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "PlexSports",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 5,
+        "thumb_image_url": null
+    },
     "38807376": {
         "archived": false,
         "attribution_image_url": null,
@@ -10777,6 +11562,51 @@
         "stargazers_count": 27,
         "thumb_image_url": null
     },
+    "40798557": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/markv00/PlexMusic.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/10627844?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-06-11T08:07:19Z",
+                "commit_sha": "a1c1bbafe9e514d16a68fdcf8296bcc2b69ccb04",
+                "download_url": "https://github.com/markv00/PlexMusic.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Music"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "markv00/PlexMusic",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/markv00/PlexMusic.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "PlexMusic",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/markv00/PlexMusic.bundle/master/Contents/Resources/icon-default.png"
+    },
     "410732328": {
         "archived": false,
         "attribution_image_url": null,
@@ -10970,7 +11800,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 284,
+        "stargazers_count": 285,
         "thumb_image_url": null
     },
     "41394428": {
@@ -11099,6 +11929,7 @@
         "categories": [
             "Metadata Agent",
             "Scanner",
+            "Sports",
             "TV"
         ],
         "default_branch": "master",
@@ -11205,7 +12036,8 @@
         "categories": [
             "Metadata Agent",
             "Movies",
-            "Scanner"
+            "Scanner",
+            "TV"
         ],
         "default_branch": "master",
         "description": "Plex EyeTV Tools: Scanner and Agent (information) Bundle",
@@ -11229,9 +12061,13 @@
         "releases": [],
         "scanner_mapping": {
             "Common": [],
-            "Movies": [],
+            "Movies": [
+                "EyeTV Movies.py"
+            ],
             "Music": [],
-            "Series": []
+            "Series": [
+                "EyeTV Series.py"
+            ]
         },
         "stargazers_count": 6,
         "thumb_image_url": null
@@ -11846,6 +12682,143 @@
         "stargazers_count": 12,
         "thumb_image_url": "https://raw.githubusercontent.com/vanstinator/PlexWink.bundle/master/Contents/Resources/icon-default.png"
     },
+    "44669254": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/skycryer/extras.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3725699?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-10-21T10:39:30Z",
+                "commit_sha": "09a3afa960176b847911762c3d1873d3d532ad8b",
+                "download_url": "https://github.com/skycryer/extras.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Only extras scanner without trailer for Plex",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "skycryer/extras",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/skycryer/extras.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "extras",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/skycryer/extras.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "44669692": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3725699?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-10-23T12:58:52Z",
+                "commit_sha": "336b1e0e3f4d0e4951312425eb0cee692c7e0d43",
+                "download_url": "https://github.com/skycryer/LocalBifFiles.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Local Bif Files Scanner for Plex",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "skycryer/LocalBifFiles",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/skycryer/LocalBifFiles.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "LocalBifFiles",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 4,
+        "thumb_image_url": "https://raw.githubusercontent.com/skycryer/LocalBifFiles.bundle/master/Contents/Resources/icon-default.jpg"
+    },
+    "44788577": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/39487?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-10-24T05:15:12Z",
+                "commit_sha": "b507b28c6ad58fe3a350a02909cc016aba586eae",
+                "download_url": "https://github.com/goto100/PleXBMC_Scanner/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Movies",
+            "Scanner"
+        ],
+        "default_branch": "master",
+        "description": "Plex Scanner for PleXBMC user with external player support",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "goto100/PleXBMC_Scanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/goto100/PleXBMC_Scanner",
+        "license": null,
+        "license_url": null,
+        "name": "PleXBMC_Scanner",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [
+                "Movies/PleXBMC Movie Scanner.py"
+            ],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
+    },
     "45328858": {
         "archived": false,
         "attribution_image_url": null,
@@ -12358,6 +13331,54 @@
         },
         "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/Twoure/GreekTV.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "48605960": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/4660632?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-12-26T09:37:43Z",
+                "commit_sha": "4dfbf3cb5c8e55674d6c9f4bd07e3d13a1da44b9",
+                "download_url": "https://github.com/privatesmith/plex-scanner-anidb/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Anime",
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "File scanner for Plex, designed for use with my forks of KADR and HAMA",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "privatesmith/plex-scanner-anidb",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/privatesmith/plex-scanner-anidb",
+        "license": "GNU General Public License v2.0",
+        "license_url": "https://api.github.com/licenses/gpl-2.0",
+        "name": "plex-scanner-anidb",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": [
+                "anidb.py"
+            ]
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
     },
     "50203056": {
         "archived": false,
@@ -13465,6 +14486,57 @@
         "stargazers_count": 9,
         "thumb_image_url": null
     },
+    "607902354": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/126625527?v=4",
+        "branches": [
+            {
+                "commit_date": "2022-10-14T07:26:10Z",
+                "commit_sha": "47ce5d895f67e6af32b861e4ce041fffc9a80a0f",
+                "download_url": "https://github.com/throwaway1245725/custom-plex-scanner/archive/refs/heads/main.zip",
+                "name": "main"
+            },
+            {
+                "commit_date": "2022-09-28T23:25:41Z",
+                "commit_sha": "395738d9a116bfa3b160cc6ab1bbca0056ca3988",
+                "download_url": "https://github.com/throwaway1245725/custom-plex-scanner/archive/refs/heads/original.zip",
+                "name": "original"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "main",
+        "description": null,
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "throwaway1245725/custom-plex-scanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/throwaway1245725/custom-plex-scanner",
+        "license": null,
+        "license_url": null,
+        "name": "custom-plex-scanner",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/throwaway1245725/custom-plex-scanner/main/Contents/Resources/icon-default.png"
+    },
     "60987153": {
         "archived": false,
         "attribution_image_url": null,
@@ -13618,6 +14690,51 @@
         },
         "stargazers_count": 8,
         "thumb_image_url": "https://raw.githubusercontent.com/hitolaus/DR-TV.bundle/master/Contents/Resources/icon-default.jpg"
+    },
+    "65317596": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/16750699?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-08-12T09:06:08Z",
+                "commit_sha": "ab690c45309dbfb47f85a66ddb591d85ef3988a6",
+                "download_url": "https://github.com/EndOfLine369/Game-Rom-Scanner/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Games",
+            "Scanner"
+        ],
+        "default_branch": "master",
+        "description": "Game Rom Scanner (GameRS) for Plex",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "EndOfLine369/Game-Rom-Scanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/EndOfLine369/Game-Rom-Scanner",
+        "license": "GNU General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/gpl-3.0",
+        "name": "Game-Rom-Scanner",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": null
     },
     "66188656": {
         "archived": false,
@@ -16693,7 +17810,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 566,
+        "stargazers_count": 567,
         "thumb_image_url": null
     },
     "8525630": {
@@ -17506,6 +18623,56 @@
         },
         "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/7pepo7/FilmWeb.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "95848091": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/77195?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-06-30T04:32:43Z",
+                "commit_sha": "0394a826969b3818a4dc89da3e4a91c2b6289146",
+                "download_url": "https://github.com/charlessuh/PlexScanners/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Movies",
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "charlessuh/PlexScanners",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/charlessuh/PlexScanners",
+        "license": null,
+        "license_url": null,
+        "name": "PlexScanners",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [
+                "Movies/My Movies Scanner.py"
+            ],
+            "Music": [],
+            "Series": [
+                "Series/My Series Scanner.py"
+            ]
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
     },
     "9663032": {
         "archived": false,
