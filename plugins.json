@@ -10051,7 +10051,9 @@
         ],
         "categories": [
             "Anime",
-            "Metadata Agent"
+            "Metadata Agent",
+            "Movies",
+            "TV"
         ],
         "default_branch": "master",
         "description": "Metadata agent for Plex media center that can fetch content from AniDB.net",
