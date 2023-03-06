@@ -6918,6 +6918,52 @@
         "stargazers_count": 1263,
         "thumb_image_url": null
     },
+    "24851830": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/480845?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-02-29T23:11:48Z",
+                "commit_sha": "c80d2b97868b8fdb4aff48903244e7cea1ee9603",
+                "download_url": "https://github.com/Alphadelta14/plex-amv-scanner/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Anime",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Anime Music Video Scanner for Plex",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "Alphadelta14/plex-amv-scanner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/Alphadelta14/plex-amv-scanner",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "plex-amv-scanner",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 8,
+        "thumb_image_url": "https://raw.githubusercontent.com/Alphadelta14/plex-amv-scanner/master/Contents/Resources/icon-default.png"
+    },
     "249199173": {
         "archived": false,
         "attribution_image_url": null,
