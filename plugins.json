@@ -3049,7 +3049,8 @@
             }
         ],
         "categories": [
-            "Metadata Agent"
+            "Metadata Agent",
+            "Subtitles"
         ],
         "default_branch": "master",
         "description": "Metadata Agent for Plex Media Server that downloads subtitles from Undertexter.se",
