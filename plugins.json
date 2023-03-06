@@ -4972,6 +4972,53 @@
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/bmihovski/plex-vdr-live-samsung-tv-plugin.bundle/master/Contents/Resources/icon-default.png"
     },
+    "19219204": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/212827?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-04-27T22:39:52Z",
+                "commit_sha": "a5314bd1e2d93d07e32a97462995ddfdd41775ff",
+                "download_url": "https://github.com/doublerebel/plex-series-scanner-bdmv/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex series scanner with additional bdmv disc image support",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "doublerebel/plex-series-scanner-bdmv",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/doublerebel/plex-series-scanner-bdmv",
+        "license": null,
+        "license_url": null,
+        "name": "plex-series-scanner-bdmv",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": [
+                "Plex Series Scanner (with disc image support).py"
+            ]
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": null
+    },
     "19236973": {
         "archived": true,
         "attribution_image_url": null,
