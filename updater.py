@@ -224,7 +224,6 @@ def process_github_url(owner: str, repo: str, submission: Optional[dict] = None)
             try:
                 for k in og_data[str(github_data['id'])]:
                     if k not in github_data:
-                        print(k)
                         non_github_data[k] = og_data[str(github_data['id'])][k]
             except KeyError as e:
                 if args.daily_update:
@@ -290,12 +289,20 @@ def process_github_url(owner: str, repo: str, submission: Optional[dict] = None)
                         if file_check_response.status_code != requests.codes.ok:
                             exception_writer(error=Exception('No "Scanners" directory found in repo.'), name='scanners')
                         else:
+                            file_check_data = file_check_response.json()
                             # check if directory
-                            if file_check_response.json()['type'] != 'dir':
-                                exception_writer(error=Exception('Found "Scanners" but it is not a directory.'),
-                                                 name='scanners')
-                            else:
-                                scanners = True
+                            valid_scanner_directories = ['Common', 'Movies', 'Music', 'Series']
+                            for item in file_check_data:
+                                if item['name'] in valid_scanner_directories:
+                                    # check if directory
+                                    if item['type'] != 'dir':
+                                        exception_writer(
+                                            error=Exception(f'Found "{item["name"]}" but it is not a directory.'),
+                                            name='scanners')
+                                    else:
+                                        # assume scanner(s) are present in the directory
+                                        scanners = True
+                                        break
 
                     if not scanners:
                         exception_writer(error=Exception('No valid scanners found.'), name='scanners')
