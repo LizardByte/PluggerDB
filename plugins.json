@@ -12034,6 +12034,51 @@
         "stargazers_count": 12,
         "thumb_image_url": "https://raw.githubusercontent.com/vanstinator/PlexWink.bundle/master/Contents/Resources/icon-default.png"
     },
+    "44669692": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3725699?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-10-23T12:58:52Z",
+                "commit_sha": "336b1e0e3f4d0e4951312425eb0cee692c7e0d43",
+                "download_url": "https://github.com/skycryer/LocalBifFiles.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Local Bif Files Scanner for Plex",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "skycryer/LocalBifFiles",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/skycryer/LocalBifFiles.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "LocalBifFiles",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 4,
+        "thumb_image_url": "https://raw.githubusercontent.com/skycryer/LocalBifFiles.bundle/master/Contents/Resources/icon-default.jpg"
+    },
     "45328858": {
         "archived": false,
         "attribution_image_url": null,
