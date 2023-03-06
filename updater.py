@@ -50,9 +50,9 @@ def requests_loop(url: str,
                   method: Callable = requests.get,
                   max_tries: int = 8,
                   allow_statuses: list = [requests.codes.ok]) -> requests.Response:
-    count = 0
+    count = 1
     while count <= max_tries:
-        print(f'Processing {url} ... (attempt {count + 1} of {max_tries})')
+        print(f'Processing {url} ... (attempt {count} of {max_tries})')
         try:
             response = method(url=url, headers=headers)
         except requests.exceptions.RequestException as e:
@@ -194,7 +194,12 @@ def process_github_url(owner: str, repo: str, submission: Optional[dict] = None)
         loop = True  # loop while this is true
         while loop:
             next_loop = False
-            repo_contents = requests_loop(url=f'{api_repo_url}/contents{path}', headers=github_headers).json()
+            repo_contents = requests_loop(
+                url=f'{api_repo_url}/contents{path}',
+                headers=github_headers,
+                max_tries=5
+            ).json()
+
             for item in repo_contents:
                 # directories
                 if item['type'] == 'dir' and (item['name'] in directory_list or item['name'].endswith('.bundle')):
@@ -263,10 +268,13 @@ def process_github_url(owner: str, repo: str, submission: Optional[dict] = None)
                                                  name='scanner_mapping')
                                 break
 
-                            file_check_response = requests_loop(url=f'{api_repo_url}/contents/{scanner}',
-                                                                headers=github_headers)
+                            file_check_response = requests_loop(
+                                url=f'{api_repo_url}/contents/{scanner}',
+                                headers=github_headers,
+                                max_tries=5
+                            )
 
-                            if file_check_response.status_code != requests.codes.ok:
+                            if not file_check_response:
                                 exception_writer(error=Exception(f'Invalid scanner path: {scanner}'),
                                                  name='scanner_mapping')
                                 break
@@ -283,10 +291,13 @@ def process_github_url(owner: str, repo: str, submission: Optional[dict] = None)
                 if "Scanner" in categories:
                     if not scanners:
                         # check if "Scanners" directory exists
-                        file_check_response = requests_loop(url=f'{api_repo_url}/contents/Scanners',
-                                                            headers=github_headers)
+                        file_check_response = requests_loop(
+                            url=f'{api_repo_url}/contents/Scanners',
+                            headers=github_headers,
+                            max_tries=5
+                        )
 
-                        if file_check_response.status_code != requests.codes.ok:
+                        if not file_check_response:
                             exception_writer(error=Exception('No "Scanners" directory found in repo.'), name='scanners')
                         else:
                             file_check_data = file_check_response.json()
