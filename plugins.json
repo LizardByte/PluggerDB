@@ -17985,6 +17985,56 @@
         "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/7pepo7/FilmWeb.bundle/master/Contents/Resources/icon-default.png"
     },
+    "95848091": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/77195?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-06-30T04:32:43Z",
+                "commit_sha": "0394a826969b3818a4dc89da3e4a91c2b6289146",
+                "download_url": "https://github.com/charlessuh/PlexScanners/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Movies",
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "charlessuh/PlexScanners",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/charlessuh/PlexScanners",
+        "license": null,
+        "license_url": null,
+        "name": "PlexScanners",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [
+                "Movies/My Movies Scanner.py"
+            ],
+            "Music": [],
+            "Series": [
+                "Series/My Series Scanner.py"
+            ]
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
+    },
     "9663032": {
         "archived": false,
         "attribution_image_url": null,
