@@ -12987,6 +12987,54 @@
         "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/Twoure/GreekTV.bundle/master/Contents/Resources/icon-default.png"
     },
+    "48605960": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/4660632?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-12-26T09:37:43Z",
+                "commit_sha": "4dfbf3cb5c8e55674d6c9f4bd07e3d13a1da44b9",
+                "download_url": "https://github.com/privatesmith/plex-scanner-anidb/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Anime",
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "File scanner for Plex, designed for use with my forks of KADR and HAMA",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "privatesmith/plex-scanner-anidb",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/privatesmith/plex-scanner-anidb",
+        "license": "GNU General Public License v2.0",
+        "license_url": "https://api.github.com/licenses/gpl-2.0",
+        "name": "plex-scanner-anidb",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": [
+                "anidb.py"
+            ]
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
+    },
     "50203056": {
         "archived": false,
         "attribution_image_url": null,
