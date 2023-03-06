@@ -11157,6 +11157,58 @@
         "stargazers_count": 12,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/Asstosrt.bundle/main/Contents/Resources/icon-default.png"
     },
+    "382535741": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/60153227?v=4",
+        "branches": [
+            {
+                "commit_date": "2021-11-20T13:22:06Z",
+                "commit_sha": "250d21d85f80270a9cf4a4ae5f5445078380e320",
+                "download_url": "https://github.com/waldosax/PlexSports/archive/refs/heads/archive/local-json-database.zip",
+                "name": "archive/local-json-database"
+            },
+            {
+                "commit_date": "2022-01-27T16:05:54Z",
+                "commit_sha": "9385a1d3a6cb1e32b813144dee058b954cc67ff1",
+                "download_url": "https://github.com/waldosax/PlexSports/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Scanner",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "waldosax/PlexSports",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/waldosax/PlexSports",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "PlexSports",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 5,
+        "thumb_image_url": null
+    },
     "38807376": {
         "archived": false,
         "attribution_image_url": null,
