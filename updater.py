@@ -48,7 +48,7 @@ def exception_writer(error: Exception, name: str, end_program: bool = False) -> 
 def requests_loop(url: str,
                   headers: Optional[dict] = None,
                   method: Callable = requests.get,
-                  max_tries: int = 10,
+                  max_tries: int = 8,
                   allow_statuses: list = [requests.codes.ok]) -> requests.Response:
     count = 0
     while count <= max_tries:
