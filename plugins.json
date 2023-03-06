@@ -1051,6 +1051,56 @@
         "stargazers_count": 1,
         "thumb_image_url": "https://raw.githubusercontent.com/shopgirl284/Paramount.bundle/master/Contents/Resources/icon-default.jpg"
     },
+    "120181605": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/7710340?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-02-04T12:25:58Z",
+                "commit_sha": "d45ddcf46e2e441683bec040118530b2767ef640",
+                "download_url": "https://github.com/kOchirasu/Plex-Scanner-Logger/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Movies",
+            "Music",
+            "Scanner",
+            "TV",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "Logger to be used with Plex Scanners",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "kOchirasu/Plex-Scanner-Logger",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/kOchirasu/Plex-Scanner-Logger",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "Plex-Scanner-Logger",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [
+                "Logger.py"
+            ],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": null
+    },
     "120241064": {
         "archived": false,
         "attribution_image_url": null,
