@@ -11556,6 +11556,51 @@
         "stargazers_count": 27,
         "thumb_image_url": null
     },
+    "40798557": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/markv00/PlexMusic.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/10627844?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-06-11T08:07:19Z",
+                "commit_sha": "a1c1bbafe9e514d16a68fdcf8296bcc2b69ccb04",
+                "download_url": "https://github.com/markv00/PlexMusic.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Music"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "markv00/PlexMusic",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/markv00/PlexMusic.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "PlexMusic",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/markv00/PlexMusic.bundle/master/Contents/Resources/icon-default.png"
+    },
     "410732328": {
         "archived": false,
         "attribution_image_url": null,
