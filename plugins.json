@@ -648,6 +648,7 @@
         ],
         "categories": [
             "Channels",
+            "Kids",
             "Videos"
         ],
         "default_branch": "master",
@@ -1212,7 +1213,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1068,
+        "stargazers_count": 1067,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -1511,6 +1512,7 @@
         ],
         "categories": [
             "Channels",
+            "Kids",
             "Videos"
         ],
         "default_branch": "master",
@@ -1815,6 +1817,7 @@
         ],
         "categories": [
             "Channels",
+            "Sports",
             "Videos"
         ],
         "default_branch": "master",
@@ -1861,6 +1864,7 @@
         ],
         "categories": [
             "Channels",
+            "Kids",
             "Videos"
         ],
         "default_branch": "master",
@@ -2848,6 +2852,7 @@
         ],
         "categories": [
             "Channels",
+            "Sports",
             "Videos"
         ],
         "default_branch": "master",
@@ -3044,7 +3049,8 @@
             }
         ],
         "categories": [
-            "Metadata Agent"
+            "Metadata Agent",
+            "Subtitles"
         ],
         "default_branch": "master",
         "description": "Metadata Agent for Plex Media Server that downloads subtitles from Undertexter.se",
@@ -3136,6 +3142,7 @@
         ],
         "categories": [
             "Channels",
+            "Sports",
             "Videos"
         ],
         "default_branch": "master",
@@ -4369,7 +4376,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 38,
+        "stargazers_count": 39,
         "thumb_image_url": null
     },
     "17290702": {
@@ -5577,7 +5584,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 878,
+        "stargazers_count": 877,
         "thumb_image_url": null
     },
     "21045557": {
@@ -8254,7 +8261,7 @@
         "license": null,
         "license_url": null,
         "name": "MyAnimeList",
-        "open_issues_count": 1,
+        "open_issues_count": 2,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -8322,7 +8329,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 122,
+        "stargazers_count": 123,
         "thumb_image_url": "https://raw.githubusercontent.com/Fribb/MyAnimeList.bundle/master/Contents/Resources/icon-default.png"
     },
     "28607437": {
@@ -10049,7 +10056,9 @@
         ],
         "categories": [
             "Anime",
-            "Metadata Agent"
+            "Metadata Agent",
+            "Movies",
+            "TV"
         ],
         "default_branch": "master",
         "description": "Metadata agent for Plex media center that can fetch content from AniDB.net",
@@ -12159,6 +12168,7 @@
             }
         ],
         "categories": [
+            "Anime",
             "Channels",
             "Videos"
         ],
@@ -15623,6 +15633,7 @@
             }
         ],
         "categories": [
+            "Anime",
             "Metadata Agent",
             "Scanner",
             "TV"
@@ -16759,6 +16770,8 @@
         ],
         "categories": [
             "Metadata Agent",
+            "Movies",
+            "Scanner",
             "TV"
         ],
         "default_branch": "master",
@@ -16847,9 +16860,13 @@
         ],
         "scanner_mapping": {
             "Common": [],
-            "Movies": [],
+            "Movies": [
+                "Contents/Resources/Movies/Shoko Movie Scanner.py"
+            ],
             "Music": [],
-            "Series": []
+            "Series": [
+                "Contents/Resources/Series/Shoko Series Scanner.py"
+            ]
         },
         "stargazers_count": 28,
         "thumb_image_url": null
@@ -18548,6 +18565,7 @@
         ],
         "categories": [
             "Channels",
+            "Sports",
             "Videos"
         ],
         "default_branch": "master",
