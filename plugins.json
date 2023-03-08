@@ -1213,7 +1213,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1067,
+        "stargazers_count": 1068,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -7360,7 +7360,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1263,
+        "stargazers_count": 1264,
         "thumb_image_url": null
     },
     "24851830": {
@@ -9264,7 +9264,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1396,
+        "stargazers_count": 1397,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -11399,7 +11399,7 @@
         "default_branch": "master",
         "description": "A plex agent for Japanese porn videos. It collects data from JavLibrary, AVEntertainments and some studio's official sites.",
         "disabled": false,
-        "forks_count": 4,
+        "forks_count": 3,
         "full_name": "Xavier-Lam/JAV",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -11412,7 +11412,7 @@
         "license_url": "https://api.github.com/licenses/mit",
         "name": "JAV",
         "open_issues_count": 2,
-        "open_pull_requests_count": 1,
+        "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "releases": [],
@@ -11422,7 +11422,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 34,
+        "stargazers_count": 35,
         "thumb_image_url": null
     },
     "39710142": {
@@ -11982,7 +11982,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 79,
+        "stargazers_count": 78,
         "thumb_image_url": null
     },
     "41901114": {
@@ -13795,7 +13795,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 16,
+        "stargazers_count": 17,
         "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/PlexyGlass/master/Contents/Resources/icon-default.png"
     },
     "535883315": {
