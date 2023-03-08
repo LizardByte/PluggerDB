@@ -15052,6 +15052,57 @@
         "stargazers_count": 8,
         "thumb_image_url": "https://raw.githubusercontent.com/hitolaus/DR-TV.bundle/master/Contents/Resources/icon-default.jpg"
     },
+    "63900015": {
+        "archived": true,
+        "attribution_image_url": "https://raw.githubusercontent.com/ukdtom/JSONImport.bundle/master/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/4699449?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-07-21T20:47:12Z",
+                "commit_sha": "afd40c8cc0e18f01382f727bb05a2bbb9a20b957",
+                "download_url": "https://github.com/ukdtom/JSONImport.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2016-07-21T20:35:28Z",
+                "commit_sha": "23ef6e84630657806736cc2d7875287b0d59c2c9",
+                "download_url": "https://github.com/ukdtom/JSONImport.bundle/archive/refs/heads/tommy-work.zip",
+                "name": "tommy-work"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Import from json files into Plex libraries",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "ukdtom/JSONImport",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/ukdtom/JSONImport.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "JSONImport",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 7,
+        "thumb_image_url": "https://raw.githubusercontent.com/ukdtom/JSONImport.bundle/master/Resources/icon-default.png"
+    },
     "65317596": {
         "archived": false,
         "attribution_image_url": null,
