@@ -1304,7 +1304,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1068,
+        "stargazers_count": 1069,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -5817,7 +5817,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 877,
+        "stargazers_count": 878,
         "thumb_image_url": null
     },
     "21045557": {
@@ -12087,7 +12087,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 285,
+        "stargazers_count": 286,
         "thumb_image_url": null
     },
     "41394428": {
@@ -14666,10 +14666,10 @@
                 "name": "dependabot/npm_and_yarn/nightly/fortawesome/fontawesome-free-6.3.0"
             },
             {
-                "commit_date": "2023-02-27T10:15:51Z",
-                "commit_sha": "089e22edea61af51d3f828dba9529c257a014e66",
-                "download_url": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/jquery-3.6.3.zip",
-                "name": "dependabot/npm_and_yarn/nightly/jquery-3.6.3"
+                "commit_date": "2023-03-09T10:08:45Z",
+                "commit_sha": "e6eabaa4fbe0bb430a18506747a662a936b01844",
+                "download_url": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/jquery-3.6.4.zip",
+                "name": "dependabot/npm_and_yarn/nightly/jquery-3.6.4"
             },
             {
                 "commit_date": "2023-03-04T19:18:22Z",
@@ -18229,7 +18229,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 567,
+        "stargazers_count": 568,
         "thumb_image_url": null
     },
     "8525630": {
