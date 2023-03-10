@@ -2007,7 +2007,7 @@
         "default_branch": "master",
         "description": "Plex plug-in that plays live streams (like IPTV) from a M3U playlist",
         "disabled": false,
-        "forks_count": 315,
+        "forks_count": 316,
         "full_name": "Cigaras/IPTV",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -10815,7 +10815,7 @@
         "default_branch": "master",
         "description": null,
         "disabled": false,
-        "forks_count": 139,
+        "forks_count": 140,
         "full_name": "gboudreau/XBMCnfoMoviesImporter",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -10838,7 +10838,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 575,
+        "stargazers_count": 577,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -10883,7 +10883,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 289,
+        "stargazers_count": 291,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -11778,7 +11778,7 @@
         "default_branch": "master",
         "description": "A Plex Metadata Agent for Douban",
         "disabled": false,
-        "forks_count": 15,
+        "forks_count": 14,
         "full_name": "atempcode1/Douban",
         "gh_pages_url": null,
         "has_discussions": false,
