@@ -2356,7 +2356,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 156,
+        "stargazers_count": 157,
         "thumb_image_url": "https://raw.githubusercontent.com/amirotin/Kinopoisk.bundle/master/Contents/Resources/icon-default.png"
     },
     "137607528": {
@@ -5786,7 +5786,7 @@
         "default_branch": "master",
         "description": "Seasons, absolute mode, Subfolders...",
         "disabled": false,
-        "forks_count": 154,
+        "forks_count": 155,
         "full_name": "ZeroQI/Absolute-Series-Scanner",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -7593,7 +7593,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1264,
+        "stargazers_count": 1265,
         "thumb_image_url": null
     },
     "24851830": {
@@ -11949,7 +11949,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "Audnexus",
-        "open_issues_count": 6,
+        "open_issues_count": 7,
         "open_pull_requests_count": 1,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -14636,12 +14636,6 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
         "branches": [
             {
-                "commit_date": "2023-02-27T09:16:02Z",
-                "commit_sha": "f71d3ad30e813231c2f2fc32df010e80ab4744d1",
-                "download_url": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/docker/nightly/python-3.11.2-buster.zip",
-                "name": "dependabot/docker/nightly/python-3.11.2-buster"
-            },
-            {
                 "commit_date": "2023-02-27T09:23:16Z",
                 "commit_sha": "977a22d801ad9b595dabf138f013cd5518bb9bff",
                 "download_url": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/pascalgn/automerge-action-0.15.6.zip",
@@ -14709,7 +14703,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Plugger",
         "open_issues_count": 0,
-        "open_pull_requests_count": 7,
+        "open_pull_requests_count": 6,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "releases": [],
