@@ -17022,6 +17022,52 @@
         "stargazers_count": 14,
         "thumb_image_url": "https://raw.githubusercontent.com/piplongrun/muvio.bundle/master/Contents/Resources/icon-default.jpg"
     },
+    "77463691": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/6666669?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-12-05T16:59:27Z",
+                "commit_sha": "e4c9edfe2f9b53374bf711e10fc1b216d8ec2641",
+                "download_url": "https://github.com/rlafranchi/MakeMKVStream.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "A Plex Media Server Plugin plays streams from MakeMKV",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "rlafranchi/MakeMKVStream",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/rlafranchi/MakeMKVStream.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "MakeMKVStream",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/rlafranchi/MakeMKVStream.bundle/master/Contents/Resources/icon-default.png"
+    },
     "77491291": {
         "archived": false,
         "attribution_image_url": null,
