@@ -7898,6 +7898,52 @@
         "stargazers_count": 115,
         "thumb_image_url": null
     },
+    "25590450": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1777146?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-03-06T11:06:24Z",
+                "commit_sha": "899dea781bca9438adf57a6ac2926a061af69a39",
+                "download_url": "https://github.com/bkury/OpenWeatherMap.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "News",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "OpenWeatherMap Channel for PLEX",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "bkury/OpenWeatherMap",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/bkury/OpenWeatherMap.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "OpenWeatherMap",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 5,
+        "thumb_image_url": "https://raw.githubusercontent.com/bkury/OpenWeatherMap.bundle/master/Contents/Resources/icon-default.png"
+    },
     "2623430": {
         "archived": true,
         "attribution_image_url": null,
