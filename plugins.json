@@ -13216,6 +13216,53 @@
         "stargazers_count": 16,
         "thumb_image_url": "https://raw.githubusercontent.com/Nosinden/Chaturbate.bundle/master/Contents/Resources/icon-default.png"
     },
+    "45742372": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/5198250?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-11-07T16:32:21Z",
+                "commit_sha": "862462e9d4c2afdd606037ec3ba2e42c964185ae",
+                "download_url": "https://github.com/KishanRathod/nickelodeon.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Kids",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex nickelodeon channel",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "KishanRathod/nickelodeon",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/KishanRathod/nickelodeon.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "nickelodeon",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/KishanRathod/nickelodeon.bundle/master/Contents/Resources/icon-default.png"
+    },
     "45886097": {
         "archived": false,
         "attribution_image_url": null,
