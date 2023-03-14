@@ -5786,7 +5786,7 @@
         "default_branch": "master",
         "description": "Seasons, absolute mode, Subfolders...",
         "disabled": false,
-        "forks_count": 155,
+        "forks_count": 154,
         "full_name": "ZeroQI/Absolute-Series-Scanner",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -7898,6 +7898,52 @@
         "stargazers_count": 115,
         "thumb_image_url": null
     },
+    "25590450": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1777146?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-03-06T11:06:24Z",
+                "commit_sha": "899dea781bca9438adf57a6ac2926a061af69a39",
+                "download_url": "https://github.com/bkury/OpenWeatherMap.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "News",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "OpenWeatherMap Channel for PLEX",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "bkury/OpenWeatherMap",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/bkury/OpenWeatherMap.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "OpenWeatherMap",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 5,
+        "thumb_image_url": "https://raw.githubusercontent.com/bkury/OpenWeatherMap.bundle/master/Contents/Resources/icon-default.png"
+    },
     "2623430": {
         "archived": true,
         "attribution_image_url": null,
@@ -9497,7 +9543,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1397,
+        "stargazers_count": 1398,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -11689,7 +11735,7 @@
         "license": "MIT License",
         "license_url": "https://api.github.com/licenses/mit",
         "name": "JAV",
-        "open_issues_count": 2,
+        "open_issues_count": 3,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -13216,6 +13262,53 @@
         "stargazers_count": 16,
         "thumb_image_url": "https://raw.githubusercontent.com/Nosinden/Chaturbate.bundle/master/Contents/Resources/icon-default.png"
     },
+    "45742372": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/5198250?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-11-07T16:32:21Z",
+                "commit_sha": "862462e9d4c2afdd606037ec3ba2e42c964185ae",
+                "download_url": "https://github.com/KishanRathod/nickelodeon.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Kids",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex nickelodeon channel",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "KishanRathod/nickelodeon",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/KishanRathod/nickelodeon.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "nickelodeon",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/KishanRathod/nickelodeon.bundle/master/Contents/Resources/icon-default.png"
+    },
     "45886097": {
         "archived": false,
         "attribution_image_url": null,
@@ -13355,7 +13448,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 14,
+        "stargazers_count": 15,
         "thumb_image_url": null
     },
     "46782439": {
@@ -14073,7 +14166,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 17,
+        "stargazers_count": 18,
         "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/PlexyGlass/master/Contents/Resources/icon-default.png"
     },
     "535883315": {
@@ -16974,6 +17067,52 @@
         },
         "stargazers_count": 14,
         "thumb_image_url": "https://raw.githubusercontent.com/piplongrun/muvio.bundle/master/Contents/Resources/icon-default.jpg"
+    },
+    "77463691": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/6666669?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-12-05T16:59:27Z",
+                "commit_sha": "e4c9edfe2f9b53374bf711e10fc1b216d8ec2641",
+                "download_url": "https://github.com/rlafranchi/MakeMKVStream.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "A Plex Media Server Plugin plays streams from MakeMKV",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "rlafranchi/MakeMKVStream",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/rlafranchi/MakeMKVStream.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "MakeMKVStream",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/rlafranchi/MakeMKVStream.bundle/master/Contents/Resources/icon-default.png"
     },
     "77491291": {
         "archived": false,
