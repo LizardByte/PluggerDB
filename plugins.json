@@ -8608,7 +8608,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 123,
+        "stargazers_count": 124,
         "thumb_image_url": "https://raw.githubusercontent.com/Fribb/MyAnimeList.bundle/master/Contents/Resources/icon-default.png"
     },
     "28607437": {
@@ -10771,7 +10771,7 @@
         "default_branch": "main",
         "description": "a PLEX music plugin get info form wangyiyun",
         "disabled": false,
-        "forks_count": 15,
+        "forks_count": 16,
         "full_name": "timmy0209/WangYiYun",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -11735,7 +11735,7 @@
         "license": "MIT License",
         "license_url": "https://api.github.com/licenses/mit",
         "name": "JAV",
-        "open_issues_count": 3,
+        "open_issues_count": 2,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -14806,7 +14806,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 0,
+        "stargazers_count": 1,
         "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/Plugger/master/Contents/Resources/icon-default.png"
     },
     "6076978": {
