@@ -42,7 +42,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 76,
+        "stargazers_count": 77,
         "thumb_image_url": null
     },
     "10147260": {
@@ -164,7 +164,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": null,
         "html_url": "https://github.com/chidychi/Data18.bundle",
         "license": null,
@@ -1776,7 +1776,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 318,
+        "stargazers_count": 319,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -5817,7 +5817,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 878,
+        "stargazers_count": 879,
         "thumb_image_url": null
     },
     "21045557": {
@@ -10884,7 +10884,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 578,
+        "stargazers_count": 577,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -10929,7 +10929,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 292,
+        "stargazers_count": 291,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -11540,7 +11540,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 12,
+        "stargazers_count": 13,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/Asstosrt.bundle/main/Contents/Resources/icon-default.png"
     },
     "382535741": {
@@ -15899,7 +15899,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": null,
         "html_url": "https://github.com/ReallyFuzzy/IceFilms.bundle",
         "license": null,
