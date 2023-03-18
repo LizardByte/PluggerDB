@@ -1304,7 +1304,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1070,
+        "stargazers_count": 1071,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -2157,7 +2157,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 881,
+        "stargazers_count": 883,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -5817,7 +5817,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 879,
+        "stargazers_count": 881,
         "thumb_image_url": null
     },
     "21045557": {
@@ -7593,7 +7593,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1265,
+        "stargazers_count": 1266,
         "thumb_image_url": null
     },
     "24851830": {
@@ -7895,7 +7895,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 115,
+        "stargazers_count": 117,
         "thumb_image_url": null
     },
     "25590450": {
@@ -9309,7 +9309,7 @@
         "default_branch": "master",
         "description": "Add what you are watching on Plex to trakt.tv",
         "disabled": false,
-        "forks_count": 168,
+        "forks_count": 169,
         "full_name": "trakt/Plex-Trakt-Scrobbler",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -10839,7 +10839,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 19,
+        "stargazers_count": 20,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/QQmusic.bundle/main/Contents/Resources/icon-default.png"
     },
     "3621001": {
@@ -10884,7 +10884,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 577,
+        "stargazers_count": 578,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -12280,7 +12280,7 @@
         "license": null,
         "license_url": null,
         "name": "SportScanner",
-        "open_issues_count": 5,
+        "open_issues_count": 6,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -15899,7 +15899,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": false,
+        "has_wiki": true,
         "homepage": null,
         "html_url": "https://github.com/ReallyFuzzy/IceFilms.bundle",
         "license": null,
@@ -18362,7 +18362,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 570,
+        "stargazers_count": 571,
         "thumb_image_url": null
     },
     "8525630": {
@@ -19030,7 +19030,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 31,
+        "stargazers_count": 32,
         "thumb_image_url": "https://raw.githubusercontent.com/joshuaavalon/AvalonXmlAgent.bundle/master/Contents/Resources/icon-default.png"
     },
     "9404487": {
