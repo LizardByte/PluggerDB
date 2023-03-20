@@ -1776,7 +1776,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 319,
+        "stargazers_count": 318,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -2007,7 +2007,7 @@
         "default_branch": "master",
         "description": "Plex plug-in that plays live streams (like IPTV) from a M3U playlist",
         "disabled": false,
-        "forks_count": 316,
+        "forks_count": 317,
         "full_name": "Cigaras/IPTV",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -2157,7 +2157,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 885,
+        "stargazers_count": 888,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -2652,7 +2652,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 119,
+        "stargazers_count": 120,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Lambda.bundle/master/Contents/Resources/icon-default.png"
     },
     "14254798": {
@@ -7593,7 +7593,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1266,
+        "stargazers_count": 1267,
         "thumb_image_url": null
     },
     "24851830": {
@@ -11952,8 +11952,8 @@
                 "name": "assets"
             },
             {
-                "commit_date": "2023-02-27T00:05:26Z",
-                "commit_sha": "4c93da93c56bd6d18c7a64ffb65ee316607e590e",
+                "commit_date": "2023-03-19T23:06:27Z",
+                "commit_sha": "10d436bf9f18bce68929688a4284e347e93eda65",
                 "download_url": "https://github.com/djdembeck/Audnexus.bundle/archive/refs/heads/develop.zip",
                 "name": "develop"
             },
@@ -11964,14 +11964,14 @@
                 "name": "feat-multi-region"
             },
             {
-                "commit_date": "2023-02-27T02:17:05Z",
-                "commit_sha": "39e549aa752af6aa82e3beb1e7bf27fd9319e130",
+                "commit_date": "2023-03-19T22:47:26Z",
+                "commit_sha": "38a95753399c234ed416865bccc0f1cd0258aed5",
                 "download_url": "https://github.com/djdembeck/Audnexus.bundle/archive/refs/heads/feat-similar.zip",
                 "name": "feat-similar"
             },
             {
-                "commit_date": "2023-02-27T00:07:03Z",
-                "commit_sha": "870abbd480fa6dcd4b8b8f26b720fd045e1eb6ed",
+                "commit_date": "2023-03-19T23:09:30Z",
+                "commit_sha": "633347dbc6e64418fa5d7ed4dc73501d9651c8f7",
                 "download_url": "https://github.com/djdembeck/Audnexus.bundle/archive/refs/heads/main.zip",
                 "name": "main"
             }
@@ -11995,11 +11995,18 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "Audnexus",
-        "open_issues_count": 7,
+        "open_issues_count": 6,
         "open_pull_requests_count": 1,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/djdembeck/Audnexus.bundle/zipball/v1.2.2",
+                "name": "v1.2.2",
+                "prerelease": false,
+                "release_date": "2023-03-19T23:09:48Z",
+                "tag_name": "v1.2.2"
+            },
             {
                 "bundle_url": "https://api.github.com/repos/djdembeck/Audnexus.bundle/zipball/v1.2.1",
                 "name": "v1.2.1",
