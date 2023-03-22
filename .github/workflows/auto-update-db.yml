@@ -119,42 +119,55 @@ jobs:
             })
 
       - name: Update Labels for Exceptions
-        if: ${{ steps.update.outputs.exception == 'true' }}
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GH_BOT_TOKEN }}
           script: |
-            // add exception label
-            github.rest.issues.addLabels({
+            // get labels
+            const labels = await github.rest.issues.listLabelsOnIssue({
               issue_number: context.issue.number,
               owner: context.repo.owner,
-              repo: context.repo.repo,
-              labels: ['exception']
+              repo: context.repo.repo
             })
 
-            // remove add labels so we can re-add them again
-            github.rest.issues.removeLabel({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              name: ['add-plugin']
-            })
+            // get exception output
+            const exception = "${{ steps.update.outputs.exception }}"
 
-      - name: Remove Exception Label
-        if: >-
-          contains(github.event.issue.labels.*.name, 'exception') &&
-          steps.update.outputs.exception == 'false'
-        uses: actions/github-script@v6
-        with:
-          github-token: ${{ secrets.GH_BOT_TOKEN }}
-          script: |
-            // remove exception label
-            github.rest.issues.removeLabel({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              name: ['exception']
-            })
+            // check if labels list contains "exception"
+            const label_exception = labels.data.some(label => label.name === 'exception')
+
+            // add exception label if there was an exception and not already labeled
+            if (!label_exception && exception === 'true') {
+              github.rest.issues.addLabels({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                labels: ['exception']
+              })
+            }
+
+            // remove exception label if there is no longer an exception
+            if (label_exception && exception === 'false') {
+              github.rest.issues.removeLabel({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                name: ['exception']
+              })
+            }
+
+            // check if labels list contains "add-plugin"
+            const label_add_plugin = labels.data.some(label => label.name === 'add-plugin')
+
+            // remove add-plugin label if there was an exception
+            if (label_add_plugin and exception === 'true') {
+              github.rest.issues.removeLabel({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                name: ['add-plugin']
+              })
+            }
 
       - name: Issue comment
         uses: mshick/add-pr-comment@v2
