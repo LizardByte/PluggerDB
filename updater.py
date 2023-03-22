@@ -95,7 +95,7 @@ def queue_handler(item: str) -> None:
 
 # create multiple threads for processing items faster
 # number of threads
-for t in range(3):
+for t in range(2):  # 3 threads was hitting api limits too fast, so try 2
     try:
         # for each thread, start it
         t = threading.Thread(target=process_queue)
