@@ -3068,6 +3068,52 @@
         "stargazers_count": 15,
         "thumb_image_url": "https://raw.githubusercontent.com/PhoenixPlexCode/Data18-Phoenix.bundle/master/Contents/Resources/icon-default.png"
     },
+    "148056470": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/43088899?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-09-09T20:15:14Z",
+                "commit_sha": "789fd6fcac4e640e95ba3ef9bf5213db6b4b58d3",
+                "download_url": "https://github.com/PhoenixPlexCode/Girlsway.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Plex Meta-Data Agent for Girlsway.com",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "PhoenixPlexCode/Girlsway",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/PhoenixPlexCode/Girlsway.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Girlsway",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 6,
+        "thumb_image_url": "https://raw.githubusercontent.com/PhoenixPlexCode/Girlsway.bundle/master/Contents/Resources/icon-default.png"
+    },
     "148073215": {
         "archived": false,
         "attribution_image_url": null,
