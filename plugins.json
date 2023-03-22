@@ -19605,6 +19605,51 @@
         "stargazers_count": 2,
         "thumb_image_url": "https://raw.githubusercontent.com/HooliganHarls/Fox.bundle/master/Contents/Resources/icon-default.png"
     },
+    "937598": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/401134?v=4",
+        "branches": [
+            {
+                "commit_date": "2010-09-25T01:13:00Z",
+                "commit_sha": "1a4f5948bfdc75c0274e2ddde1af4cbe87a49b04",
+                "download_url": "https://github.com/HooliganHarls/Fx.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex app for FxNetwork.com",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "HooliganHarls/Fx",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/HooliganHarls/Fx.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Fx",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 4,
+        "thumb_image_url": "https://raw.githubusercontent.com/HooliganHarls/Fx.bundle/master/Contents/Resources/icon-default.jpg"
+    },
     "93928154": {
         "archived": true,
         "attribution_image_url": "https://raw.githubusercontent.com/joshuaavalon/AvalonXmlAgent.bundle/master/Contents/Resources/attribution.png",
