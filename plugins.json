@@ -1870,6 +1870,51 @@
         "stargazers_count": 30,
         "thumb_image_url": "https://raw.githubusercontent.com/hojel/SmiConvert.bundle/master/Contents/Resources/icon-default.png"
     },
+    "12909505": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/924011?v=4",
+        "branches": [
+            {
+                "commit_date": "2013-09-19T16:29:46Z",
+                "commit_sha": "2194d56ee1a6dfb4da43edcfa9b156c099386c39",
+                "download_url": "https://github.com/TheCase/Tivo.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "TiVo Plugin for Plex (OSX) - archived",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "TheCase/Tivo",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/TheCase/Tivo.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Tivo",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 5,
+        "thumb_image_url": "https://raw.githubusercontent.com/TheCase/Tivo.bundle/master/Contents/Resources/icon-default.jpg"
+    },
     "129477085": {
         "archived": false,
         "attribution_image_url": null,
