@@ -7780,6 +7780,53 @@
         "stargazers_count": 8,
         "thumb_image_url": "https://raw.githubusercontent.com/Alphadelta14/plex-amv-scanner/master/Contents/Resources/icon-default.png"
     },
+    "24856522": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/5873436?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-12-29T19:23:55Z",
+                "commit_sha": "8f4573fc943604cc61675d07bd49f12a24b37371",
+                "download_url": "https://github.com/WhatsARanjit/MovieTube.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Movies",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "MovieTube Channel for Plex",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "WhatsARanjit/MovieTube",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/WhatsARanjit/MovieTube.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "MovieTube",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 5,
+        "thumb_image_url": "https://raw.githubusercontent.com/WhatsARanjit/MovieTube.bundle/master/Contents/Resources/icon-default.png"
+    },
     "249199173": {
         "archived": false,
         "attribution_image_url": null,
