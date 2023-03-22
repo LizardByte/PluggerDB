@@ -1,5 +1,6 @@
 # standard imports
 import argparse
+from datetime import datetime
 import json
 import os
 import re
@@ -13,6 +14,7 @@ import requests
 
 # load env
 from dotenv import load_dotenv
+
 load_dotenv()
 
 # setup queue and lock
@@ -49,27 +51,63 @@ def requests_loop(url: str,
                   headers: Optional[dict] = None,
                   method: Callable = requests.get,
                   max_tries: int = 8,
-                  allow_statuses: list = [requests.codes.ok]) -> requests.Response:
+                  allow_statuses: list = [requests.codes.ok],
+                  github_wait: bool = False) -> requests.Response:
     count = 1
     while count <= max_tries:
+        if github_wait:
+            wait_github_api_limit(headers=headers, resources=['core'])  # core is the only resource we're using
+
         print(f'Processing {url} ... (attempt {count} of {max_tries})')
         try:
             response = method(url=url, headers=headers)
         except requests.exceptions.RequestException as e:
             print(f'Error processing {url} - {e}')
-            time.sleep(2**count)
+            time.sleep(2 ** count)
             count += 1
         except Exception as e:
             print(f'Error processing {url} - {e}')
-            time.sleep(2**count)
+            time.sleep(2 ** count)
             count += 1
         else:
             if response.status_code in allow_statuses:
                 return response
             else:
                 print(f'Error processing {url} - {response.status_code}')
-                time.sleep(2**count)
+                time.sleep(2 ** count)
                 count += 1
+
+
+def wait_github_api_limit(headers: Optional[dict] = None, resources: Optional[list] = None) -> None:
+    while True:
+        # test if we are hitting the GitHub API limit
+        response = requests.get(url='https://api.github.com/rate_limit', headers=headers)
+        rate_limit = response.json()
+
+        # current time as a UTC timestamp
+        current_time = datetime.utcnow().timestamp()
+
+        # don't use more than 1/4 of the rate limit
+        sleep_time = 0
+        if not resources:
+            if rate_limit['rate']['limit'] > 0 and rate_limit['rate']['remaining'] < rate_limit['rate']['limit'] / 4:
+                wait_time = rate_limit['rate']['reset'] - current_time
+                print(f'rate wait_time: {wait_time}')
+                sleep_time = wait_time if wait_time > sleep_time else sleep_time
+
+        for resource in rate_limit['resources']:
+            if (resources and resource in resources) or not resources:
+                if rate_limit['resources'][resource]['limit'] > 0 and \
+                        rate_limit['resources'][resource]['remaining'] < rate_limit['resources'][resource]['limit'] / 4:
+                    wait_time = rate_limit['resources'][resource]['reset'] - current_time
+                    print(f'{resource} wait_time: {wait_time}')
+                    sleep_time = wait_time if wait_time > sleep_time else sleep_time
+
+        if sleep_time > 0:
+            print(f'Waiting {sleep_time} seconds to avoid GitHub API limit...')
+            time.sleep(sleep_time)
+        else:
+            return
 
 
 def process_queue() -> None:
@@ -95,7 +133,7 @@ def queue_handler(item: str) -> None:
 
 # create multiple threads for processing items faster
 # number of threads
-for t in range(3):
+for t in range(10):
     try:
         # for each thread, start it
         t = threading.Thread(target=process_queue)
@@ -110,7 +148,7 @@ for t in range(3):
 
 def process_github_url(owner: str, repo: str, submission: Optional[dict] = None) -> dict:
     api_repo_url = f'https://api.github.com/repos/{owner}/{repo}'
-    response = requests_loop(url=api_repo_url, headers=github_headers)
+    response = requests_loop(url=api_repo_url, headers=github_headers, github_wait=True)
 
     github_data = response.json()
 
@@ -120,7 +158,7 @@ def process_github_url(owner: str, repo: str, submission: Optional[dict] = None)
         raise Exception(f'Error processing plugin: {e}')
     else:
         # get issues data
-        issue_data = requests_loop(url=f'{api_repo_url}/issues', headers=github_headers).json()
+        issue_data = requests_loop(url=f'{api_repo_url}/issues', headers=github_headers, github_wait=True).json()
         open_issues = 0
         open_pull_requests = 0
         for issue in issue_data:
@@ -135,7 +173,7 @@ def process_github_url(owner: str, repo: str, submission: Optional[dict] = None)
         # GitHub token requires repo scope for this end point, so can't use this for PRs from forks :(
         if os.getenv("PAT_TOKEN"):
             response = requests_loop(url=f'{api_repo_url}/pages', headers=github_headers,
-                                     allow_statuses=[requests.codes.ok, 404])
+                                     allow_statuses=[requests.codes.ok, 404], github_wait=True)
             if response.status_code == 404:
                 gh_pages_url = None
             else:
@@ -145,7 +183,7 @@ def process_github_url(owner: str, repo: str, submission: Optional[dict] = None)
             gh_pages_url = None
 
         # get releases data
-        releases_data = requests_loop(url=f'{api_repo_url}/releases', headers=github_headers).json()
+        releases_data = requests_loop(url=f'{api_repo_url}/releases', headers=github_headers, github_wait=True).json()
         releases = []
         for release in releases_data:
             if release['draft']:
@@ -169,12 +207,12 @@ def process_github_url(owner: str, repo: str, submission: Optional[dict] = None)
             ))
 
         # get branch data
-        branches_data = requests_loop(url=f'{api_repo_url}/branches', headers=github_headers).json()
+        branches_data = requests_loop(url=f'{api_repo_url}/branches', headers=github_headers, github_wait=True).json()
         branches = []
         for branch in branches_data:
             # get commit date
             commit_data = requests_loop(url=f'{api_repo_url}/commits/{branch["commit"]["sha"]}',
-                                        headers=github_headers).json()
+                                        headers=github_headers, github_wait=True).json()
             commit_date = commit_data['commit']['author']['date']
 
             branches.append(dict(
@@ -197,7 +235,8 @@ def process_github_url(owner: str, repo: str, submission: Optional[dict] = None)
             repo_contents = requests_loop(
                 url=f'{api_repo_url}/contents{path}',
                 headers=github_headers,
-                max_tries=5
+                max_tries=5,
+                github_wait=True
             ).json()
 
             for item in repo_contents:
@@ -271,7 +310,8 @@ def process_github_url(owner: str, repo: str, submission: Optional[dict] = None)
                             file_check_response = requests_loop(
                                 url=f'{api_repo_url}/contents/{scanner}',
                                 headers=github_headers,
-                                max_tries=5
+                                max_tries=5,
+                                github_wait=True
                             )
 
                             if not file_check_response:
@@ -294,7 +334,8 @@ def process_github_url(owner: str, repo: str, submission: Optional[dict] = None)
                         file_check_response = requests_loop(
                             url=f'{api_repo_url}/contents/Scanners',
                             headers=github_headers,
-                            max_tries=5
+                            max_tries=5,
+                            github_wait=True
                         )
 
                         if not file_check_response:
@@ -368,7 +409,7 @@ def process_github_url(owner: str, repo: str, submission: Optional[dict] = None)
         with lock:  # ensure only one thread is making a request to GitHub at a time
             if github_data['has_wiki']:
                 test_url = f'https://github.com/search?q=repo:{owner}/{repo}&type=wikis'
-                test_wiki = requests_loop(url=test_url)
+                test_wiki = requests_loop(url=test_url, github_wait=True)
                 if test_wiki.status_code == requests.codes.ok:
                     # see if string in contents
                     # not logged in
