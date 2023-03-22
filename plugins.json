@@ -11755,6 +11755,58 @@
         "stargazers_count": 36,
         "thumb_image_url": null
     },
+    "395039310": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/49162529?v=4",
+        "branches": [
+            {
+                "commit_date": "2022-06-30T01:27:00Z",
+                "commit_sha": "ce2123301e7819f50548f2b3e5f724f3d1241ab6",
+                "download_url": "https://github.com/Asianhood/AdultJavBus.bundle/archive/refs/heads/main.zip",
+                "name": "main"
+            },
+            {
+                "commit_date": "2022-06-30T01:23:53Z",
+                "commit_sha": "e3e24d2484d64abb821c8f145e097888b9607f5e",
+                "download_url": "https://github.com/Asianhood/AdultJavBus.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "main",
+        "description": "Plex Agent JavBus Scraper",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "Asianhood/AdultJavBus",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/Asianhood/AdultJavBus.bundle",
+        "license": "GNU General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/gpl-3.0",
+        "name": "AdultJavBus",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 5,
+        "thumb_image_url": null
+    },
     "39710142": {
         "archived": false,
         "attribution_image_url": null,
