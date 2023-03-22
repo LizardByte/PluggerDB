@@ -229,6 +229,52 @@
         "stargazers_count": 10,
         "thumb_image_url": "https://raw.githubusercontent.com/rtm516/Ebooks.bundle/master/Contents/Resources/icon-default.png"
     },
+    "10561570": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/4644650?v=4",
+        "branches": [
+            {
+                "commit_date": "2013-01-06T14:35:09Z",
+                "commit_sha": "3afca2d99388b0faea2ee105b6445392738d06c6",
+                "download_url": "https://github.com/dmanb2b/Discovery-Canada.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "plex channel for discovery canada",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "dmanb2b/Discovery-Canada",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/dmanb2b/Discovery-Canada.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Discovery-Canada",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/dmanb2b/Discovery-Canada.bundle/master/Contents/Resources/icon-default.png"
+    },
     "105984957": {
         "archived": true,
         "attribution_image_url": null,
