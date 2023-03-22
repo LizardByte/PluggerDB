@@ -8373,6 +8373,52 @@
         "stargazers_count": 2,
         "thumb_image_url": "https://raw.githubusercontent.com/lotooo/AlJazeera.bundle/master/Contents/Resources/icon-default.png"
     },
+    "27001300": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/9900267?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-06-07T13:03:39Z",
+                "commit_sha": "98cac20eef83e82d5d0a76b41f5b6c3dda4a9a78",
+                "download_url": "https://github.com/jwsolve/Zumvo.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Channel for Zumvo.com",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "jwsolve/Zumvo",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/jwsolve/Zumvo.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Zumvo",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/jwsolve/Zumvo.bundle/master/Contents/Resources/icon-default.png"
+    },
     "27019643": {
         "archived": true,
         "attribution_image_url": null,
