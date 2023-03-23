@@ -13803,6 +13803,88 @@
         "stargazers_count": 0,
         "thumb_image_url": null
     },
+    "45328599": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/15528156?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-03-30T22:33:10Z",
+                "commit_sha": "1608105c6e66a1b9bb4644322edcf67195ba5466",
+                "download_url": "https://github.com/Nosinden/HanimeTV.bundle/archive/refs/heads/dev.zip",
+                "name": "dev"
+            },
+            {
+                "commit_date": "2016-03-30T22:33:10Z",
+                "commit_sha": "1608105c6e66a1b9bb4644322edcf67195ba5466",
+                "download_url": "https://github.com/Nosinden/HanimeTV.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Video Channel to watch content from https://hanime.tv/",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "Nosinden/HanimeTV",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/Nosinden/HanimeTV.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "HanimeTV",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/HanimeTV.bundle/zipball/v1.0.3",
+                "name": "v1.0.3",
+                "prerelease": false,
+                "release_date": "2016-03-30T22:36:17Z",
+                "tag_name": "v1.0.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/HanimeTV.bundle/zipball/v1.0.2",
+                "name": "v1.0.2",
+                "prerelease": false,
+                "release_date": "2016-03-29T06:13:37Z",
+                "tag_name": "v1.0.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/HanimeTV.bundle/zipball/v1.0.1",
+                "name": "v1.0.1",
+                "prerelease": false,
+                "release_date": "2016-03-12T19:48:26Z",
+                "tag_name": "v1.0.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/HanimeTV.bundle/zipball/v1.0.0",
+                "name": "v1.0.0",
+                "prerelease": false,
+                "release_date": "2016-03-12T19:32:51Z",
+                "tag_name": "v1.0.0"
+            }
+        ],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 6,
+        "thumb_image_url": "https://raw.githubusercontent.com/Nosinden/HanimeTV.bundle/master/Contents/Resources/icon-default.png"
+    },
     "45328858": {
         "archived": false,
         "attribution_image_url": null,
