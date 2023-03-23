@@ -9055,6 +9055,52 @@
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/greatfun1981/AlsongLyricFind.bundle/master/Contents/Resources/icon-default.png"
     },
+    "28401829": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/9900267?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-04-22T21:21:53Z",
+                "commit_sha": "6185b69d7be0436634625756abe6369edec77eed",
+                "download_url": "https://github.com/jwsolve/View47.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Final Version 0.1",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "jwsolve/View47",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/jwsolve/View47.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "View47",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/jwsolve/View47.bundle/master/Contents/Resources/icon-default.png"
+    },
     "28444740": {
         "archived": false,
         "attribution_image_url": null,
