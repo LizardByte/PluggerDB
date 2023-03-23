@@ -10425,6 +10425,51 @@
         "stargazers_count": 1,
         "thumb_image_url": "https://raw.githubusercontent.com/PlexHaxx/plexhaxxOld.bundle/master/Contents/Resources/icon-default.png"
     },
+    "3195438": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/52036?v=4",
+        "branches": [
+            {
+                "commit_date": "2011-07-11T19:32:38Z",
+                "commit_sha": "0fe7110b91da91523705198f909aee1f70eb7f9a",
+                "download_url": "https://github.com/logaritmisk/NFO.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "XBMC .nfo parser for Plex, original work by MTI and Harley H from Plex forums.",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "logaritmisk/NFO",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": "http://wiki.xbmc.org/index.php?title=Import_-_Export_Library#Video_nfo_Files",
+        "html_url": "https://github.com/logaritmisk/NFO.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "NFO",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 4,
+        "thumb_image_url": null
+    },
     "327541445": {
         "archived": false,
         "attribution_image_url": null,
