@@ -6028,6 +6028,51 @@
         "stargazers_count": 32,
         "thumb_image_url": null
     },
+    "209103": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/16983?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-02-02T16:16:10Z",
+                "commit_sha": "f7f69fb6d4c3cdecc907aa6ba4720a99ddeb0cdf",
+                "download_url": "https://github.com/jdevoo/WebGalleryOfArt.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Photos"
+        ],
+        "default_branch": "master",
+        "description": "Web Gallery of Art Plex Plug-in",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "jdevoo/WebGalleryOfArt",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "http://www.wga.hu/",
+        "html_url": "https://github.com/jdevoo/WebGalleryOfArt.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "WebGalleryOfArt",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/jdevoo/WebGalleryOfArt.bundle/master/Contents/Resources/icon-default.png"
+    },
     "20955102": {
         "archived": false,
         "attribution_image_url": null,
