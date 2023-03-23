@@ -1802,6 +1802,53 @@
         "stargazers_count": 1,
         "thumb_image_url": "https://raw.githubusercontent.com/bexn/startreknewvoyages.bundle/master/Contents/Resources/icon-default.png"
     },
+    "124593952": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/AeonLucid/Kitsu.Bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/4643257?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-07-11T04:04:43Z",
+                "commit_sha": "a6b0fb6fbb1962e0b2de72786efc0f533470a1c2",
+                "download_url": "https://github.com/AeonLucid/Kitsu.Bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Anime",
+            "Metadata Agent",
+            "Movies",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex metadata agent that use the API of https://kitsu.io/ for metadata.",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "AeonLucid/Kitsu.Bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/AeonLucid/Kitsu.Bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "Kitsu.Bundle",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 7,
+        "thumb_image_url": null
+    },
     "12498382": {
         "archived": false,
         "attribution_image_url": null,
