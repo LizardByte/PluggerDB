@@ -7176,6 +7176,9 @@
         ],
         "categories": [
             "Channels",
+            "Music",
+            "Photos",
+            "Services",
             "Videos"
         ],
         "default_branch": "master",
