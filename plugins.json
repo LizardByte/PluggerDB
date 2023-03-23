@@ -2189,7 +2189,7 @@
         "default_branch": "master",
         "description": "Plex plug-in that plays live streams (like IPTV) from a M3U playlist",
         "disabled": false,
-        "forks_count": 317,
+        "forks_count": 316,
         "full_name": "Cigaras/IPTV",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -7180,7 +7180,7 @@
         "license": null,
         "license_url": null,
         "name": "Youtube-DL-Agent",
-        "open_issues_count": 16,
+        "open_issues_count": 15,
         "open_pull_requests_count": 1,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -8222,7 +8222,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 117,
+        "stargazers_count": 118,
         "thumb_image_url": null
     },
     "25590450": {
@@ -8597,7 +8597,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 6,
+        "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/joshka/SoundCloud2.Bundle/master/Contents/Resources/icon-default.png"
     },
     "272465352": {
@@ -11385,7 +11385,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 579,
+        "stargazers_count": 580,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -11430,7 +11430,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 292,
+        "stargazers_count": 293,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -12693,7 +12693,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 292,
+        "stargazers_count": 293,
         "thumb_image_url": null
     },
     "41394428": {
