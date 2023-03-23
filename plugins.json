@@ -15097,6 +15097,53 @@
         "stargazers_count": 2,
         "thumb_image_url": "https://raw.githubusercontent.com/solvek/VsetvNet.bundle/master/Contents/Resources/icon-default.png"
     },
+    "49924573": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/13565327?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-03-03T08:08:59Z",
+                "commit_sha": "a55f9feffdf1f06366ce58f56f983a30fd7f71c1",
+                "download_url": "https://github.com/Twoure/AnimeToon.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Anime",
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex channel to view content from AnimeToon.tv",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "Twoure/AnimeToon",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/Twoure/AnimeToon.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "AnimeToon",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/Twoure/AnimeToon.bundle/master/Contents/Resources/icon-default.png"
+    },
     "50203056": {
         "archived": false,
         "attribution_image_url": null,
