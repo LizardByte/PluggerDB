@@ -12232,6 +12232,59 @@
         "stargazers_count": 5,
         "thumb_image_url": null
     },
+    "384898": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/82096?v=4",
+        "branches": [
+            {
+                "commit_date": "2013-02-07T09:57:22Z",
+                "commit_sha": "81558b877354d57bf58dba3a7f9b2d7bd7ebfd60",
+                "download_url": "https://github.com/tryggvil/RUV.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2009-11-25T06:45:47Z",
+                "commit_sha": "105e2b5e672b668fee2eda60f189e9368504ec66",
+                "download_url": "https://github.com/tryggvil/RUV.bundle/archive/refs/heads/old_version.zip",
+                "name": "old_version"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "News",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "R\u00daV plugin for the Plex application",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "tryggvil/RUV",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/tryggvil/RUV.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "RUV",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 4,
+        "thumb_image_url": "https://raw.githubusercontent.com/tryggvil/RUV.bundle/master/Contents/Resources/icon-default.png"
+    },
     "38807376": {
         "archived": false,
         "attribution_image_url": null,
