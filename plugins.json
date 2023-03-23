@@ -275,6 +275,52 @@
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/dmanb2b/Discovery-Canada.bundle/master/Contents/Resources/icon-default.png"
     },
+    "105949626": {
+        "archived": true,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/140623?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-04-30T23:39:29Z",
+                "commit_sha": "eacd8863aeead838dc9a9f3681d0fa642b302f1e",
+                "download_url": "https://github.com/oskameDEV/NHKworld.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "News",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex channel plugin for NHK World News (LIVE & Video On Demand)",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "oskameDEV/NHKworld",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/oskameDEV/NHKworld.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "NHKworld",
+        "open_issues_count": 4,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 7,
+        "thumb_image_url": "https://raw.githubusercontent.com/oskameDEV/NHKworld.bundle/master/Contents/Resources/icon-default.png"
+    },
     "105984957": {
         "archived": true,
         "attribution_image_url": null,
