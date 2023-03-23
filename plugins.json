@@ -1422,6 +1422,53 @@
         "stargazers_count": 10,
         "thumb_image_url": null
     },
+    "120707311": {
+        "archived": true,
+        "attribution_image_url": "https://raw.githubusercontent.com/oskameDEV/SubsCleaner.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/140623?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-07-25T08:03:19Z",
+                "commit_sha": "4793eb135db80ff26e26e1ca9189b0c7cb3ef670",
+                "download_url": "https://github.com/oskameDEV/SubsCleaner.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Subtitles",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "A Plex agent that removes nuisances from subtitle files, such as <HTML> tags, pesky advertisements, and more with customizable filters. (Only for .srt files)",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "oskameDEV/SubsCleaner",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/oskameDEV/SubsCleaner.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "SubsCleaner",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 12,
+        "thumb_image_url": "https://raw.githubusercontent.com/oskameDEV/SubsCleaner.bundle/master/Contents/Resources/icon-default.png"
+    },
     "12093139": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/attribution.png",
