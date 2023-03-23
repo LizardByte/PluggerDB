@@ -14923,6 +14923,57 @@
         "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/vanstinator/UASViewer.bundle/master/Contents/Resources/icon-default.png"
     },
+    "51248387": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/43002?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-05-05T03:12:53Z",
+                "commit_sha": "6717e9ab921bc2b855c6741e2162abf95ee2dbe2",
+                "download_url": "https://github.com/shvets/Etvnet.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2016-09-02T00:51:46Z",
+                "commit_sha": "033ecf2cf5b396bd1233dd100ce1b20d85ea4ea1",
+                "download_url": "https://github.com/shvets/Etvnet.bundle/archive/refs/heads/new_version.zip",
+                "name": "new_version"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Plugin for watching library of russian movies online",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "shvets/Etvnet",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/shvets/Etvnet.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "Etvnet",
+        "open_issues_count": 2,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/shvets/Etvnet.bundle/master/Contents/Resources/icon-default.png"
+    },
     "51300493": {
         "archived": true,
         "attribution_image_url": null,
