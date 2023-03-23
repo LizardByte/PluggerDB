@@ -14774,6 +14774,52 @@
         "stargazers_count": 0,
         "thumb_image_url": null
     },
+    "48995051": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1358021?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-01-21T16:33:43Z",
+                "commit_sha": "44893b6e94c7123f048c681998513592fc2f9061",
+                "download_url": "https://github.com/solvek/VsetvNet.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "solvek/VsetvNet",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/solvek/VsetvNet.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "VsetvNet",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/solvek/VsetvNet.bundle/master/Contents/Resources/icon-default.png"
+    },
     "50203056": {
         "archived": false,
         "attribution_image_url": null,
