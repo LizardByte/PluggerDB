@@ -160,7 +160,7 @@ jobs:
             const label_add_plugin = labels.data.some(label => label.name === 'add-plugin')
 
             // remove add-plugin label if there was an exception
-            if (label_add_plugin and exception === 'true') {
+            if (label_add_plugin && exception === 'true') {
               github.rest.issues.removeLabel({
                 issue_number: context.issue.number,
                 owner: context.repo.owner,
