@@ -11524,6 +11524,51 @@
         "stargazers_count": 21,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/QQmusic.bundle/main/Contents/Resources/icon-default.png"
     },
+    "360205681": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/timmy0209/Ximalaya.bundle/main/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/54787369?v=4",
+        "branches": [
+            {
+                "commit_date": "2021-04-21T14:54:13Z",
+                "commit_sha": "da847064b909712cf041cef2e317bc5f82ca9be7",
+                "download_url": "https://github.com/timmy0209/Ximalaya.bundle/archive/refs/heads/main.zip",
+                "name": "main"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Music"
+        ],
+        "default_branch": "main",
+        "description": "a plex plugin witch get audio books info from ximalaya",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "timmy0209/Ximalaya",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/timmy0209/Ximalaya.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Ximalaya",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 8,
+        "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/Ximalaya.bundle/main/Contents/Resources/icon-default.png"
+    },
     "3621001": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/attribution.png",
