@@ -1619,6 +1619,52 @@
         "stargazers_count": 0,
         "thumb_image_url": null
     },
+    "12335351": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/2023672?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-09-19T23:19:58Z",
+                "commit_sha": "507e19f58ce9d214d73877191d35e9fa60811368",
+                "download_url": "https://github.com/hojel/Mangafox.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Photos",
+            "Services"
+        ],
+        "default_branch": "master",
+        "description": "Plex channel to read Manga in Mangafox",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "hojel/Mangafox",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/hojel/Mangafox.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Mangafox",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 4,
+        "thumb_image_url": "https://raw.githubusercontent.com/hojel/Mangafox.bundle/master/Contents/Resources/icon-default.png"
+    },
     "12350271": {
         "archived": false,
         "attribution_image_url": null,
