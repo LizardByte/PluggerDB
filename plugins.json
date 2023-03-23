@@ -9053,6 +9053,80 @@
         "stargazers_count": 7,
         "thumb_image_url": "https://raw.githubusercontent.com/IIeTp/TheMovieDB.ID.bundle/master/Contents/Resources/icon-default.png"
     },
+    "272540777": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/IIeTp/TheTVDB.ID.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/52212265?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-07-30T19:06:19Z",
+                "commit_sha": "2ff3cf9caa4e94fc1e757f97c2bc18c4377f12d7",
+                "download_url": "https://github.com/IIeTp/TheTVDB.ID.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex TheTVDB agent, with ID support",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "IIeTp/TheTVDB.ID",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/IIeTp/TheTVDB.ID.bundle",
+        "license": "Other",
+        "license_url": null,
+        "name": "TheTVDB.ID",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://github.com/IIeTp/TheTVDB.ID.bundle/releases/download/v1.23.0/TheTVDB.ID.bundle.zip",
+                "name": "v1.23.0",
+                "prerelease": false,
+                "release_date": "2020-07-30T19:23:12Z",
+                "tag_name": "v1.23.0"
+            },
+            {
+                "bundle_url": "https://github.com/IIeTp/TheTVDB.ID.bundle/releases/download/v1.22.0/TheTVDB.ID.bundle.zip",
+                "name": "v1.22.0",
+                "prerelease": false,
+                "release_date": "2020-07-22T19:06:32Z",
+                "tag_name": "v1.22.0"
+            },
+            {
+                "bundle_url": "https://github.com/IIeTp/TheTVDB.ID.bundle/releases/download/v1.21.0/TheTVDB.ID.bundle.zip",
+                "name": "v1.21.0",
+                "prerelease": false,
+                "release_date": "2020-07-12T18:12:41Z",
+                "tag_name": "v1.21.0"
+            },
+            {
+                "bundle_url": "https://github.com/IIeTp/TheTVDB.ID.bundle/releases/download/v1.20.0/TheTVDB.ID.bundle.zip",
+                "name": "v1.20.0",
+                "prerelease": false,
+                "release_date": "2020-07-04T17:55:56Z",
+                "tag_name": "v1.20.0"
+            }
+        ],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 5,
+        "thumb_image_url": "https://raw.githubusercontent.com/IIeTp/TheTVDB.ID.bundle/master/Contents/Resources/icon-default.png"
+    },
     "27304929": {
         "archived": false,
         "attribution_image_url": null,
