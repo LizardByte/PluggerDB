@@ -6507,6 +6507,53 @@
         "stargazers_count": 2,
         "thumb_image_url": null
     },
+    "21573116": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/2499021?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-02-16T12:55:13Z",
+                "commit_sha": "6df8346afea88c030c59ac7c22980575d835be4b",
+                "download_url": "https://github.com/balesz/SuperSubtitles.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Subtitles",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "This is an agent plugin for Plex. You can download subtitles from SuperSubtitles (feliratok.info)",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "balesz/SuperSubtitles",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/balesz/SuperSubtitles.bundle",
+        "license": "Apache License 2.0",
+        "license_url": "https://api.github.com/licenses/apache-2.0",
+        "name": "SuperSubtitles",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 8,
+        "thumb_image_url": null
+    },
     "21631700": {
         "archived": false,
         "attribution_image_url": null,
