@@ -20108,6 +20108,51 @@
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/sander1/MovieMeter.bundle/master/Contents/Resources/icon-default.png"
     },
+    "86185565": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/9146812?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-03-26T01:11:56Z",
+                "commit_sha": "ec517b8060c3481f9a0176185fc425be8e5628ed",
+                "download_url": "https://github.com/ngovil21/WatchParty.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex channel to watch movies or shows together",
+        "disabled": false,
+        "forks_count": 2,
+        "full_name": "ngovil21/WatchParty",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/ngovil21/WatchParty.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "WatchParty",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
+    },
     "86371231": {
         "archived": false,
         "attribution_image_url": null,
