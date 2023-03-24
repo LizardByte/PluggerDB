@@ -1515,6 +1515,94 @@
         "stargazers_count": 12,
         "thumb_image_url": "https://raw.githubusercontent.com/oskameDEV/SubsCleaner.bundle/master/Contents/Resources/icon-default.png"
     },
+    "120792652": {
+        "archived": true,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/12169252?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-07-24T20:58:51Z",
+                "commit_sha": "40ccf57c373778143452ee2bd572fa473a628769",
+                "download_url": "https://github.com/mentosmenno2/Kijk.bundle/archive/refs/heads/dev.zip",
+                "name": "dev"
+            },
+            {
+                "commit_date": "2018-07-24T20:58:51Z",
+                "commit_sha": "40ccf57c373778143452ee2bd572fa473a628769",
+                "download_url": "https://github.com/mentosmenno2/Kijk.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "This Plex Plugin is Discontinued, as Plex removed plugin support.",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "mentosmenno2/Kijk",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/mentosmenno2/Kijk.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Kijk",
+        "open_issues_count": 3,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/mentosmenno2/Kijk.bundle/zipball/v0.1.6",
+                "name": "Experimental Release",
+                "prerelease": true,
+                "release_date": "2018-07-24T21:04:14Z",
+                "tag_name": "v0.1.6"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/mentosmenno2/Kijk.bundle/zipball/v0.1.5",
+                "name": "Experimental",
+                "prerelease": true,
+                "release_date": "2018-07-10T20:11:32Z",
+                "tag_name": "v0.1.5"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/mentosmenno2/Kijk.bundle/zipball/v0.1.4",
+                "name": "Experimental Release",
+                "prerelease": true,
+                "release_date": "2018-07-10T19:49:06Z",
+                "tag_name": "v0.1.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/mentosmenno2/Kijk.bundle/zipball/v0.1.3",
+                "name": "Stable experimental",
+                "prerelease": true,
+                "release_date": "2018-04-25T20:58:45Z",
+                "tag_name": "v0.1.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/mentosmenno2/Kijk.bundle/zipball/v0.1.0",
+                "name": "Stable experimental",
+                "prerelease": true,
+                "release_date": "2018-02-18T21:44:45Z",
+                "tag_name": "v0.1.0"
+            }
+        ],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/mentosmenno2/Kijk.bundle/master/Contents/Resources/icon-default.png"
+    },
     "12093139": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/attribution.png",
