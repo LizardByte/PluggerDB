@@ -3573,6 +3573,88 @@
         "stargazers_count": 86,
         "thumb_image_url": "https://raw.githubusercontent.com/PhoenixPlexCode/PhoenixAdult.bundle/master/Contents/Resources/icon-default.png"
     },
+    "148949124": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/43305385?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-09-17T18:08:54Z",
+                "commit_sha": "de16aa27a9c096ce484b7c5f97c5b2adced13ad7",
+                "download_url": "https://github.com/fisticuffs66/MyFreeCams.bundle/archive/refs/heads/dev.zip",
+                "name": "dev"
+            },
+            {
+                "commit_date": "2018-09-17T19:33:35Z",
+                "commit_sha": "401fe9248e2cd8adede4f34b5a3ce5d845879c04",
+                "download_url": "https://github.com/fisticuffs66/MyFreeCams.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Unofficial Plex Plugin for MyFreeCams.",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "fisticuffs66/MyFreeCams",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/fisticuffs66/MyFreeCams.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "MyFreeCams",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/fisticuffs66/MyFreeCams.bundle/zipball/v0.2.2",
+                "name": "v0.2.2 - Fixed another SSL issue for linux-based servers",
+                "prerelease": false,
+                "release_date": "2018-09-17T19:34:59Z",
+                "tag_name": "v0.2.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/fisticuffs66/MyFreeCams.bundle/zipball/v0.2.1",
+                "name": "v0.2.1 - Bug Fix (SSL/websockets)",
+                "prerelease": false,
+                "release_date": "2018-09-17T18:10:53Z",
+                "tag_name": "v0.2.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/fisticuffs66/MyFreeCams.bundle/zipball/v0.2",
+                "name": "v0.2 - Automated updating",
+                "prerelease": false,
+                "release_date": "2018-09-16T12:03:02Z",
+                "tag_name": "v0.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/fisticuffs66/MyFreeCams.bundle/zipball/v0.1",
+                "name": "v0.1 - Initial release",
+                "prerelease": false,
+                "release_date": "2018-09-16T00:53:57Z",
+                "tag_name": "v0.1"
+            }
+        ],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 4,
+        "thumb_image_url": "https://raw.githubusercontent.com/fisticuffs66/MyFreeCams.bundle/master/Contents/Resources/icon-default.png"
+    },
     "149855765": {
         "archived": false,
         "attribution_image_url": null,
