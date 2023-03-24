@@ -15565,6 +15565,51 @@
         "stargazers_count": 1,
         "thumb_image_url": null
     },
+    "51707792": {
+        "archived": true,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/13121603?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-03-08T17:37:10Z",
+                "commit_sha": "c78cf77ce264cdddeb79e5029b8112a3145f5cdd",
+                "download_url": "https://github.com/kapeer/Telewizjada.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Telewizjada.net plugin for PLEX",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "kapeer/Telewizjada",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/kapeer/Telewizjada.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Telewizjada",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 3,
+        "thumb_image_url": null
+    },
     "51940597": {
         "archived": false,
         "attribution_image_url": null,
