@@ -18080,6 +18080,51 @@
         "stargazers_count": 187,
         "thumb_image_url": null
     },
+    "70127189": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/2023672?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-10-07T05:55:39Z",
+                "commit_sha": "90b803553549dea38f539bb49538d5c7abbbd04f",
+                "download_url": "https://github.com/hojel/MaruMaru.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Photos"
+        ],
+        "default_branch": "master",
+        "description": "\ub9c8\ub8e8\ub9c8\ub8e8 \ub9cc\ud654 \ubcf4\uae30 Plex \ucc44\ub110",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "hojel/MaruMaru",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/hojel/MaruMaru.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "MaruMaru",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 3,
+        "thumb_image_url": "https://raw.githubusercontent.com/hojel/MaruMaru.bundle/master/Contents/Resources/icon-default.png"
+    },
     "7034455": {
         "archived": false,
         "attribution_image_url": null,
