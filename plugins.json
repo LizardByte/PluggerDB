@@ -6965,6 +6965,57 @@
         "stargazers_count": 8,
         "thumb_image_url": "https://raw.githubusercontent.com/adamrumbold/Channel9.bundle/master/Contents/Resources/icon-default.png"
     },
+    "2130752": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/461355?v=4",
+        "branches": [
+            {
+                "commit_date": "2013-07-30T10:54:05Z",
+                "commit_sha": "8bf43bf519d013aab888f38c74fc2509b7fa996a",
+                "download_url": "https://github.com/adamrumbold/Channel7.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2014-01-26T08:22:58Z",
+                "commit_sha": "674c37a5768eb7f454019478ccb258c163eac78e",
+                "download_url": "https://github.com/adamrumbold/Channel7.bundle/archive/refs/heads/refactor.zip",
+                "name": "refactor"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "INACTIVE : Plex Media Server plugin for on demand streaming of Channel 7 ",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "adamrumbold/Channel7",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/adamrumbold/Channel7.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Channel7",
+        "open_issues_count": 2,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 5,
+        "thumb_image_url": null
+    },
     "213552894": {
         "archived": false,
         "attribution_image_url": null,
