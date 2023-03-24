@@ -8708,7 +8708,7 @@
         "default_branch": "master",
         "description": "Video/Adult 18+ Plex-Plugin - Browse, search and watch videos from XNXX.COM",
         "disabled": false,
-        "forks_count": 41,
+        "forks_count": 42,
         "full_name": "pbnkp/XNXX",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -10489,7 +10489,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1399,
+        "stargazers_count": 1398,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -11988,7 +11988,7 @@
         "default_branch": "master",
         "description": null,
         "disabled": false,
-        "forks_count": 140,
+        "forks_count": 141,
         "full_name": "gboudreau/XBMCnfoMoviesImporter",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -12011,7 +12011,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 580,
+        "stargazers_count": 581,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -15740,6 +15740,12 @@
                 "name": "dependabot/docker/nightly/ubuntu-23.04"
             },
             {
+                "commit_date": "2023-03-24T01:05:59Z",
+                "commit_sha": "0025e2d55793d535e01b0b22444dc7d6e1d4fc24",
+                "download_url": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/actions/stale-8.zip",
+                "name": "dependabot/github_actions/nightly/actions/stale-8"
+            },
+            {
                 "commit_date": "2023-02-20T02:27:05Z",
                 "commit_sha": "a0da9558ded78f2f6adefd4ebf753de053df6752",
                 "download_url": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/pascalgn/automerge-action-0.15.6.zip",
@@ -15779,7 +15785,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "PlexyGlass",
         "open_issues_count": 0,
-        "open_pull_requests_count": 3,
+        "open_pull_requests_count": 4,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "releases": [
@@ -15828,6 +15834,12 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
         "branches": [
             {
+                "commit_date": "2023-03-23T09:05:27Z",
+                "commit_sha": "e4041aa9d29265d93ed54b0f5ca7c8b8c12bf5ed",
+                "download_url": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/actions/stale-8.zip",
+                "name": "dependabot/github_actions/nightly/actions/stale-8"
+            },
+            {
                 "commit_date": "2023-02-20T09:15:52Z",
                 "commit_sha": "af290058a09c31037bb9f432ec33a8a15112e3fa",
                 "download_url": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/pascalgn/automerge-action-0.15.6.zip",
@@ -15874,7 +15886,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 1,
-        "open_pull_requests_count": 3,
+        "open_pull_requests_count": 4,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "releases": [
@@ -16381,6 +16393,12 @@
         "avatar_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
         "branches": [
             {
+                "commit_date": "2023-03-23T09:11:16Z",
+                "commit_sha": "e9aecd0141d66ba493420564899bcbc71d56f02b",
+                "download_url": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/actions/stale-8.zip",
+                "name": "dependabot/github_actions/nightly/actions/stale-8"
+            },
+            {
                 "commit_date": "2023-02-27T09:23:16Z",
                 "commit_sha": "977a22d801ad9b595dabf138f013cd5518bb9bff",
                 "download_url": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/pascalgn/automerge-action-0.15.6.zip",
@@ -16448,7 +16466,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Plugger",
         "open_issues_count": 0,
-        "open_pull_requests_count": 6,
+        "open_pull_requests_count": 7,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "releases": [],
