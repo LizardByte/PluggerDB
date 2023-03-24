@@ -16514,6 +16514,52 @@
         "stargazers_count": 12,
         "thumb_image_url": null
     },
+    "56988965": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/16256?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-05-26T12:50:19Z",
+                "commit_sha": "3eb032ad2109524866605e98f412b03588fe064c",
+                "download_url": "https://github.com/theozaurus/radio.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Music",
+            "Radio"
+        ],
+        "default_branch": "master",
+        "description": "Plex plugin to get HLS, PLS and M3U radio stations",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "theozaurus/radio",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/theozaurus/radio.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "radio",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 4,
+        "thumb_image_url": "https://raw.githubusercontent.com/theozaurus/radio.bundle/master/Contents/Resources/icon-default.png"
+    },
     "5823410": {
         "archived": false,
         "attribution_image_url": null,
