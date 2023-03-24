@@ -4718,6 +4718,52 @@
         "stargazers_count": 4,
         "thumb_image_url": "https://raw.githubusercontent.com/plex-unofficial/VideoRip.bundle/master/Contents/Resources/icon-default.png"
     },
+    "16447211": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/680871?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-07-03T03:30:15Z",
+                "commit_sha": "83aa7ad6999fd4a5c3feade1ce354d17ce654e16",
+                "download_url": "https://github.com/devbobo/SmugMug.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Photos",
+            "Services"
+        ],
+        "default_branch": "master",
+        "description": "Plex Media Server plugin for SmugMug",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "devbobo/SmugMug",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/devbobo/SmugMug.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "SmugMug",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 3,
+        "thumb_image_url": "https://raw.githubusercontent.com/devbobo/SmugMug.bundle/master/Contents/Resources/icon-default.png"
+    },
     "166753315": {
         "archived": false,
         "attribution_image_url": null,
