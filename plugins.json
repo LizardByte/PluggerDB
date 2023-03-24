@@ -16516,6 +16516,95 @@
         "stargazers_count": 6,
         "thumb_image_url": "https://raw.githubusercontent.com/Nosinden/JavHiHi.bundle/master/Contents/Resources/icon-default.png"
     },
+    "55553102": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/15528156?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-05-27T22:12:53Z",
+                "commit_sha": "5a58a456573ef32dfa4fe26a013f0383f61f7bee",
+                "download_url": "https://github.com/Nosinden/LetFap.bundle/archive/refs/heads/dev.zip",
+                "name": "dev"
+            },
+            {
+                "commit_date": "2016-11-03T20:08:21Z",
+                "commit_sha": "9374283905a52e6f55da7b5aa02aa33e21caa29b",
+                "download_url": "https://github.com/Nosinden/LetFap.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Video Channel to watch content from http://letfap.com/",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "Nosinden/LetFap",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/Nosinden/LetFap.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "LetFap",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/LetFap.bundle/zipball/v1.0.4",
+                "name": "v1.0.4",
+                "prerelease": false,
+                "release_date": "2016-11-03T20:10:40Z",
+                "tag_name": "v1.0.4"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/LetFap.bundle/zipball/v1.0.3",
+                "name": "v1.0.3",
+                "prerelease": false,
+                "release_date": "2016-09-02T21:10:39Z",
+                "tag_name": "v1.0.3"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/LetFap.bundle/zipball/v1.0.2",
+                "name": "v1.0.2",
+                "prerelease": false,
+                "release_date": "2016-05-27T22:14:28Z",
+                "tag_name": "v1.0.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/LetFap.bundle/zipball/v1.0.1",
+                "name": "v1.0.1",
+                "prerelease": false,
+                "release_date": "2016-04-05T22:02:43Z",
+                "tag_name": "v1.0.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/Nosinden/LetFap.bundle/zipball/v1.0.0",
+                "name": "v1.0.0",
+                "prerelease": false,
+                "release_date": "2016-04-05T21:15:35Z",
+                "tag_name": "v1.0.0"
+            }
+        ],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 4,
+        "thumb_image_url": "https://raw.githubusercontent.com/Nosinden/LetFap.bundle/master/Contents/Resources/icon-default.png"
+    },
     "55771280": {
         "archived": false,
         "attribution_image_url": null,
