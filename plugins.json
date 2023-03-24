@@ -16341,6 +16341,75 @@
         "stargazers_count": 1,
         "thumb_image_url": null
     },
+    "51670929": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/6312063?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-05-18T18:02:46Z",
+                "commit_sha": "996b7deda71e572fa559d235d8577dc7f2ae043a",
+                "download_url": "https://github.com/kolsys/Sportbox.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Services",
+            "Sports",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Sportbox video plugin",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "kolsys/Sportbox",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/kolsys/Sportbox.bundle",
+        "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "license_url": "https://api.github.com/licenses/bsd-3-clause",
+        "name": "Sportbox",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/Sportbox.bundle/zipball/v1.2",
+                "name": "Sportbox.bundle",
+                "prerelease": false,
+                "release_date": "2017-05-18T18:04:07Z",
+                "tag_name": "v1.2"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/Sportbox.bundle/zipball/v1.1",
+                "name": "Sportbox.bundle",
+                "prerelease": false,
+                "release_date": "2016-02-22T11:10:24Z",
+                "tag_name": "v1.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/kolsys/Sportbox.bundle/zipball/v1.0",
+                "name": "Sportbox.bundle",
+                "prerelease": false,
+                "release_date": "2016-02-13T23:35:37Z",
+                "tag_name": "v1.0"
+            }
+        ],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/kolsys/Sportbox.bundle/master/Contents/Resources/icon-default.png"
+    },
     "51707792": {
         "archived": true,
         "attribution_image_url": null,
