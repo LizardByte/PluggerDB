@@ -91,6 +91,52 @@
         "stargazers_count": 19,
         "thumb_image_url": null
     },
+    "101753555": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/4415340?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-09-08T10:50:10Z",
+                "commit_sha": "5d1521007e4486f6c6bab7a30f3f0fe0ad4f4cd8",
+                "download_url": "https://github.com/Pahiro/SuperSport2.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Sports",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Channel for SuperSport - South Africa",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "Pahiro/SuperSport2",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/Pahiro/SuperSport2.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "SuperSport2",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 3,
+        "thumb_image_url": "https://raw.githubusercontent.com/Pahiro/SuperSport2.bundle/master/Contents/Resources/icon-default.png"
+    },
     "10227539": {
         "archived": false,
         "attribution_image_url": null,
