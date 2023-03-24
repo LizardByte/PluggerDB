@@ -4091,6 +4091,57 @@
         "stargazers_count": 3,
         "thumb_image_url": null
     },
+    "155525550": {
+        "archived": true,
+        "attribution_image_url": "https://raw.githubusercontent.com/joshuaavalon/AvalonYoutubeAgent.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/7152420?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-12-10T08:56:34Z",
+                "commit_sha": "69a9360da68d8c55782d7cd1fdf0ee6dd9df0f8e",
+                "download_url": "https://github.com/joshuaavalon/AvalonYoutubeAgent.bundle/archive/refs/heads/gh-pages.zip",
+                "name": "gh-pages"
+            },
+            {
+                "commit_date": "2019-10-26T17:02:43Z",
+                "commit_sha": "6f4f26f5503d6ffb32aec6e403ff96921d4d07ab",
+                "download_url": "https://github.com/joshuaavalon/AvalonYoutubeAgent.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Youtue metadata agent for Plex",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "joshuaavalon/AvalonYoutubeAgent",
+        "gh_pages_url": "https://joshuaavalon.github.io/AvalonYoutubeAgent.bundle/",
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "https://joshuaavalon.github.io/AvalonYoutubeAgent.bundle",
+        "html_url": "https://github.com/joshuaavalon/AvalonYoutubeAgent.bundle",
+        "license": "Apache License 2.0",
+        "license_url": "https://api.github.com/licenses/apache-2.0",
+        "name": "AvalonYoutubeAgent",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 3,
+        "thumb_image_url": "https://raw.githubusercontent.com/joshuaavalon/AvalonYoutubeAgent.bundle/master/Contents/Resources/icon-default.png"
+    },
     "15608575": {
         "archived": false,
         "attribution_image_url": null,
