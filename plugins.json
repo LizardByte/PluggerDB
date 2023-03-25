@@ -22529,6 +22529,51 @@
         "stargazers_count": 2,
         "thumb_image_url": "https://raw.githubusercontent.com/HooliganHarls/Fox.bundle/master/Contents/Resources/icon-default.png"
     },
+    "937585": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/401134?v=4",
+        "branches": [
+            {
+                "commit_date": "2011-04-01T16:25:45Z",
+                "commit_sha": "98b3dabb4a7f1e05c785a548ff3d82ec922c6184",
+                "download_url": "https://github.com/HooliganHarls/TheWB.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex app for theWB.com",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "HooliganHarls/TheWB",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/HooliganHarls/TheWB.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "TheWB",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/HooliganHarls/TheWB.bundle/master/Contents/Resources/icon-default.jpg"
+    },
     "937598": {
         "archived": false,
         "attribution_image_url": null,
