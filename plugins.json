@@ -15782,6 +15782,67 @@
         "stargazers_count": 15,
         "thumb_image_url": null
     },
+    "46706942": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/678207?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-11-28T01:49:40Z",
+                "commit_sha": "488a8ab5d35ee47590ce4fd19a8d1dc3719fca07",
+                "download_url": "https://github.com/coryo/RedditImages.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Photos",
+            "Services"
+        ],
+        "default_branch": "master",
+        "description": "a Plex Media Server channel for images/gif content from reddit.com",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "coryo/RedditImages",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/coryo/RedditImages.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "RedditImages",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/coryo/RedditImages.bundle/zipball/v1.0.1",
+                "name": "included auto updater",
+                "prerelease": false,
+                "release_date": "2015-11-28T01:51:03Z",
+                "tag_name": "v1.0.1"
+            },
+            {
+                "bundle_url": "https://api.github.com/repos/coryo/RedditImages.bundle/zipball/v1.0",
+                "name": "initial release version",
+                "prerelease": false,
+                "release_date": "2015-11-27T21:51:32Z",
+                "tag_name": "v1.0"
+            }
+        ],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 4,
+        "thumb_image_url": "https://raw.githubusercontent.com/coryo/RedditImages.bundle/master/Contents/Resources/icon-default.png"
+    },
     "46782439": {
         "archived": false,
         "attribution_image_url": null,
