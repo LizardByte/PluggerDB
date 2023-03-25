@@ -4922,6 +4922,60 @@
         "stargazers_count": 2,
         "thumb_image_url": "https://raw.githubusercontent.com/plex-unofficial/Channels.bundle/master/Contents/Resources/icon-default.png"
     },
+    "163337849": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/jacksonwilliams/Moviemania.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/2666651?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-12-27T22:12:38Z",
+                "commit_sha": "ebdfcd986a2f44d89e4f19dfa2bf57559f09716f",
+                "download_url": "https://github.com/jacksonwilliams/Moviemania.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "Plex Agent add-on for fetching Movie and TV posters from moviemania.io",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "jacksonwilliams/Moviemania",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/jacksonwilliams/Moviemania.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Moviemania",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/jacksonwilliams/Moviemania.bundle/zipball/v0.2",
+                "name": "Moviemania.bundle",
+                "prerelease": false,
+                "release_date": "2018-12-27T22:05:23Z",
+                "tag_name": "v0.2"
+            }
+        ],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 4,
+        "thumb_image_url": "https://raw.githubusercontent.com/jacksonwilliams/Moviemania.bundle/master/Contents/Resources/icon-default.png"
+    },
     "1637669": {
         "archived": false,
         "attribution_image_url": null,
