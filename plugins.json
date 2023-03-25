@@ -3890,6 +3890,61 @@
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/fisticuffs66/Stripchat.bundle/master/Contents/Resources/icon-default.png"
     },
+    "149801414": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/43305385?v=4",
+        "branches": [
+            {
+                "commit_date": "2018-09-21T18:21:11Z",
+                "commit_sha": "7908f555f264060fa3c73eea6abdbd40cc087979",
+                "download_url": "https://github.com/fisticuffs66/BongaCams.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Adult",
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Unofficial Plex Plugin for BongaCams.",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "fisticuffs66/BongaCams",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/fisticuffs66/BongaCams.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "BongaCams",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [
+            {
+                "bundle_url": "https://api.github.com/repos/fisticuffs66/BongaCams.bundle/zipball/v0.1",
+                "name": "Initial release",
+                "prerelease": false,
+                "release_date": "2018-09-21T18:23:14Z",
+                "tag_name": "v0.1"
+            }
+        ],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/fisticuffs66/BongaCams.bundle/master/Contents/Resources/icon-default.png"
+    },
     "149855765": {
         "archived": false,
         "attribution_image_url": null,
