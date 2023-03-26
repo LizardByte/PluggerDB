@@ -15543,6 +15543,52 @@
         "stargazers_count": 0,
         "thumb_image_url": null
     },
+    "45281016": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3598912?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-11-08T21:43:53Z",
+                "commit_sha": "48a63f0658edcfe6052bf4e2868b3d01fdf7138c",
+                "download_url": "https://github.com/sebast331/VTele.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "VTELE plugin for Plex (http://vtele.ca)",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "sebast331/VTele",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/sebast331/VTele.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "VTele",
+        "open_issues_count": 7,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/sebast331/VTele.bundle/master/Contents/Resources/icon-default.png"
+    },
     "45328599": {
         "archived": false,
         "attribution_image_url": null,
