@@ -11221,6 +11221,57 @@
         "stargazers_count": 2,
         "thumb_image_url": "https://raw.githubusercontent.com/lcharlick/LocalAlbumExtended.bundle/master/Contents/Resources/icon-default.png"
     },
+    "30094890": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/10687428?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-10-09T19:38:18Z",
+                "commit_sha": "c3cfedbeb832fb93c59394dc9f5cca8692a0954c",
+                "download_url": "https://github.com/PlexHaxx/DevTools.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2014-10-11T10:47:33Z",
+                "commit_sha": "5798e6d26b280fddda39d0676a3e9a07d60ce2b1",
+                "download_url": "https://github.com/PlexHaxx/DevTools.bundle/archive/refs/heads/tommy-work.zip",
+                "name": "tommy-work"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "Bundle to assist 3.Party Plex solutions",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "PlexHaxx/DevTools",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/PlexHaxx/DevTools.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "DevTools",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": null
+    },
     "3077018": {
         "archived": false,
         "attribution_image_url": null,
