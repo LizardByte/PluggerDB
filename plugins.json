@@ -9365,6 +9365,57 @@
         "stargazers_count": 118,
         "thumb_image_url": null
     },
+    "25490193": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/716261?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-05-23T19:59:05Z",
+                "commit_sha": "6addd967ccbeaf2c45af368cb50ca6050c40955d",
+                "download_url": "https://github.com/mastacheata/tvheadend-xz.bundle/archive/refs/heads/dev.zip",
+                "name": "dev"
+            },
+            {
+                "commit_date": "2017-05-23T20:00:14Z",
+                "commit_sha": "1d262987f3f557096fb5993faaf12a9632feaccf",
+                "download_url": "https://github.com/mastacheata/tvheadend-xz.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Channel plugin for TVHeadend",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "mastacheata/tvheadend-xz",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/mastacheata/tvheadend-xz.bundle",
+        "license": "GNU Lesser General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/lgpl-3.0",
+        "name": "tvheadend-xz",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": null
+    },
     "25590450": {
         "archived": false,
         "attribution_image_url": null,
