@@ -4613,6 +4613,58 @@
         "stargazers_count": 6,
         "thumb_image_url": "https://raw.githubusercontent.com/jeroenj/Bierdopje.bundle/master/Contents/Resources/icon-default.png"
     },
+    "156754334": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/10720325?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-06-26T20:15:09Z",
+                "commit_sha": "65ce31c54432446b052c7d87b733913ec9295a71",
+                "download_url": "https://github.com/magnuslsjoberg/The-Filipino-Channel.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2018-11-10T20:55:40Z",
+                "commit_sha": "befd23e49f723e32bf9e5cb15b400b45e786489d",
+                "download_url": "https://github.com/magnuslsjoberg/The-Filipino-Channel.bundle/archive/refs/heads/sso_login.zip",
+                "name": "sso_login"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "A Plex plugin for TFC.tv",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "magnuslsjoberg/The-Filipino-Channel",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/magnuslsjoberg/The-Filipino-Channel.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "The-Filipino-Channel",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": null
+    },
     "15712799": {
         "archived": false,
         "attribution_image_url": null,
