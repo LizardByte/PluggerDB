@@ -5505,6 +5505,53 @@
         "stargazers_count": 143,
         "thumb_image_url": "https://raw.githubusercontent.com/sharkone/BitTorrent.bundle/master/Contents/Resources/icon-default.png"
     },
+    "167821036": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/26413668?v=4",
+        "branches": [
+            {
+                "commit_date": "2021-02-20T14:56:39Z",
+                "commit_sha": "c1c08a9f2c15429c43e29aafce8e9cf5ceb5d497",
+                "download_url": "https://github.com/Nearata/JikanPlex.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Anime",
+            "Metadata Agent",
+            "Movies",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "JikanPlex is a metadata agent for Plex",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "Nearata/JikanPlex",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/Nearata/JikanPlex.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "JikanPlex",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": null
+    },
     "168845727": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/ajtatum/AvalonRestAgent.bundle/master/Contents/Resources/attribution.png",
