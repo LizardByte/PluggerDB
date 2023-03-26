@@ -8381,6 +8381,51 @@
         "stargazers_count": 98,
         "thumb_image_url": null
     },
+    "23308910": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/435817?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-09-01T07:07:57Z",
+                "commit_sha": "19655a4cdb04201043806f2814a4bd50d79c1ac1",
+                "download_url": "https://github.com/derolf/Plex.ArgusTV.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "ArgusTV recordings as channels",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "derolf/Plex.ArgusTV",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/derolf/Plex.ArgusTV.bundle",
+        "license": "GNU General Public License v2.0",
+        "license_url": "https://api.github.com/licenses/gpl-2.0",
+        "name": "Plex.ArgusTV",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/derolf/Plex.ArgusTV.bundle/master/Contents/Resources/icon-default.png"
+    },
     "23523590": {
         "archived": true,
         "attribution_image_url": null,
