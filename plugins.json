@@ -23083,5 +23083,50 @@
         },
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/hadason/Subres.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "977091": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/13887?v=4",
+        "branches": [
+            {
+                "commit_date": "2012-04-26T02:49:03Z",
+                "commit_sha": "1d7c636d5598de5222d57cf6a144e1ea817e9a22",
+                "download_url": "https://github.com/jonklo/VGTV.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "A Plex plugin for vgtv.no",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "jonklo/VGTV",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/jonklo/VGTV.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "VGTV",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/jonklo/VGTV.bundle/master/Contents/Resources/icon-default.png"
     }
 }
