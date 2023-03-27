@@ -4613,6 +4613,58 @@
         "stargazers_count": 6,
         "thumb_image_url": "https://raw.githubusercontent.com/jeroenj/Bierdopje.bundle/master/Contents/Resources/icon-default.png"
     },
+    "156754334": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/10720325?v=4",
+        "branches": [
+            {
+                "commit_date": "2019-06-26T20:15:09Z",
+                "commit_sha": "65ce31c54432446b052c7d87b733913ec9295a71",
+                "download_url": "https://github.com/magnuslsjoberg/The-Filipino-Channel.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2018-11-10T20:55:40Z",
+                "commit_sha": "befd23e49f723e32bf9e5cb15b400b45e786489d",
+                "download_url": "https://github.com/magnuslsjoberg/The-Filipino-Channel.bundle/archive/refs/heads/sso_login.zip",
+                "name": "sso_login"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "A Plex plugin for TFC.tv",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "magnuslsjoberg/The-Filipino-Channel",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/magnuslsjoberg/The-Filipino-Channel.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "The-Filipino-Channel",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": null
+    },
     "15712799": {
         "archived": false,
         "attribution_image_url": null,
@@ -5504,6 +5556,53 @@
         },
         "stargazers_count": 143,
         "thumb_image_url": "https://raw.githubusercontent.com/sharkone/BitTorrent.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "167821036": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/26413668?v=4",
+        "branches": [
+            {
+                "commit_date": "2021-02-20T14:56:39Z",
+                "commit_sha": "c1c08a9f2c15429c43e29aafce8e9cf5ceb5d497",
+                "download_url": "https://github.com/Nearata/JikanPlex.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Anime",
+            "Metadata Agent",
+            "Movies",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "JikanPlex is a metadata agent for Plex",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "Nearata/JikanPlex",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/Nearata/JikanPlex.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "JikanPlex",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": null
     },
     "168845727": {
         "archived": false,
@@ -8334,6 +8433,51 @@
         "stargazers_count": 98,
         "thumb_image_url": null
     },
+    "23308910": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/435817?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-09-01T07:07:57Z",
+                "commit_sha": "19655a4cdb04201043806f2814a4bd50d79c1ac1",
+                "download_url": "https://github.com/derolf/Plex.ArgusTV.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "ArgusTV recordings as channels",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "derolf/Plex.ArgusTV",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/derolf/Plex.ArgusTV.bundle",
+        "license": "GNU General Public License v2.0",
+        "license_url": "https://api.github.com/licenses/gpl-2.0",
+        "name": "Plex.ArgusTV",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/derolf/Plex.ArgusTV.bundle/master/Contents/Resources/icon-default.png"
+    },
     "23523590": {
         "archived": true,
         "attribution_image_url": null,
@@ -9363,6 +9507,57 @@
             "Series": []
         },
         "stargazers_count": 118,
+        "thumb_image_url": null
+    },
+    "25490193": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/716261?v=4",
+        "branches": [
+            {
+                "commit_date": "2017-05-23T19:59:05Z",
+                "commit_sha": "6addd967ccbeaf2c45af368cb50ca6050c40955d",
+                "download_url": "https://github.com/mastacheata/tvheadend-xz.bundle/archive/refs/heads/dev.zip",
+                "name": "dev"
+            },
+            {
+                "commit_date": "2017-05-23T20:00:14Z",
+                "commit_sha": "1d262987f3f557096fb5993faaf12a9632feaccf",
+                "download_url": "https://github.com/mastacheata/tvheadend-xz.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Channel plugin for TVHeadend",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "mastacheata/tvheadend-xz",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/mastacheata/tvheadend-xz.bundle",
+        "license": "GNU Lesser General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/lgpl-3.0",
+        "name": "tvheadend-xz",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
         "thumb_image_url": null
     },
     "25590450": {
@@ -11033,6 +11228,102 @@
         "stargazers_count": 23,
         "thumb_image_url": "https://raw.githubusercontent.com/tomfin46/IFDB.bundle/master/Contents/Resources/icon-default.png"
     },
+    "300606585": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/783664?v=4",
+        "branches": [
+            {
+                "commit_date": "2020-10-03T06:15:20Z",
+                "commit_sha": "f7dedebab295d526a5dcbf24f2da3651d157f683",
+                "download_url": "https://github.com/lcharlick/LocalAlbumExtended.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Metadata Agent",
+            "Music"
+        ],
+        "default_branch": "master",
+        "description": "Extended Plex local album metadata agent",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "lcharlick/LocalAlbumExtended",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/lcharlick/LocalAlbumExtended.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "LocalAlbumExtended",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/lcharlick/LocalAlbumExtended.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "30094890": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/10687428?v=4",
+        "branches": [
+            {
+                "commit_date": "2014-10-09T19:38:18Z",
+                "commit_sha": "c3cfedbeb832fb93c59394dc9f5cca8692a0954c",
+                "download_url": "https://github.com/PlexHaxx/DevTools.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            },
+            {
+                "commit_date": "2014-10-11T10:47:33Z",
+                "commit_sha": "5798e6d26b280fddda39d0676a3e9a07d60ce2b1",
+                "download_url": "https://github.com/PlexHaxx/DevTools.bundle/archive/refs/heads/tommy-work.zip",
+                "name": "tommy-work"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "Bundle to assist 3.Party Plex solutions",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "PlexHaxx/DevTools",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/PlexHaxx/DevTools.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "DevTools",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": null
+    },
     "3077018": {
         "archived": false,
         "attribution_image_url": null,
@@ -12603,6 +12894,51 @@
         "stargazers_count": 42,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/PLEX-Douban.bundle/main/Contents/Resources/icon-default.png"
     },
+    "3518520": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1459227?v=4",
+        "branches": [
+            {
+                "commit_date": "2012-02-22T21:35:38Z",
+                "commit_sha": "5134ade7fcc2657043c4bb4a36279db65448626e",
+                "download_url": "https://github.com/s-draper/SickBeard.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "SickBeard plugin for Plex Media Server",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "s-draper/SickBeard",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/s-draper/SickBeard.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "SickBeard",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/s-draper/SickBeard.bundle/master/Contents/Resources/icon-default.png"
+    },
     "35187257": {
         "archived": false,
         "attribution_image_url": null,
@@ -12690,7 +13026,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 81,
+        "stargazers_count": 82,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/WangYiYun.bundle/main/Contents/Resources/icon-default.png"
     },
     "360014764": {
@@ -13865,7 +14201,7 @@
         "default_branch": "master",
         "description": "A plex agent for Japanese porn videos. It collects data from JavLibrary, AVEntertainments and some studio's official sites.",
         "disabled": false,
-        "forks_count": 4,
+        "forks_count": 5,
         "full_name": "Xavier-Lam/JAV",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -15491,6 +15827,52 @@
         },
         "stargazers_count": 0,
         "thumb_image_url": null
+    },
+    "45281016": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3598912?v=4",
+        "branches": [
+            {
+                "commit_date": "2015-11-08T21:43:53Z",
+                "commit_sha": "48a63f0658edcfe6052bf4e2868b3d01fdf7138c",
+                "download_url": "https://github.com/sebast331/VTele.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "VTELE plugin for Plex (http://vtele.ca)",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "sebast331/VTele",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/sebast331/VTele.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "VTele",
+        "open_issues_count": 7,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/sebast331/VTele.bundle/master/Contents/Resources/icon-default.png"
     },
     "45328599": {
         "archived": false,
@@ -17131,6 +17513,97 @@
         },
         "stargazers_count": 128,
         "thumb_image_url": "https://raw.githubusercontent.com/coryo/ComicReader.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "52506807": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1358021?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-02-25T08:20:52Z",
+                "commit_sha": "5f3e224ab07ddd56f53f8fb8ae4f56d944999b93",
+                "download_url": "https://github.com/solvek/streamer.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plays any online stream in plex",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "solvek/streamer",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/solvek/streamer.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "streamer",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/solvek/streamer.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "5263312": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/2079327?v=4",
+        "branches": [
+            {
+                "commit_date": "2016-05-02T02:04:00Z",
+                "commit_sha": "d2927f87c822aa75c759b503b8dd50ac4c06b550",
+                "download_url": "https://github.com/henriksp/SRPlay.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex plug-in for SR (Swedish Radio) live radio and pod archive",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "henriksp/SRPlay",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/henriksp/SRPlay.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "SRPlay",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 3,
+        "thumb_image_url": "https://raw.githubusercontent.com/henriksp/SRPlay.bundle/master/Contents/Resources/icon-default.png"
     },
     "532707906": {
         "archived": false,
@@ -22846,6 +23319,51 @@
         "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/samuellinde/NHL.bundle/master/Contents/Resources/icon-default.png"
     },
+    "9516942": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1619972?v=4",
+        "branches": [
+            {
+                "commit_date": "2013-04-24T05:09:37Z",
+                "commit_sha": "9f7fa16dce6b20abe270c93a3962d9717b928252",
+                "download_url": "https://github.com/hitolaus/ControlHue.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "Control Philips Hue from Plex",
+        "disabled": false,
+        "forks_count": 1,
+        "full_name": "hitolaus/ControlHue",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/hitolaus/ControlHue.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "ControlHue",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/hitolaus/ControlHue.bundle/master/Contents/Resources/icon-default.png"
+    },
     "95281536": {
         "archived": false,
         "attribution_image_url": null,
@@ -22987,5 +23505,50 @@
         },
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/hadason/Subres.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "977091": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/13887?v=4",
+        "branches": [
+            {
+                "commit_date": "2012-04-26T02:49:03Z",
+                "commit_sha": "1d7c636d5598de5222d57cf6a144e1ea817e9a22",
+                "download_url": "https://github.com/jonklo/VGTV.bundle/archive/refs/heads/master.zip",
+                "name": "master"
+            }
+        ],
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "A Plex plugin for vgtv.no",
+        "disabled": false,
+        "forks_count": 0,
+        "full_name": "jonklo/VGTV",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/jonklo/VGTV.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "VGTV",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "releases": [],
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/jonklo/VGTV.bundle/master/Contents/Resources/icon-default.png"
     }
 }
