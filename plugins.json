@@ -13026,7 +13026,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 81,
+        "stargazers_count": 82,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/WangYiYun.bundle/main/Contents/Resources/icon-default.png"
     },
     "360014764": {
@@ -14201,7 +14201,7 @@
         "default_branch": "master",
         "description": "A plex agent for Japanese porn videos. It collects data from JavLibrary, AVEntertainments and some studio's official sites.",
         "disabled": false,
-        "forks_count": 4,
+        "forks_count": 5,
         "full_name": "Xavier-Lam/JAV",
         "gh_pages_url": null,
         "has_discussions": false,
