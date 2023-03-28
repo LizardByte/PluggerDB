@@ -2794,7 +2794,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 888,
+        "stargazers_count": 889,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -3278,7 +3278,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "Lambda",
-        "open_issues_count": 10,
+        "open_issues_count": 11,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -5554,7 +5554,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 143,
+        "stargazers_count": 142,
         "thumb_image_url": "https://raw.githubusercontent.com/sharkone/BitTorrent.bundle/master/Contents/Resources/icon-default.png"
     },
     "167821036": {
@@ -11594,7 +11594,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1399,
+        "stargazers_count": 1400,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -13195,7 +13195,7 @@
         "license": null,
         "license_url": null,
         "name": "XBMCnfoTVImporter",
-        "open_issues_count": 24,
+        "open_issues_count": 25,
         "open_pull_requests_count": 5,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -16206,7 +16206,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 26,
+        "stargazers_count": 25,
         "thumb_image_url": "https://raw.githubusercontent.com/HuggableSquare/DVDOrderAgent.bundle/master/Contents/Resources/icon-default.png"
     },
     "463928137": {
@@ -18430,10 +18430,10 @@
                 "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-4.5.14"
             },
             {
-                "commit_date": "2023-02-27T10:15:38Z",
-                "commit_sha": "6c1e846b3ad5361187e1ff693c7c82d43aaef16c",
-                "download_url": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fortawesome/fontawesome-free-6.3.0.zip",
-                "name": "dependabot/npm_and_yarn/nightly/fortawesome/fontawesome-free-6.3.0"
+                "commit_date": "2023-03-28T10:12:37Z",
+                "commit_sha": "627bb4a80569630c394a1bb10ab24aef3e756a1b",
+                "download_url": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fortawesome/fontawesome-free-6.4.0.zip",
+                "name": "dependabot/npm_and_yarn/nightly/fortawesome/fontawesome-free-6.4.0"
             },
             {
                 "commit_date": "2023-03-09T10:08:45Z",
@@ -22162,7 +22162,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 9,
+        "stargazers_count": 8,
         "thumb_image_url": "https://raw.githubusercontent.com/sander1/Fanart-TV-Agent.bundle/master/Contents/Resources/icon-default.png"
     },
     "82670581": {
