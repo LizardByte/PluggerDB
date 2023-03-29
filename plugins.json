@@ -455,7 +455,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 24,
+        "stargazers_count": 25,
         "thumb_image_url": "https://raw.githubusercontent.com/defract/Colima.bundle/master/Contents/Resources/icon-default.png"
     },
     "1086937": {
@@ -1636,7 +1636,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": "",
         "html_url": "https://github.com/ZeroQI/Hama.bundle",
         "license": "GNU General Public License v3.0",
@@ -1668,7 +1668,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1071,
+        "stargazers_count": 1075,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -2213,7 +2213,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": null,
         "html_url": "https://github.com/ukdtom/Plex-FindUnmatched.bundle",
         "license": null,
@@ -2368,7 +2368,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 318,
+        "stargazers_count": 319,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -2650,7 +2650,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": "https://forums.plex.tv/discussion/83083",
         "html_url": "https://github.com/Cigaras/IPTV.bundle",
         "license": "GNU General Public License v3.0",
@@ -2927,13 +2927,13 @@
         "default_branch": "master",
         "description": null,
         "disabled": false,
-        "forks_count": 40,
+        "forks_count": 39,
         "full_name": "amirotin/Kinopoisk",
         "gh_pages_url": null,
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": null,
         "html_url": "https://github.com/amirotin/Kinopoisk.bundle",
         "license": null,
@@ -3272,7 +3272,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": "",
         "html_url": "https://github.com/ZeroQI/Lambda.bundle",
         "license": "GNU General Public License v3.0",
@@ -3289,7 +3289,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 120,
+        "stargazers_count": 121,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Lambda.bundle/master/Contents/Resources/icon-default.png"
     },
     "14254798": {
@@ -4261,7 +4261,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": "",
         "html_url": "https://github.com/d8ahazard/FlexTV.bundle",
         "license": null,
@@ -4813,7 +4813,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": null,
         "html_url": "https://github.com/ukdtom/SRT2UTF-8.bundle",
         "license": null,
@@ -5164,7 +5164,7 @@
         "thumb_image_url": "https://raw.githubusercontent.com/plex-unofficial/VideoRip.bundle/master/Contents/Resources/icon-default.png"
     },
     "16447211": {
-        "archived": false,
+        "archived": true,
         "attribution_image_url": null,
         "avatar_image_url": "https://avatars.githubusercontent.com/u/680871?v=4",
         "branches": [
@@ -6144,7 +6144,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": "",
         "html_url": "https://github.com/fuzeman/Spotify2.bundle",
         "license": null,
@@ -6397,7 +6397,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": false,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": null,
         "html_url": "https://github.com/ukdtom/plex2csv.bundle",
         "license": null,
@@ -6468,7 +6468,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 16,
+        "stargazers_count": 17,
         "thumb_image_url": "https://raw.githubusercontent.com/alxpnt2/PlexJav18.bundle/master/Jav18.bundle/Contents/Resources/icon-default.png"
     },
     "18257694": {
@@ -7204,7 +7204,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": "",
         "html_url": "https://github.com/ZeroQI/Absolute-Series-Scanner",
         "license": null,
@@ -7229,7 +7229,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 884,
+        "stargazers_count": 886,
         "thumb_image_url": null
     },
     "21045557": {
@@ -8073,7 +8073,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": "",
         "html_url": "https://github.com/infernix/HdbitsSubtitles.bundle",
         "license": null,
@@ -8430,7 +8430,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 98,
+        "stargazers_count": 99,
         "thumb_image_url": null
     },
     "23308910": {
@@ -10489,7 +10489,7 @@
         "has_discussions": true,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": null,
         "html_url": "https://github.com/Fribb/MyAnimeList.bundle",
         "license": null,
@@ -10839,7 +10839,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": "",
         "html_url": "https://github.com/zynine-/HDHRViewer.bundle",
         "license": "MIT License",
@@ -13144,7 +13144,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": null,
         "html_url": "https://github.com/gboudreau/XBMCnfoMoviesImporter.bundle",
         "license": null,
@@ -13161,7 +13161,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 582,
+        "stargazers_count": 583,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -13189,7 +13189,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": null,
         "html_url": "https://github.com/gboudreau/XBMCnfoTVImporter.bundle",
         "license": null,
@@ -13206,7 +13206,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 294,
+        "stargazers_count": 295,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -14224,7 +14224,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 36,
+        "stargazers_count": 37,
         "thumb_image_url": null
     },
     "395039310": {
@@ -14422,7 +14422,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 28,
+        "stargazers_count": 29,
         "thumb_image_url": null
     },
     "40798557": {
@@ -14670,7 +14670,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 293,
+        "stargazers_count": 294,
         "thumb_image_url": null
     },
     "41394428": {
@@ -14857,7 +14857,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": null,
         "html_url": "https://github.com/mmmmmtasty/SportScanner",
         "license": null,
@@ -14893,7 +14893,7 @@
         "thumb_image_url": null
     },
     "41901114": {
-        "archived": false,
+        "archived": true,
         "attribution_image_url": null,
         "avatar_image_url": "https://avatars.githubusercontent.com/u/680871?v=4",
         "branches": [
@@ -15593,7 +15593,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": null,
         "html_url": "https://github.com/vanstinator/PlexWink.bundle",
         "license": "GNU General Public License v2.0",
@@ -15995,7 +15995,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": null,
         "html_url": "https://github.com/Nosinden/Chaturbate.bundle",
         "license": null,
@@ -16189,7 +16189,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": null,
         "html_url": "https://github.com/HuggableSquare/DVDOrderAgent.bundle",
         "license": null,
@@ -16251,7 +16251,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 15,
+        "stargazers_count": 16,
         "thumb_image_url": null
     },
     "46706942": {
@@ -16965,7 +16965,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": "",
         "html_url": "https://github.com/ngovil21/RequestChannel.bundle",
         "license": null,
@@ -18282,7 +18282,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": "",
         "html_url": "https://github.com/Shirk/EyeContact",
         "license": "GNU Lesser General Public License v2.1",
@@ -18379,7 +18379,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": "",
         "html_url": "https://github.com/Twoure/UnSupportedServices.bundle",
         "license": null,
@@ -18671,7 +18671,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": null,
         "html_url": "https://github.com/Twoure/UnSupportedServicesTools.bundle",
         "license": null,
@@ -19582,7 +19582,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": null,
         "html_url": "https://github.com/ReallyFuzzy/IceFilms.bundle",
         "license": null,
@@ -19764,7 +19764,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": null,
         "html_url": "https://github.com/quavarus/Spotify.bundle",
         "license": null,
@@ -20410,7 +20410,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": null,
         "html_url": "https://github.com/mmccurdy/MusicBrainz.bundle",
         "license": null,
@@ -20461,7 +20461,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": "https://forums.plex.tv/t/rel-epg-dk/169919",
         "html_url": "https://github.com/ukdtom/epg-dk.bundle",
         "license": "The Unlicense",
@@ -21699,7 +21699,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": "",
         "html_url": "https://github.com/coder-alpha/FMoviesPlus.bundle",
         "license": null,
@@ -23164,7 +23164,7 @@
         "has_discussions": false,
         "has_downloads": true,
         "has_issues": true,
-        "has_wiki": true,
+        "has_wiki": false,
         "homepage": "",
         "html_url": "https://github.com/joshuaavalon/AvalonXmlAgent.bundle",
         "license": "MIT License",
