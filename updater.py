@@ -182,45 +182,54 @@ def process_github_url(owner: str, repo: str, submission: Optional[dict] = None)
         else:
             gh_pages_url = None
 
+        # setup downloads, i.e. releases and branches data
+        downloads = []
+
         # get releases data
         releases_data = requests_loop(url=f'{api_repo_url}/releases', headers=github_headers, github_wait=True).json()
-        releases = []
         for release in releases_data:
             if release['draft']:
                 continue
-            bundle_url = None
+            download_assets = dict()
             if release['assets']:
                 for asset in release['assets']:
                     if asset['name'].lower().endswith('.zip'):
-                        bundle_url = asset['browser_download_url']
-                    if asset['name'].lower().endswith('bundle.zip'):
-                        bundle_url = asset['browser_download_url']
-                        break  # as good as it gets
-            if not bundle_url:  # did not find a zip asset so use the zipball url
-                bundle_url = release['zipball_url']
-            releases.append(dict(
-                tag_name=release['tag_name'],
+                        download_assets[asset['name']] = asset['browser_download_url']
+
+            # add the zipball url at the end
+            download_assets['zipball'] = release['zipball_url']
+            downloads.append(dict(
+                type='release',
+                date=release['published_at'],
                 name=release['name'],
+                release_tag=release['tag_name'],
+                download_assets=download_assets,
                 prerelease=release['prerelease'],
-                release_date=release['published_at'],
-                bundle_url=bundle_url,
             ))
 
         # get branch data
         branches_data = requests_loop(url=f'{api_repo_url}/branches', headers=github_headers, github_wait=True).json()
-        branches = []
         for branch in branches_data:
             # get commit date
             commit_data = requests_loop(url=f'{api_repo_url}/commits/{branch["commit"]["sha"]}',
                                         headers=github_headers, github_wait=True).json()
-            commit_date = commit_data['commit']['author']['date']
+            date = commit_data['commit']['author']['date']
 
-            branches.append(dict(
+            download_assets = dict(
+                zipball=f'https://github.com/{owner}/{repo}/archive/refs/heads/{branch["name"]}.zip'
+            )
+
+            downloads.append(dict(
+                type='branch',
+                date=date,
                 name=branch['name'],
                 commit_sha=branch['commit']['sha'],
-                commit_date=commit_date,
-                download_url=f'https://github.com/{owner}/{repo}/archive/refs/heads/{branch["name"]}.zip',
+                download_assets=download_assets,
+                default_branch=True if branch['name'] == github_data['default_branch'] else False,
             ))
+
+        # sort downloads by date
+        downloads = sorted(downloads, key=lambda sort_key: sort_key['date'], reverse=True)
 
         # find icon-default.png in repo and use that as the thumb icon
         image_extensions = ['png', 'jpg', 'jpeg']
@@ -265,8 +274,14 @@ def process_github_url(owner: str, repo: str, submission: Optional[dict] = None)
             pass
         else:
             # move these keys to non GitHub data dict as they don't exist in the GitHub API
+            obsolete_keys = [
+                'branches',
+                'releases',
+            ]
             try:
                 for k in og_data[str(github_data['id'])]:
+                    if k in obsolete_keys:
+                        continue
                     if k not in github_data:
                         non_github_data[k] = og_data[str(github_data['id'])][k]
             except KeyError as e:
@@ -311,10 +326,11 @@ def process_github_url(owner: str, repo: str, submission: Optional[dict] = None)
                                 url=f'{api_repo_url}/contents/{scanner}',
                                 headers=github_headers,
                                 max_tries=5,
-                                github_wait=True
+                                github_wait=True,
+                                allow_statuses=[requests.codes.ok, 404]  # process 404 later, reduce API usage
                             )
 
-                            if not file_check_response:
+                            if not file_check_response or file_check_response.status_code == 404:
                                 exception_writer(error=Exception(f'Invalid scanner path: {scanner}'),
                                                  name='scanner_mapping')
                                 break
@@ -384,8 +400,8 @@ def process_github_url(owner: str, repo: str, submission: Optional[dict] = None)
             # then add data where keys don't match, or value adjusted manually
             og_data[str(github_data['id'])]['attribution_image_url'] = attribution_image_url
             og_data[str(github_data['id'])]['avatar_image_url'] = github_data['owner']['avatar_url']
-            og_data[str(github_data['id'])]['branches'] = branches
             og_data[str(github_data['id'])]['categories'] = categories
+            og_data[str(github_data['id'])]['downloads'] = downloads
             og_data[str(github_data['id'])]['gh_pages_url'] = gh_pages_url
             og_data[str(github_data['id'])]['license'] = None if not github_data['license'] else \
                 github_data['license']['name']
@@ -393,7 +409,6 @@ def process_github_url(owner: str, repo: str, submission: Optional[dict] = None)
                 github_data['license']['url']
             og_data[str(github_data['id'])]['open_issues_count'] = open_issues
             og_data[str(github_data['id'])]['open_pull_requests_count'] = open_pull_requests
-            og_data[str(github_data['id'])]['releases'] = releases
             og_data[str(github_data['id'])]['scanner_mapping'] = scanner_mapping
             og_data[str(github_data['id'])]['thumb_image_url'] = thumb_image_url
 
