@@ -1826,7 +1826,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1077,
+        "stargazers_count": 1078,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -3134,7 +3134,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 890,
+        "stargazers_count": 891,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -11044,7 +11044,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 119,
+        "stargazers_count": 120,
         "thumb_image_url": null
     },
     "25490193": {
@@ -12236,7 +12236,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 124,
+        "stargazers_count": 125,
         "thumb_image_url": "https://raw.githubusercontent.com/Fribb/MyAnimeList.bundle/master/Contents/Resources/icon-default.png"
     },
     "28607437": {
@@ -13525,7 +13525,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1400,
+        "stargazers_count": 1399,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -15206,7 +15206,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 82,
+        "stargazers_count": 83,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/WangYiYun.bundle/main/Contents/Resources/icon-default.png"
     },
     "360014764": {
@@ -21647,8 +21647,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "4edb06fa29d595c7a150f0cc410b2bff3538a2e0",
-                "date": "2023-03-29T14:35:53Z",
+                "commit_sha": "c063705cf4272bf8bfba7026fa23cf8bfaa7c718",
+                "date": "2023-03-31T18:51:02Z",
                 "default_branch": false,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/featurize.zip"
@@ -23577,7 +23577,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 187,
+        "stargazers_count": 188,
         "thumb_image_url": null
     },
     "70127189": {
