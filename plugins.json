@@ -1804,7 +1804,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 116,
+        "forks_count": 115,
         "full_name": "ZeroQI/Hama",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -3112,7 +3112,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 316,
+        "forks_count": 317,
         "full_name": "Cigaras/IPTV",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -3134,7 +3134,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 891,
+        "stargazers_count": 892,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -3539,7 +3539,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 38,
+        "stargazers_count": 39,
         "thumb_image_url": "https://raw.githubusercontent.com/adultplexdev/AdultDVDEmpire.bundle/master/Contents/Resources/icon-default.png"
     },
     "140122265": {
@@ -8939,7 +8939,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 147,
+        "forks_count": 146,
         "full_name": "bramwalet/Subliminal",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -10592,7 +10592,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 168,
+        "forks_count": 167,
         "full_name": "ukdtom/WebTools",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -12236,7 +12236,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 125,
+        "stargazers_count": 126,
         "thumb_image_url": "https://raw.githubusercontent.com/Fribb/MyAnimeList.bundle/master/Contents/Resources/icon-default.png"
     },
     "28607437": {
@@ -14990,7 +14990,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 60,
+        "forks_count": 59,
         "full_name": "kolsys/YouTubeTV",
         "gh_pages_url": "http://kolsys.ml/",
         "has_discussions": false,
@@ -21647,8 +21647,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "c063705cf4272bf8bfba7026fa23cf8bfaa7c718",
-                "date": "2023-03-31T18:51:02Z",
+                "commit_sha": "6bebae62dff24be5612f4be55ff0b0c6c98e1ddb",
+                "date": "2023-04-01T23:40:50Z",
                 "default_branch": false,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/featurize.zip"
@@ -23577,7 +23577,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 188,
+        "stargazers_count": 189,
         "thumb_image_url": null
     },
     "70127189": {
@@ -25635,7 +25635,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 31,
+        "forks_count": 30,
         "full_name": "ukdtom/ExportTools",
         "gh_pages_url": null,
         "has_discussions": false,
