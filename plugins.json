@@ -8242,7 +8242,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 886,
+        "stargazers_count": 885,
         "thumb_image_url": null
     },
     "21045557": {
@@ -10614,7 +10614,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1267,
+        "stargazers_count": 1268,
         "thumb_image_url": null
     },
     "24851830": {
@@ -12986,7 +12986,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 23,
+        "stargazers_count": 24,
         "thumb_image_url": "https://raw.githubusercontent.com/tomfin46/IFDB.bundle/master/Contents/Resources/icon-default.png"
     },
     "300606585": {
@@ -15350,7 +15350,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 582,
+        "stargazers_count": 583,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -15398,7 +15398,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 295,
+        "stargazers_count": 296,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -16654,7 +16654,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 37,
+        "stargazers_count": 38,
         "thumb_image_url": null
     },
     "395039310": {
@@ -21647,7 +21647,7 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "6bebae62dff24be5612f4be55ff0b0c6c98e1ddb",
+                "commit_sha": "467816d586767930dd2f9c22851e22c3c5b48ea6",
                 "date": "2023-04-01T23:40:50Z",
                 "default_branch": false,
                 "download_assets": {
@@ -26338,7 +26338,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 4,
+        "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTVLite.bundle/master/Contents/Resources/icon-default.png"
     },
     "83896680": {
