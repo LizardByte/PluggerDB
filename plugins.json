@@ -2603,7 +2603,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 319,
+        "stargazers_count": 320,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -14501,6 +14501,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "2c884e4a5dc8eb2cbb6f9a379a7b7095a398a6c3",
+                "date": "2023-04-03T16:13:18Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/ThePornDatabase/ThePornDB.bundle/archive/refs/heads/renovate/configure.zip"
+                },
+                "name": "renovate/configure",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "e88207d79c157f082e08a86170ddc14b2cbee308",
                 "date": "2023-02-19T18:05:47Z",
                 "default_branch": true,
@@ -14508,16 +14518,6 @@
                     "zipball": "https://github.com/ThePornDatabase/ThePornDB.bundle/archive/refs/heads/main.zip"
                 },
                 "name": "main",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "8b5c4c1ab104482bbf254070408304d2e8a27d57",
-                "date": "2022-08-19T04:59:43Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/ThePornDatabase/ThePornDB.bundle/archive/refs/heads/renovate/configure.zip"
-                },
-                "name": "renovate/configure",
                 "type": "branch"
             }
         ],
@@ -15350,7 +15350,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 583,
+        "stargazers_count": 585,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -15398,7 +15398,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 296,
+        "stargazers_count": 298,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -17196,7 +17196,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 296,
+        "stargazers_count": 297,
         "thumb_image_url": null
     },
     "41394428": {
@@ -21647,8 +21647,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "467816d586767930dd2f9c22851e22c3c5b48ea6",
-                "date": "2023-04-01T23:40:50Z",
+                "commit_sha": "bd37d3f22f3a6397713f30a3f6e6c031d7442dca",
+                "date": "2023-04-03T18:08:25Z",
                 "default_branch": false,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/featurize.zip"
