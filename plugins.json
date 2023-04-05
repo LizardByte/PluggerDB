@@ -2603,7 +2603,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 320,
+        "stargazers_count": 322,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -6641,7 +6641,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 39,
+        "stargazers_count": 40,
         "thumb_image_url": null
     },
     "17290702": {
@@ -7301,8 +7301,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "cfc24828aa4679a76424520b20c835ac92b5fc5f",
-                "date": "2023-01-27T22:50:18Z",
+                "commit_sha": "f3d62811f6b7a09f261244462d111e8f6c6386d5",
+                "date": "2023-04-04T15:56:00Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/alxpnt2/PlexJav18.bundle/archive/refs/heads/master.zip"
@@ -7333,7 +7333,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 17,
+        "stargazers_count": 18,
         "thumb_image_url": "https://raw.githubusercontent.com/alxpnt2/PlexJav18.bundle/master/Jav18.bundle/Contents/Resources/icon-default.png"
     },
     "18257694": {
@@ -8232,7 +8232,7 @@
         "license": null,
         "license_url": null,
         "name": "Absolute-Series-Scanner",
-        "open_issues_count": 6,
+        "open_issues_count": 7,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -9970,7 +9970,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 10,
+        "forks_count": 11,
         "full_name": "piplongrun/TrailerAddict",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -14121,7 +14121,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 2,
+        "forks_count": 3,
         "full_name": "w-k-io/JAVLibrary",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -14143,7 +14143,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 12,
+        "stargazers_count": 11,
         "thumb_image_url": null
     },
     "3287098": {
@@ -15350,7 +15350,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 585,
+        "stargazers_count": 584,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -16632,7 +16632,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 5,
+        "forks_count": 6,
         "full_name": "Xavier-Lam/JAV",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -16870,7 +16870,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 29,
+        "stargazers_count": 28,
         "thumb_image_url": null
     },
     "40798557": {
@@ -21647,8 +21647,18 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "bd37d3f22f3a6397713f30a3f6e6c031d7442dca",
-                "date": "2023-04-03T18:08:25Z",
+                "commit_sha": "82315c283d1f98ae155047f5b384d307762ab05e",
+                "date": "2023-04-05T09:06:14Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/peter-evans/create-pull-request-5.zip"
+                },
+                "name": "dependabot/github_actions/nightly/peter-evans/create-pull-request-5",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "3092a7225cbc96f1e1e571d5c400227b43c13b84",
+                "date": "2023-04-04T21:26:53Z",
                 "default_branch": false,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/featurize.zip"
@@ -21750,7 +21760,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Plugger",
         "open_issues_count": 0,
-        "open_pull_requests_count": 7,
+        "open_pull_requests_count": 8,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
