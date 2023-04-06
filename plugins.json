@@ -13415,6 +13415,55 @@
         "stargazers_count": 2,
         "thumb_image_url": null
     },
+    "30229595": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/10687428?v=4",
+        "categories": [
+            "Channels",
+            "Music",
+            "Radio"
+        ],
+        "default_branch": "master",
+        "description": "The Plex Podcast is where developers and users of Plex discuss new features and exciting developments in the Plex community.",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "8e55f7d177f550b04c20f71f68c7e3e3bc68e332",
+                "date": "2014-03-25T18:36:35Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/PlexHaxx/PlexPodcast.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 1,
+        "full_name": "PlexHaxx/PlexPodcast",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/PlexHaxx/PlexPodcast.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "PlexPodcast",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/PlexHaxx/PlexPodcast.bundle/master/Contents/Resources/icon-default.png"
+    },
     "3077018": {
         "archived": false,
         "attribution_image_url": null,
