@@ -11922,6 +11922,55 @@
         "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/joshka/SoundCloud2.Bundle/master/Contents/Resources/icon-default.png"
     },
+    "271253013": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/aserighelli/PlexMovieBR.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/20170671?v=4",
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Services"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "4ac17e192961b3de1495f8e07dca31e374928717",
+                "date": "2020-06-10T11:07:26Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/aserighelli/PlexMovieBR.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "aserighelli/PlexMovieBR",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/aserighelli/PlexMovieBR.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "PlexMovieBR",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/aserighelli/PlexMovieBR.bundle/master/Contents/Resources/icon-default.png"
+    },
     "272465352": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/IIeTp/TheMovieDB.ID.bundle/master/Contents/Resources/attribution.png",
