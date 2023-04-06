@@ -27596,6 +27596,55 @@
         "stargazers_count": 100,
         "thumb_image_url": "https://raw.githubusercontent.com/taligentx/LiveTVH.bundle/master/Contents/Resources/icon-default.png"
     },
+    "91238051": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/28685654?v=4",
+        "categories": [
+            "Channels",
+            "Music",
+            "Radio"
+        ],
+        "default_branch": "master",
+        "description": "Plex Media Server bundle for LainChan Radio on Lainon.life",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "191e79feab28be6e7387d78fb778616702a22779",
+                "date": "2019-11-06T23:51:27Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/camelgod/LainRadio.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "camelgod/LainRadio",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "http://lainon.life",
+        "html_url": "https://github.com/camelgod/LainRadio.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "LainRadio",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/camelgod/LainRadio.bundle/master/Contents/Resources/icon-default.png"
+    },
     "9127799": {
         "archived": false,
         "attribution_image_url": null,
