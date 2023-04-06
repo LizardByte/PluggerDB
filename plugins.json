@@ -19762,6 +19762,127 @@
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/ichivers/FlickR.bundle/master/Contents/Resources/icon-default.png"
     },
+    "48839524": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/15528156?v=4",
+        "categories": [
+            "Adult",
+            "Channels",
+            "Photos",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Video/Photo Channel to watch/view content from http://www.cliphunter.com/ and http://www.pichunter.com/",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "c24436777c2ceb9c897b30990bb03a91fb28a4a5",
+                "date": "2016-05-17T23:06:42Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/Nosinden/ClipHunter.bundle/archive/refs/heads/dev.zip"
+                },
+                "name": "dev",
+                "type": "branch"
+            },
+            {
+                "date": "2016-05-17T22:53:57Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/Nosinden/ClipHunter.bundle/zipball/v1.0.5"
+                },
+                "name": "v1.0.5",
+                "prerelease": false,
+                "release_tag": "v1.0.5",
+                "type": "release"
+            },
+            {
+                "commit_sha": "37e81984ae39abbc71132330d65f8284b470a4ad",
+                "date": "2016-05-17T22:49:02Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/Nosinden/ClipHunter.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            },
+            {
+                "date": "2016-05-15T05:54:12Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/Nosinden/ClipHunter.bundle/zipball/v1.0.4"
+                },
+                "name": "v1.0.4",
+                "prerelease": false,
+                "release_tag": "v1.0.4",
+                "type": "release"
+            },
+            {
+                "date": "2016-01-18T21:03:09Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/Nosinden/ClipHunter.bundle/zipball/v1.0.3"
+                },
+                "name": "v1.0.3",
+                "prerelease": false,
+                "release_tag": "v1.0.3",
+                "type": "release"
+            },
+            {
+                "date": "2016-01-05T01:33:17Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/Nosinden/ClipHunter.bundle/zipball/v1.0.2"
+                },
+                "name": "v1.0.2",
+                "prerelease": false,
+                "release_tag": "v1.0.2",
+                "type": "release"
+            },
+            {
+                "date": "2015-12-31T07:47:49Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/Nosinden/ClipHunter.bundle/zipball/v1.0.1"
+                },
+                "name": "v1.0.1",
+                "prerelease": false,
+                "release_tag": "v1.0.1",
+                "type": "release"
+            },
+            {
+                "date": "2015-12-31T07:40:39Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/Nosinden/ClipHunter.bundle/zipball/v1.0.0"
+                },
+                "name": "v1.0.0",
+                "prerelease": false,
+                "release_tag": "v1.0.0",
+                "type": "release"
+            }
+        ],
+        "forks_count": 1,
+        "full_name": "Nosinden/ClipHunter",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/Nosinden/ClipHunter.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "ClipHunter",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 4,
+        "thumb_image_url": null
+    },
     "48995051": {
         "archived": false,
         "attribution_image_url": null,
