@@ -14710,6 +14710,54 @@
         "stargazers_count": 9,
         "thumb_image_url": "https://raw.githubusercontent.com/Jidly/channelpear.bundle/master/Contents/Resources/icon-default.png"
     },
+    "34686939": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/12139357?v=4",
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "DIY Network Plugin for the Plex Media Server ",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "e5ab89f609c6075605145c19ab0963a562dd9fca",
+                "date": "2015-04-27T19:26:12Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/MeatloafAgain/DIYNetwork.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 1,
+        "full_name": "MeatloafAgain/DIYNetwork",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/MeatloafAgain/DIYNetwork.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "DIYNetwork",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/MeatloafAgain/DIYNetwork.bundle/master/Contents/Resources/icon-default.png"
+    },
     "347760205": {
         "archived": false,
         "attribution_image_url": null,
