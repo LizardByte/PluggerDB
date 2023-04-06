@@ -21968,6 +21968,54 @@
         "stargazers_count": 20,
         "thumb_image_url": "https://raw.githubusercontent.com/maikthulhu/GoogleMusic.bundle/master/Contents/Resources/icon-default.png"
     },
+    "59388476": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/43002?v=4",
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Plugin for watching movies online from dayt.se",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "f74dfb3a54022b33fd675cac4121a1f5202a982b",
+                "date": "2017-04-02T03:55:54Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/shvets/Daytse.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "shvets/Daytse",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/shvets/Daytse.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "Daytse",
+        "open_issues_count": 4,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/shvets/Daytse.bundle/master/Contents/Resources/icon-default.png"
+    },
     "59873762": {
         "archived": false,
         "attribution_image_url": null,
