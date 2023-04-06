@@ -27694,6 +27694,54 @@
         "stargazers_count": 15,
         "thumb_image_url": "https://raw.githubusercontent.com/haohaolee/Douban-Movie-Agent.bundle/master/Contents/Resources/icon-default.png"
     },
+    "91471780": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/5453889?v=4",
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "1faed7587e8495de4592302f8751dc3115202914",
+                "date": "2017-06-18T22:29:43Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/gustinn/Sarpurinn.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "gustinn/Sarpurinn",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/gustinn/Sarpurinn.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "Sarpurinn",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/gustinn/Sarpurinn.bundle/master/Contents/Resources/icon-default.png"
+    },
     "918197": {
         "archived": false,
         "attribution_image_url": null,
