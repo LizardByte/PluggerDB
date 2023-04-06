@@ -2890,6 +2890,54 @@
         "stargazers_count": 6,
         "thumb_image_url": "https://raw.githubusercontent.com/dbl-a/Nickelodeon.bundle/master/Contents/Resources/icon-default.png"
     },
+    "1338416": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/13887?v=4",
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "A Plex plugin for NRK (Norwegian Broadcasting Corporation)",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "0fb0020db7ee17c344f694ac5987ca77cd9ad399",
+                "date": "2012-06-16T11:31:11Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/jonklo/NRK.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 1,
+        "full_name": "jonklo/NRK",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/jonklo/NRK.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "NRK",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/jonklo/NRK.bundle/master/Contents/Resources/icon-default.png"
+    },
     "13493904": {
         "archived": false,
         "attribution_image_url": null,
