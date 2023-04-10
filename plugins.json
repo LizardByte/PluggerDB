@@ -2652,7 +2652,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 323,
+        "stargazers_count": 322,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -7447,8 +7447,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "d7413fa63f76a8bc07d991cf6cb3b396091db734",
-                "date": "2023-04-09T06:09:31Z",
+                "commit_sha": "5623484f89b53aadde8379d0e5901c84f48969fc",
+                "date": "2023-04-09T20:16:01Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/alxpnt2/PlexJav18.bundle/archive/refs/heads/master.zip"
@@ -10360,7 +10360,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 44,
+        "stargazers_count": 45,
         "thumb_image_url": "https://raw.githubusercontent.com/piplongrun/TrailerAddict.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "23765019": {
@@ -15057,7 +15057,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 80,
+        "stargazers_count": 81,
         "thumb_image_url": null
     },
     "3485091": {
@@ -15720,7 +15720,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 83,
+        "stargazers_count": 84,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/WangYiYun.bundle/main/Contents/Resources/icon-default.png"
     },
     "360014764": {
@@ -24248,7 +24248,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 5,
+        "forks_count": 4,
         "full_name": "Dingmatt/AMSA",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -27237,7 +27237,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 570,
+        "stargazers_count": 571,
         "thumb_image_url": null
     },
     "8525630": {
