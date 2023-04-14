@@ -8366,7 +8366,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 154,
+        "forks_count": 153,
         "full_name": "ZeroQI/Absolute-Series-Scanner",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -13403,7 +13403,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 24,
+        "stargazers_count": 25,
         "thumb_image_url": "https://raw.githubusercontent.com/tomfin46/IFDB.bundle/master/Contents/Resources/icon-default.png"
     },
     "300606585": {
@@ -15015,6 +15015,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "bcc4794602797a3b436724d6a00bdc676d464cd7",
+                "date": "2023-04-13T22:58:49Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/ThePornDatabase/ThePornDB.bundle/archive/refs/heads/main.zip"
+                },
+                "name": "main",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "2c884e4a5dc8eb2cbb6f9a379a7b7095a398a6c3",
                 "date": "2023-04-03T16:13:18Z",
                 "default_branch": false,
@@ -15022,16 +15032,6 @@
                     "zipball": "https://github.com/ThePornDatabase/ThePornDB.bundle/archive/refs/heads/renovate/configure.zip"
                 },
                 "name": "renovate/configure",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "e88207d79c157f082e08a86170ddc14b2cbee308",
-                "date": "2023-02-19T18:05:47Z",
-                "default_branch": true,
-                "download_assets": {
-                    "zipball": "https://github.com/ThePornDatabase/ThePornDB.bundle/archive/refs/heads/main.zip"
-                },
-                "name": "main",
                 "type": "branch"
             }
         ],
@@ -17168,7 +17168,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 38,
+        "stargazers_count": 40,
         "thumb_image_url": null
     },
     "395039310": {
@@ -20065,7 +20065,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 10,
+        "stargazers_count": 9,
         "thumb_image_url": "https://raw.githubusercontent.com/Nosinden/SpankBang.bundle/master/Contents/Resources/icon-default.png"
     },
     "48314065": {
@@ -26954,17 +26954,6 @@
                 "name": "v2.1",
                 "prerelease": false,
                 "release_tag": "v2.1",
-                "type": "release"
-            },
-            {
-                "date": "2017-05-04T22:26:34Z",
-                "download_assets": {
-                    "CSM.zip": "https://github.com/piplongrun/CSM.bundle/releases/download/v2.0/CSM.zip",
-                    "zipball": "https://api.github.com/repos/piplongrun/CSM.bundle/zipball/v2.0"
-                },
-                "name": "v2.0",
-                "prerelease": false,
-                "release_tag": "v2.0",
                 "type": "release"
             },
             {
