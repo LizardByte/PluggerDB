@@ -3636,7 +3636,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 39,
+        "stargazers_count": 40,
         "thumb_image_url": "https://raw.githubusercontent.com/adultplexdev/AdultDVDEmpire.bundle/master/Contents/Resources/icon-default.png"
     },
     "140122265": {
@@ -15057,7 +15057,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 81,
+        "stargazers_count": 82,
         "thumb_image_url": null
     },
     "3485091": {
@@ -15816,7 +15816,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 9,
+        "stargazers_count": 10,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/Ximalaya.bundle/main/Contents/Resources/icon-default.png"
     },
     "3621001": {
@@ -15864,7 +15864,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 588,
+        "stargazers_count": 587,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -15912,7 +15912,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 301,
+        "stargazers_count": 300,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -17710,7 +17710,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 300,
+        "stargazers_count": 301,
         "thumb_image_url": null
     },
     "41394428": {
@@ -24260,7 +24260,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "AMSA",
-        "open_issues_count": 5,
+        "open_issues_count": 6,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -26957,6 +26957,17 @@
                 "type": "release"
             },
             {
+                "date": "2017-05-04T22:26:34Z",
+                "download_assets": {
+                    "CSM.zip": "https://github.com/piplongrun/CSM.bundle/releases/download/v2.0/CSM.zip",
+                    "zipball": "https://api.github.com/repos/piplongrun/CSM.bundle/zipball/v2.0"
+                },
+                "name": "v2.0",
+                "prerelease": false,
+                "release_tag": "v2.0",
+                "type": "release"
+            },
+            {
                 "date": "2017-02-12T17:46:06Z",
                 "download_assets": {
                     "CSM.zip": "https://github.com/piplongrun/CSM.bundle/releases/download/v1.2/CSM.zip",
@@ -28315,7 +28326,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 32,
+        "stargazers_count": 31,
         "thumb_image_url": "https://raw.githubusercontent.com/joshuaavalon/AvalonXmlAgent.bundle/master/Contents/Resources/icon-default.png"
     },
     "9404487": {
