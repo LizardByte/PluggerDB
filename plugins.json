@@ -5876,6 +5876,54 @@
         "stargazers_count": 4,
         "thumb_image_url": "https://raw.githubusercontent.com/jacksonwilliams/Moviemania.bundle/master/Contents/Resources/icon-default.png"
     },
+    "1633448": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/735296?v=4",
+        "categories": [
+            "Channels",
+            "Utility"
+        ],
+        "default_branch": "master",
+        "description": "Control Indigo home automation software within Plex - not developed by or supported by Perceptive Automation.",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "4d056fa72b924a176694d85b0d7029bc161a646f",
+                "date": "2011-04-19T01:02:39Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/plex-unofficial/Indigo.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "plex-unofficial/Indigo",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/plex-unofficial/Indigo.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Indigo",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/plex-unofficial/Indigo.bundle/master/Contents/Resources/icon-default.png"
+    },
     "1637669": {
         "archived": false,
         "attribution_image_url": null,
