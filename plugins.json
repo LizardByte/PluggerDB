@@ -27639,6 +27639,54 @@
         "stargazers_count": 2,
         "thumb_image_url": "https://raw.githubusercontent.com/oncleben31/CinePassion.bundle/master/Contents/Resources/icon-default.png"
     },
+    "89716480": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1771395?v=4",
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": null,
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "2a209bf20d7847b68f8f40acfa3f7e64c0a2b854",
+                "date": "2017-04-28T14:59:46Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/pigers/PlexFilmweb.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "pigers/PlexFilmweb",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/pigers/PlexFilmweb.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "PlexFilmweb",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/pigers/PlexFilmweb.bundle/master/Contents/Resources/icon-default.png"
+    },
     "89860054": {
         "archived": false,
         "attribution_image_url": null,
