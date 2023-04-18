@@ -20360,6 +20360,65 @@
         "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/Twoure/GreekTV.bundle/master/Contents/Resources/icon-default.png"
     },
+    "48589406": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3075576?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex bundle allowing Plex to play videos from tvgry.pl",
+        "disabled": false,
+        "downloads": [
+            {
+                "date": "2016-08-07T14:18:08Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/Debeet/tvgry.bundle/zipball/1.0.0"
+                },
+                "name": "tvgry 1.0.0",
+                "prerelease": false,
+                "release_tag": "1.0.0",
+                "type": "release"
+            },
+            {
+                "commit_sha": "dd95e769d9b85810fc6b1f6f90152e1fddf8b4fb",
+                "date": "2016-08-07T13:28:06Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/Debeet/tvgry.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "Debeet/tvgry",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/Debeet/tvgry.bundle",
+        "license": "GNU General Public License v2.0",
+        "license_url": "https://api.github.com/licenses/gpl-2.0",
+        "name": "tvgry",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/Debeet/tvgry.bundle/master/Contents/Resources/icon-default.png"
+    },
     "48605960": {
         "archived": false,
         "attribution_image_url": null,
