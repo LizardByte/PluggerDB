@@ -11667,6 +11667,55 @@
         "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/bkury/OpenWeatherMap.bundle/master/Contents/Resources/icon-default.png"
     },
+    "25928143": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/9352787?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "SGTV Plugin / Addon for Plex. Allows watching of Singapore content from Mediacorp Channels, Channel News Asia, Viddsee and Singapore Youtube Channels.",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "d5ae5eea1409a374ff29bbcf4d78b0188e30cff8",
+                "date": "2016-11-12T23:35:32Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/GadgetReactor/SGtv.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 1,
+        "full_name": "GadgetReactor/SGtv",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/GadgetReactor/SGtv.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "SGtv",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 3,
+        "thumb_image_url": "https://raw.githubusercontent.com/GadgetReactor/SGtv.bundle/master/Contents/Resources/icon-default.png"
+    },
     "26098079": {
         "archived": false,
         "attribution_image_url": null,
