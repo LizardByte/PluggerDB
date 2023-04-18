@@ -8012,6 +8012,55 @@
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/Zerosu/rawrANIME.bundle/master/Contents/Resources/icon-default.png"
     },
+    "19558234": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/471468?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex channel for WWNLive",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "e0a5b9381f0a6f1a1a9fbdada02eb35afee71ea6",
+                "date": "2014-05-08T03:14:44Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/ahaskell/WWNLive.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "ahaskell/WWNLive",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/ahaskell/WWNLive.bundle",
+        "license": "Apache License 2.0",
+        "license_url": "https://api.github.com/licenses/apache-2.0",
+        "name": "WWNLive",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
+    },
     "199600808": {
         "archived": false,
         "attribution_image_url": null,
