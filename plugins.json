@@ -8110,6 +8110,55 @@
         "stargazers_count": 0,
         "thumb_image_url": null
     },
+    "20158004": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1117969?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "This is a Plex channel that produces videos for the MTV website for shows",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "1d988a65f662edffcdc4b7751aa9dfa8274e1892",
+                "date": "2014-04-14T17:21:20Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/nturgeon/MTVShows.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "nturgeon/MTVShows",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/nturgeon/MTVShows.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "MTVShows",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/nturgeon/MTVShows.bundle/master/Contents/Resources/icon-default.png"
+    },
     "202154287": {
         "archived": false,
         "attribution_image_url": null,
