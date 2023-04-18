@@ -1875,7 +1875,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1082,
+        "stargazers_count": 1084,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -2690,7 +2690,7 @@
         "license": null,
         "license_url": null,
         "name": "YouTube-Agent",
-        "open_issues_count": 12,
+        "open_issues_count": 13,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -3279,7 +3279,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 894,
+        "stargazers_count": 895,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -7565,7 +7565,7 @@
         "license": null,
         "license_url": null,
         "name": "PlexJav18",
-        "open_issues_count": 0,
+        "open_issues_count": 1,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -7575,7 +7575,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 18,
+        "stargazers_count": 19,
         "thumb_image_url": "https://raw.githubusercontent.com/alxpnt2/PlexJav18.bundle/master/Jav18.bundle/Contents/Resources/icon-default.png"
     },
     "18257694": {
@@ -8462,7 +8462,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 153,
+        "forks_count": 152,
         "full_name": "ZeroQI/Absolute-Series-Scanner",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -8484,7 +8484,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 887,
+        "stargazers_count": 888,
         "thumb_image_url": null
     },
     "21045557": {
@@ -11078,7 +11078,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1267,
+        "stargazers_count": 1268,
         "thumb_image_url": null
     },
     "24851830": {
@@ -11508,7 +11508,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 119,
+        "stargazers_count": 120,
         "thumb_image_url": null
     },
     "25490193": {
@@ -14087,7 +14087,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1399,
+        "stargazers_count": 1401,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -15131,7 +15131,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 13,
+        "forks_count": 14,
         "full_name": "ThePornDatabase/ThePornDB",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -15143,7 +15143,7 @@
         "license": null,
         "license_url": null,
         "name": "ThePornDB",
-        "open_issues_count": 5,
+        "open_issues_count": 6,
         "open_pull_requests_count": 1,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -15153,7 +15153,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 82,
+        "stargazers_count": 83,
         "thumb_image_url": null
     },
     "3485091": {
@@ -15864,7 +15864,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 22,
+        "stargazers_count": 23,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/QQmusic.bundle/main/Contents/Resources/icon-default.png"
     },
     "360205681": {
@@ -15938,7 +15938,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 140,
+        "forks_count": 142,
         "full_name": "gboudreau/XBMCnfoMoviesImporter",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -15960,7 +15960,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 588,
+        "stargazers_count": 589,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -15986,7 +15986,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 60,
+        "forks_count": 61,
         "full_name": "gboudreau/XBMCnfoTVImporter",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -16008,7 +16008,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 300,
+        "stargazers_count": 301,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -17796,7 +17796,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "Audnexus",
-        "open_issues_count": 7,
+        "open_issues_count": 6,
         "open_pull_requests_count": 1,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -17806,7 +17806,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 301,
+        "stargazers_count": 302,
         "thumb_image_url": null
     },
     "41394428": {
@@ -24356,7 +24356,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "AMSA",
-        "open_issues_count": 6,
+        "open_issues_count": 7,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
