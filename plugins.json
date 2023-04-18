@@ -23611,6 +23611,54 @@
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/Nosinden/xvideos.bundle/master/Contents/Resources/icon-default.png"
     },
+    "67618623": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/6253515?v=4",
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "KinoSampo plex bundle",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "e17582432dd5384085928249985fea2dd7ff9a11",
+                "date": "2016-09-07T16:27:43Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/arkty/KinoSampo.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "arkty/KinoSampo",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/arkty/KinoSampo.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "KinoSampo",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
+    },
     "6834172": {
         "archived": false,
         "attribution_image_url": null,
