@@ -1875,7 +1875,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1084,
+        "stargazers_count": 1085,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -2700,7 +2700,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 323,
+        "stargazers_count": 324,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -11236,7 +11236,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1268,
+        "stargazers_count": 1269,
         "thumb_image_url": null
     },
     "24851830": {
@@ -14294,7 +14294,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1401,
+        "stargazers_count": 1402,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -14903,7 +14903,7 @@
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "JAVLibrary",
         "open_issues_count": 2,
-        "open_pull_requests_count": 2,
+        "open_pull_requests_count": 3,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -15350,7 +15350,7 @@
         "license": null,
         "license_url": null,
         "name": "ThePornDB",
-        "open_issues_count": 6,
+        "open_issues_count": 7,
         "open_pull_requests_count": 1,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -17471,7 +17471,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 40,
+        "stargazers_count": 41,
         "thumb_image_url": null
     },
     "395039310": {
