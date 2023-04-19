@@ -1875,7 +1875,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1084,
+        "stargazers_count": 1085,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -2700,7 +2700,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 323,
+        "stargazers_count": 324,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -8012,6 +8012,55 @@
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/Zerosu/rawrANIME.bundle/master/Contents/Resources/icon-default.png"
     },
+    "19558234": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/471468?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex channel for WWNLive",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "e0a5b9381f0a6f1a1a9fbdada02eb35afee71ea6",
+                "date": "2014-05-08T03:14:44Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/ahaskell/WWNLive.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "ahaskell/WWNLive",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/ahaskell/WWNLive.bundle",
+        "license": "Apache License 2.0",
+        "license_url": "https://api.github.com/licenses/apache-2.0",
+        "name": "WWNLive",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
+    },
     "199600808": {
         "archived": false,
         "attribution_image_url": null,
@@ -9930,6 +9979,66 @@
         "stargazers_count": 12,
         "thumb_image_url": "https://raw.githubusercontent.com/rspeicher/GiantBomb.bundle/master/Contents/Resources/icon-default.png"
     },
+    "22964061": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/7190451?v=4",
+        "categories": [
+            "Anime",
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Wareztuga channel for Plex.",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "6eeb197f97f0c0c9f1eaeb3e62fe2e17a808c28e",
+                "date": "2014-07-06T09:14:06Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/aamkTV/Wareztuga.bundle/archive/refs/heads/develop.zip"
+                },
+                "name": "develop",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "ec0a0034a2c82cb9de2df3bcd561d09b9f71ae0e",
+                "date": "2014-07-01T11:48:43Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/aamkTV/Wareztuga.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "aamkTV/Wareztuga",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/aamkTV/Wareztuga.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Wareztuga",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/aamkTV/Wareztuga.bundle/master/Contents/Resources/icon-default.png"
+    },
     "23041368": {
         "archived": false,
         "attribution_image_url": null,
@@ -11127,7 +11236,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1268,
+        "stargazers_count": 1269,
         "thumb_image_url": null
     },
     "24851830": {
@@ -11666,6 +11775,55 @@
         },
         "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/bkury/OpenWeatherMap.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "25928143": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/9352787?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "SGTV Plugin / Addon for Plex. Allows watching of Singapore content from Mediacorp Channels, Channel News Asia, Viddsee and Singapore Youtube Channels.",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "d5ae5eea1409a374ff29bbcf4d78b0188e30cff8",
+                "date": "2016-11-12T23:35:32Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/GadgetReactor/SGtv.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 1,
+        "full_name": "GadgetReactor/SGtv",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/GadgetReactor/SGtv.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "SGtv",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 3,
+        "thumb_image_url": "https://raw.githubusercontent.com/GadgetReactor/SGtv.bundle/master/Contents/Resources/icon-default.png"
     },
     "26098079": {
         "archived": false,
@@ -14136,7 +14294,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1401,
+        "stargazers_count": 1402,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -14745,7 +14903,7 @@
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "JAVLibrary",
         "open_issues_count": 2,
-        "open_pull_requests_count": 2,
+        "open_pull_requests_count": 3,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -15192,7 +15350,7 @@
         "license": null,
         "license_url": null,
         "name": "ThePornDB",
-        "open_issues_count": 6,
+        "open_issues_count": 7,
         "open_pull_requests_count": 1,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -17313,7 +17471,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 40,
+        "stargazers_count": 41,
         "thumb_image_url": null
     },
     "395039310": {
@@ -20310,6 +20468,65 @@
         },
         "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/Twoure/GreekTV.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "48589406": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3075576?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex bundle allowing Plex to play videos from tvgry.pl",
+        "disabled": false,
+        "downloads": [
+            {
+                "date": "2016-08-07T14:18:08Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/Debeet/tvgry.bundle/zipball/1.0.0"
+                },
+                "name": "tvgry 1.0.0",
+                "prerelease": false,
+                "release_tag": "1.0.0",
+                "type": "release"
+            },
+            {
+                "commit_sha": "dd95e769d9b85810fc6b1f6f90152e1fddf8b4fb",
+                "date": "2016-08-07T13:28:06Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/Debeet/tvgry.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "Debeet/tvgry",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/Debeet/tvgry.bundle",
+        "license": "GNU General Public License v2.0",
+        "license_url": "https://api.github.com/licenses/gpl-2.0",
+        "name": "tvgry",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/Debeet/tvgry.bundle/master/Contents/Resources/icon-default.png"
     },
     "48605960": {
         "archived": false,
@@ -23502,6 +23719,54 @@
         },
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/Nosinden/xvideos.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "67618623": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/6253515?v=4",
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "KinoSampo plex bundle",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "e17582432dd5384085928249985fea2dd7ff9a11",
+                "date": "2016-09-07T16:27:43Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/arkty/KinoSampo.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "arkty/KinoSampo",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/arkty/KinoSampo.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "KinoSampo",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
     },
     "6834172": {
         "archived": false,
