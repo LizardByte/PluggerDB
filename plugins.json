@@ -7953,6 +7953,64 @@
         "stargazers_count": 24,
         "thumb_image_url": "https://raw.githubusercontent.com/phrawzty/AudioAddict.bundle/main/Contents/Resources/icon-default.jpg"
     },
+    "19341387": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/5729900?v=4",
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "A channel  for Plex",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "8c289a013e69a9826ef5a6b1d465f869f13392b7",
+                "date": "2014-05-07T18:30:59Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/SteveHarrison82/Pyvideo.bundle/archive/refs/heads/PP-0_Add-support-for-flv.zip"
+                },
+                "name": "PP-0_Add-support-for-flv",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "5ffe1e05ff50b52dfca3c2212c55ce78935b72b6",
+                "date": "2014-05-01T10:39:34Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/SteveHarrison82/Pyvideo.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 1,
+        "full_name": "SteveHarrison82/Pyvideo",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/SteveHarrison82/Pyvideo.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Pyvideo",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/SteveHarrison82/Pyvideo.bundle/master/Contents/Resources/icon-default.png"
+    },
     "19393832": {
         "archived": false,
         "attribution_image_url": null,
