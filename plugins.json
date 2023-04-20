@@ -45,7 +45,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 77,
+        "stargazers_count": 78,
         "thumb_image_url": null
     },
     "10147260": {
@@ -16023,7 +16023,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 86,
+        "stargazers_count": 87,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/WangYiYun.bundle/main/Contents/Resources/icon-default.png"
     },
     "360014764": {
@@ -16145,7 +16145,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 142,
+        "forks_count": 141,
         "full_name": "gboudreau/XBMCnfoMoviesImporter",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -16167,7 +16167,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 589,
+        "stargazers_count": 590,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -18013,7 +18013,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 302,
+        "stargazers_count": 303,
         "thumb_image_url": null
     },
     "41394428": {
@@ -19988,7 +19988,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 5,
+        "forks_count": 6,
         "full_name": "lankz/JSON",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -21669,13 +21669,13 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "0025e2d55793d535e01b0b22444dc7d6e1d4fc24",
-                "date": "2023-03-24T01:05:59Z",
+                "commit_sha": "ecc20563ee90dbedd454f99a142af9afeaf4e960",
+                "date": "2023-04-20T12:54:04Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/actions/stale-8.zip"
+                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/nightly.zip"
                 },
-                "name": "dependabot/github_actions/nightly/actions/stale-8",
+                "name": "nightly",
                 "type": "branch"
             },
             {
@@ -21696,16 +21696,6 @@
                     "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/docker/nightly/ubuntu-23.04.zip"
                 },
                 "name": "dependabot/docker/nightly/ubuntu-23.04",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "12390cbabe213f65c338f927f19a262a1215a53c",
-                "date": "2023-02-10T19:03:53Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/nightly.zip"
-                },
-                "name": "nightly",
                 "type": "branch"
             },
             {
@@ -21776,7 +21766,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "PlexyGlass",
         "open_issues_count": 0,
-        "open_pull_requests_count": 4,
+        "open_pull_requests_count": 3,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
