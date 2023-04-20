@@ -27795,6 +27795,55 @@
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/sander1/MovieMeter.bundle/master/Contents/Resources/icon-default.png"
     },
+    "85708580": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1632244?v=4",
+        "categories": [
+            "Channels",
+            "Music",
+            "Radio"
+        ],
+        "default_branch": "master",
+        "description": "BBCRadio Plex Channel",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "5ab15fd95753a1c2e330644dedc0fe20116117c9",
+                "date": "2017-03-21T14:01:26Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/adrianjones/BBCRadio.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "adrianjones/BBCRadio",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/adrianjones/BBCRadio.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "BBCRadio",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": null
+    },
     "86185565": {
         "archived": false,
         "attribution_image_url": null,
