@@ -1875,7 +1875,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1085,
+        "stargazers_count": 1086,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -17529,7 +17529,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 41,
+        "stargazers_count": 42,
         "thumb_image_url": null
     },
     "395039310": {
@@ -18071,7 +18071,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 303,
+        "stargazers_count": 304,
         "thumb_image_url": null
     },
     "41394428": {
@@ -21737,16 +21737,6 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "a0da9558ded78f2f6adefd4ebf753de053df6752",
-                "date": "2023-02-20T02:27:05Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/pascalgn/automerge-action-0.15.6.zip"
-                },
-                "name": "dependabot/github_actions/nightly/pascalgn/automerge-action-0.15.6",
-                "type": "branch"
-            },
-            {
                 "commit_sha": "f569f71ac82a1b5e2aa2cc9b66dc4445b4d28905",
                 "date": "2023-02-13T02:30:01Z",
                 "default_branch": false,
@@ -21824,7 +21814,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "PlexyGlass",
         "open_issues_count": 0,
-        "open_pull_requests_count": 3,
+        "open_pull_requests_count": 2,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -21852,28 +21842,29 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "e4041aa9d29265d93ed54b0f5ca7c8b8c12bf5ed",
-                "date": "2023-03-23T09:05:27Z",
-                "default_branch": false,
+                "date": "2023-04-20T17:21:34Z",
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/actions/stale-8.zip"
+                    "Themerr-plex.bundle.zip": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.1.4/Themerr-plex.bundle.zip",
+                    "zipball": "https://api.github.com/repos/LizardByte/Themerr-plex/zipball/v0.1.4"
                 },
-                "name": "dependabot/github_actions/nightly/actions/stale-8",
+                "name": "v0.1.4",
+                "prerelease": false,
+                "release_tag": "v0.1.4",
+                "type": "release"
+            },
+            {
+                "commit_sha": "16cab72a630e8cd0136938b453ebda6cea25c093",
+                "date": "2023-04-20T17:20:25Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/master.zip"
+                },
+                "name": "master",
                 "type": "branch"
             },
             {
-                "commit_sha": "af290058a09c31037bb9f432ec33a8a15112e3fa",
-                "date": "2023-02-20T09:15:52Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/pascalgn/automerge-action-0.15.6.zip"
-                },
-                "name": "dependabot/github_actions/nightly/pascalgn/automerge-action-0.15.6",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "4d883763d86d093048d943286f0666b950aedda8",
-                "date": "2023-02-19T15:51:20Z",
+                "commit_sha": "42581f42e6abbf9e0497626127e6d972742d0105",
+                "date": "2023-04-20T17:12:59Z",
                 "default_branch": false,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
@@ -21901,16 +21892,6 @@
                 "prerelease": false,
                 "release_tag": "v0.1.3",
                 "type": "release"
-            },
-            {
-                "commit_sha": "306290a62fda2a16c634a1e792c55178a823afb4",
-                "date": "2023-01-28T15:22:57Z",
-                "default_branch": true,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/master.zip"
-                },
-                "name": "master",
-                "type": "branch"
             },
             {
                 "date": "2023-01-23T18:16:34Z",
@@ -22047,7 +22028,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 1,
-        "open_pull_requests_count": 4,
+        "open_pull_requests_count": 1,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -24728,7 +24709,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 192,
+        "stargazers_count": 193,
         "thumb_image_url": null
     },
     "70127189": {
@@ -27695,7 +27676,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 571,
+        "stargazers_count": 570,
         "thumb_image_url": null
     },
     "8525630": {
