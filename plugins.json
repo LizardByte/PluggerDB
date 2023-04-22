@@ -7565,7 +7565,7 @@
         "license": null,
         "license_url": null,
         "name": "PlexJav18",
-        "open_issues_count": 1,
+        "open_issues_count": 2,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -8640,7 +8640,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 888,
+        "stargazers_count": 889,
         "thumb_image_url": null
     },
     "21045557": {
@@ -13299,7 +13299,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 7,
+        "stargazers_count": 8,
         "thumb_image_url": null
     },
     "28979610": {
@@ -14352,7 +14352,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1402,
+        "stargazers_count": 1401,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -15418,7 +15418,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 83,
+        "stargazers_count": 84,
         "thumb_image_url": null
     },
     "3485091": {
@@ -18317,7 +18317,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 77,
+        "stargazers_count": 78,
         "thumb_image_url": null
     },
     "41901114": {
@@ -22037,7 +22037,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 19,
+        "stargazers_count": 20,
         "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/Themerr-plex/master/Contents/Resources/icon-default.png"
     },
     "5451640": {
@@ -24699,7 +24699,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "AMSA",
-        "open_issues_count": 7,
+        "open_issues_count": 6,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
