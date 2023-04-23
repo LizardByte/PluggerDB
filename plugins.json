@@ -1865,7 +1865,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "Hama",
-        "open_issues_count": 9,
+        "open_issues_count": 8,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -2700,7 +2700,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 324,
+        "stargazers_count": 326,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -15418,7 +15418,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 84,
+        "stargazers_count": 85,
         "thumb_image_url": null
     },
     "3485091": {
@@ -15887,7 +15887,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 328,
+        "stargazers_count": 329,
         "thumb_image_url": "https://raw.githubusercontent.com/kolsys/YouTubeTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "351489517": {
@@ -18049,7 +18049,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 16,
+        "forks_count": 17,
         "full_name": "djdembeck/Audnexus",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -18061,7 +18061,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "Audnexus",
-        "open_issues_count": 6,
+        "open_issues_count": 7,
         "open_pull_requests_count": 1,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -24497,6 +24497,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "071d4eb07bcec8e1c0af673deec7e5b37fd6de57",
+                "date": "2023-04-23T19:09:48Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/Dingmatt/AMSA/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            },
+            {
                 "date": "2022-12-12T01:39:30Z",
                 "download_assets": {
                     "zipball": "https://api.github.com/repos/Dingmatt/AMSA/zipball/V1_0_7_2"
@@ -24505,16 +24515,6 @@
                 "prerelease": false,
                 "release_tag": "V1_0_7_2",
                 "type": "release"
-            },
-            {
-                "commit_sha": "c335d2a5e7013c8917675bc0b84504f5779c910c",
-                "date": "2022-12-12T01:37:04Z",
-                "default_branch": true,
-                "download_assets": {
-                    "zipball": "https://github.com/Dingmatt/AMSA/archive/refs/heads/master.zip"
-                },
-                "name": "master",
-                "type": "branch"
             },
             {
                 "date": "2021-09-29T23:53:22Z",
