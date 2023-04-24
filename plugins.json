@@ -28694,6 +28694,54 @@
         "stargazers_count": 329,
         "thumb_image_url": "https://raw.githubusercontent.com/ukdtom/ExportTools.bundle/master/Contents/Resources/icon-default.png"
     },
+    "79481264": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/9909564?v=4",
+        "categories": [
+            "Channels",
+            "Photos"
+        ],
+        "default_branch": "master",
+        "description": "PhantomComic for Plex.",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "6960772667286fdd647131d0cc74ecac29760c99",
+                "date": "2017-01-31T04:28:58Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/XeClutch/PhantomComic.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "XeClutch/PhantomComic",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/XeClutch/PhantomComic.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "PhantomComic",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/XeClutch/PhantomComic.bundle/master/Contents/Resources/icon-default.png"
+    },
     "79772186": {
         "archived": false,
         "attribution_image_url": null,
