@@ -28992,6 +28992,55 @@
         "stargazers_count": 2,
         "thumb_image_url": "https://raw.githubusercontent.com/alfa8/navix.bundle/master/Contents/Resources/icon-default.png"
     },
+    "94058950": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/57339?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "WWDC 2017 Plex Channel",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "737c54369ba81702cf71b1f3067b774f70a70af7",
+                "date": "2017-06-12T06:06:40Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/snosrap/WWDC.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 1,
+        "full_name": "snosrap/WWDC",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/snosrap/WWDC.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "WWDC",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/snosrap/WWDC.bundle/master/Contents/Resources/icon-default.png"
+    },
     "949461": {
         "archived": false,
         "attribution_image_url": null,
