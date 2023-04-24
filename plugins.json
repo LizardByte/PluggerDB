@@ -14907,6 +14907,74 @@
         "stargazers_count": 4,
         "thumb_image_url": null
     },
+    "32085285": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/458420?v=4",
+        "categories": [
+            "Channels",
+            "Music"
+        ],
+        "default_branch": "master",
+        "description": "ivoox channel for Plex",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "73856f3deec0b5b7b83c4227f34c3d561c822ffd",
+                "date": "2015-08-21T17:22:47Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/manfer/ivoox.bundle/archive/refs/heads/gh-pages.zip"
+                },
+                "name": "gh-pages",
+                "type": "branch"
+            },
+            {
+                "date": "2015-08-20T22:52:36Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/manfer/ivoox.bundle/zipball/v0.1"
+                },
+                "name": "",
+                "prerelease": false,
+                "release_tag": "v0.1",
+                "type": "release"
+            },
+            {
+                "commit_sha": "0efbfc657cf67649ef470ade174371e258635412",
+                "date": "2015-04-06T13:50:19Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/manfer/ivoox.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "manfer/ivoox",
+        "gh_pages_url": "http://manfer.github.io/ivoox.bundle/",
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/manfer/ivoox.bundle",
+        "license": "GNU General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/gpl-3.0",
+        "name": "ivoox",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
+    },
     "327541445": {
         "archived": false,
         "attribution_image_url": null,
