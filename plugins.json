@@ -1875,7 +1875,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1086,
+        "stargazers_count": 1087,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -13004,7 +13004,7 @@
         "license": null,
         "license_url": null,
         "name": "MyAnimeList",
-        "open_issues_count": 2,
+        "open_issues_count": 3,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -18061,7 +18061,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "Audnexus",
-        "open_issues_count": 7,
+        "open_issues_count": 6,
         "open_pull_requests_count": 1,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -21842,6 +21842,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "cb93ee5ceafd46d356376a5e85573da8cce89e02",
+                "date": "2023-04-24T09:07:31Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.0.zip"
+                },
+                "name": "dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.0",
+                "type": "branch"
+            },
+            {
                 "date": "2023-04-20T17:21:34Z",
                 "download_assets": {
                     "Themerr-plex.bundle.zip": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.1.4/Themerr-plex.bundle.zip",
@@ -22028,7 +22038,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 1,
-        "open_pull_requests_count": 1,
+        "open_pull_requests_count": 2,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -22037,7 +22047,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 20,
+        "stargazers_count": 21,
         "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/Themerr-plex/master/Contents/Resources/icon-default.png"
     },
     "5451640": {
@@ -24497,6 +24507,16 @@
         "disabled": false,
         "downloads": [
             {
+                "date": "2023-04-23T19:14:06Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/Dingmatt/AMSA/zipball/V1_0_7_3"
+                },
+                "name": "v1.07 Hotfix 3",
+                "prerelease": false,
+                "release_tag": "V1_0_7_3",
+                "type": "release"
+            },
+            {
                 "commit_sha": "071d4eb07bcec8e1c0af673deec7e5b37fd6de57",
                 "date": "2023-04-23T19:09:48Z",
                 "default_branch": true,
@@ -24699,7 +24719,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "AMSA",
-        "open_issues_count": 6,
+        "open_issues_count": 5,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
