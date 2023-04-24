@@ -13999,6 +13999,74 @@
         "stargazers_count": 16,
         "thumb_image_url": null
     },
+    "28681399": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1930957?v=4",
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Channel Plugin for HKTV",
+        "disabled": false,
+        "downloads": [
+            {
+                "date": "2015-01-02T09:02:06Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/chriskbchan/HKTV.bundle/zipball/plex-hktv-v0.1.1"
+                },
+                "name": "v0.1.1 hotfix",
+                "prerelease": false,
+                "release_tag": "plex-hktv-v0.1.1",
+                "type": "release"
+            },
+            {
+                "commit_sha": "1b8b26e602878b742f3795c6a0ae063f0ad712c0",
+                "date": "2015-01-02T08:57:39Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/chriskbchan/HKTV.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            },
+            {
+                "date": "2015-01-01T06:14:11Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/chriskbchan/HKTV.bundle/zipball/plex-hktv-v0.1.0"
+                },
+                "name": "v0.1.0 initial",
+                "prerelease": false,
+                "release_tag": "plex-hktv-v0.1.0",
+                "type": "release"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "chriskbchan/HKTV",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/chriskbchan/HKTV.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "HKTV",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/chriskbchan/HKTV.bundle/master/Contents/Resources/icon-default.png"
+    },
     "28734848": {
         "archived": false,
         "attribution_image_url": null,
