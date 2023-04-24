@@ -20635,6 +20635,108 @@
         "stargazers_count": 17,
         "thumb_image_url": null
     },
+    "464150782": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/100522290?v=4",
+        "categories": [
+            "Adult",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "main",
+        "description": "A Plex metadata agent for providing basic support for OnlyFans content",
+        "disabled": false,
+        "downloads": [
+            {
+                "date": "2023-02-11T13:47:53Z",
+                "download_assets": {
+                    "FansForYou.bundle.zip": "https://github.com/fansforyou/FansForYou.Bundle/releases/download/2.0.2/FansForYou.bundle.zip",
+                    "zipball": "https://api.github.com/repos/fansforyou/FansForYou.Bundle/zipball/2.0.2"
+                },
+                "name": "2.0.2",
+                "prerelease": false,
+                "release_tag": "2.0.2",
+                "type": "release"
+            },
+            {
+                "commit_sha": "50840afed5524483124d512e2005fbc695d01a64",
+                "date": "2023-02-11T13:47:27Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/fansforyou/FansForYou.Bundle/archive/refs/heads/main.zip"
+                },
+                "name": "main",
+                "type": "branch"
+            },
+            {
+                "date": "2022-08-31T00:24:03Z",
+                "download_assets": {
+                    "FansForYou.bundle.zip": "https://github.com/fansforyou/FansForYou.Bundle/releases/download/2.0.1/FansForYou.bundle.zip",
+                    "zipball": "https://api.github.com/repos/fansforyou/FansForYou.Bundle/zipball/2.0.1"
+                },
+                "name": "2.0.1",
+                "prerelease": false,
+                "release_tag": "2.0.1",
+                "type": "release"
+            },
+            {
+                "date": "2022-07-06T15:49:22Z",
+                "download_assets": {
+                    "FansForYou.bundle.zip": "https://github.com/fansforyou/FansForYou.Bundle/releases/download/2.0/FansForYou.bundle.zip",
+                    "zipball": "https://api.github.com/repos/fansforyou/FansForYou.Bundle/zipball/2.0"
+                },
+                "name": "2.0",
+                "prerelease": false,
+                "release_tag": "2.0",
+                "type": "release"
+            },
+            {
+                "commit_sha": "b55b9be39bbd60f1312da7c3ee18e5a1a998ff5e",
+                "date": "2022-07-05T22:23:50Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/fansforyou/FansForYou.Bundle/archive/refs/heads/go-delegate.zip"
+                },
+                "name": "go-delegate",
+                "type": "branch"
+            },
+            {
+                "date": "2022-07-05T20:15:32Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/fansforyou/FansForYou.Bundle/zipball/1.0"
+                },
+                "name": "1.0",
+                "prerelease": false,
+                "release_tag": "1.0",
+                "type": "release"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "fansforyou/FansForYou.Bundle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/fansforyou/FansForYou.Bundle",
+        "license": "Apache License 2.0",
+        "license_url": "https://api.github.com/licenses/apache-2.0",
+        "name": "FansForYou.Bundle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": null
+    },
     "46706942": {
         "archived": false,
         "attribution_image_url": null,
