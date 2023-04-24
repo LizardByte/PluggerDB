@@ -11143,6 +11143,54 @@
         "stargazers_count": 19,
         "thumb_image_url": "https://raw.githubusercontent.com/kolsys/HDSerials.bundle/master/Contents/Resources/icon-default.png"
     },
+    "239270556": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/45378995?v=4",
+        "categories": [
+            "Channels",
+            "Music"
+        ],
+        "default_branch": "master",
+        "description": "KPodcast Plex Plugin",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "cf80183966bb0c0abe391ddb30bacb7e8fd5ada3",
+                "date": "2018-03-22T12:21:10Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/at911/KPodcast.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 1,
+        "full_name": "at911/KPodcast",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/at911/KPodcast.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "KPodcast",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/at911/KPodcast.bundle/master/KPodcast.bundle/Contents/Resources/icon-default.png"
+    },
     "24320253": {
         "archived": false,
         "attribution_image_url": null,
