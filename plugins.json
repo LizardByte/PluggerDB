@@ -21246,6 +21246,54 @@
         "stargazers_count": 2,
         "thumb_image_url": "https://raw.githubusercontent.com/solvek/VsetvNet.bundle/master/Contents/Resources/icon-default.png"
     },
+    "49442244": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3917476?v=4",
+        "categories": [
+            "Channels",
+            "Music"
+        ],
+        "default_branch": "master",
+        "description": "Subsonic Client for PLEX",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "994011f048f98989b20f8d9feed65dec77c16934",
+                "date": "2016-01-11T18:39:21Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/DavidFONTAINE/subsonicplex.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "DavidFONTAINE/subsonicplex",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/DavidFONTAINE/subsonicplex.bundle",
+        "license": "GNU General Public License v2.0",
+        "license_url": "https://api.github.com/licenses/gpl-2.0",
+        "name": "subsonicplex",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/DavidFONTAINE/subsonicplex.bundle/master/Contents/Resources/icon-default.png"
+    },
     "49924573": {
         "archived": false,
         "attribution_image_url": null,
