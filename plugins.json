@@ -6069,6 +6069,65 @@
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/devbobo/SmugMug.bundle/master/Contents/Resources/icon-default.png"
     },
+    "165744973": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/12176176?v=4",
+        "categories": [
+            "Channels",
+            "Utility",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Radarr Interface for Plex",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "e7dd11683e19ec115f0b5100f85bfde22de3c5fb",
+                "date": "2019-01-14T22:32:09Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/pknw1/Radarr.bundle/archive/refs/heads/basic.zip"
+                },
+                "name": "basic",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "798f59bffbf8a9c4b2b9061cd4c4dc588ccf26af",
+                "date": "2019-01-14T22:24:48Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/pknw1/Radarr.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "pknw1/Radarr",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/pknw1/Radarr.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Radarr",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": null
+    },
     "166753315": {
         "archived": false,
         "attribution_image_url": null,
