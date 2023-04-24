@@ -21932,6 +21932,55 @@
         "stargazers_count": 4,
         "thumb_image_url": null
     },
+    "48884888": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1515681?v=4",
+        "categories": [
+            "Channels",
+            "Utility",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "An unofficial app store for Plex",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "b6d4935b1db60bb36b8188139d55c2b5c91ad45b",
+                "date": "2016-01-01T17:46:01Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/ivanboring/Plexopedia.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "ivanboring/Plexopedia",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/ivanboring/Plexopedia.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Plexopedia",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/ivanboring/Plexopedia.bundle/master/Contents/Resources/icon-default.png"
+    },
     "48995051": {
         "archived": false,
         "attribution_image_url": null,
