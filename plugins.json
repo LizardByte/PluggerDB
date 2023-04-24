@@ -23623,6 +23623,55 @@
         "stargazers_count": 28,
         "thumb_image_url": "https://raw.githubusercontent.com/eithe/NRKTV.bundle/master/Contents/Resources/icon-default.png"
     },
+    "54542074": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/18025415?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Channel for LetMeStream",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "781ac4f5fba11bdd8d68f13a99fd0410b8f4c83c",
+                "date": "2016-03-23T15:20:31Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/LetMeStream/LetMeStream.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 1,
+        "full_name": "LetMeStream/LetMeStream",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/LetMeStream/LetMeStream.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "LetMeStream",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/LetMeStream/LetMeStream.bundle/master/Contents/Resources/icon-default.png"
+    },
     "5513051": {
         "archived": false,
         "attribution_image_url": null,
