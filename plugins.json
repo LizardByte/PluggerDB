@@ -15314,6 +15314,54 @@
         "stargazers_count": 9,
         "thumb_image_url": "https://raw.githubusercontent.com/Jidly/channelpear.bundle/master/Contents/Resources/icon-default.png"
     },
+    "34592894": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/20960?v=4",
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Digg Plex Channel",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "0a862747e8eee2ea13c43fc0fe23249dfa51d105",
+                "date": "2015-04-26T01:15:02Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/koogunmo/Digg.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "koogunmo/Digg",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/koogunmo/Digg.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Digg",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/koogunmo/Digg.bundle/master/Contents/Resources/icon-default.png"
+    },
     "34686939": {
         "archived": false,
         "attribution_image_url": null,
