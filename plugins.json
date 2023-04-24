@@ -10715,6 +10715,54 @@
         "stargazers_count": 99,
         "thumb_image_url": null
     },
+    "23301078": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/5399074?v=4",
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Project Free TV channel for Plex",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "b1df2944558cbba6a1700698ab1eb65b5bc86f6d",
+                "date": "2013-03-15T15:10:30Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/jhilla/plexfreetv.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "jhilla/plexfreetv",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/jhilla/plexfreetv.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "plexfreetv",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": null
+    },
     "23308910": {
         "archived": false,
         "attribution_image_url": null,
