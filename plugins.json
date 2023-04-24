@@ -24639,6 +24639,65 @@
         "stargazers_count": 18,
         "thumb_image_url": "https://raw.githubusercontent.com/Twoure/UnSupportedServices.bundle/master/Contents/Resources/icon-default.png"
     },
+    "60380154": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/8375549?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "HRTi Plex Media Server plugin",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "6138572d7b4795fb7833405c51f07f12d7f03354",
+                "date": "2017-01-18T19:03:16Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/TheNT87/HRTi.bundle/archive/refs/heads/gh-pages.zip"
+                },
+                "name": "gh-pages",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "7312fdaae402015b47b61147abf8f62cb208e81c",
+                "date": "2017-01-18T18:12:18Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/TheNT87/HRTi.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "TheNT87/HRTi",
+        "gh_pages_url": "http://thent87.github.io/HRTi.bundle/",
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/TheNT87/HRTi.bundle",
+        "license": "GNU General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/gpl-3.0",
+        "name": "HRTi",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/TheNT87/HRTi.bundle/master/Contents/Resources/icon-default.png"
+    },
     "604853981": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/LizardByte/Plugger/master/Contents/Resources/attribution.png",
