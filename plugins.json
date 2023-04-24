@@ -24065,6 +24065,55 @@
         "stargazers_count": 12,
         "thumb_image_url": null
     },
+    "56836889": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/919206?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Channel for Plex",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "3fe461aa2465891593d32958b46e6646001cc3f8",
+                "date": "2016-04-22T11:27:07Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/aliaksandr-trush/LostFile.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "aliaksandr-trush/LostFile",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/aliaksandr-trush/LostFile.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "LostFile",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
+    },
     "56988965": {
         "archived": false,
         "attribution_image_url": null,
