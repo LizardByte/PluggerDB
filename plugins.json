@@ -10434,6 +10434,65 @@
         "stargazers_count": 1,
         "thumb_image_url": "https://raw.githubusercontent.com/dumac1993/PlexMovieBR.bundle/master/Contents/Resources/icon-default.png"
     },
+    "22844728": {
+        "archived": true,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/2071365?v=4",
+        "categories": [
+            "Channels",
+            "Sports",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex plugin for SportseBooks",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "7d735fc228b384c18570a8cd82aeef812a2a2a49",
+                "date": "2014-09-01T10:27:43Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/papalozarou/SportseBooks.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "5ffbf95095f8526cbeeeafe47e9edb89e203bab4",
+                "date": "2014-09-01T09:57:25Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/papalozarou/SportseBooks.bundle/archive/refs/heads/url-upon-play.zip"
+                },
+                "name": "url-upon-play",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 1,
+        "full_name": "papalozarou/SportseBooks",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/papalozarou/SportseBooks.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "SportseBooks",
+        "open_issues_count": 2,
+        "open_pull_requests_count": 1,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/papalozarou/SportseBooks.bundle/master/Contents/Resources/icon-default.png"
+    },
     "22902614": {
         "archived": false,
         "attribution_image_url": null,
