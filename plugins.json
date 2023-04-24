@@ -2449,6 +2449,54 @@
         "stargazers_count": 27,
         "thumb_image_url": "https://raw.githubusercontent.com/psyciknz/NextPVR.bundle/master/Contents/Resources/icon-default.png"
     },
+    "125070124": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/17532875?v=4",
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "RTBF Auvio Plex Channel",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "1b7cb324c5f669404beabe9c19ae8528dcc2378c",
+                "date": "2018-03-20T19:50:00Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/mokhito/RTBF.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "mokhito/RTBF",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/mokhito/RTBF.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "RTBF",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/mokhito/RTBF.bundle/master/Contents/Resources/icon-default.jpg"
+    },
     "1262026": {
         "archived": false,
         "attribution_image_url": null,
