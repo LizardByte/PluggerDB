@@ -23245,6 +23245,54 @@
         "stargazers_count": 20,
         "thumb_image_url": "https://raw.githubusercontent.com/maikthulhu/GoogleMusic.bundle/master/Contents/Resources/icon-default.png"
     },
+    "585466087": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/118662174?v=4",
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "main",
+        "description": "Plex agent for Kanojo",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "61c7f004df22a71d8b634f200165a862bb5e0d1f",
+                "date": "2023-04-24T13:53:12Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/kanojo-db/Kanojo.bundle/archive/refs/heads/main.zip"
+                },
+                "name": "main",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 1,
+        "full_name": "kanojo-db/Kanojo",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/kanojo-db/Kanojo.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Kanojo",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": null
+    },
     "59388476": {
         "archived": false,
         "attribution_image_url": null,
