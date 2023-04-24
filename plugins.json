@@ -26153,6 +26153,54 @@
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/mmccurdy/MusicBrainz.bundle/master/Contents/Resources/icon-default.png"
     },
+    "7379902": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3155095?v=4",
+        "categories": [
+            "Channels",
+            "Music"
+        ],
+        "default_branch": "master",
+        "description": "Plex plugin for Rdio",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "dca9b73ce487a2d68a4a38a2045b8eedb5a73878",
+                "date": "2012-05-28T03:31:20Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/wiamott/Rdio.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 1,
+        "full_name": "wiamott/Rdio",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/wiamott/Rdio.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Rdio",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/wiamott/Rdio.bundle/master/Contents/Resources/icon-default.png"
+    },
     "74855964": {
         "archived": false,
         "attribution_image_url": null,
