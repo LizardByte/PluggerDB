@@ -14019,6 +14019,65 @@
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/PlexHaxx/PlexPodcast.bundle/master/Contents/Resources/icon-default.png"
     },
+    "30229673": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/10687428?v=4",
+        "categories": [
+            "Channels",
+            "Kids",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "nick reboot plex channel",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "62bd0226335c002e99fcdce73c99323381d9928b",
+                "date": "2014-09-25T11:59:36Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/PlexHaxx/nickreboot.bundle/archive/refs/heads/gh-pages.zip"
+                },
+                "name": "gh-pages",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "13ac0c4071e056513c064c492a7fcd67f1444714",
+                "date": "2014-09-24T18:59:22Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/PlexHaxx/nickreboot.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 1,
+        "full_name": "PlexHaxx/nickreboot",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/PlexHaxx/nickreboot.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "nickreboot",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/PlexHaxx/nickreboot.bundle/master/Contents/Resources/icon-default.png"
+    },
     "3077018": {
         "archived": false,
         "attribution_image_url": null,
