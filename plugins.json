@@ -16216,6 +16216,55 @@
         "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/adamrumbold/SBS.bundle/master/Contents/Resources/icon-default.png"
     },
+    "33506066": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/11693340?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex bundle voor Kijk.nl",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "4931f2d99e27e862f600b6d08dcc8b1cac3650ad",
+                "date": "2016-01-23T17:04:52Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/yutzhead/Kijk.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "yutzhead/Kijk",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/yutzhead/Kijk.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Kijk",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/yutzhead/Kijk.bundle/master/Contents/Resources/icon-default.png"
+    },
     "33955579": {
         "archived": false,
         "attribution_image_url": null,
