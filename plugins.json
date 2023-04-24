@@ -25660,6 +25660,54 @@
         "stargazers_count": 0,
         "thumb_image_url": null
     },
+    "68295041": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/2770588?v=4",
+        "categories": [
+            "Channels",
+            "Photos"
+        ],
+        "default_branch": "master",
+        "description": "Plex channel plugin for Flickr",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "775455c027c2bfb79107e0ccae3209f3739b7e13",
+                "date": "2016-09-15T13:15:10Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/sjlouw/Flickr.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "sjlouw/Flickr",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/sjlouw/Flickr.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Flickr",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/sjlouw/Flickr.bundle/master/Contents/Resources/icon-default.png"
+    },
     "6834172": {
         "archived": false,
         "attribution_image_url": null,
