@@ -5210,6 +5210,56 @@
         "stargazers_count": 6,
         "thumb_image_url": "https://raw.githubusercontent.com/wheelpharaoh/headphones.bundle/master/Contents/Resources/icon-default.png"
     },
+    "1549573": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/fredrike/s4u.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/676999?v=4",
+        "categories": [
+            "Metadata Agent",
+            "Movies",
+            "Subtitles",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "s4u.se (swedish subtitle site) Metadata Agent for Plex Media Server",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "addb39db4c5898914df6270faf7952262bc1bf63",
+                "date": "2011-12-13T08:20:28Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/fredrike/s4u.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "fredrike/s4u",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "http://forums.plexapp.com/index.php/topic/24360-undertexterse-lagom-till-nya-plex/",
+        "html_url": "https://github.com/fredrike/s4u.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "s4u",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/fredrike/s4u.bundle/master/Contents/Resources/icon-default.png"
+    },
     "15509058": {
         "archived": false,
         "attribution_image_url": null,
