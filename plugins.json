@@ -13263,6 +13263,64 @@
         "stargazers_count": 16,
         "thumb_image_url": null
     },
+    "28734848": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1405477?v=4",
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "IHOP Plex Channel",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "986214a4dcf71a2e485397c82534aad99bb4405c",
+                "date": "2015-01-04T09:51:08Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/jpunwin/IHOP.bundle/archive/refs/heads/develop.zip"
+                },
+                "name": "develop",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "986214a4dcf71a2e485397c82534aad99bb4405c",
+                "date": "2015-01-04T09:51:08Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/jpunwin/IHOP.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 1,
+        "full_name": "belasin/IHOP",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/belasin/IHOP.bundle",
+        "license": "Apache License 2.0",
+        "license_url": "https://api.github.com/licenses/apache-2.0",
+        "name": "IHOP",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/belasin/IHOP.bundle/master/Contents/Resources/icon-default.png"
+    },
     "28776470": {
         "archived": false,
         "attribution_image_url": null,
