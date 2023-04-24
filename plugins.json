@@ -19006,6 +19006,55 @@
         "stargazers_count": 96,
         "thumb_image_url": "https://raw.githubusercontent.com/Twoure/KissNetwork.bundle/master/Contents/Resources/icon-default.png"
     },
+    "4366970": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1751208?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Devour Plex Channel",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "98db19471f22a92093209e7709dec9d09addc73d",
+                "date": "2012-09-03T09:47:04Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/mmccurdy/Devour.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 1,
+        "full_name": "mmccurdy/Devour",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/mmccurdy/Devour.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Devour",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/mmccurdy/Devour.bundle/master/Contents/Resources/icon-default.png"
+    },
     "437663375": {
         "archived": false,
         "attribution_image_url": null,
