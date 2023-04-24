@@ -13458,6 +13458,55 @@
         "stargazers_count": 8,
         "thumb_image_url": null
     },
+    "289684157": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/70098065?v=4",
+        "categories": [
+            "Adult",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "plex agent for jav",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "f955e593b325dfbfb48b111d6a525ec748c3679e",
+                "date": "2019-06-14T04:41:59Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/wnd2da/Avgle.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "wnd2da/Avgle",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/wnd2da/Avgle.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Avgle",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": null
+    },
     "28979610": {
         "archived": false,
         "attribution_image_url": null,
