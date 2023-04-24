@@ -29922,5 +29922,64 @@
         },
         "stargazers_count": 2,
         "thumb_image_url": "https://raw.githubusercontent.com/jonklo/VGTV.bundle/master/Contents/Resources/icon-default.png"
+    },
+    "99451231": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1222748?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex app for goodparts",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "54a4aae2209bfee8be4f6bb79ae18f70d7216bad",
+                "date": "2018-04-03T23:23:43Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/MichaelStadtmiller/goodparts.bundle/archive/refs/heads/develop.zip"
+                },
+                "name": "develop",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "54a4aae2209bfee8be4f6bb79ae18f70d7216bad",
+                "date": "2018-04-03T23:23:43Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/MichaelStadtmiller/goodparts.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "MichaelStadtmiller/goodparts",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/MichaelStadtmiller/goodparts.bundle",
+        "license": "GNU General Public License v3.0",
+        "license_url": "https://api.github.com/licenses/gpl-3.0",
+        "name": "goodparts",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/MichaelStadtmiller/goodparts.bundle/master/Contents/Resources/icon-default.png"
     }
 }
