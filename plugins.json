@@ -21401,6 +21401,55 @@
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/DavidFONTAINE/subsonicplex.bundle/master/Contents/Resources/icon-default.png"
     },
+    "49501176": {
+        "archived": true,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/13121603?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Serialnet plugin for PLEX",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "d1924135bb863fcb53f7ec7143dcfc51fccbc8f9",
+                "date": "2016-02-08T20:52:56Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/kapeer/Serialnet.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "kapeer/Serialnet",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/kapeer/Serialnet.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Serialnet",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": null
+    },
     "49924573": {
         "archived": false,
         "attribution_image_url": null,
