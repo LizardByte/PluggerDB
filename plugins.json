@@ -2848,6 +2848,54 @@
         "stargazers_count": 13,
         "thumb_image_url": "https://raw.githubusercontent.com/cp9999/MusicPlaylist.bundle/master/Contents/Resources/icon-default.png"
     },
+    "1331409": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/115899?v=4",
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "a Plug-In for the Plex Media Center accessing telezueri.ch",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "1d4d510348222dee4643bbb7d923faa336266990",
+                "date": "2011-02-05T13:48:45Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/chhitz/TeleZueri.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "chhitz/TeleZueri",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/chhitz/TeleZueri.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "TeleZueri",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/chhitz/TeleZueri.bundle/master/Contents/Resources/icon-default.png"
+    },
     "1331413": {
         "archived": false,
         "attribution_image_url": null,
