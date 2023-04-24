@@ -23856,6 +23856,55 @@
         "stargazers_count": 18,
         "thumb_image_url": "https://raw.githubusercontent.com/sjlouw/GoogleMusic.bundle/master/Contents/Resources/icon-default.png"
     },
+    "66832541": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1908970?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Viafree Plex Channel",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "14dc681ed818cfcfde8fcc9da5d1eb435bf1455e",
+                "date": "2016-08-29T10:04:32Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/PatrickE94/Viafree.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "PatrickE94/Viafree",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/PatrickE94/Viafree.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Viafree",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/PatrickE94/Viafree.bundle/master/Contents/Resources/icon-default.png"
+    },
     "66879819": {
         "archived": false,
         "attribution_image_url": null,
