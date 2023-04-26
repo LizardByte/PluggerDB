@@ -2931,7 +2931,7 @@
         "license": null,
         "license_url": null,
         "name": "YouTube-Agent",
-        "open_issues_count": 13,
+        "open_issues_count": 12,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -13847,7 +13847,7 @@
         "license": null,
         "license_url": null,
         "name": "MyAnimeList",
-        "open_issues_count": 3,
+        "open_issues_count": 2,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -19362,7 +19362,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 305,
+        "stargazers_count": 307,
         "thumb_image_url": null
     },
     "41394428": {
@@ -25284,6 +25284,55 @@
         "stargazers_count": 7,
         "thumb_image_url": "https://raw.githubusercontent.com/ukdtom/JSONImport.bundle/master/Resources/icon-default.png"
     },
+    "64887949": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/2591976?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "NPO Uitzending gemist Plex channel",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "165282745fd62fc80edba62c1d43e804ed0ba207",
+                "date": "2016-08-08T17:33:19Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/meijjaa/UG.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "meijjaa/UG",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/meijjaa/UG.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "UG",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
+    },
     "65317596": {
         "archived": false,
         "attribution_image_url": null,
@@ -26594,6 +26643,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "00d11897e4a64a126425fc4e57b8a688f8cd49eb",
+                "date": "2023-04-25T20:07:51Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/Dingmatt/AMSA/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            },
+            {
                 "date": "2023-04-23T19:14:06Z",
                 "download_assets": {
                     "zipball": "https://api.github.com/repos/Dingmatt/AMSA/zipball/V1_0_7_3"
@@ -26602,16 +26661,6 @@
                 "prerelease": false,
                 "release_tag": "V1_0_7_3",
                 "type": "release"
-            },
-            {
-                "commit_sha": "071d4eb07bcec8e1c0af673deec7e5b37fd6de57",
-                "date": "2023-04-23T19:09:48Z",
-                "default_branch": true,
-                "download_assets": {
-                    "zipball": "https://github.com/Dingmatt/AMSA/archive/refs/heads/master.zip"
-                },
-                "name": "master",
-                "type": "branch"
             },
             {
                 "date": "2022-12-12T01:39:30Z",
