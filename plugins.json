@@ -2020,7 +2020,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1088,
+        "stargazers_count": 1089,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -2941,7 +2941,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 329,
+        "stargazers_count": 328,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -13857,7 +13857,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 126,
+        "stargazers_count": 127,
         "thumb_image_url": "https://raw.githubusercontent.com/Fribb/MyAnimeList.bundle/master/Contents/Resources/icon-default.png"
     },
     "28607437": {
@@ -16667,8 +16667,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "bcc4794602797a3b436724d6a00bdc676d464cd7",
-                "date": "2023-04-13T22:58:49Z",
+                "commit_sha": "ecb503d24a51ec8381eee280614933808cf03c53",
+                "date": "2023-04-27T19:14:50Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/ThePornDatabase/ThePornDB.bundle/archive/refs/heads/main.zip"
@@ -19362,7 +19362,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 307,
+        "stargazers_count": 308,
         "thumb_image_url": null
     },
     "41394428": {
