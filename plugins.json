@@ -16164,7 +16164,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 11,
+        "stargazers_count": 12,
         "thumb_image_url": null
     },
     "3287098": {
@@ -16687,7 +16687,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 14,
+        "forks_count": 15,
         "full_name": "ThePornDatabase/ThePornDB",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -16700,7 +16700,7 @@
         "license_url": null,
         "name": "ThePornDB",
         "open_issues_count": 7,
-        "open_pull_requests_count": 1,
+        "open_pull_requests_count": 2,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -17564,7 +17564,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 301,
+        "stargazers_count": 302,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -18820,7 +18820,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 44,
+        "stargazers_count": 45,
         "thumb_image_url": null
     },
     "395039310": {
@@ -26642,6 +26642,16 @@
         "description": "A Plex anime agent using TVDB and AniDB data",
         "disabled": false,
         "downloads": [
+            {
+                "date": "2023-04-29T19:05:32Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v1_0_7_4"
+                },
+                "name": "v1.07 Hotfix 4",
+                "prerelease": false,
+                "release_tag": "v1_0_7_4",
+                "type": "release"
+            },
             {
                 "commit_sha": "00d11897e4a64a126425fc4e57b8a688f8cd49eb",
                 "date": "2023-04-25T20:07:51Z",
