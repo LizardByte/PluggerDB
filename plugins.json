@@ -15478,7 +15478,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1401,
+        "stargazers_count": 1402,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -17516,7 +17516,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 590,
+        "stargazers_count": 591,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -19362,7 +19362,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 308,
+        "stargazers_count": 310,
         "thumb_image_url": null
     },
     "41394428": {
@@ -29976,7 +29976,7 @@
         "license": null,
         "license_url": null,
         "name": "Audiobooks",
-        "open_issues_count": 16,
+        "open_issues_count": 17,
         "open_pull_requests_count": 6,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
