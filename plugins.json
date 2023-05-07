@@ -4778,7 +4778,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 6,
+        "stargazers_count": 7,
         "thumb_image_url": "https://raw.githubusercontent.com/PhoenixPlexCode/Vixen.bundle/master/Contents/Resources/icon-default.png"
     },
     "148073215": {
@@ -13857,7 +13857,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 127,
+        "stargazers_count": 128,
         "thumb_image_url": "https://raw.githubusercontent.com/Fribb/MyAnimeList.bundle/master/Contents/Resources/icon-default.png"
     },
     "28607437": {
@@ -19352,7 +19352,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "Audnexus",
-        "open_issues_count": 7,
+        "open_issues_count": 6,
         "open_pull_requests_count": 1,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -23454,8 +23454,19 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "bbf5d5e4223ddd29916662982e65d45aeaaeeeca",
-                "date": "2023-04-25T01:02:47Z",
+                "date": "2023-05-06T21:15:54Z",
+                "download_assets": {
+                    "PlexyGlass.bundle.zip": "https://github.com/LizardByte/PlexyGlass/releases/download/v0.0.5/PlexyGlass.bundle.zip",
+                    "zipball": "https://api.github.com/repos/LizardByte/PlexyGlass/zipball/v0.0.5"
+                },
+                "name": "v0.0.5",
+                "prerelease": false,
+                "release_tag": "v0.0.5",
+                "type": "release"
+            },
+            {
+                "commit_sha": "0fb121734000ffdd14e505e46c98dcacb44262d1",
+                "date": "2023-05-06T21:15:39Z",
                 "default_branch": false,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.0.zip"
@@ -23464,8 +23475,18 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "ecc20563ee90dbedd454f99a142af9afeaf4e960",
-                "date": "2023-04-20T12:54:04Z",
+                "commit_sha": "f817681c19348df721ef1741d9ecc7cbd9fce1c3",
+                "date": "2023-05-06T21:15:03Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "07619c2be68598d558073053f228b70ae85f8b04",
+                "date": "2023-05-06T21:09:41Z",
                 "default_branch": false,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/nightly.zip"
@@ -23493,16 +23514,6 @@
                 "prerelease": false,
                 "release_tag": "v0.0.4",
                 "type": "release"
-            },
-            {
-                "commit_sha": "3e8e28b010c8b116e7ba570705106aacdafa4e98",
-                "date": "2022-10-09T18:09:21Z",
-                "default_branch": true,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/master.zip"
-                },
-                "name": "master",
-                "type": "branch"
             },
             {
                 "date": "2022-10-04T23:43:19Z",
@@ -23551,7 +23562,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "PlexyGlass",
         "open_issues_count": 0,
-        "open_pull_requests_count": 3,
+        "open_pull_requests_count": 2,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -23627,6 +23638,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "e9d889ce3d48c7953c22e86f50a37ae4001e3045",
+                "date": "2023-05-06T21:35:30Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
+                },
+                "name": "nightly",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "cb93ee5ceafd46d356376a5e85573da8cce89e02",
                 "date": "2023-04-24T09:07:31Z",
                 "default_branch": false,
@@ -23655,16 +23676,6 @@
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/master.zip"
                 },
                 "name": "master",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "42581f42e6abbf9e0497626127e6d972742d0105",
-                "date": "2023-04-20T17:12:59Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
-                },
-                "name": "nightly",
                 "type": "branch"
             },
             {
@@ -23823,7 +23834,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 1,
-        "open_pull_requests_count": 2,
+        "open_pull_requests_count": 3,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -24721,6 +24732,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "6b149542fbc0db09b1743432ceb9bbf18f6c47fc",
+                "date": "2023-05-06T22:14:58Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/featurize.zip"
+                },
+                "name": "featurize",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "82315c283d1f98ae155047f5b384d307762ab05e",
                 "date": "2023-04-05T09:06:14Z",
                 "default_branch": false,
@@ -24728,16 +24749,6 @@
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/peter-evans/create-pull-request-5.zip"
                 },
                 "name": "dependabot/github_actions/nightly/peter-evans/create-pull-request-5",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "8e0741312e702420a5d1b216399258a50c451799",
-                "date": "2023-04-04T21:26:53Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/featurize.zip"
-                },
-                "name": "featurize",
                 "type": "branch"
             },
             {
