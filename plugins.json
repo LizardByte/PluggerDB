@@ -4778,7 +4778,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 7,
+        "stargazers_count": 6,
         "thumb_image_url": "https://raw.githubusercontent.com/PhoenixPlexCode/Vixen.bundle/master/Contents/Resources/icon-default.png"
     },
     "148073215": {
@@ -11012,7 +11012,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 99,
+        "stargazers_count": 100,
         "thumb_image_url": null
     },
     "23301078": {
@@ -16699,7 +16699,7 @@
         "license": null,
         "license_url": null,
         "name": "ThePornDB",
-        "open_issues_count": 8,
+        "open_issues_count": 7,
         "open_pull_requests_count": 2,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -19362,7 +19362,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 310,
+        "stargazers_count": 311,
         "thumb_image_url": null
     },
     "41394428": {
@@ -19608,7 +19608,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 79,
+        "stargazers_count": 80,
         "thumb_image_url": null
     },
     "41901114": {
@@ -23638,23 +23638,23 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "e9d889ce3d48c7953c22e86f50a37ae4001e3045",
-                "date": "2023-05-06T21:35:30Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
-                },
-                "name": "nightly",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "cb93ee5ceafd46d356376a5e85573da8cce89e02",
-                "date": "2023-04-24T09:07:31Z",
+                "commit_sha": "0aed18f5a7efea4b9c505ef58ecbfa349ec857bd",
+                "date": "2023-05-07T22:35:17Z",
                 "default_branch": false,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.0.zip"
                 },
                 "name": "dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.0",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "9220cf0fac447589f23aa63482dd0a28c59c2162",
+                "date": "2023-05-07T22:34:36Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
+                },
+                "name": "nightly",
                 "type": "branch"
             },
             {
