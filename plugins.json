@@ -1830,7 +1830,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 12,
+        "stargazers_count": 13,
         "thumb_image_url": "https://raw.githubusercontent.com/oskameDEV/SubsCleaner.bundle/master/Contents/Resources/icon-default.png"
     },
     "120792652": {
@@ -2020,7 +2020,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1095,
+        "stargazers_count": 1096,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -9257,7 +9257,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 153,
+        "forks_count": 152,
         "full_name": "ZeroQI/Absolute-Series-Scanner",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -24732,6 +24732,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "47314502d7be7e2f4f2a91757cc2b59a9375a2d8",
+                "date": "2023-05-12T10:13:38Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/jquery-3.7.0.zip"
+                },
+                "name": "dependabot/npm_and_yarn/nightly/jquery-3.7.0",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "6b149542fbc0db09b1743432ceb9bbf18f6c47fc",
                 "date": "2023-05-06T22:14:58Z",
                 "default_branch": false,
@@ -24769,16 +24779,6 @@
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/actions/stale-8.zip"
                 },
                 "name": "dependabot/github_actions/nightly/actions/stale-8",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "e6eabaa4fbe0bb430a18506747a662a936b01844",
-                "date": "2023-03-09T10:08:45Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/jquery-3.6.4.zip"
-                },
-                "name": "dependabot/npm_and_yarn/nightly/jquery-3.6.4",
                 "type": "branch"
             },
             {
@@ -31232,7 +31232,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 31,
+        "stargazers_count": 32,
         "thumb_image_url": "https://raw.githubusercontent.com/joshuaavalon/AvalonXmlAgent.bundle/master/Contents/Resources/icon-default.png"
     },
     "9404487": {
