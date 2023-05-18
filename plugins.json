@@ -45,7 +45,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 79,
+        "stargazers_count": 80,
         "thumb_image_url": null
     },
     "10147260": {
@@ -2931,7 +2931,7 @@
         "license": null,
         "license_url": null,
         "name": "YouTube-Agent",
-        "open_issues_count": 12,
+        "open_issues_count": 13,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -13857,7 +13857,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 128,
+        "stargazers_count": 127,
         "thumb_image_url": "https://raw.githubusercontent.com/Fribb/MyAnimeList.bundle/master/Contents/Resources/icon-default.png"
     },
     "28607437": {
@@ -16709,7 +16709,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 88,
+        "stargazers_count": 89,
         "thumb_image_url": null
     },
     "3485091": {
@@ -17516,7 +17516,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 592,
+        "stargazers_count": 594,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -17564,7 +17564,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 302,
+        "stargazers_count": 303,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -19362,7 +19362,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 316,
+        "stargazers_count": 317,
         "thumb_image_url": null
     },
     "41394428": {
@@ -26876,7 +26876,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "AMSA",
-        "open_issues_count": 5,
+        "open_issues_count": 6,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
