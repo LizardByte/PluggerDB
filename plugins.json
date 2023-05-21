@@ -23679,16 +23679,6 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "2e783b9c9c899f982c4eae01eeb2132362fede0a",
-                "date": "2023-02-07T00:03:57Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/networking-use-requests.zip"
-                },
-                "name": "networking-use-requests",
-                "type": "branch"
-            },
-            {
                 "date": "2023-01-28T15:23:58Z",
                 "download_assets": {
                     "Themerr-plex.bundle.zip": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.1.3/Themerr-plex.bundle.zip",
