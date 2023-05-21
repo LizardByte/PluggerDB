@@ -2010,7 +2010,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "Hama",
-        "open_issues_count": 8,
+        "open_issues_count": 7,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -2020,7 +2020,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1097,
+        "stargazers_count": 1098,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -2931,7 +2931,7 @@
         "license": null,
         "license_url": null,
         "name": "YouTube-Agent",
-        "open_issues_count": 13,
+        "open_issues_count": 14,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -4805,7 +4805,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 220,
+        "forks_count": 219,
         "full_name": "PhoenixPlexCode/PhoenixAdult",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -8805,7 +8805,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 34,
+        "stargazers_count": 33,
         "thumb_image_url": null
     },
     "20152311": {
@@ -9257,7 +9257,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 152,
+        "forks_count": 153,
         "full_name": "ZeroQI/Absolute-Series-Scanner",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -9966,7 +9966,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 117,
+        "stargazers_count": 118,
         "thumb_image_url": "https://raw.githubusercontent.com/AdultScraperX/AdultScraperX.bundle/master/Contents/Resources/icon-default.png"
     },
     "21787506": {
@@ -17420,7 +17420,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 24,
+        "stargazers_count": 25,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/QQmusic.bundle/main/Contents/Resources/icon-default.png"
     },
     "360205681": {
@@ -17542,7 +17542,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 61,
+        "forks_count": 60,
         "full_name": "gboudreau/XBMCnfoTVImporter",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -23834,7 +23834,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 1,
-        "open_pull_requests_count": 3,
+        "open_pull_requests_count": 2,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -23843,7 +23843,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 21,
+        "stargazers_count": 22,
         "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/Themerr-plex/master/Contents/Resources/icon-default.png"
     },
     "5451640": {
@@ -25164,7 +25164,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 37,
+        "forks_count": 38,
         "full_name": "mikew/ss-plex",
         "gh_pages_url": "http://mikew.github.io/ss-plex.bundle/",
         "has_discussions": false,
@@ -29975,7 +29975,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 66,
+        "forks_count": 67,
         "full_name": "macr0dev/Audiobooks",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -29997,7 +29997,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 571,
+        "stargazers_count": 572,
         "thumb_image_url": null
     },
     "8525630": {
