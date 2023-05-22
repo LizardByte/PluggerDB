@@ -2941,7 +2941,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 331,
+        "stargazers_count": 332,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -9279,7 +9279,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 895,
+        "stargazers_count": 896,
         "thumb_image_url": null
     },
     "21045557": {
@@ -15478,7 +15478,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1402,
+        "stargazers_count": 1403,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -17516,7 +17516,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 594,
+        "stargazers_count": 595,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -17564,7 +17564,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 303,
+        "stargazers_count": 304,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -19634,7 +19634,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 2,
+        "forks_count": 1,
         "full_name": "devbobo/FetchTV",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -23833,7 +23833,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 22,
+        "stargazers_count": 23,
         "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/Themerr-plex/master/Contents/Resources/icon-default.png"
     },
     "5451640": {
@@ -24722,6 +24722,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "c908f66a64b66da5cb2330faef92d00a9b7ae31e",
+                "date": "2023-05-22T10:09:21Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.0.zip"
+                },
+                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.0",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "47314502d7be7e2f4f2a91757cc2b59a9375a2d8",
                 "date": "2023-05-12T10:13:38Z",
                 "default_branch": false,
@@ -24769,16 +24779,6 @@
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/actions/stale-8.zip"
                 },
                 "name": "dependabot/github_actions/nightly/actions/stale-8",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "0ffbff7e1d83b73c3e2bd58548cc8740768e1cae",
-                "date": "2023-02-27T10:16:08Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-4.5.14.zip"
-                },
-                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-4.5.14",
                 "type": "branch"
             },
             {
