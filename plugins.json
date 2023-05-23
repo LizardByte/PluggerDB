@@ -4827,7 +4827,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 87,
+        "stargazers_count": 88,
         "thumb_image_url": "https://raw.githubusercontent.com/PhoenixPlexCode/PhoenixAdult.bundle/master/Contents/Resources/icon-default.png"
     },
     "148755883": {
@@ -17468,7 +17468,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 10,
+        "stargazers_count": 11,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/Ximalaya.bundle/main/Contents/Resources/icon-default.png"
     },
     "3621001": {
@@ -19362,7 +19362,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 317,
+        "stargazers_count": 318,
         "thumb_image_url": null
     },
     "41394428": {
@@ -24119,7 +24119,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 6,
+        "stargazers_count": 7,
         "thumb_image_url": "https://raw.githubusercontent.com/Nosinden/JavHiHi.bundle/master/Contents/Resources/icon-default.png"
     },
     "55553102": {
@@ -24722,13 +24722,13 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "c908f66a64b66da5cb2330faef92d00a9b7ae31e",
-                "date": "2023-05-22T10:09:21Z",
+                "commit_sha": "095525f779322757091888d4fac417dba47fad2d",
+                "date": "2023-05-23T10:13:20Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.0.zip"
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.1.zip"
                 },
-                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.0",
+                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.1",
                 "type": "branch"
             },
             {
@@ -30229,7 +30229,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 105,
+        "stargazers_count": 104,
         "thumb_image_url": null
     },
     "86917897": {
