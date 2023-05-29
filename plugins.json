@@ -2010,7 +2010,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "Hama",
-        "open_issues_count": 7,
+        "open_issues_count": 8,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -6037,7 +6037,7 @@
         "license": null,
         "license_url": null,
         "name": "SRT2UTF-8",
-        "open_issues_count": 5,
+        "open_issues_count": 6,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -15478,7 +15478,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1405,
+        "stargazers_count": 1406,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -19362,7 +19362,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 319,
+        "stargazers_count": 322,
         "thumb_image_url": null
     },
     "41394428": {
@@ -21381,7 +21381,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 18,
+        "stargazers_count": 19,
         "thumb_image_url": null
     },
     "464150782": {
@@ -26876,7 +26876,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 198,
+        "stargazers_count": 199,
         "thumb_image_url": null
     },
     "70127189": {
