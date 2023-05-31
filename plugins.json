@@ -2941,7 +2941,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 332,
+        "stargazers_count": 334,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -3642,7 +3642,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 317,
+        "forks_count": 316,
         "full_name": "Cigaras/IPTV",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -3664,7 +3664,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 899,
+        "stargazers_count": 900,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -4449,7 +4449,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 49,
+        "forks_count": 48,
         "full_name": "realriot/tvheadend-ng",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -9257,7 +9257,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 152,
+        "forks_count": 153,
         "full_name": "ZeroQI/Absolute-Series-Scanner",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -9966,7 +9966,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 118,
+        "stargazers_count": 119,
         "thumb_image_url": "https://raw.githubusercontent.com/AdultScraperX/AdultScraperX.bundle/master/Contents/Resources/icon-default.png"
     },
     "21787506": {
@@ -11418,7 +11418,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 45,
+        "stargazers_count": 46,
         "thumb_image_url": "https://raw.githubusercontent.com/piplongrun/TrailerAddict.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "23765019": {
@@ -12137,7 +12137,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1269,
+        "stargazers_count": 1272,
         "thumb_image_url": null
     },
     "24851830": {
@@ -15478,7 +15478,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1406,
+        "stargazers_count": 1408,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -15605,7 +15605,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 24,
+        "forks_count": 23,
         "full_name": "pgaubatz/TvplexendChannel",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -17372,7 +17372,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 88,
+        "stargazers_count": 89,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/WangYiYun.bundle/main/Contents/Resources/icon-default.png"
     },
     "360014764": {
@@ -17420,7 +17420,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 25,
+        "stargazers_count": 26,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/QQmusic.bundle/main/Contents/Resources/icon-default.png"
     },
     "360205681": {
@@ -19608,7 +19608,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 81,
+        "stargazers_count": 82,
         "thumb_image_url": null
     },
     "41901114": {
@@ -20482,7 +20482,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 85,
+        "stargazers_count": 86,
         "thumb_image_url": "https://raw.githubusercontent.com/piplongrun/OpenMovieDatabase.bundle/master/Contents/Resources/icon-default.png"
     },
     "44556319": {
@@ -20651,7 +20651,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 12,
+        "stargazers_count": 13,
         "thumb_image_url": "https://raw.githubusercontent.com/vanstinator/PlexWink.bundle/master/Contents/Resources/icon-default.png"
     },
     "44669254": {
@@ -23290,7 +23290,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 129,
+        "stargazers_count": 130,
         "thumb_image_url": "https://raw.githubusercontent.com/coryo/ComicReader.bundle/master/Contents/Resources/icon-default.png"
     },
     "52311903": {
@@ -23833,7 +23833,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 24,
+        "stargazers_count": 25,
         "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/Themerr-plex/master/Contents/Resources/icon-default.png"
     },
     "5451640": {
@@ -24722,13 +24722,23 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "095525f779322757091888d4fac417dba47fad2d",
-                "date": "2023-05-23T10:13:20Z",
+                "commit_sha": "6e2943ed0e5b8e6a8df7b7ecfc9d4d94b7ed00e6",
+                "date": "2023-05-31T10:03:55Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.1.zip"
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.2.zip"
                 },
-                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.1",
+                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.2",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "44106a386ac644d3b6487866667684f068b3cfa0",
+                "date": "2023-05-31T10:03:49Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/bootstrap-5.3.0.zip"
+                },
+                "name": "dependabot/npm_and_yarn/nightly/bootstrap-5.3.0",
                 "type": "branch"
             },
             {
@@ -24779,16 +24789,6 @@
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/actions/stale-8.zip"
                 },
                 "name": "dependabot/github_actions/nightly/actions/stale-8",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "36b0772de1958553393f5f2f28aeb184d2443f92",
-                "date": "2023-02-27T10:16:05Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/bootstrap-5.2.3.zip"
-                },
-                "name": "dependabot/npm_and_yarn/nightly/bootstrap-5.2.3",
                 "type": "branch"
             },
             {
@@ -28095,7 +28095,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 14,
+        "stargazers_count": 15,
         "thumb_image_url": "https://raw.githubusercontent.com/piplongrun/muvio.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "77463691": {
@@ -29131,7 +29131,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 329,
+        "stargazers_count": 330,
         "thumb_image_url": "https://raw.githubusercontent.com/ukdtom/ExportTools.bundle/master/Contents/Resources/icon-default.png"
     },
     "79481264": {
@@ -29762,7 +29762,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 24,
+        "stargazers_count": 25,
         "thumb_image_url": "https://raw.githubusercontent.com/piplongrun/CSM.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "8201451": {
