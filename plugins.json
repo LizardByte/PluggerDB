@@ -2941,7 +2941,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 334,
+        "stargazers_count": 335,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -16748,7 +16748,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 7,
+        "forks_count": 6,
         "full_name": "bstard/AniDB",
         "gh_pages_url": null,
         "has_discussions": false,
