@@ -4827,7 +4827,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 88,
+        "stargazers_count": 89,
         "thumb_image_url": "https://raw.githubusercontent.com/PhoenixPlexCode/PhoenixAdult.bundle/master/Contents/Resources/icon-default.png"
     },
     "148755883": {
@@ -6047,7 +6047,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 122,
+        "stargazers_count": 121,
         "thumb_image_url": "https://raw.githubusercontent.com/ukdtom/SRT2UTF-8.bundle/master/Contents/Resources/icon-default.png"
     },
     "15983401": {
@@ -11012,7 +11012,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 100,
+        "stargazers_count": 99,
         "thumb_image_url": null
     },
     "23301078": {
@@ -12115,7 +12115,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 170,
+        "forks_count": 171,
         "full_name": "ukdtom/WebTools",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -12137,7 +12137,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1274,
+        "stargazers_count": 1273,
         "thumb_image_url": null
     },
     "24851830": {
@@ -12847,7 +12847,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 42,
+        "forks_count": 41,
         "full_name": "pbnkp/XNXX",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -12977,7 +12977,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 9,
+        "stargazers_count": 10,
         "thumb_image_url": "https://raw.githubusercontent.com/vofik/ExcaliburFilms.bundle/master/Contents/Resources/icon-default.png"
     },
     "26968294": {
@@ -15478,7 +15478,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1409,
+        "stargazers_count": 1410,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -16709,7 +16709,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 91,
+        "stargazers_count": 92,
         "thumb_image_url": null
     },
     "3485091": {
@@ -17178,7 +17178,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 329,
+        "stargazers_count": 328,
         "thumb_image_url": "https://raw.githubusercontent.com/kolsys/YouTubeTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "351489517": {
@@ -19036,7 +19036,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 28,
+        "stargazers_count": 29,
         "thumb_image_url": null
     },
     "40798557": {
@@ -19352,7 +19352,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "Audnexus",
-        "open_issues_count": 6,
+        "open_issues_count": 7,
         "open_pull_requests_count": 1,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -19362,7 +19362,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 323,
+        "stargazers_count": 324,
         "thumb_image_url": null
     },
     "41394428": {
@@ -25176,7 +25176,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 136,
+        "stargazers_count": 137,
         "thumb_image_url": "https://raw.githubusercontent.com/mikew/ss-plex.bundle/stable/Contents/Resources/icon-default.png"
     },
     "6366490": {
@@ -26644,6 +26644,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "e8d48d9483c5436e3b6229bd941f2b3bbb5df482",
+                "date": "2023-06-08T02:02:18Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/Dingmatt/AMSA/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            },
+            {
                 "date": "2023-04-29T19:05:32Z",
                 "download_assets": {
                     "zipball": "https://api.github.com/repos/Dingmatt/AMSA/zipball/v1_0_7_4"
@@ -26652,16 +26662,6 @@
                 "prerelease": false,
                 "release_tag": "v1_0_7_4",
                 "type": "release"
-            },
-            {
-                "commit_sha": "00d11897e4a64a126425fc4e57b8a688f8cd49eb",
-                "date": "2023-04-25T20:07:51Z",
-                "default_branch": true,
-                "download_assets": {
-                    "zipball": "https://github.com/Dingmatt/AMSA/archive/refs/heads/master.zip"
-                },
-                "name": "master",
-                "type": "branch"
             },
             {
                 "date": "2023-04-23T19:14:06Z",
@@ -26866,7 +26866,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "AMSA",
-        "open_issues_count": 6,
+        "open_issues_count": 5,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -26876,7 +26876,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 200,
+        "stargazers_count": 202,
         "thumb_image_url": null
     },
     "70127189": {
@@ -28598,7 +28598,7 @@
                 "Contents/Resources/Series/Shoko Series Scanner.py"
             ]
         },
-        "stargazers_count": 28,
+        "stargazers_count": 29,
         "thumb_image_url": null
     },
     "78305697": {
