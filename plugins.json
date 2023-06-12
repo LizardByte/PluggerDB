@@ -2020,7 +2020,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1104,
+        "stargazers_count": 1105,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -3664,7 +3664,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 902,
+        "stargazers_count": 901,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -4471,7 +4471,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 83,
+        "stargazers_count": 84,
         "thumb_image_url": "https://raw.githubusercontent.com/realriot/tvheadend-ng.bundle/master/Contents/Resources/icon-default.png"
     },
     "147096371": {
@@ -14831,7 +14831,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 26,
+        "stargazers_count": 27,
         "thumb_image_url": "https://raw.githubusercontent.com/tomfin46/IFDB.bundle/master/Contents/Resources/icon-default.png"
     },
     "300606585": {
@@ -15478,7 +15478,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1411,
+        "stargazers_count": 1412,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -16667,8 +16667,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "ecb503d24a51ec8381eee280614933808cf03c53",
-                "date": "2023-04-27T19:14:50Z",
+                "commit_sha": "fa90513101a1cb13debc85fc4f25dfbfa5663cff",
+                "date": "2023-06-11T17:46:33Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/ThePornDatabase/ThePornDB.bundle/archive/refs/heads/main.zip"
@@ -16709,7 +16709,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 92,
+        "stargazers_count": 91,
         "thumb_image_url": null
     },
     "3485091": {
@@ -17516,7 +17516,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 597,
+        "stargazers_count": 598,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -24722,13 +24722,13 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "6e2943ed0e5b8e6a8df7b7ecfc9d4d94b7ed00e6",
-                "date": "2023-05-31T10:03:55Z",
+                "commit_sha": "d5909d5b898c17c4db9fffa77791d54a391397ff",
+                "date": "2023-06-12T10:08:21Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.2.zip"
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.3.zip"
                 },
-                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.2",
+                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.3",
                 "type": "branch"
             },
             {
@@ -28598,7 +28598,7 @@
                 "Contents/Resources/Series/Shoko Series Scanner.py"
             ]
         },
-        "stargazers_count": 29,
+        "stargazers_count": 30,
         "thumb_image_url": null
     },
     "78305697": {
@@ -30684,7 +30684,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 101,
+        "stargazers_count": 102,
         "thumb_image_url": "https://raw.githubusercontent.com/taligentx/LiveTVH.bundle/master/Contents/Resources/icon-default.png"
     },
     "91238051": {
