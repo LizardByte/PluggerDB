@@ -2020,7 +2020,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1105,
+        "stargazers_count": 1106,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -3642,7 +3642,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 317,
+        "forks_count": 316,
         "full_name": "Cigaras/IPTV",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -5997,7 +5997,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 9,
+        "stargazers_count": 10,
         "thumb_image_url": null
     },
     "15878519": {
@@ -8182,8 +8182,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "0383fb34a24867fa497dce930049d1ffd0020660",
-                "date": "2023-06-10T03:26:23Z",
+                "commit_sha": "0944f9bbe127dd1fdf0405010259ba9cc96eea8d",
+                "date": "2023-06-13T04:32:10Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/alxpnt2/PlexJav18.bundle/archive/refs/heads/master.zip"
@@ -9966,7 +9966,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 119,
+        "stargazers_count": 120,
         "thumb_image_url": "https://raw.githubusercontent.com/AdultScraperX/AdultScraperX.bundle/master/Contents/Resources/icon-default.png"
     },
     "21787506": {
@@ -17516,7 +17516,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 598,
+        "stargazers_count": 600,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -17564,7 +17564,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 304,
+        "stargazers_count": 305,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
