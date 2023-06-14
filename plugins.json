@@ -3664,7 +3664,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 901,
+        "stargazers_count": 902,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -15478,7 +15478,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1412,
+        "stargazers_count": 1413,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -19362,7 +19362,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 327,
+        "stargazers_count": 328,
         "thumb_image_url": null
     },
     "41394428": {
@@ -23454,6 +23454,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "a56364f6d2374112d2c7dbe5156a1da87d5b4979",
+                "date": "2023-06-14T09:08:31Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.4.zip"
+                },
+                "name": "dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.4",
+                "type": "branch"
+            },
+            {
                 "date": "2023-05-06T21:15:54Z",
                 "download_assets": {
                     "PlexyGlass.bundle.zip": "https://github.com/LizardByte/PlexyGlass/releases/download/v0.0.5/PlexyGlass.bundle.zip",
@@ -23463,16 +23473,6 @@
                 "prerelease": false,
                 "release_tag": "v0.0.5",
                 "type": "release"
-            },
-            {
-                "commit_sha": "0fb121734000ffdd14e505e46c98dcacb44262d1",
-                "date": "2023-05-06T21:15:39Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.0.zip"
-                },
-                "name": "dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.0",
-                "type": "branch"
             },
             {
                 "commit_sha": "f817681c19348df721ef1741d9ecc7cbd9fce1c3",
@@ -23638,13 +23638,13 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "0aed18f5a7efea4b9c505ef58ecbfa349ec857bd",
-                "date": "2023-05-07T22:35:17Z",
+                "commit_sha": "b64e70694a997d23d8cdb72ce9c667ef56185628",
+                "date": "2023-06-14T09:09:29Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.0.zip"
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.4.zip"
                 },
-                "name": "dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.0",
+                "name": "dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.4",
                 "type": "branch"
             },
             {
