@@ -2011,7 +2011,7 @@
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "Hama",
         "open_issues_count": 8,
-        "open_pull_requests_count": 0,
+        "open_pull_requests_count": 1,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -3664,7 +3664,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 902,
+        "stargazers_count": 903,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -4069,7 +4069,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 40,
+        "stargazers_count": 41,
         "thumb_image_url": "https://raw.githubusercontent.com/adultplexdev/AdultDVDEmpire.bundle/master/Contents/Resources/icon-default.png"
     },
     "140122265": {
@@ -4127,7 +4127,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 7,
+        "stargazers_count": 8,
         "thumb_image_url": "https://raw.githubusercontent.com/kolsys/TorrServer.bundle/master/Contents/Resources/icon-default.png"
     },
     "14094401": {
@@ -11012,7 +11012,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 99,
+        "stargazers_count": 100,
         "thumb_image_url": null
     },
     "23301078": {
@@ -15478,7 +15478,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1413,
+        "stargazers_count": 1415,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -17516,7 +17516,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 601,
+        "stargazers_count": 600,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -17564,7 +17564,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 305,
+        "stargazers_count": 304,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -26876,7 +26876,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 202,
+        "stargazers_count": 203,
         "thumb_image_url": null
     },
     "70127189": {
@@ -28584,7 +28584,7 @@
         "license": null,
         "license_url": null,
         "name": "ShokoMetadata",
-        "open_issues_count": 4,
+        "open_issues_count": 1,
         "open_pull_requests_count": 2,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
