@@ -2941,7 +2941,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 336,
+        "stargazers_count": 337,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -3664,7 +3664,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 903,
+        "stargazers_count": 902,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -4805,7 +4805,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 219,
+        "forks_count": 218,
         "full_name": "PhoenixPlexCode/PhoenixAdult",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -4827,7 +4827,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 89,
+        "stargazers_count": 90,
         "thumb_image_url": "https://raw.githubusercontent.com/PhoenixPlexCode/PhoenixAdult.bundle/master/Contents/Resources/icon-default.png"
     },
     "148755883": {
@@ -15478,7 +15478,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1415,
+        "stargazers_count": 1416,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -21483,7 +21483,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 2,
+        "stargazers_count": 3,
         "thumb_image_url": null
     },
     "46706942": {
@@ -29965,7 +29965,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 67,
+        "forks_count": 66,
         "full_name": "macr0dev/Audiobooks",
         "gh_pages_url": null,
         "has_discussions": false,
