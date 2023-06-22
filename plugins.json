@@ -582,7 +582,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 25,
+        "stargazers_count": 26,
         "thumb_image_url": "https://raw.githubusercontent.com/defract/Colima.bundle/master/Contents/Resources/icon-default.png"
     },
     "1086937": {
@@ -2931,7 +2931,7 @@
         "license": null,
         "license_url": null,
         "name": "YouTube-Agent",
-        "open_issues_count": 14,
+        "open_issues_count": 15,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -8214,7 +8214,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 22,
+        "stargazers_count": 23,
         "thumb_image_url": "https://raw.githubusercontent.com/alxpnt2/PlexJav18.bundle/master/Jav18.bundle/Contents/Resources/icon-default.png"
     },
     "18257694": {
@@ -9269,7 +9269,7 @@
         "license": null,
         "license_url": null,
         "name": "Absolute-Series-Scanner",
-        "open_issues_count": 8,
+        "open_issues_count": 10,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -9279,7 +9279,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 899,
+        "stargazers_count": 900,
         "thumb_image_url": null
     },
     "21045557": {
@@ -9777,7 +9777,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1,
+        "stargazers_count": 2,
         "thumb_image_url": "https://raw.githubusercontent.com/mattpwalsh/TiVo.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "217692442": {
@@ -12115,7 +12115,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 171,
+        "forks_count": 172,
         "full_name": "ukdtom/WebTools",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -17516,7 +17516,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 600,
+        "stargazers_count": 601,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -18820,7 +18820,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 48,
+        "stargazers_count": 49,
         "thumb_image_url": null
     },
     "395039310": {
@@ -23454,13 +23454,13 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "a56364f6d2374112d2c7dbe5156a1da87d5b4979",
-                "date": "2023-06-14T09:08:31Z",
+                "commit_sha": "7108909ab87da9ea1dbdb3aad9f133811f161012",
+                "date": "2023-06-22T09:02:31Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.4.zip"
+                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.5.zip"
                 },
-                "name": "dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.4",
+                "name": "dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.5",
                 "type": "branch"
             },
             {
@@ -23638,13 +23638,13 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "b64e70694a997d23d8cdb72ce9c667ef56185628",
-                "date": "2023-06-14T09:09:29Z",
+                "commit_sha": "2c3287866fd7a1fa6cdced875c841d88add38167",
+                "date": "2023-06-22T09:03:08Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.4.zip"
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.5.zip"
                 },
-                "name": "dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.4",
+                "name": "dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.5",
                 "type": "branch"
             },
             {
@@ -26876,7 +26876,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 203,
+        "stargazers_count": 206,
         "thumb_image_url": null
     },
     "70127189": {
@@ -29538,7 +29538,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 58,
+        "stargazers_count": 57,
         "thumb_image_url": null
     },
     "81349855": {
