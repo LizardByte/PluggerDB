@@ -25498,6 +25498,85 @@
         "stargazers_count": 7,
         "thumb_image_url": "https://raw.githubusercontent.com/ukdtom/JSONImport.bundle/master/Resources/icon-default.png"
     },
+    "6420530": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1499543?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex module for cplus replay",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "10f009c1f910c297a43fd0d770ab3cd6b59f2a1c",
+                "date": "2016-02-01T23:49:20Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/whoo/Cplus.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "db8ab8d5122ec97d4d9bc697d030c7bd1d762b2a",
+                "date": "2013-10-17T01:13:39Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/whoo/Cplus.bundle/archive/refs/heads/NewVersion.zip"
+                },
+                "name": "NewVersion",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "4ba33050147b8c7de84406a148939c45017bc787",
+                "date": "2013-10-17T01:01:07Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/whoo/Cplus.bundle/archive/refs/heads/v1.zip"
+                },
+                "name": "v1",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "60031b84186c84e058a92f6b0013061d56a176dd",
+                "date": "2012-11-04T23:58:50Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/whoo/Cplus.bundle/archive/refs/heads/NewMode.zip"
+                },
+                "name": "NewMode",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "whoo/Cplus",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/whoo/Cplus.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Cplus",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/whoo/Cplus.bundle/master/Contents/Resources/icon-default.png"
+    },
     "64887949": {
         "archived": false,
         "attribution_image_url": null,
