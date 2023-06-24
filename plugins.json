@@ -146,6 +146,54 @@
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/Pahiro/SuperSport2.bundle/master/Contents/Resources/icon-default.png"
     },
+    "1018627": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/248747?v=4",
+        "categories": [
+            "Channels",
+            "Music"
+        ],
+        "default_branch": "master",
+        "description": "Plex plugin for dig.ccmixter ",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "3f64734b4bb58aaedc97c48ab5a21fd1f9f60c12",
+                "date": "2010-11-21T23:09:04Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/jonnywray/ccmixter.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "jonnywray/ccmixter",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/jonnywray/ccmixter.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "ccmixter",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/jonnywray/ccmixter.bundle/master/Contents/Resources/icon-default.png"
+    },
     "10227539": {
         "archived": false,
         "attribution_image_url": null,
