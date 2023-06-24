@@ -30603,6 +30603,55 @@
         "stargazers_count": 2,
         "thumb_image_url": "https://raw.githubusercontent.com/nsgundy/InternetRadio.bundle/master/Contents/Resources/icon-default.png"
     },
+    "88765324": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/27776731?v=4",
+        "categories": [
+            "Channels",
+            "Music",
+            "Radio"
+        ],
+        "default_branch": "master",
+        "description": "South African Radio for Plex",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "ca2580827db06702a5a4c4cdcf9c613b72e732cf",
+                "date": "2017-04-20T15:53:10Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/SilentBob82/SARadio.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "SilentBob82/SARadio",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/SilentBob82/SARadio.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "SARadio",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
+    },
     "889909": {
         "archived": true,
         "attribution_image_url": "https://raw.githubusercontent.com/oncleben31/CinePassion.bundle/master/Contents/Resources/attribution.png",
