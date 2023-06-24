@@ -1109,7 +1109,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 85,
+        "forks_count": 87,
         "full_name": "hojel/DaumMovie",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -2941,7 +2941,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 337,
+        "stargazers_count": 338,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -9217,8 +9217,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "100c5081adcc928b4c23f2ad51c5aee8ba64eb0a",
-                "date": "2022-11-28T17:38:21Z",
+                "commit_sha": "1ce6b582ac8ddce8ce5a6e3766b481bdd2a91a16",
+                "date": "2023-06-23T23:01:14Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/ZeroQI/Absolute-Series-Scanner/archive/refs/heads/master.zip"
@@ -9269,7 +9269,7 @@
         "license": null,
         "license_url": null,
         "name": "Absolute-Series-Scanner",
-        "open_issues_count": 10,
+        "open_issues_count": 9,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -10262,7 +10262,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1,
+        "stargazers_count": 2,
         "thumb_image_url": "https://raw.githubusercontent.com/sander1/AnimeHD.bundle/master/Contents/Resources/icon-default.png"
     },
     "22273319": {
@@ -12869,7 +12869,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 22,
+        "stargazers_count": 23,
         "thumb_image_url": "https://raw.githubusercontent.com/pbnkp/XNXX.bundle/master/Contents/Resources/icon-default.png"
     },
     "26585517": {
@@ -17516,7 +17516,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 602,
+        "stargazers_count": 603,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -17564,7 +17564,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 304,
+        "stargazers_count": 305,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -19362,7 +19362,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 328,
+        "stargazers_count": 327,
         "thumb_image_url": null
     },
     "41394428": {
@@ -19608,7 +19608,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 82,
+        "stargazers_count": 81,
         "thumb_image_url": null
     },
     "41901114": {
@@ -26390,7 +26390,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 64,
+        "stargazers_count": 65,
         "thumb_image_url": "https://raw.githubusercontent.com/ReallyFuzzy/IceFilms.bundle/master/Contents/Resources/icon-default.png"
     },
     "69209707": {
@@ -26876,7 +26876,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 206,
+        "stargazers_count": 207,
         "thumb_image_url": null
     },
     "70127189": {
@@ -28224,7 +28224,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 19,
+        "stargazers_count": 20,
         "thumb_image_url": "https://raw.githubusercontent.com/Twoure/9anime.bundle/master/Contents/Resources/icon-default.png"
     },
     "7750402": {
@@ -29538,7 +29538,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 57,
+        "stargazers_count": 58,
         "thumb_image_url": null
     },
     "81349855": {
