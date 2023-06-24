@@ -782,6 +782,54 @@
         "stargazers_count": 11,
         "thumb_image_url": "https://raw.githubusercontent.com/chidychi/Data18-Content.bundle/master/Contents/Resources/icon-default.png"
     },
+    "109516363": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/2567662?v=4",
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "A Plex channel for Haystacktv",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "cb56f3fd6da8ac637fd1e1de8478a3e9d8af6ea5",
+                "date": "2017-11-05T05:56:07Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/shopgirl284/Haystack.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "shopgirl284/Haystack",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/shopgirl284/Haystack.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Haystack",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/shopgirl284/Haystack.bundle/master/Contents/Resources/icon-default.png"
+    },
     "1095586": {
         "archived": false,
         "attribution_image_url": null,
