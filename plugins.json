@@ -11975,6 +11975,55 @@
         "stargazers_count": 2,
         "thumb_image_url": "https://raw.githubusercontent.com/benkle-libs/YTDL-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
+    "241990970": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/5311407?v=4",
+        "categories": [
+            "Adult",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Plex Metadata Agent for ThePornDB",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "3cbd7cb94a5bb47aa549b1ba190adb3e1ed5e8fd",
+                "date": "2020-02-03T04:21:39Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/ferengi82/ThePornDB.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "ferengi82/ThePornDB",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/ferengi82/ThePornDB.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "ThePornDB",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": null
+    },
     "24320253": {
         "archived": false,
         "attribution_image_url": null,
