@@ -17891,6 +17891,75 @@
         "stargazers_count": 16,
         "thumb_image_url": null
     },
+    "367890037": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/39911354?v=4",
+        "categories": [
+            "Games",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Giantbomb Metadata Agent for Plex",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "15aa6cdda4f491036b226e3614e45d53b76a7299",
+                "date": "2022-08-01T23:10:44Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/dexxfm/GBWiki.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            },
+            {
+                "date": "2021-05-31T18:00:26Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/dexxfm/GBWiki.bundle/zipball/0.8.2"
+                },
+                "name": "Bug Fix-import issues",
+                "prerelease": true,
+                "release_tag": "0.8.2",
+                "type": "release"
+            },
+            {
+                "date": "2021-05-31T16:58:22Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/dexxfm/GBWiki.bundle/zipball/v0.8.0"
+                },
+                "name": "Initial Release",
+                "prerelease": true,
+                "release_tag": "v0.8.0",
+                "type": "release"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "dexxfm/GBWiki",
+        "gh_pages_url": null,
+        "has_discussions": true,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/dexxfm/GBWiki.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "GBWiki",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": null
+    },
     "36913507": {
         "archived": false,
         "attribution_image_url": null,
