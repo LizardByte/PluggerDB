@@ -24098,6 +24098,55 @@
         "stargazers_count": 25,
         "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/Themerr-plex/master/Contents/Resources/icon-default.png"
     },
+    "54208952": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/6715269?v=4",
+        "categories": [
+            "Channels",
+            "Music",
+            "Radio"
+        ],
+        "default_branch": "master",
+        "description": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u043b\u0430\u0433\u0438\u043d \u041b\u0435\u043f\u0440\u043e\u0440\u0430\u0434\u0438\u043e \u0434\u043b\u044f Plex",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "c65545383e870f7e65cfdf95b62cde561787c394",
+                "date": "2016-03-18T15:12:38Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/pkozlov/Leproradio.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 1,
+        "full_name": "pkozlov/Leproradio",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "http://leproradio.com",
+        "html_url": "https://github.com/pkozlov/Leproradio.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Leproradio",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/pkozlov/Leproradio.bundle/master/Contents/Resources/icon-default.png"
+    },
     "5451640": {
         "archived": false,
         "attribution_image_url": null,
