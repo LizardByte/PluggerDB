@@ -22758,6 +22758,55 @@
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/ivanboring/Plexopedia.bundle/master/Contents/Resources/icon-default.png"
     },
+    "48981227": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/7566514?v=4",
+        "categories": [
+            "Channels",
+            "Music",
+            "Radio"
+        ],
+        "default_branch": "master",
+        "description": "Radio Active.FM Plex PLugin",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "c478c699b32c2fe3482567eaa1dfbe3d194d617d",
+                "date": "2016-01-04T07:43:29Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/droopanu/Radioactive.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "droopanu/Radioactive",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/droopanu/Radioactive.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Radioactive",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
+    },
     "48995051": {
         "archived": false,
         "attribution_image_url": null,
