@@ -25675,6 +25675,55 @@
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/whoo/Cplus.bundle/master/Contents/Resources/icon-default.png"
     },
+    "64351605": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/7416776?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "A diamondclub.tv plex plugin",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "b8781662b396d7b9eab84185aa87b09245d85524",
+                "date": "2016-07-28T01:03:50Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/polferdj/diamondclubtv.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "polferdj/diamondclubtv",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/polferdj/diamondclubtv.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "diamondclubtv",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/polferdj/diamondclubtv.bundle/master/Contents/Resources/icon-default.png"
+    },
     "64887949": {
         "archived": false,
         "attribution_image_url": null,
