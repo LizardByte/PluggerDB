@@ -14832,6 +14832,56 @@
         "stargazers_count": 8,
         "thumb_image_url": null
     },
+    "29411711": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/10578998?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Sports",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex channel for golfchannel.com",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "cf7854084b7f9d8f82ce940f90e92ed9e2d4bf1d",
+                "date": "2014-04-17T14:57:26Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/solo38/Golfchannel.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "solo38/Golfchannel",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/solo38/Golfchannel.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Golfchannel",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
+    },
     "29514945": {
         "archived": false,
         "attribution_image_url": null,
