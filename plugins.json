@@ -17570,6 +17570,55 @@
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/jwsolve/HDMoviesDownload.bundle/master/Contents/Resources/icon-default.png"
     },
+    "3554788": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/15849?v=4",
+        "categories": [
+            "Channels",
+            "Music",
+            "Radio"
+        ],
+        "default_branch": "master",
+        "description": "SomaFM bundle for Plex.app",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "abe097f9d0ffbda51d0d2e4c0e0ed8ed4ae88280",
+                "date": "2012-02-26T20:57:44Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/jbeisser/SomaFM.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "jbeisser/SomaFM",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": null,
+        "html_url": "https://github.com/jbeisser/SomaFM.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "SomaFM",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/jbeisser/SomaFM.bundle/master/Contents/Resources/icon-default.png"
+    },
     "359880004": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/timmy0209/WangYiYun.bundle/main/Contents/Resources/attribution.png",
