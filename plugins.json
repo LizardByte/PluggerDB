@@ -6204,6 +6204,56 @@
         "stargazers_count": 22,
         "thumb_image_url": null
     },
+    "16050382": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/534343?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Sports",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex plugin for EurosportPlayer - Discontinued",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "48a7deac7413c7f859c1373b6eb95b8cc023d3da",
+                "date": "2017-01-21T15:46:23Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/Coi-l/EurosportPlayer.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "Coi-l/EurosportPlayer",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "",
+        "html_url": "https://github.com/Coi-l/EurosportPlayer.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "EurosportPlayer",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/Coi-l/EurosportPlayer.bundle/master/Contents/Resources/icon-default.png"
+    },
     "161035923": {
         "archived": false,
         "attribution_image_url": "https://raw.githubusercontent.com/AlphaFactory/KoreanSortTitleGenerator.bundle/master/Contents/Resources/attribution.png",
