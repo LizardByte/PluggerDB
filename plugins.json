@@ -19989,6 +19989,55 @@
         "stargazers_count": 3,
         "thumb_image_url": null
     },
+    "41566378": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/13765568?v=4",
+        "categories": [
+            "Channels",
+            "TV",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Category5.TV addon for Plex",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "fe32b6608f18829ca4dc7fb75b47d30821d61348",
+                "date": "2015-09-01T22:07:39Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/nateuk/category5.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 1,
+        "full_name": "nateuk/category5",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": false,
+        "homepage": "http://www.categroy5.tv",
+        "html_url": "https://github.com/nateuk/category5.bundle",
+        "license": "GNU General Public License v2.0",
+        "license_url": "https://api.github.com/licenses/gpl-2.0",
+        "name": "category5",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/nateuk/category5.bundle/master/Contents/Resources/icon-default.png"
+    },
     "41877680": {
         "archived": false,
         "attribution_image_url": null,
