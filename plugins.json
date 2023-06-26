@@ -1205,7 +1205,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 87,
+        "forks_count": 88,
         "full_name": "hojel/DaumMovie",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -1645,7 +1645,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 14,
+        "forks_count": 15,
         "full_name": "wonipapa/DaumMovieTVSeries",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -3760,7 +3760,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 902,
+        "stargazers_count": 903,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -4901,7 +4901,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 218,
+        "forks_count": 219,
         "full_name": "PhoenixPlexCode/PhoenixAdult",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -4923,7 +4923,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 90,
+        "stargazers_count": 91,
         "thumb_image_url": "https://raw.githubusercontent.com/PhoenixPlexCode/PhoenixAdult.bundle/master/Contents/Resources/icon-default.png"
     },
     "148755883": {
@@ -8350,7 +8350,7 @@
         "license": null,
         "license_url": null,
         "name": "PlexJav18",
-        "open_issues_count": 1,
+        "open_issues_count": 2,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -9425,7 +9425,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 900,
+        "stargazers_count": 899,
         "thumb_image_url": null
     },
     "21045557": {
@@ -12762,7 +12762,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 121,
+        "stargazers_count": 120,
         "thumb_image_url": null
     },
     "25490193": {
@@ -14100,7 +14100,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 127,
+        "stargazers_count": 126,
         "thumb_image_url": "https://raw.githubusercontent.com/Fribb/MyAnimeList.bundle/master/Contents/Resources/icon-default.png"
     },
     "28607437": {
@@ -15771,7 +15771,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1416,
+        "stargazers_count": 1415,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -17714,7 +17714,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 88,
+        "stargazers_count": 89,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/WangYiYun.bundle/main/Contents/Resources/icon-default.png"
     },
     "360014764": {
@@ -17884,7 +17884,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 60,
+        "forks_count": 59,
         "full_name": "gboudreau/XBMCnfoTVImporter",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -17906,7 +17906,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 305,
+        "stargazers_count": 306,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -19447,7 +19447,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1,
+        "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/atempcode1/Douban.bundle/master/Contents/Resources/icon-default.png"
     },
     "401121683": {
@@ -19821,7 +19821,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 327,
+        "stargazers_count": 328,
         "thumb_image_url": null
     },
     "41394428": {
@@ -27610,7 +27610,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 207,
+        "stargazers_count": 208,
         "thumb_image_url": null
     },
     "70127189": {
@@ -27988,16 +27988,6 @@
         "description": "Plex Video Channel to watch content from http://javbuz.com/",
         "disabled": false,
         "downloads": [
-            {
-                "date": "2016-11-03T20:10:21Z",
-                "download_assets": {
-                    "zipball": "https://api.github.com/repos/Nosinden/JavBuz.bundle/zipball/v1.0.2"
-                },
-                "name": "v1.0.2",
-                "prerelease": false,
-                "release_tag": "v1.0.2",
-                "type": "release"
-            },
             {
                 "commit_sha": "d5bb81b930b7b925f8ca7e6d635d0e1e8ce22bcd",
                 "date": "2016-11-03T20:07:51Z",
@@ -30721,7 +30711,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 573,
+        "stargazers_count": 572,
         "thumb_image_url": null
     },
     "8525630": {
@@ -32005,7 +31995,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 32,
+        "stargazers_count": 31,
         "thumb_image_url": "https://raw.githubusercontent.com/joshuaavalon/AvalonXmlAgent.bundle/master/Contents/Resources/icon-default.png"
     },
     "9404487": {
