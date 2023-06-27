@@ -3037,7 +3037,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 338,
+        "stargazers_count": 339,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -8328,8 +8328,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "0944f9bbe127dd1fdf0405010259ba9cc96eea8d",
-                "date": "2023-06-13T04:32:10Z",
+                "commit_sha": "5131032768efc466e77942c3b1c7c0186036b421",
+                "date": "2023-06-27T03:00:26Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/alxpnt2/PlexJav18.bundle/archive/refs/heads/master.zip"
@@ -11136,7 +11136,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 14,
+        "forks_count": 15,
         "full_name": "JordyAlkema/Youtube-DL-Agent",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -17858,7 +17858,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 603,
+        "stargazers_count": 604,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -17906,7 +17906,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 306,
+        "stargazers_count": 307,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -19821,7 +19821,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 328,
+        "stargazers_count": 329,
         "thumb_image_url": null
     },
     "41394428": {
@@ -27988,6 +27988,16 @@
         "description": "Plex Video Channel to watch content from http://javbuz.com/",
         "disabled": false,
         "downloads": [
+            {
+                "date": "2016-11-03T20:10:21Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/Nosinden/JavBuz.bundle/zipball/v1.0.2"
+                },
+                "name": "v1.0.2",
+                "prerelease": false,
+                "release_tag": "v1.0.2",
+                "type": "release"
+            },
             {
                 "commit_sha": "d5bb81b930b7b925f8ca7e6d635d0e1e8ce22bcd",
                 "date": "2016-11-03T20:07:51Z",
