@@ -3037,7 +3037,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 344,
+        "stargazers_count": 345,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -14100,7 +14100,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 126,
+        "stargazers_count": 128,
         "thumb_image_url": "https://raw.githubusercontent.com/Fribb/MyAnimeList.bundle/master/Contents/Resources/icon-default.png"
     },
     "28607437": {
@@ -25328,13 +25328,13 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "d5909d5b898c17c4db9fffa77791d54a391397ff",
-                "date": "2023-06-12T10:08:21Z",
+                "commit_sha": "69e39063f0ddf9adb52d0fba6756094c0edf439a",
+                "date": "2023-07-04T09:34:16Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.3.zip"
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.4.zip"
                 },
-                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.3",
+                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.4",
                 "type": "branch"
             },
             {
