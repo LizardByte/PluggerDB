@@ -2116,7 +2116,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1109,
+        "stargazers_count": 1110,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -13980,6 +13980,27 @@
         "disabled": false,
         "downloads": [
             {
+                "date": "2023-07-07T14:38:51Z",
+                "download_assets": {
+                    "MyAnimeList-v7.4.1.zip": "https://github.com/Fribb/MyAnimeList.bundle/releases/download/v7.4.1/MyAnimeList-v7.4.1.zip",
+                    "zipball": "https://api.github.com/repos/Fribb/MyAnimeList.bundle/zipball/v7.4.1"
+                },
+                "name": "Release v7.4.1",
+                "prerelease": false,
+                "release_tag": "v7.4.1",
+                "type": "release"
+            },
+            {
+                "commit_sha": "b7f3e3788aa0b2ad14eae462e97d43c681d4ce9d",
+                "date": "2023-07-07T14:35:11Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/Fribb/MyAnimeList.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            },
+            {
                 "date": "2022-12-07T07:07:53Z",
                 "download_assets": {
                     "MyAnimeList-v7.4.0.zip": "https://github.com/Fribb/MyAnimeList.bundle/releases/download/v7.4.0/MyAnimeList-v7.4.0.zip",
@@ -13989,16 +14010,6 @@
                 "prerelease": false,
                 "release_tag": "v7.4.0",
                 "type": "release"
-            },
-            {
-                "commit_sha": "69951e1e5e543a0e014baff694a4abb284027b58",
-                "date": "2022-12-07T06:57:57Z",
-                "default_branch": true,
-                "download_assets": {
-                    "zipball": "https://github.com/Fribb/MyAnimeList.bundle/archive/refs/heads/master.zip"
-                },
-                "name": "master",
-                "type": "branch"
             },
             {
                 "date": "2022-11-19T09:29:02Z",
@@ -17002,7 +17013,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 93,
+        "stargazers_count": 94,
         "thumb_image_url": null
     },
     "3485091": {
@@ -19231,7 +19242,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 50,
+        "stargazers_count": 51,
         "thumb_image_url": null
     },
     "395039310": {
