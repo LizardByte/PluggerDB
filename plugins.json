@@ -3037,7 +3037,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 345,
+        "stargazers_count": 346,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -8360,7 +8360,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 24,
+        "stargazers_count": 25,
         "thumb_image_url": "https://raw.githubusercontent.com/alxpnt2/PlexJav18.bundle/master/Jav18.bundle/Contents/Resources/icon-default.png"
     },
     "18257694": {
@@ -12310,7 +12310,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 172,
+        "forks_count": 173,
         "full_name": "ukdtom/WebTools",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -13064,7 +13064,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 24,
+        "stargazers_count": 25,
         "thumb_image_url": "https://raw.githubusercontent.com/pbnkp/XNXX.bundle/master/Contents/Resources/icon-default.png"
     },
     "26585517": {
@@ -17482,7 +17482,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 329,
+        "stargazers_count": 330,
         "thumb_image_url": "https://raw.githubusercontent.com/kolsys/YouTubeTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "351489517": {
@@ -17869,7 +17869,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 604,
+        "stargazers_count": 605,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -17917,7 +17917,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 308,
+        "stargazers_count": 309,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -25339,13 +25339,13 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "69e39063f0ddf9adb52d0fba6756094c0edf439a",
-                "date": "2023-07-04T09:34:16Z",
+                "commit_sha": "032916575730d5152d56108284553c4af8ba4d07",
+                "date": "2023-07-10T10:04:44Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.4.zip"
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.5.zip"
                 },
-                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.4",
+                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.5",
                 "type": "branch"
             },
             {
