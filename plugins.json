@@ -2116,7 +2116,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1110,
+        "stargazers_count": 1111,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -3037,7 +3037,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 346,
+        "stargazers_count": 347,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -3760,7 +3760,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 905,
+        "stargazers_count": 908,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -8350,7 +8350,7 @@
         "license": null,
         "license_url": null,
         "name": "PlexJav18",
-        "open_issues_count": 1,
+        "open_issues_count": 2,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -9363,8 +9363,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "1ce6b582ac8ddce8ce5a6e3766b481bdd2a91a16",
-                "date": "2023-06-23T23:01:14Z",
+                "commit_sha": "5e41a64685af5139eded4f9c9a6f1e50ba876ed8",
+                "date": "2023-07-11T22:30:56Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/ZeroQI/Absolute-Series-Scanner/archive/refs/heads/master.zip"
@@ -27621,7 +27621,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 210,
+        "stargazers_count": 211,
         "thumb_image_url": null
     },
     "70127189": {
@@ -31478,7 +31478,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 102,
+        "stargazers_count": 103,
         "thumb_image_url": "https://raw.githubusercontent.com/taligentx/LiveTVH.bundle/master/Contents/Resources/icon-default.png"
     },
     "91238051": {
