@@ -2094,7 +2094,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 116,
+        "forks_count": 115,
         "full_name": "ZeroQI/Hama",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -3037,7 +3037,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 349,
+        "stargazers_count": 348,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -11158,7 +11158,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 100,
+        "stargazers_count": 101,
         "thumb_image_url": null
     },
     "23301078": {
@@ -17013,7 +17013,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 95,
+        "stargazers_count": 96,
         "thumb_image_url": null
     },
     "3485091": {
@@ -17821,7 +17821,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 12,
+        "stargazers_count": 13,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/Ximalaya.bundle/main/Contents/Resources/icon-default.png"
     },
     "3621001": {
@@ -17869,7 +17869,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 605,
+        "stargazers_count": 606,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -19832,7 +19832,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 336,
+        "stargazers_count": 337,
         "thumb_image_url": null
     },
     "41394428": {
@@ -24022,13 +24022,13 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "7108909ab87da9ea1dbdb3aad9f133811f161012",
-                "date": "2023-06-22T09:02:31Z",
+                "commit_sha": "c3f5ed37f6539cc45e528d7a64e2a940e8f3c523",
+                "date": "2023-07-19T08:49:39Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.5.zip"
+                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/JetBrains/qodana-action-2023.2.1.zip"
                 },
-                "name": "dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.5",
+                "name": "dependabot/github_actions/nightly/JetBrains/qodana-action-2023.2.1",
                 "type": "branch"
             },
             {
@@ -24206,13 +24206,13 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "2c3287866fd7a1fa6cdced875c841d88add38167",
-                "date": "2023-06-22T09:03:08Z",
+                "commit_sha": "a6711d9867da78b64c02f01734b56519628ec611",
+                "date": "2023-07-19T09:05:34Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.5.zip"
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/JetBrains/qodana-action-2023.2.1.zip"
                 },
-                "name": "dependabot/github_actions/nightly/JetBrains/qodana-action-2023.1.5",
+                "name": "dependabot/github_actions/nightly/JetBrains/qodana-action-2023.2.1",
                 "type": "branch"
             },
             {
@@ -24401,7 +24401,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 26,
+        "stargazers_count": 27,
         "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/Themerr-plex/master/Contents/Resources/icon-default.png"
     },
     "54208952": {
@@ -30283,7 +30283,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 58,
+        "stargazers_count": 59,
         "thumb_image_url": null
     },
     "81349855": {
@@ -30732,7 +30732,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 573,
+        "stargazers_count": 574,
         "thumb_image_url": null
     },
     "8525630": {
