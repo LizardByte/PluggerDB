@@ -2116,7 +2116,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1111,
+        "stargazers_count": 1112,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -3760,7 +3760,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 908,
+        "stargazers_count": 909,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -5718,7 +5718,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 6,
+        "forks_count": 5,
         "full_name": "forouher/VDR",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -9425,7 +9425,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 903,
+        "stargazers_count": 904,
         "thumb_image_url": null
     },
     "21045557": {
@@ -11158,7 +11158,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 101,
+        "stargazers_count": 102,
         "thumb_image_url": null
     },
     "23301078": {
@@ -12332,7 +12332,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1276,
+        "stargazers_count": 1277,
         "thumb_image_url": null
     },
     "24851830": {
@@ -17052,7 +17052,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 6,
+        "forks_count": 5,
         "full_name": "bstard/AniDB",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -17725,7 +17725,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 93,
+        "stargazers_count": 95,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/WangYiYun.bundle/main/Contents/Resources/icon-default.png"
     },
     "360014764": {
@@ -17869,7 +17869,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 607,
+        "stargazers_count": 608,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -19232,7 +19232,7 @@
         "license": "MIT License",
         "license_url": "https://api.github.com/licenses/mit",
         "name": "JAV",
-        "open_issues_count": 3,
+        "open_issues_count": 2,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -19242,7 +19242,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 51,
+        "stargazers_count": 52,
         "thumb_image_url": null
     },
     "395039310": {
@@ -27611,7 +27611,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "AMSA",
-        "open_issues_count": 5,
+        "open_issues_count": 6,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
