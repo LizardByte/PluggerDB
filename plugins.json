@@ -3037,7 +3037,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 348,
+        "stargazers_count": 349,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -3997,7 +3997,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 159,
+        "stargazers_count": 158,
         "thumb_image_url": "https://raw.githubusercontent.com/amirotin/Kinopoisk.bundle/master/Contents/Resources/icon-default.png"
     },
     "137607528": {
@@ -4923,7 +4923,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 93,
+        "stargazers_count": 94,
         "thumb_image_url": "https://raw.githubusercontent.com/PhoenixPlexCode/PhoenixAdult.bundle/master/Contents/Resources/icon-default.png"
     },
     "148755883": {
@@ -11414,17 +11414,6 @@
                 "type": "release"
             },
             {
-                "date": "2017-07-30T13:15:20Z",
-                "download_assets": {
-                    "TrailerAddict.zip": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v2.1/TrailerAddict.zip",
-                    "zipball": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.1"
-                },
-                "name": "v2.1",
-                "prerelease": false,
-                "release_tag": "v2.1",
-                "type": "release"
-            },
-            {
                 "date": "2017-05-04T21:21:17Z",
                 "download_assets": {
                     "TrailerAddict.zip": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v2.0/TrailerAddict.zip",
@@ -11499,16 +11488,6 @@
                 "name": "v1.4",
                 "prerelease": false,
                 "release_tag": "v1.4",
-                "type": "release"
-            },
-            {
-                "date": "2017-01-28T00:41:55Z",
-                "download_assets": {
-                    "zipball": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v1.3"
-                },
-                "name": "v1.3",
-                "prerelease": false,
-                "release_tag": "v1.3",
                 "type": "release"
             },
             {
@@ -15782,7 +15761,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1421,
+        "stargazers_count": 1420,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -19822,7 +19801,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "Audnexus",
-        "open_issues_count": 6,
+        "open_issues_count": 4,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -27611,7 +27590,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "AMSA",
-        "open_issues_count": 6,
+        "open_issues_count": 4,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
