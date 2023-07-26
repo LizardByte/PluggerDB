@@ -2116,7 +2116,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1112,
+        "stargazers_count": 1113,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -9298,7 +9298,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 32,
+        "stargazers_count": 31,
         "thumb_image_url": null
     },
     "209103": {
@@ -9425,7 +9425,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 904,
+        "stargazers_count": 905,
         "thumb_image_url": null
     },
     "21045557": {
@@ -11158,7 +11158,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 102,
+        "stargazers_count": 101,
         "thumb_image_url": null
     },
     "23301078": {
@@ -11414,6 +11414,17 @@
                 "type": "release"
             },
             {
+                "date": "2017-07-30T13:15:20Z",
+                "download_assets": {
+                    "TrailerAddict.zip": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v2.1/TrailerAddict.zip",
+                    "zipball": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v2.1"
+                },
+                "name": "v2.1",
+                "prerelease": false,
+                "release_tag": "v2.1",
+                "type": "release"
+            },
+            {
                 "date": "2017-05-04T21:21:17Z",
                 "download_assets": {
                     "TrailerAddict.zip": "https://github.com/piplongrun/TrailerAddict.bundle/releases/download/v2.0/TrailerAddict.zip",
@@ -11488,6 +11499,16 @@
                 "name": "v1.4",
                 "prerelease": false,
                 "release_tag": "v1.4",
+                "type": "release"
+            },
+            {
+                "date": "2017-01-28T00:41:55Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/piplongrun/TrailerAddict.bundle/zipball/v1.3"
+                },
+                "name": "v1.3",
+                "prerelease": false,
+                "release_tag": "v1.3",
                 "type": "release"
             },
             {
@@ -17704,7 +17725,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 95,
+        "stargazers_count": 96,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/WangYiYun.bundle/main/Contents/Resources/icon-default.png"
     },
     "360014764": {
@@ -17848,7 +17869,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 608,
+        "stargazers_count": 609,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -19811,7 +19832,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 339,
+        "stargazers_count": 341,
         "thumb_image_url": null
     },
     "41394428": {
@@ -25318,6 +25339,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "b374651ef7d2aa1fafd37b355d503044b0312d32",
+                "date": "2023-07-26T09:24:06Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/bootstrap-5.3.1.zip"
+                },
+                "name": "dependabot/npm_and_yarn/nightly/bootstrap-5.3.1",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "032916575730d5152d56108284553c4af8ba4d07",
                 "date": "2023-07-10T10:04:44Z",
                 "default_branch": false,
@@ -25325,16 +25356,6 @@
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.5.zip"
                 },
                 "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.5",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "44106a386ac644d3b6487866667684f068b3cfa0",
-                "date": "2023-05-31T10:03:49Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/bootstrap-5.3.0.zip"
-                },
-                "name": "dependabot/npm_and_yarn/nightly/bootstrap-5.3.0",
                 "type": "branch"
             },
             {
@@ -29833,7 +29854,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 30,
+        "forks_count": 31,
         "full_name": "ukdtom/ExportTools",
         "gh_pages_url": null,
         "has_discussions": false,
