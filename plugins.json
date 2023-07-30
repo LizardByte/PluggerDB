@@ -15020,6 +15020,75 @@
         "stargazers_count": 8,
         "thumb_image_url": null
     },
+    "28793554": {
+        "archived": true,
+        "attribution_image_url": "https://raw.githubusercontent.com/Keltere/Hummingbird.bundle/master/Contents/Resources/attribution.jpg",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/8084245?v=4",
+        "categories": [
+            "Metadata Agent",
+            "TV"
+        ],
+        "default_branch": "master",
+        "description": "A simple Plex agent for hummingbird",
+        "disabled": false,
+        "downloads": [
+            {
+                "date": "2015-01-06T16:33:51Z",
+                "download_assets": {
+                    "Hummingbird_agent_V0.0.1.zip": "https://github.com/Keltere/Hummingbird.bundle/releases/download/0.0.1/Hummingbird_agent_V0.0.1.zip",
+                    "zipball": "https://api.github.com/repos/Keltere/Hummingbird.bundle/zipball/0.0.1"
+                },
+                "name": "First release v0.0.1",
+                "prerelease": false,
+                "release_tag": "0.0.1",
+                "type": "release"
+            },
+            {
+                "commit_sha": "9901e9514e569376712e6c90645a5e4258e49b82",
+                "date": "2015-01-05T02:25:21Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/Keltere/Hummingbird.bundle/archive/refs/heads/Test.zip"
+                },
+                "name": "Test",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "9901e9514e569376712e6c90645a5e4258e49b82",
+                "date": "2015-01-05T02:25:21Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/Keltere/Hummingbird.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "Keltere/Hummingbird",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/Keltere/Hummingbird.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Hummingbird",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
+    },
     "289684157": {
         "archived": false,
         "attribution_image_url": null,
