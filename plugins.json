@@ -19546,6 +19546,54 @@
         "stargazers_count": 53,
         "thumb_image_url": null
     },
+    "3931253": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/715019?v=4",
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Uitzending Gemist plugin for Plex",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "72876b3aab29d667c359326b192d322ac5f8503b",
+                "date": "2012-04-05T08:53:49Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/RinkeHoekstra/Uitzending-Gemist.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 3,
+        "full_name": "RinkeHoekstra/Uitzending-Gemist",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": true,
+        "homepage": "http://forums.plexapp.com/index.php?/topic/17757-nieuwe-uitzending-gemist-plugin/",
+        "html_url": "https://github.com/RinkeHoekstra/Uitzending-Gemist.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Uitzending-Gemist",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/RinkeHoekstra/Uitzending-Gemist.bundle/master/Contents/Resources/icon-default.png"
+    },
     "395039310": {
         "archived": false,
         "attribution_image_url": null,
