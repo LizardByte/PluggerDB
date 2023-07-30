@@ -13905,6 +13905,55 @@
         "stargazers_count": 14,
         "thumb_image_url": "https://raw.githubusercontent.com/yanavery/UPlay.bundle/master/Contents/Resources/icon-default.png"
     },
+    "273502190": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/67154346?v=4",
+        "categories": [
+            "Adult",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Plex metadata agent for the lewd database.",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "37674b0f726a5e78009289af6627be7c816f9959",
+                "date": "2020-06-19T13:41:41Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/thelewd/lewd.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "thelewd/lewd",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/thelewd/lewd.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "lewd",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/thelewd/lewd.bundle/master/Contents/Resources/icon-default.png"
+    },
     "27573357": {
         "archived": false,
         "attribution_image_url": null,
