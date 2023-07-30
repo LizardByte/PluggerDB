@@ -32577,6 +32577,55 @@
         "stargazers_count": 1,
         "thumb_image_url": null
     },
+    "89213209": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1419377?v=4",
+        "categories": [
+            "Channels",
+            "Music",
+            "Radio"
+        ],
+        "default_branch": "master",
+        "description": "TSF Jazz radio for Plex Media Server",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "a287597e72e07bc3721b4bd9e2832c7c92b8f71c",
+                "date": "2018-06-08T13:43:41Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/alexalouit/TSFJazz.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "alexalouit/TSFJazz",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/alexalouit/TSFJazz.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "TSFJazz",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/alexalouit/TSFJazz.bundle/master/Contents/Resources/icon-default.png"
+    },
     "89716480": {
         "archived": false,
         "attribution_image_url": null,
