@@ -16128,6 +16128,54 @@
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/egemenyildiz/TurkishChannels.bundle/master/Contents/Resources/icon-default.png"
     },
+    "3096324": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/434671?v=4",
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Demand Five plugin for Plex",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "5ef00dcabed1a6cd3007864f9d03208918f2e113",
+                "date": "2012-01-04T23:21:35Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/ReallyFuzzy/DemandFive.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "ReallyFuzzy/DemandFive",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/ReallyFuzzy/DemandFive.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "DemandFive",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/ReallyFuzzy/DemandFive.bundle/master/Contents/Resources/icon-default.png"
+    },
     "31164511": {
         "archived": false,
         "attribution_image_url": null,
