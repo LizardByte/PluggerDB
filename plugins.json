@@ -6064,6 +6064,94 @@
         "stargazers_count": 3,
         "thumb_image_url": null
     },
+    "155190237": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/wasabinz/DMM.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/7804305?v=4",
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Plex metadata agent for DMM.R18",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "dc5810feff5f06ae30a6099f3811650d4ac4b6a5",
+                "date": "2021-03-15T08:26:45Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/wasabinz/DMM.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "0a4a73202cf67b8edc33b2a9f21dfc24949039db",
+                "date": "2020-12-22T03:44:45Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/wasabinz/DMM.bundle/archive/refs/heads/no_proxy.zip"
+                },
+                "name": "no_proxy",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "16b64f81fce54ed6228e1ffdd0820ca6a9c194e5",
+                "date": "2018-08-17T02:33:06Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/wasabinz/DMM.bundle/archive/refs/heads/sample_image.zip"
+                },
+                "name": "sample_image",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "1c15e5cda79ef52baa7c07947480c2919b19e897",
+                "date": "2018-08-06T01:48:37Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/wasabinz/DMM.bundle/archive/refs/heads/fanza_rename.zip"
+                },
+                "name": "fanza_rename",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "c62ef181105494825ccad6cc88ba3b4647bc88d4",
+                "date": "2018-07-28T01:16:32Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/wasabinz/DMM.bundle/archive/refs/heads/no_debug.zip"
+                },
+                "name": "no_debug",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "wasabinz/DMM",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/wasabinz/DMM.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "DMM",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
+    },
     "155525550": {
         "archived": true,
         "attribution_image_url": "https://raw.githubusercontent.com/joshuaavalon/AvalonYoutubeAgent.bundle/master/Contents/Resources/attribution.png",
