@@ -15546,6 +15546,65 @@
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/PlexHaxx/nickreboot.bundle/master/Contents/Resources/icon-default.png"
     },
+    "30514268": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/3172407?v=4",
+        "categories": [
+            "Channels",
+            "Sports",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex plugin for Ballstreams.com",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "de6b2a1543e18610676bb4101b95fdf3be091300",
+                "date": "2015-01-27T14:53:10Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/coreylfarrow/BallPlex.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "476335a64d34d596a78e1ea1f6ae081b6eda20be",
+                "date": "2014-12-15T15:43:44Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/coreylfarrow/BallPlex.bundle/archive/refs/heads/noRTMP.zip"
+                },
+                "name": "noRTMP",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 1,
+        "full_name": "coreylfarrow/BallPlex",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/coreylfarrow/BallPlex.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "BallPlex",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/coreylfarrow/BallPlex.bundle/master/Contents/Resources/icon-default.png"
+    },
     "3077018": {
         "archived": false,
         "attribution_image_url": null,
