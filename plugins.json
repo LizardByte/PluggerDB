@@ -6952,6 +6952,54 @@
         "stargazers_count": 7,
         "thumb_image_url": "https://raw.githubusercontent.com/soju6jan/SJVA.bundle/master/SJVA.bundle/Contents/Resources/icon-default.png"
     },
+    "166856307": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/19921419?v=4",
+        "categories": [
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Standalone Plex metadata agent for Jeedoo.com",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "a86e6d95197066ed93a251a472e3eaf9bd2aa4ea",
+                "date": "2019-08-21T20:48:58Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/Darklyter/Jeedoo.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "Darklyter/Jeedoo",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/Darklyter/Jeedoo.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Jeedoo",
+        "open_issues_count": 1,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
+    },
     "16704505": {
         "archived": false,
         "attribution_image_url": null,
