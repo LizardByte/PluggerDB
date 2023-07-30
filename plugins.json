@@ -20329,6 +20329,67 @@
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/jurnet/StreamingFR.bundle/master/Contents/Resources/icon-default.jpg"
     },
+    "42691899": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/6312063?v=4",
+        "categories": [
+            "Channels",
+            "Music",
+            "Services",
+            "TV",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex Vilanoise TV video plugin",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "732721d314a1653e40dad7d2da1fa889e98261a1",
+                "date": "2015-09-23T07:38:30Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/kolsys/VilanoiseTV.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            },
+            {
+                "date": "2015-09-18T18:28:13Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/VilanoiseTV.bundle/zipball/v1.2"
+                },
+                "name": "VilanoiseTV.bundle",
+                "prerelease": false,
+                "release_tag": "v1.2",
+                "type": "release"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "kolsys/VilanoiseTV",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/kolsys/VilanoiseTV.bundle",
+        "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "license_url": "https://api.github.com/licenses/bsd-3-clause",
+        "name": "VilanoiseTV",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/kolsys/VilanoiseTV.bundle/master/Contents/Resources/icon-default.png"
+    },
     "43033994": {
         "archived": false,
         "attribution_image_url": null,
