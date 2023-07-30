@@ -14767,6 +14767,64 @@
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/belasin/IHOP.bundle/master/Contents/Resources/icon-default.png"
     },
+    "28745013": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/180773?v=4",
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "OZ TV bundle for Plex Media Server",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "331b0dd22efa64be3720917afe83dd0bbb54d3f2",
+                "date": "2015-05-09T20:19:52Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/birkir/OZ.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            },
+            {
+                "date": "2015-01-03T14:08:08Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/birkir/OZ.bundle/zipball/1.0"
+                },
+                "name": "First version of Plex OZ bundle",
+                "prerelease": false,
+                "release_tag": "1.0",
+                "type": "release"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "birkir/OZ",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/birkir/OZ.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "OZ",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/birkir/OZ.bundle/master/Contents/Resources/icon-default.png"
+    },
     "28776470": {
         "archived": false,
         "attribution_image_url": null,
