@@ -17153,6 +17153,54 @@
         "stargazers_count": 0,
         "thumb_image_url": null
     },
+    "32109805": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1499543?v=4",
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex module for youtube channel Cobayes",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "dacc44df8fc46a25ea9ccc7e1a5804d9a87831aa",
+                "date": "2015-05-31T16:01:55Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/whoo/Cobayes.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "whoo/Cobayes",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/whoo/Cobayes.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Cobayes",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": null
+    },
     "327541445": {
         "archived": false,
         "attribution_image_url": null,
