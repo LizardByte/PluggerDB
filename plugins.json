@@ -4729,6 +4729,54 @@
         "stargazers_count": 4,
         "thumb_image_url": "https://raw.githubusercontent.com/datvance/NBCSports.bundle/master/Contents/Resources/icon-default.jpg"
     },
+    "147747496": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/42508297?v=4",
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Adult Swim channel for Plex",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "7f84c560690e8cdc60643b8f22eaf962eb6c46bc",
+                "date": "2018-06-20T22:34:45Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/HeavyBee/Adult-Swim.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "HeavyBee/Adult-Swim",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/HeavyBee/Adult-Swim.bundle",
+        "license": "MIT License",
+        "license_url": "https://api.github.com/licenses/mit",
+        "name": "Adult-Swim",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/HeavyBee/Adult-Swim.bundle/master/Contents/Resources/icon-default.png"
+    },
     "147920532": {
         "archived": false,
         "attribution_image_url": null,
