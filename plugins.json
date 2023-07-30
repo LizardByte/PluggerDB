@@ -29297,6 +29297,55 @@
         "stargazers_count": 10,
         "thumb_image_url": "https://raw.githubusercontent.com/moxz/tvheadend.bundle/master/Contents/Resources/icon-default.png"
     },
+    "77568600": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/1499543?v=4",
+        "categories": [
+            "Channels",
+            "Services",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex channel for CanalSavoir (Quebec)",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "6d443f4b891148e046e21886aeb40c850fc7248c",
+                "date": "2016-12-28T23:54:21Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/whoo/CanalSavoir.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "whoo/CanalSavoir",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/whoo/CanalSavoir.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "CanalSavoir",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/whoo/CanalSavoir.bundle/master/Contents/Resources/icon-default.png"
+    },
     "77627535": {
         "archived": false,
         "attribution_image_url": null,
