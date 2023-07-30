@@ -11257,6 +11257,54 @@
         "stargazers_count": 2,
         "thumb_image_url": "https://raw.githubusercontent.com/derolf/Plex.ArgusTV.bundle/master/Contents/Resources/icon-default.png"
     },
+    "23429484": {
+        "archived": true,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/2071365?v=4",
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex plugin for Footy Report",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "3e1ff7121da0ee8062e4dce23156bfd3ce833df1",
+                "date": "2014-08-28T13:50:40Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/papalozarou/FootyReport.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "papalozarou/FootyReport",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/papalozarou/FootyReport.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "FootyReport",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/papalozarou/FootyReport.bundle/master/Contents/Resources/icon-default.png"
+    },
     "23523590": {
         "archived": true,
         "attribution_image_url": null,
