@@ -7048,6 +7048,55 @@
         "stargazers_count": 0,
         "thumb_image_url": "https://raw.githubusercontent.com/marco1988/TVLand.bundle/master/Contents/Resources/icon-default.png"
     },
+    "167076045": {
+        "archived": false,
+        "attribution_image_url": "https://raw.githubusercontent.com/Darklyter/DVDErotik.bundle/master/Contents/Resources/attribution.png",
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/19921419?v=4",
+        "categories": [
+            "Adult",
+            "Metadata Agent",
+            "Movies"
+        ],
+        "default_branch": "master",
+        "description": "Standalone Plex agent for DVDErotik.com",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "96493241673476d1febd88e54622a308f8f03d42",
+                "date": "2019-01-22T22:18:02Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/Darklyter/DVDErotik.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 1,
+        "full_name": "Darklyter/DVDErotik",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/Darklyter/DVDErotik.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "DVDErotik",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 2,
+        "thumb_image_url": "https://raw.githubusercontent.com/Darklyter/DVDErotik.bundle/master/Contents/Resources/icon-default.png"
+    },
     "16748628": {
         "archived": false,
         "attribution_image_url": null,
