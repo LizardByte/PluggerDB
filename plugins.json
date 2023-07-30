@@ -5123,6 +5123,55 @@
         "stargazers_count": 4,
         "thumb_image_url": "https://raw.githubusercontent.com/fisticuffs66/MyFreeCams.bundle/master/Contents/Resources/icon-default.png"
     },
+    "1493441": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/140881?v=4",
+        "categories": [
+            "Channels",
+            "Sports",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "FoxSoccer.tv Plugin for Plex",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "1f3047616b55e858f96c7bcf7c62fc0ba4b2a12b",
+                "date": "2011-01-30T00:36:06Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/supersighs/FoxSoccer.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "supersighs/FoxSoccer",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/supersighs/FoxSoccer.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "FoxSoccer",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/supersighs/FoxSoccer.bundle/master/Contents/Resources/icon-default.png"
+    },
     "149481877": {
         "archived": false,
         "attribution_image_url": null,
