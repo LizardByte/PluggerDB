@@ -21111,6 +21111,55 @@
         "stargazers_count": 83,
         "thumb_image_url": null
     },
+    "41897122": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/10687428?v=4",
+        "categories": [
+            "Channels",
+            "Sports",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Fork of HockeyPlex",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "457e2e593e6134d118263fe5fc0aae5922b6caf0",
+                "date": "2015-04-13T20:17:10Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/PlexHaxx/HockeyPlex.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 0,
+        "full_name": "PlexHaxx/HockeyPlex",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": false,
+        "has_wiki": true,
+        "homepage": null,
+        "html_url": "https://github.com/PlexHaxx/HockeyPlex.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "HockeyPlex",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 0,
+        "thumb_image_url": "https://raw.githubusercontent.com/PlexHaxx/HockeyPlex.bundle/master/Contents/Resources/icon-default.png"
+    },
     "41901114": {
         "archived": true,
         "attribution_image_url": null,
