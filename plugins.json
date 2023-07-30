@@ -6940,6 +6940,54 @@
         "stargazers_count": 3,
         "thumb_image_url": "https://raw.githubusercontent.com/devbobo/SmugMug.bundle/master/Contents/Resources/icon-default.png"
     },
+    "16455351": {
+        "archived": false,
+        "attribution_image_url": null,
+        "avatar_image_url": "https://avatars.githubusercontent.com/u/58233?v=4",
+        "categories": [
+            "Channels",
+            "Videos"
+        ],
+        "default_branch": "master",
+        "description": "Plex plugin for the Cordkillers podcast",
+        "disabled": false,
+        "downloads": [
+            {
+                "commit_sha": "6d43a5e0afb807cda8674902b73c3461e9bcc678",
+                "date": "2014-02-02T14:30:46Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/maethorechannen/Cordkillers.bundle/archive/refs/heads/master.zip"
+                },
+                "name": "master",
+                "type": "branch"
+            }
+        ],
+        "forks_count": 1,
+        "full_name": "maethorechannen/Cordkillers",
+        "gh_pages_url": null,
+        "has_discussions": false,
+        "has_downloads": true,
+        "has_issues": true,
+        "has_wiki": true,
+        "homepage": "",
+        "html_url": "https://github.com/maethorechannen/Cordkillers.bundle",
+        "license": null,
+        "license_url": null,
+        "name": "Cordkillers",
+        "open_issues_count": 0,
+        "open_pull_requests_count": 0,
+        "plugin_added_by": "42013603",
+        "plugin_edited_by": "42013603",
+        "scanner_mapping": {
+            "Common": [],
+            "Movies": [],
+            "Music": [],
+            "Series": []
+        },
+        "stargazers_count": 1,
+        "thumb_image_url": "https://raw.githubusercontent.com/maethorechannen/Cordkillers.bundle/master/Contents/Resources/icon-default.png"
+    },
     "165744973": {
         "archived": false,
         "attribution_image_url": null,
