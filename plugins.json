@@ -2222,7 +2222,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 115,
+        "forks_count": 116,
         "full_name": "ZeroQI/Hama",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -2244,7 +2244,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1114,
+        "stargazers_count": 1115,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -3143,7 +3143,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 46,
+        "forks_count": 47,
         "full_name": "ZeroQI/YouTube-Agent",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -3165,7 +3165,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 349,
+        "stargazers_count": 352,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -5173,7 +5173,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 220,
+        "forks_count": 219,
         "full_name": "PhoenixPlexCode/PhoenixAdult",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -5195,7 +5195,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 94,
+        "stargazers_count": 95,
         "thumb_image_url": "https://raw.githubusercontent.com/PhoenixPlexCode/PhoenixAdult.bundle/master/Contents/Resources/icon-default.png"
     },
     "148755883": {
@@ -9979,7 +9979,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 905,
+        "stargazers_count": 906,
         "thumb_image_url": null
     },
     "21045557": {
@@ -10724,7 +10724,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 146,
+        "forks_count": 145,
         "full_name": "bramwalet/Subliminal",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -18802,7 +18802,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 609,
+        "stargazers_count": 610,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -20175,7 +20175,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 53,
+        "stargazers_count": 55,
         "thumb_image_url": null
     },
     "3931253": {
@@ -20477,7 +20477,7 @@
         "license": null,
         "license_url": null,
         "name": "StashPlexAgent",
-        "open_issues_count": 5,
+        "open_issues_count": 6,
         "open_pull_requests_count": 1,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -20813,7 +20813,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 342,
+        "stargazers_count": 343,
         "thumb_image_url": null
     },
     "41394428": {
@@ -21108,7 +21108,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 83,
+        "stargazers_count": 84,
         "thumb_image_url": null
     },
     "41897122": {
@@ -21980,17 +21980,6 @@
                 },
                 "name": "master",
                 "type": "branch"
-            },
-            {
-                "date": "2018-08-13T14:52:18Z",
-                "download_assets": {
-                    "OpenMovieDatabase.zip": "https://github.com/piplongrun/OpenMovieDatabase.bundle/releases/download/v1.7/OpenMovieDatabase.zip",
-                    "zipball": "https://api.github.com/repos/piplongrun/OpenMovieDatabase.bundle/zipball/v1.7"
-                },
-                "name": "v1.7",
-                "prerelease": false,
-                "release_tag": "v1.7",
-                "type": "release"
             },
             {
                 "date": "2018-06-27T02:24:19Z",
@@ -25453,23 +25442,44 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "a6711d9867da78b64c02f01734b56519628ec611",
-                "date": "2023-07-19T09:05:34Z",
+                "commit_sha": "0f6d3e05fddbab9d7d513d3c98877879d24d07ba",
+                "date": "2023-08-01T03:31:59Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/JetBrains/qodana-action-2023.2.1.zip"
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/feat-add-theme-completion-report.zip"
                 },
-                "name": "dependabot/github_actions/nightly/JetBrains/qodana-action-2023.2.1",
+                "name": "feat-add-theme-completion-report",
                 "type": "branch"
             },
             {
-                "commit_sha": "9220cf0fac447589f23aa63482dd0a28c59c2162",
-                "date": "2023-05-07T22:34:36Z",
+                "commit_sha": "acad48e6e089b7b4e4392c906bff68ced2405df9",
+                "date": "2023-08-01T01:04:00Z",
                 "default_branch": false,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
                 },
                 "name": "nightly",
+                "type": "branch"
+            },
+            {
+                "date": "2023-07-31T16:45:36Z",
+                "download_assets": {
+                    "Themerr-plex.bundle.zip": "https://github.com/LizardByte/Themerr-plex/releases/download/v0.2.0/Themerr-plex.bundle.zip",
+                    "zipball": "https://api.github.com/repos/LizardByte/Themerr-plex/zipball/v0.2.0"
+                },
+                "name": "v0.2.0",
+                "prerelease": false,
+                "release_tag": "v0.2.0",
+                "type": "release"
+            },
+            {
+                "commit_sha": "01621168da50b7517ce886279b247887b0adbdf8",
+                "date": "2023-07-31T16:44:21Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/master.zip"
+                },
+                "name": "master",
                 "type": "branch"
             },
             {
@@ -25482,16 +25492,6 @@
                 "prerelease": false,
                 "release_tag": "v0.1.4",
                 "type": "release"
-            },
-            {
-                "commit_sha": "16cab72a630e8cd0136938b453ebda6cea25c093",
-                "date": "2023-04-20T17:20:25Z",
-                "default_branch": true,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/master.zip"
-                },
-                "name": "master",
-                "type": "branch"
             },
             {
                 "date": "2023-01-28T15:23:58Z",
@@ -32028,7 +32028,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 575,
+        "stargazers_count": 576,
         "thumb_image_url": null
     },
     "8525630": {
