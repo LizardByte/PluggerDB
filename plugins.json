@@ -2244,7 +2244,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1115,
+        "stargazers_count": 1116,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -3156,7 +3156,7 @@
         "license_url": null,
         "name": "YouTube-Agent",
         "open_issues_count": 16,
-        "open_pull_requests_count": 0,
+        "open_pull_requests_count": 1,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -9979,7 +9979,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 906,
+        "stargazers_count": 905,
         "thumb_image_url": null
     },
     "21045557": {
@@ -13644,7 +13644,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 42,
+        "forks_count": 43,
         "full_name": "pbnkp/XNXX",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -18658,7 +18658,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 96,
+        "stargazers_count": 97,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/WangYiYun.bundle/main/Contents/Resources/icon-default.png"
     },
     "360014764": {
@@ -18706,7 +18706,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 29,
+        "stargazers_count": 30,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/QQmusic.bundle/main/Contents/Resources/icon-default.png"
     },
     "360205681": {
@@ -20813,7 +20813,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 343,
+        "stargazers_count": 345,
         "thumb_image_url": null
     },
     "41394428": {
@@ -21980,6 +21980,17 @@
                 },
                 "name": "master",
                 "type": "branch"
+            },
+            {
+                "date": "2018-08-13T14:52:18Z",
+                "download_assets": {
+                    "OpenMovieDatabase.zip": "https://github.com/piplongrun/OpenMovieDatabase.bundle/releases/download/v1.7/OpenMovieDatabase.zip",
+                    "zipball": "https://api.github.com/repos/piplongrun/OpenMovieDatabase.bundle/zipball/v1.7"
+                },
+                "name": "v1.7",
+                "prerelease": false,
+                "release_tag": "v1.7",
+                "type": "release"
             },
             {
                 "date": "2018-06-27T02:24:19Z",
@@ -25648,7 +25659,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 27,
+        "stargazers_count": 29,
         "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/Themerr-plex/master/Contents/Resources/icon-default.png"
     },
     "54208952": {
