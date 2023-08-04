@@ -2244,7 +2244,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1116,
+        "stargazers_count": 1117,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -4173,7 +4173,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 158,
+        "stargazers_count": 159,
         "thumb_image_url": "https://raw.githubusercontent.com/amirotin/Kinopoisk.bundle/master/Contents/Resources/icon-default.png"
     },
     "137426590": {
@@ -9979,7 +9979,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 905,
+        "stargazers_count": 904,
         "thumb_image_url": null
     },
     "21045557": {
@@ -18802,7 +18802,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 610,
+        "stargazers_count": 611,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -26597,6 +26597,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "948a6dc992c699e6d153fc722c71d4532779f800",
+                "date": "2023-08-04T09:09:23Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.7.zip"
+                },
+                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.7",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "040840e8349439f24ab861164c7a18ada8cf7cfe",
                 "date": "2023-08-03T10:01:52Z",
                 "default_branch": false,
@@ -26604,16 +26614,6 @@
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fortawesome/fontawesome-free-6.4.2.zip"
                 },
                 "name": "dependabot/npm_and_yarn/nightly/fortawesome/fontawesome-free-6.4.2",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "b6d71ad691bb8813f8c49fa65066e277dcd75af7",
-                "date": "2023-08-03T10:01:47Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.6.zip"
-                },
-                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.6",
                 "type": "branch"
             },
             {
@@ -31590,7 +31590,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 59,
+        "stargazers_count": 60,
         "thumb_image_url": null
     },
     "81349855": {
