@@ -3133,8 +3133,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "7efbf4da0c06f98ca54a57e5412ea9b18d3b84b4",
-                "date": "2023-01-20T18:03:48Z",
+                "commit_sha": "2a28e19a7c32031e61a6ee5ccc2a1abbeac1fd3f",
+                "date": "2023-08-05T19:46:29Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/ZeroQI/YouTube-Agent.bundle/archive/refs/heads/master.zip"
@@ -3156,7 +3156,7 @@
         "license_url": null,
         "name": "YouTube-Agent",
         "open_issues_count": 16,
-        "open_pull_requests_count": 1,
+        "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -16619,7 +16619,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1422,
+        "stargazers_count": 1421,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -18415,7 +18415,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 332,
+        "stargazers_count": 333,
         "thumb_image_url": "https://raw.githubusercontent.com/kolsys/YouTubeTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "351489517": {
@@ -18802,7 +18802,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 611,
+        "stargazers_count": 612,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -18850,7 +18850,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 310,
+        "stargazers_count": 311,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -20175,7 +20175,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 54,
+        "stargazers_count": 55,
         "thumb_image_url": null
     },
     "3931253": {
@@ -24378,7 +24378,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 157,
+        "stargazers_count": 158,
         "thumb_image_url": "https://raw.githubusercontent.com/ngovil21/RequestChannel.bundle/master/Contents/Resources/icon-default.png"
     },
     "50455963": {
@@ -25453,18 +25453,18 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "d0efea264f299f215dd70c177d06b9bf76331ace",
-                "date": "2023-08-01T03:31:59Z",
+                "commit_sha": "c1aea871dedbd85d75fee42d3f3ea27d0a5e6b43",
+                "date": "2023-08-06T02:57:38Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/feat-add-theme-completion-report.zip"
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/l10n_nightly.zip"
                 },
-                "name": "feat-add-theme-completion-report",
+                "name": "l10n_nightly",
                 "type": "branch"
             },
             {
-                "commit_sha": "acad48e6e089b7b4e4392c906bff68ced2405df9",
-                "date": "2023-08-01T01:04:00Z",
+                "commit_sha": "ffa4fa61bd00e6fc6d7e8985e067d1cce970721c",
+                "date": "2023-08-06T01:29:37Z",
                 "default_branch": false,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
@@ -25649,7 +25649,7 @@
         "license": "GNU Affero General Public License v3.0",
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
-        "open_issues_count": 2,
+        "open_issues_count": 1,
         "open_pull_requests_count": 2,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -26597,6 +26597,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "1129f7dfd6ce48c14f4cd7c551765dc4aac27033",
+                "date": "2023-08-05T17:48:24Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/featurize.zip"
+                },
+                "name": "featurize",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "948a6dc992c699e6d153fc722c71d4532779f800",
                 "date": "2023-08-04T09:09:23Z",
                 "default_branch": false,
@@ -26637,16 +26647,6 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "6b149542fbc0db09b1743432ceb9bbf18f6c47fc",
-                "date": "2023-05-06T22:14:58Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/featurize.zip"
-                },
-                "name": "featurize",
-                "type": "branch"
-            },
-            {
                 "commit_sha": "82315c283d1f98ae155047f5b384d307762ab05e",
                 "date": "2023-04-05T09:06:14Z",
                 "default_branch": false,
@@ -26674,6 +26674,16 @@
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/pascalgn/automerge-action-0.15.6.zip"
                 },
                 "name": "dependabot/github_actions/nightly/pascalgn/automerge-action-0.15.6",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "1d2895931c3f2c1f49736a30275215d208f0c834",
+                "date": "2023-02-24T16:48:52Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/l10n_nightly.zip"
+                },
+                "name": "l10n_nightly",
                 "type": "branch"
             },
             {
@@ -31590,7 +31600,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 60,
+        "stargazers_count": 61,
         "thumb_image_url": null
     },
     "81349855": {
