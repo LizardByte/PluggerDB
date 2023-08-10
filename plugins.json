@@ -3155,7 +3155,7 @@
         "license": null,
         "license_url": null,
         "name": "YouTube-Agent",
-        "open_issues_count": 16,
+        "open_issues_count": 17,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -3936,7 +3936,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 915,
+        "stargazers_count": 917,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -18658,7 +18658,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 98,
+        "stargazers_count": 99,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/WangYiYun.bundle/main/Contents/Resources/icon-default.png"
     },
     "360014764": {
@@ -18706,7 +18706,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 30,
+        "stargazers_count": 31,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/QQmusic.bundle/main/Contents/Resources/icon-default.png"
     },
     "360205681": {
@@ -20551,8 +20551,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "8c940c6e674c97c5fb6e2b3482ce7d26f6f53501",
-                "date": "2023-06-22T22:03:09Z",
+                "commit_sha": "0e06151821837045240880e5594f28f452c8e555",
+                "date": "2023-08-10T05:40:30Z",
                 "default_branch": false,
                 "download_assets": {
                     "zipball": "https://github.com/djdembeck/Audnexus.bundle/archive/refs/heads/develop.zip"
@@ -20804,7 +20804,7 @@
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "Audnexus",
         "open_issues_count": 4,
-        "open_pull_requests_count": 0,
+        "open_pull_requests_count": 1,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -20813,7 +20813,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 345,
+        "stargazers_count": 346,
         "thumb_image_url": null
     },
     "41394428": {
@@ -22696,7 +22696,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 15,
+        "stargazers_count": 14,
         "thumb_image_url": "https://raw.githubusercontent.com/Nosinden/Chaturbate.bundle/master/Contents/Resources/icon-default.png"
     },
     "45742372": {
@@ -25453,6 +25453,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "9d0decb7ace3ea8e2bfdeb9f5a0cb073b1455837",
+                "date": "2023-08-09T23:37:18Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/feat-add-support-for-collections.zip"
+                },
+                "name": "feat-add-support-for-collections",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "58c90f92ae290b5e1bf9d247f5031fd9516b2adc",
                 "date": "2023-08-07T08:58:58Z",
                 "default_branch": false,
@@ -25660,7 +25670,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 1,
-        "open_pull_requests_count": 2,
+        "open_pull_requests_count": 3,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -28899,7 +28909,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 212,
+        "stargazers_count": 213,
         "thumb_image_url": null
     },
     "70127189": {
