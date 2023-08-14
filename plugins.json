@@ -3165,7 +3165,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 354,
+        "stargazers_count": 355,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -16619,7 +16619,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1421,
+        "stargazers_count": 1422,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -17946,7 +17946,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 99,
+        "stargazers_count": 100,
         "thumb_image_url": null
     },
     "3485091": {
@@ -25453,7 +25453,17 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "a4e63a18e2d5cf53aede7dc74d876dd19ad9dba7",
+                "commit_sha": "adaed0d0bf5d1d986a44e404a22f1ccbc7a38f53",
+                "date": "2023-08-14T08:53:39Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/easimon/maximize-build-space-8.zip"
+                },
+                "name": "dependabot/github_actions/nightly/easimon/maximize-build-space-8",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "2a09f94200e0828b7ba97d52daabfab8d8cafd16",
                 "date": "2023-08-09T23:37:18Z",
                 "default_branch": false,
                 "download_assets": {
@@ -25670,7 +25680,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 1,
-        "open_pull_requests_count": 3,
+        "open_pull_requests_count": 4,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -32069,7 +32079,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 576,
+        "stargazers_count": 577,
         "thumb_image_url": null
     },
     "8525630": {
