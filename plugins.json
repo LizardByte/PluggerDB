@@ -3936,7 +3936,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 917,
+        "stargazers_count": 916,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -5195,7 +5195,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 96,
+        "stargazers_count": 95,
         "thumb_image_url": "https://raw.githubusercontent.com/PhoenixPlexCode/PhoenixAdult.bundle/master/Contents/Resources/icon-default.png"
     },
     "148755883": {
@@ -9979,7 +9979,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 907,
+        "stargazers_count": 908,
         "thumb_image_url": null
     },
     "21045557": {
@@ -12934,7 +12934,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1279,
+        "stargazers_count": 1278,
         "thumb_image_url": null
     },
     "24851830": {
@@ -16619,7 +16619,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1422,
+        "stargazers_count": 1423,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -17904,8 +17904,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "0bbfe03712ba127c344a958421d2843b6b518d9b",
-                "date": "2023-08-04T15:05:02Z",
+                "commit_sha": "11f4854241a6acf6122d1e3e716f882171a425b7",
+                "date": "2023-08-14T22:04:57Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/ThePornDatabase/ThePornDB.bundle/archive/refs/heads/main.zip"
@@ -20813,7 +20813,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 347,
+        "stargazers_count": 348,
         "thumb_image_url": null
     },
     "41394428": {
@@ -26627,13 +26627,13 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "823c0755574bb4caa26cf1d87cd31940fe94c585",
-                "date": "2023-08-07T10:03:00Z",
+                "commit_sha": "ff1fa90449081dff16583f071804100330ab3eb8",
+                "date": "2023-08-15T09:10:17Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.8.zip"
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.9.zip"
                 },
-                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.8",
+                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.9",
                 "type": "branch"
             },
             {
@@ -28919,7 +28919,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 213,
+        "stargazers_count": 214,
         "thumb_image_url": null
     },
     "70127189": {
@@ -31223,7 +31223,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 331,
+        "stargazers_count": 330,
         "thumb_image_url": "https://raw.githubusercontent.com/ukdtom/ExportTools.bundle/master/Contents/Resources/icon-default.png"
     },
     "79481264": {
@@ -32371,7 +32371,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 3,
+        "stargazers_count": 4,
         "thumb_image_url": "https://raw.githubusercontent.com/bagotx/4tube.bundle/master/Contents/Resources/icon-default.png"
     },
     "87640182": {
