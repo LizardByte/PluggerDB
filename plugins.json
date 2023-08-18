@@ -290,7 +290,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 31,
+        "stargazers_count": 30,
         "thumb_image_url": "https://raw.githubusercontent.com/chidychi/Data18.bundle/master/Contents/Resources/icon-default.png"
     },
     "10406080": {
@@ -828,7 +828,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 11,
+        "stargazers_count": 10,
         "thumb_image_url": "https://raw.githubusercontent.com/chidychi/Data18-Content.bundle/master/Contents/Resources/icon-default.png"
     },
     "109516363": {
@@ -15183,7 +15183,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 13,
+        "stargazers_count": 12,
         "thumb_image_url": "https://raw.githubusercontent.com/LanRochpenn/xHamster.bundle/master/Contents/Resources/icon-default.png"
     },
     "28781168": {
@@ -17904,8 +17904,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "11f4854241a6acf6122d1e3e716f882171a425b7",
-                "date": "2023-08-14T22:04:57Z",
+                "commit_sha": "722ea8c863599f772d005add23b186120a087428",
+                "date": "2023-08-18T10:20:43Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/ThePornDatabase/ThePornDB.bundle/archive/refs/heads/main.zip"
@@ -17946,7 +17946,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 100,
+        "stargazers_count": 101,
         "thumb_image_url": null
     },
     "3485091": {
@@ -20813,7 +20813,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 348,
+        "stargazers_count": 349,
         "thumb_image_url": null
     },
     "41394428": {
@@ -28919,7 +28919,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 214,
+        "stargazers_count": 215,
         "thumb_image_url": null
     },
     "70127189": {
