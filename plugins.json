@@ -778,7 +778,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 44,
+        "stargazers_count": 43,
         "thumb_image_url": "https://raw.githubusercontent.com/mikedm139/SickBeard.bundle/master/Contents/Resources/icon-default.png"
     },
     "10906648": {
@@ -935,7 +935,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 28,
+        "stargazers_count": 27,
         "thumb_image_url": "https://raw.githubusercontent.com/mikedm139/CouchPotato.bundle/master/Contents/Resources/icon-default.png"
     },
     "109899749": {
@@ -3165,7 +3165,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 355,
+        "stargazers_count": 356,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -8904,7 +8904,7 @@
         "license": null,
         "license_url": null,
         "name": "PlexJav18",
-        "open_issues_count": 2,
+        "open_issues_count": 3,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -9979,7 +9979,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 908,
+        "stargazers_count": 907,
         "thumb_image_url": null
     },
     "21045557": {
@@ -18802,7 +18802,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 617,
+        "stargazers_count": 618,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -20813,7 +20813,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 349,
+        "stargazers_count": 351,
         "thumb_image_url": null
     },
     "41394428": {
@@ -25453,6 +25453,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "540c544811e3b6c55bf022f9944fd3d129e8f440",
+                "date": "2023-08-18T22:36:52Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/l10n_nightly.zip"
+                },
+                "name": "l10n_nightly",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "adaed0d0bf5d1d986a44e404a22f1ccbc7a38f53",
                 "date": "2023-08-14T08:53:39Z",
                 "default_branch": false,
@@ -25463,7 +25473,7 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "2a09f94200e0828b7ba97d52daabfab8d8cafd16",
+                "commit_sha": "6dd26b6010b636d08322396d5be19b0e5bb3a0d8",
                 "date": "2023-08-09T23:37:18Z",
                 "default_branch": false,
                 "download_assets": {
@@ -25480,16 +25490,6 @@
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/peter-evans/create-pull-request-5.zip"
                 },
                 "name": "dependabot/github_actions/nightly/peter-evans/create-pull-request-5",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "02d09773f903b88104bf0af073fa398fd2b3120a",
-                "date": "2023-08-07T02:26:32Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/l10n_nightly.zip"
-                },
-                "name": "l10n_nightly",
                 "type": "branch"
             },
             {
@@ -25680,7 +25680,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 1,
-        "open_pull_requests_count": 4,
+        "open_pull_requests_count": 5,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
