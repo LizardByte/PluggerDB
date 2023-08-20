@@ -45,7 +45,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 81,
+        "stargazers_count": 82,
         "thumb_image_url": null
     },
     "10147260": {
@@ -8882,8 +8882,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "5131032768efc466e77942c3b1c7c0186036b421",
-                "date": "2023-06-27T03:00:26Z",
+                "commit_sha": "b9c52beaa9985395fa87da4f0701c81c3f87d2d1",
+                "date": "2023-08-20T06:02:24Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/alxpnt2/PlexJav18.bundle/archive/refs/heads/master.zip"
@@ -18850,7 +18850,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 312,
+        "stargazers_count": 313,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -20813,7 +20813,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 351,
+        "stargazers_count": 353,
         "thumb_image_url": null
     },
     "41394428": {
@@ -25473,7 +25473,7 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "6dd26b6010b636d08322396d5be19b0e5bb3a0d8",
+                "commit_sha": "ffc53966518c2fac9d67743d05a8061d55a0375a",
                 "date": "2023-08-09T23:37:18Z",
                 "default_branch": false,
                 "download_assets": {
@@ -25679,7 +25679,7 @@
         "license": "GNU Affero General Public License v3.0",
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
-        "open_issues_count": 1,
+        "open_issues_count": 2,
         "open_pull_requests_count": 5,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
