@@ -18802,7 +18802,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 619,
+        "stargazers_count": 620,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -20175,7 +20175,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 56,
+        "stargazers_count": 57,
         "thumb_image_url": null
     },
     "3931253": {
@@ -25473,7 +25473,7 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "ffc53966518c2fac9d67743d05a8061d55a0375a",
+                "commit_sha": "1558f2e1a197fa68cbd91994e39124e26e12e2dd",
                 "date": "2023-08-09T23:37:18Z",
                 "default_branch": false,
                 "download_assets": {
@@ -32079,7 +32079,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 578,
+        "stargazers_count": 577,
         "thumb_image_url": null
     },
     "8525630": {
