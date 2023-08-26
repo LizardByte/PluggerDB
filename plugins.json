@@ -679,7 +679,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 27,
+        "stargazers_count": 25,
         "thumb_image_url": "https://raw.githubusercontent.com/defract/Colima.bundle/master/Contents/Resources/icon-default.png"
     },
     "1086937": {
@@ -3262,7 +3262,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 0,
+        "stargazers_count": 1,
         "thumb_image_url": "https://raw.githubusercontent.com/OllieDay/Radarr.bundle/master/Contents/Resources/icon-default.png"
     },
     "1331387": {
@@ -4545,7 +4545,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 124,
+        "stargazers_count": 125,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Lambda.bundle/master/Contents/Resources/icon-default.png"
     },
     "14254798": {
@@ -9957,7 +9957,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 155,
+        "forks_count": 154,
         "full_name": "ZeroQI/Absolute-Series-Scanner",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -17946,7 +17946,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 99,
+        "stargazers_count": 100,
         "thumb_image_url": null
     },
     "3485091": {
@@ -20551,23 +20551,33 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "0e06151821837045240880e5594f28f452c8e555",
-                "date": "2023-08-10T05:40:30Z",
-                "default_branch": false,
+                "date": "2023-08-25T17:47:44Z",
                 "download_assets": {
-                    "zipball": "https://github.com/djdembeck/Audnexus.bundle/archive/refs/heads/develop.zip"
+                    "zipball": "https://api.github.com/repos/djdembeck/Audnexus.bundle/zipball/v1.3.1"
                 },
-                "name": "develop",
-                "type": "branch"
+                "name": "v1.3.1",
+                "prerelease": false,
+                "release_tag": "v1.3.1",
+                "type": "release"
             },
             {
-                "commit_sha": "8c940c6e674c97c5fb6e2b3482ce7d26f6f53501",
-                "date": "2023-06-22T22:03:09Z",
+                "commit_sha": "5bfd290e2f68020531dfbedd7f83400b322318e5",
+                "date": "2023-08-25T17:47:19Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/djdembeck/Audnexus.bundle/archive/refs/heads/main.zip"
                 },
                 "name": "main",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "56d8b656777188a051b33c4a3649d684f08a9501",
+                "date": "2023-08-25T17:46:49Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/djdembeck/Audnexus.bundle/archive/refs/heads/develop.zip"
+                },
+                "name": "develop",
                 "type": "branch"
             },
             {
@@ -20804,7 +20814,7 @@
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "Audnexus",
         "open_issues_count": 5,
-        "open_pull_requests_count": 1,
+        "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -25056,7 +25066,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 130,
+        "stargazers_count": 131,
         "thumb_image_url": "https://raw.githubusercontent.com/coryo/ComicReader.bundle/master/Contents/Resources/icon-default.png"
     },
     "52076667": {
@@ -25453,53 +25463,23 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "540c544811e3b6c55bf022f9944fd3d129e8f440",
-                "date": "2023-08-18T22:36:52Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/l10n_nightly.zip"
-                },
-                "name": "l10n_nightly",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "adaed0d0bf5d1d986a44e404a22f1ccbc7a38f53",
-                "date": "2023-08-14T08:53:39Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/easimon/maximize-build-space-8.zip"
-                },
-                "name": "dependabot/github_actions/nightly/easimon/maximize-build-space-8",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "1558f2e1a197fa68cbd91994e39124e26e12e2dd",
-                "date": "2023-08-09T23:37:18Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/feat-add-support-for-collections.zip"
-                },
-                "name": "feat-add-support-for-collections",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "58c90f92ae290b5e1bf9d247f5031fd9516b2adc",
-                "date": "2023-08-07T08:58:58Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/peter-evans/create-pull-request-5.zip"
-                },
-                "name": "dependabot/github_actions/nightly/peter-evans/create-pull-request-5",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "02d09773f903b88104bf0af073fa398fd2b3120a",
-                "date": "2023-08-07T02:26:32Z",
+                "commit_sha": "b8301e00dc383fdd58f4659fb995b7d75d9657cc",
+                "date": "2023-08-25T21:16:24Z",
                 "default_branch": false,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
                 },
                 "name": "nightly",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "439c63f82e55525acaa615d4740a351d878bfc9c",
+                "date": "2023-08-25T20:16:29Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/l10n_nightly.zip"
+                },
+                "name": "l10n_nightly",
                 "type": "branch"
             },
             {
@@ -25679,8 +25659,8 @@
         "license": "GNU Affero General Public License v3.0",
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
-        "open_issues_count": 2,
-        "open_pull_requests_count": 5,
+        "open_issues_count": 3,
+        "open_pull_requests_count": 2,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -28919,7 +28899,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 216,
+        "stargazers_count": 218,
         "thumb_image_url": null
     },
     "70127189": {
@@ -31854,7 +31834,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 26,
+        "stargazers_count": 25,
         "thumb_image_url": "https://raw.githubusercontent.com/piplongrun/CSM.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "8201451": {
@@ -32079,7 +32059,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 576,
+        "stargazers_count": 577,
         "thumb_image_url": null
     },
     "8525630": {
