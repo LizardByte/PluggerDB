@@ -9979,7 +9979,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 908,
+        "stargazers_count": 910,
         "thumb_image_url": null
     },
     "21045557": {
@@ -11400,8 +11400,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "1336f5e8be73fb5145466c2d6b1b0a614da9fa91",
-                "date": "2019-04-28T15:49:25Z",
+                "commit_sha": "6cbd820488c97d014ef3758823d71a8fb1995adc",
+                "date": "2023-08-27T21:31:52Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/rspeicher/GiantBomb.bundle/archive/refs/heads/master.zip"
@@ -11423,7 +11423,7 @@
         "license_url": "https://api.github.com/licenses/mit",
         "name": "GiantBomb",
         "open_issues_count": 2,
-        "open_pull_requests_count": 2,
+        "open_pull_requests_count": 1,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -18636,7 +18636,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 17,
+        "forks_count": 18,
         "full_name": "timmy0209/WangYiYun",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -18802,7 +18802,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 620,
+        "stargazers_count": 621,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -20823,7 +20823,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 354,
+        "stargazers_count": 356,
         "thumb_image_url": null
     },
     "41394428": {
@@ -25463,6 +25463,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "0c633fcc0e459031feb66538059f62270baf0dde",
+                "date": "2023-08-28T07:19:30Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/l10n_nightly.zip"
+                },
+                "name": "l10n_nightly",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "b8301e00dc383fdd58f4659fb995b7d75d9657cc",
                 "date": "2023-08-25T21:16:24Z",
                 "default_branch": false,
@@ -25470,16 +25480,6 @@
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
                 },
                 "name": "nightly",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "439c63f82e55525acaa615d4740a351d878bfc9c",
-                "date": "2023-08-25T20:16:29Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/l10n_nightly.zip"
-                },
-                "name": "l10n_nightly",
                 "type": "branch"
             },
             {
@@ -25669,7 +25669,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 30,
+        "stargazers_count": 31,
         "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/Themerr-plex/master/Contents/Resources/icon-default.png"
     },
     "54208952": {
