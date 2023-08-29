@@ -16597,7 +16597,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 168,
+        "forks_count": 169,
         "full_name": "trakt/Plex-Trakt-Scrobbler",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -18850,7 +18850,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 313,
+        "stargazers_count": 314,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -20823,7 +20823,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 356,
+        "stargazers_count": 357,
         "thumb_image_url": null
     },
     "41394428": {
@@ -26607,6 +26607,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "d518e140ad0b8c0fa5be1b440a16c3524990ce4b",
+                "date": "2023-08-29T09:44:04Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/jquery-3.7.1.zip"
+                },
+                "name": "dependabot/npm_and_yarn/nightly/jquery-3.7.1",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "ff1fa90449081dff16583f071804100330ab3eb8",
                 "date": "2023-08-15T09:10:17Z",
                 "default_branch": false,
@@ -26644,16 +26654,6 @@
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/bootstrap-5.3.1.zip"
                 },
                 "name": "dependabot/npm_and_yarn/nightly/bootstrap-5.3.1",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "47314502d7be7e2f4f2a91757cc2b59a9375a2d8",
-                "date": "2023-05-12T10:13:38Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/jquery-3.7.0.zip"
-                },
-                "name": "dependabot/npm_and_yarn/nightly/jquery-3.7.0",
                 "type": "branch"
             },
             {
@@ -28899,7 +28899,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 218,
+        "stargazers_count": 219,
         "thumb_image_url": null
     },
     "70127189": {
