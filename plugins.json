@@ -3165,7 +3165,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 356,
+        "stargazers_count": 357,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -3936,7 +3936,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 915,
+        "stargazers_count": 916,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -9969,7 +9969,7 @@
         "license": null,
         "license_url": null,
         "name": "Absolute-Series-Scanner",
-        "open_issues_count": 10,
+        "open_issues_count": 11,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -9979,7 +9979,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 910,
+        "stargazers_count": 911,
         "thumb_image_url": null
     },
     "21045557": {
@@ -16619,7 +16619,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1421,
+        "stargazers_count": 1422,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -18850,7 +18850,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 314,
+        "stargazers_count": 315,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -20813,7 +20813,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "Audnexus",
-        "open_issues_count": 5,
+        "open_issues_count": 6,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -21883,8 +21883,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "d452b612dd74d2f3b43df3b168a7cb7806c82b79",
-                "date": "2022-02-25T18:19:25Z",
+                "commit_sha": "c4d96e1af6f3ad57558b04876c366a4abcb305c7",
+                "date": "2023-08-31T17:51:11Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/Pheromir/JAVMovieAgent.bundle/archive/refs/heads/main.zip"
@@ -26607,6 +26607,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "bbdbcbbfcb87b24b1dda85a344b75919382519a3",
+                "date": "2023-08-31T09:59:57Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.11.zip"
+                },
+                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.11",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "d518e140ad0b8c0fa5be1b440a16c3524990ce4b",
                 "date": "2023-08-29T09:44:04Z",
                 "default_branch": false,
@@ -26614,16 +26624,6 @@
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/jquery-3.7.1.zip"
                 },
                 "name": "dependabot/npm_and_yarn/nightly/jquery-3.7.1",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "ff1fa90449081dff16583f071804100330ab3eb8",
-                "date": "2023-08-15T09:10:17Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.9.zip"
-                },
-                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.9",
                 "type": "branch"
             },
             {
