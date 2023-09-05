@@ -2244,7 +2244,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1119,
+        "stargazers_count": 1120,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -3936,7 +3936,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 918,
+        "stargazers_count": 919,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -4173,7 +4173,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 159,
+        "stargazers_count": 160,
         "thumb_image_url": "https://raw.githubusercontent.com/amirotin/Kinopoisk.bundle/master/Contents/Resources/icon-default.png"
     },
     "137426590": {
@@ -8914,7 +8914,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 25,
+        "stargazers_count": 26,
         "thumb_image_url": "https://raw.githubusercontent.com/alxpnt2/PlexJav18.bundle/master/Jav18.bundle/Contents/Resources/icon-default.png"
     },
     "18257694": {
@@ -9979,7 +9979,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 912,
+        "stargazers_count": 913,
         "thumb_image_url": null
     },
     "21045557": {
@@ -11712,7 +11712,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 103,
+        "stargazers_count": 104,
         "thumb_image_url": null
     },
     "23301078": {
@@ -13364,7 +13364,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 120,
+        "stargazers_count": 121,
         "thumb_image_url": null
     },
     "25490193": {
@@ -17946,7 +17946,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 100,
+        "stargazers_count": 101,
         "thumb_image_url": null
     },
     "3485091": {
@@ -21883,8 +21883,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "c4d96e1af6f3ad57558b04876c366a4abcb305c7",
-                "date": "2023-08-31T17:51:11Z",
+                "commit_sha": "0d4fc58269bca1c554954dc95afe6a5aba681ee9",
+                "date": "2023-09-05T10:39:58Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/Pheromir/JAVMovieAgent.bundle/archive/refs/heads/main.zip"
@@ -25279,13 +25279,23 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "c3f5ed37f6539cc45e528d7a64e2a940e8f3c523",
-                "date": "2023-07-19T08:49:39Z",
+                "commit_sha": "cc92ea12c94f4c2557f7b16551dcb0d2b37680dc",
+                "date": "2023-09-05T08:09:59Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/JetBrains/qodana-action-2023.2.1.zip"
+                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/actions/checkout-4.zip"
                 },
-                "name": "dependabot/github_actions/nightly/JetBrains/qodana-action-2023.2.1",
+                "name": "dependabot/github_actions/nightly/actions/checkout-4",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "edde4d1b68cf7606f81cb33e99172e78725f1631",
+                "date": "2023-09-05T08:09:53Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/JetBrains/qodana-action-2023.2.6.zip"
+                },
+                "name": "dependabot/github_actions/nightly/JetBrains/qodana-action-2023.2.6",
                 "type": "branch"
             },
             {
@@ -25387,7 +25397,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "PlexyGlass",
         "open_issues_count": 0,
-        "open_pull_requests_count": 2,
+        "open_pull_requests_count": 3,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -25462,6 +25472,26 @@
         "description": "Plugin for Plex Media Server that adds theme songs to movies using ThemerrDB.",
         "disabled": false,
         "downloads": [
+            {
+                "commit_sha": "3858f6e992fd7d28105b862e9c9dbe4690afe00c",
+                "date": "2023-09-05T08:31:07Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/actions/checkout-4.zip"
+                },
+                "name": "dependabot/github_actions/nightly/actions/checkout-4",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "5fa7f31319a3a8dff257875279b5745f5fe35559",
+                "date": "2023-09-05T08:31:04Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/JetBrains/qodana-action-2023.2.6.zip"
+                },
+                "name": "dependabot/github_actions/nightly/JetBrains/qodana-action-2023.2.6",
+                "type": "branch"
+            },
             {
                 "commit_sha": "8606af53827fff5e5dcc3fde806758d78446d84b",
                 "date": "2023-09-02T05:41:38Z",
@@ -25660,7 +25690,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 3,
-        "open_pull_requests_count": 2,
+        "open_pull_requests_count": 4,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -26607,6 +26637,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "86b96bc4fd886c0b38630cd9b9c7165bc6c26f89",
+                "date": "2023-09-05T08:56:56Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/actions/checkout-4.zip"
+                },
+                "name": "dependabot/github_actions/nightly/actions/checkout-4",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "bbdbcbbfcb87b24b1dda85a344b75919382519a3",
                 "date": "2023-08-31T09:59:57Z",
                 "default_branch": false,
@@ -26730,7 +26770,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Plugger",
         "open_issues_count": 0,
-        "open_pull_requests_count": 8,
+        "open_pull_requests_count": 9,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
