@@ -45,7 +45,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 82,
+        "stargazers_count": 83,
         "thumb_image_url": null
     },
     "10147260": {
@@ -2244,7 +2244,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1120,
+        "stargazers_count": 1121,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -3165,7 +3165,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 358,
+        "stargazers_count": 360,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -3936,7 +3936,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 919,
+        "stargazers_count": 918,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -9979,7 +9979,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 913,
+        "stargazers_count": 914,
         "thumb_image_url": null
     },
     "21045557": {
@@ -18732,7 +18732,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 2,
+        "forks_count": 3,
         "full_name": "timmy0209/Ximalaya",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -20487,7 +20487,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 30,
+        "stargazers_count": 31,
         "thumb_image_url": null
     },
     "40798557": {
@@ -20823,7 +20823,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 362,
+        "stargazers_count": 364,
         "thumb_image_url": null
     },
     "41394428": {
@@ -21118,7 +21118,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 85,
+        "stargazers_count": 86,
         "thumb_image_url": null
     },
     "41897122": {
@@ -25473,6 +25473,36 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "aee854c37e342bbc80beae176c8d3fe2c4744834",
+                "date": "2023-09-06T14:08:22Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/build(deps)-use-python-plexapi-backport.zip"
+                },
+                "name": "build(deps)-use-python-plexapi-backport",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "484573a1d685baa7c680cb48aab351c77ae50c0c",
+                "date": "2023-09-06T13:52:53Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/refactor-improve-js-translations.zip"
+                },
+                "name": "refactor-improve-js-translations",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "5cfd5671e02ecc510bad4d30c78a5123ee4f4844",
+                "date": "2023-09-06T13:37:03Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
+                },
+                "name": "nightly",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "3858f6e992fd7d28105b862e9c9dbe4690afe00c",
                 "date": "2023-09-05T08:31:07Z",
                 "default_branch": false,
@@ -25500,16 +25530,6 @@
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/l10n_nightly.zip"
                 },
                 "name": "l10n_nightly",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "b8301e00dc383fdd58f4659fb995b7d75d9657cc",
-                "date": "2023-08-25T21:16:24Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
-                },
-                "name": "nightly",
                 "type": "branch"
             },
             {
@@ -25690,7 +25710,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 3,
-        "open_pull_requests_count": 4,
+        "open_pull_requests_count": 6,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -28939,7 +28959,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 220,
+        "stargazers_count": 221,
         "thumb_image_url": null
     },
     "70127189": {
