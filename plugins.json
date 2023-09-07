@@ -17946,7 +17946,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 101,
+        "stargazers_count": 102,
         "thumb_image_url": null
     },
     "3485091": {
@@ -20823,7 +20823,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 364,
+        "stargazers_count": 365,
         "thumb_image_url": null
     },
     "41394428": {
@@ -25473,13 +25473,43 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "aee854c37e342bbc80beae176c8d3fe2c4744834",
-                "date": "2023-09-06T14:08:22Z",
+                "commit_sha": "e453fd3f53b3569e6583e3968baf47d0f8919bcd",
+                "date": "2023-09-07T00:31:15Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/build(deps)-use-python-plexapi-backport.zip"
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/ci(tests)-bootstrap-plex-server.zip"
                 },
-                "name": "build(deps)-use-python-plexapi-backport",
+                "name": "ci(tests)-bootstrap-plex-server",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "a7f36cf9c22e6c5339d0617a5786c6502189cdce",
+                "date": "2023-09-07T00:23:11Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/JetBrains/qodana-action-2023.2.6.zip"
+                },
+                "name": "dependabot/github_actions/nightly/JetBrains/qodana-action-2023.2.6",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "ac23c9b81cb73418a1a673a5e6fececa55396b95",
+                "date": "2023-09-07T00:23:09Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/actions/checkout-4.zip"
+                },
+                "name": "dependabot/github_actions/nightly/actions/checkout-4",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "66215e8fc756cc7cbe3b5a0237d832c70a90d938",
+                "date": "2023-09-07T00:22:13Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
+                },
+                "name": "nightly",
                 "type": "branch"
             },
             {
@@ -25490,36 +25520,6 @@
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/refactor-improve-js-translations.zip"
                 },
                 "name": "refactor-improve-js-translations",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "5cfd5671e02ecc510bad4d30c78a5123ee4f4844",
-                "date": "2023-09-06T13:37:03Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
-                },
-                "name": "nightly",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "3858f6e992fd7d28105b862e9c9dbe4690afe00c",
-                "date": "2023-09-05T08:31:07Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/actions/checkout-4.zip"
-                },
-                "name": "dependabot/github_actions/nightly/actions/checkout-4",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "5fa7f31319a3a8dff257875279b5745f5fe35559",
-                "date": "2023-09-05T08:31:04Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/JetBrains/qodana-action-2023.2.6.zip"
-                },
-                "name": "dependabot/github_actions/nightly/JetBrains/qodana-action-2023.2.6",
                 "type": "branch"
             },
             {
