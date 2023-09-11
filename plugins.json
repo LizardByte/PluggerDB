@@ -25453,7 +25453,7 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "baddf8785cd70b7f08cc2d169e3aef4fc9f0491c",
+                "commit_sha": "08c692ecca50583c9fc277d6d521e750f680f772",
                 "date": "2023-09-07T00:31:15Z",
                 "default_branch": false,
                 "download_assets": {
@@ -26627,6 +26627,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "bc42389ea5e6a69068189a4e95834d46ed7146ca",
+                "date": "2023-09-11T10:00:50Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.12.zip"
+                },
+                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.12",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "86b96bc4fd886c0b38630cd9b9c7165bc6c26f89",
                 "date": "2023-09-05T08:56:56Z",
                 "default_branch": false,
@@ -26634,16 +26644,6 @@
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/actions/checkout-4.zip"
                 },
                 "name": "dependabot/github_actions/nightly/actions/checkout-4",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "bbdbcbbfcb87b24b1dda85a344b75919382519a3",
-                "date": "2023-08-31T09:59:57Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.11.zip"
-                },
-                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.11",
                 "type": "branch"
             },
             {
