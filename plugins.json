@@ -12934,7 +12934,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1275,
+        "stargazers_count": 1276,
         "thumb_image_url": null
     },
     "24851830": {
@@ -15903,7 +15903,7 @@
         "license": null,
         "license_url": null,
         "name": "IFDB",
-        "open_issues_count": 4,
+        "open_issues_count": 5,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -18802,7 +18802,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 622,
+        "stargazers_count": 623,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -18850,7 +18850,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 315,
+        "stargazers_count": 316,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -25279,6 +25279,46 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "1daf1a2594626f627f7ee01d61d35275f5685973",
+                "date": "2023-09-12T08:47:49Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/docker/setup-buildx-action-3.zip"
+                },
+                "name": "dependabot/github_actions/nightly/docker/setup-buildx-action-3",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "8163939e48ed53bfe831492f06f238b587ea09fe",
+                "date": "2023-09-12T08:47:42Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/docker/setup-qemu-action-3.zip"
+                },
+                "name": "dependabot/github_actions/nightly/docker/setup-qemu-action-3",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "20facc74bc15cc99648f8eea35611a382361b683",
+                "date": "2023-09-12T08:47:36Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/docker/login-action-3.zip"
+                },
+                "name": "dependabot/github_actions/nightly/docker/login-action-3",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "667be2107ed1c1a58f87fee4215bcbf9b0802035",
+                "date": "2023-09-12T08:47:29Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/docker/build-push-action-5.zip"
+                },
+                "name": "dependabot/github_actions/nightly/docker/build-push-action-5",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "a5bdb3c7f23551bca3e4ada37eba83ed017fadce",
                 "date": "2023-09-09T03:02:55Z",
                 "default_branch": false,
@@ -25367,7 +25407,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "PlexyGlass",
         "open_issues_count": 0,
-        "open_pull_requests_count": 1,
+        "open_pull_requests_count": 5,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -25443,6 +25483,46 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "493638daccd65773b73e3b4170674bd1728134d1",
+                "date": "2023-09-12T08:33:32Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/docker/login-action-3.zip"
+                },
+                "name": "dependabot/github_actions/nightly/docker/login-action-3",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "a407ff30c72f87a30c3157906e56e397b08415f5",
+                "date": "2023-09-12T08:33:28Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/docker/setup-buildx-action-3.zip"
+                },
+                "name": "dependabot/github_actions/nightly/docker/setup-buildx-action-3",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "580133a5adfc729b066bab2a406a90aa43d9baa2",
+                "date": "2023-09-12T08:33:23Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/docker/setup-qemu-action-3.zip"
+                },
+                "name": "dependabot/github_actions/nightly/docker/setup-qemu-action-3",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "6a1d734d10c89f31223df4918582f6db5c83901d",
+                "date": "2023-09-12T08:33:19Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/nightly/docker/build-push-action-5.zip"
+                },
+                "name": "dependabot/github_actions/nightly/docker/build-push-action-5",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "89f541d5032749c1bfa2a1773e07c08feff4c8b4",
                 "date": "2023-09-07T16:42:09Z",
                 "default_branch": false,
@@ -25453,7 +25533,7 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "08c692ecca50583c9fc277d6d521e750f680f772",
+                "commit_sha": "2251afdb0f08f1b370c5733e78f068fc7af60c79",
                 "date": "2023-09-07T00:31:15Z",
                 "default_branch": false,
                 "download_assets": {
@@ -25667,7 +25747,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 0,
+        "forks_count": 1,
         "full_name": "LizardByte/Themerr-plex",
         "gh_pages_url": null,
         "has_discussions": true,
@@ -25680,7 +25760,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 3,
-        "open_pull_requests_count": 6,
+        "open_pull_requests_count": 10,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -26627,6 +26707,46 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "c37af8f2dd5d6c08e7ae42f3740d827ae30d126c",
+                "date": "2023-09-12T08:58:32Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/docker/login-action-3.zip"
+                },
+                "name": "dependabot/github_actions/nightly/docker/login-action-3",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "9cbfc219c99188e46786fe981ba86555323b237d",
+                "date": "2023-09-12T08:58:27Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/docker/build-push-action-5.zip"
+                },
+                "name": "dependabot/github_actions/nightly/docker/build-push-action-5",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "64e1dcd788dab3f14bcdd49c11e1c25957514011",
+                "date": "2023-09-12T08:58:19Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/docker/setup-qemu-action-3.zip"
+                },
+                "name": "dependabot/github_actions/nightly/docker/setup-qemu-action-3",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "ae53313c2531c822244a78900553638d5e187a94",
+                "date": "2023-09-12T08:58:15Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/docker/setup-buildx-action-3.zip"
+                },
+                "name": "dependabot/github_actions/nightly/docker/setup-buildx-action-3",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "bc42389ea5e6a69068189a4e95834d46ed7146ca",
                 "date": "2023-09-11T10:00:50Z",
                 "default_branch": false,
@@ -26760,7 +26880,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Plugger",
         "open_issues_count": 0,
-        "open_pull_requests_count": 9,
+        "open_pull_requests_count": 13,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
