@@ -1205,7 +1205,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 3,
+        "forks_count": 2,
         "full_name": "caveatsCode/subsonic",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -2244,7 +2244,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1123,
+        "stargazers_count": 1124,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -3936,7 +3936,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 917,
+        "stargazers_count": 918,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -9969,7 +9969,7 @@
         "license": null,
         "license_url": null,
         "name": "Absolute-Series-Scanner",
-        "open_issues_count": 9,
+        "open_issues_count": 6,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -9979,7 +9979,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 916,
+        "stargazers_count": 917,
         "thumb_image_url": null
     },
     "21045557": {
@@ -18658,7 +18658,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 101,
+        "stargazers_count": 100,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/WangYiYun.bundle/main/Contents/Resources/icon-default.png"
     },
     "360014764": {
@@ -18706,7 +18706,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 34,
+        "stargazers_count": 33,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/QQmusic.bundle/main/Contents/Resources/icon-default.png"
     },
     "360205681": {
@@ -18802,7 +18802,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 623,
+        "stargazers_count": 622,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -26494,8 +26494,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "61c7f004df22a71d8b634f200165a862bb5e0d1f",
-                "date": "2023-04-24T13:53:12Z",
+                "commit_sha": "911804b0486f57e92c4a1f575dde445643ba9073",
+                "date": "2023-09-13T19:02:05Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/kanojo-db/Kanojo.bundle/archive/refs/heads/main.zip"
