@@ -1521,7 +1521,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 4,
+        "stargazers_count": 5,
         "thumb_image_url": "https://raw.githubusercontent.com/sfeakes/Radio-Tuner.bundle/master/Contents/Resources/icon-default.png"
     },
     "11639490": {
@@ -1773,7 +1773,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 15,
+        "forks_count": 16,
         "full_name": "wonipapa/DaumMovieTVSeries",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -1795,7 +1795,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 38,
+        "stargazers_count": 39,
         "thumb_image_url": "https://raw.githubusercontent.com/wonipapa/DaumMovieTVSeries.bundle/master/Contents/Resources/icon-default.png"
     },
     "119601588": {
@@ -2244,7 +2244,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1124,
+        "stargazers_count": 1125,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -3165,7 +3165,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 360,
+        "stargazers_count": 361,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -3936,7 +3936,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 918,
+        "stargazers_count": 917,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -6756,7 +6756,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 84,
+        "stargazers_count": 83,
         "thumb_image_url": "https://raw.githubusercontent.com/contrary-cat/LocalTVExtras.bundle/master/Contents/Resources/icon-default.png"
     },
     "1633231": {
@@ -8212,7 +8212,7 @@
         "license": "GNU General Public License v2.0",
         "license_url": "https://api.github.com/licenses/gpl-2.0",
         "name": "Dropbox",
-        "open_issues_count": 1,
+        "open_issues_count": 2,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -13364,7 +13364,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 122,
+        "stargazers_count": 123,
         "thumb_image_url": null
     },
     "25490193": {
@@ -16619,7 +16619,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1422,
+        "stargazers_count": 1421,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -17946,7 +17946,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 102,
+        "stargazers_count": 103,
         "thumb_image_url": null
     },
     "3485091": {
@@ -18636,7 +18636,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 18,
+        "forks_count": 19,
         "full_name": "timmy0209/WangYiYun",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -18780,7 +18780,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 143,
+        "forks_count": 144,
         "full_name": "gboudreau/XBMCnfoMoviesImporter",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -18802,7 +18802,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 622,
+        "stargazers_count": 623,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -20823,7 +20823,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 367,
+        "stargazers_count": 368,
         "thumb_image_url": null
     },
     "41394428": {
@@ -25878,7 +25878,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 28,
+        "stargazers_count": 27,
         "thumb_image_url": "https://raw.githubusercontent.com/eithe/NRKTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "54542074": {
@@ -26707,6 +26707,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "a2c553fcfdfdd19decfbbee06fae59769546f1df",
+                "date": "2023-09-15T09:13:30Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/bootstrap-5.3.2.zip"
+                },
+                "name": "dependabot/npm_and_yarn/nightly/bootstrap-5.3.2",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "c37af8f2dd5d6c08e7ae42f3740d827ae30d126c",
                 "date": "2023-09-12T08:58:32Z",
                 "default_branch": false,
@@ -26794,16 +26804,6 @@
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fortawesome/fontawesome-free-6.4.2.zip"
                 },
                 "name": "dependabot/npm_and_yarn/nightly/fortawesome/fontawesome-free-6.4.2",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "b374651ef7d2aa1fafd37b355d503044b0312d32",
-                "date": "2023-07-26T09:24:06Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/bootstrap-5.3.1.zip"
-                },
-                "name": "dependabot/npm_and_yarn/nightly/bootstrap-5.3.1",
                 "type": "branch"
             },
             {
@@ -29039,7 +29039,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "AMSA",
-        "open_issues_count": 4,
+        "open_issues_count": 5,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -29049,7 +29049,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 222,
+        "stargazers_count": 223,
         "thumb_image_url": null
     },
     "70127189": {
