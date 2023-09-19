@@ -2320,7 +2320,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 4,
+        "forks_count": 3,
         "full_name": "mikedm139/SABnzbd",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -2369,7 +2369,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 13,
+        "forks_count": 12,
         "full_name": "shopgirl284/RSSFeed",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -3165,7 +3165,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 361,
+        "stargazers_count": 362,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -3914,7 +3914,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 317,
+        "forks_count": 316,
         "full_name": "Cigaras/IPTV",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -10644,7 +10644,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 21,
+        "forks_count": 22,
         "full_name": "AdultScraperX/AdultScraperX",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -10724,7 +10724,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 145,
+        "forks_count": 146,
         "full_name": "bramwalet/Subliminal",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -14762,7 +14762,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 127,
+        "stargazers_count": 128,
         "thumb_image_url": "https://raw.githubusercontent.com/Fribb/MyAnimeList.bundle/master/Contents/Resources/icon-default.png"
     },
     "28607437": {
@@ -15280,7 +15280,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 8,
+        "stargazers_count": 9,
         "thumb_image_url": null
     },
     "28793554": {
@@ -18754,7 +18754,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 12,
+        "stargazers_count": 13,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/Ximalaya.bundle/main/Contents/Resources/icon-default.png"
     },
     "3621001": {
@@ -18802,7 +18802,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 623,
+        "stargazers_count": 624,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -18850,7 +18850,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 316,
+        "stargazers_count": 317,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -20487,7 +20487,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 31,
+        "stargazers_count": 32,
         "thumb_image_url": null
     },
     "40798557": {
@@ -20823,7 +20823,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 368,
+        "stargazers_count": 369,
         "thumb_image_url": null
     },
     "41394428": {
@@ -25483,6 +25483,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "668feb70e122f2f4d9310b9c6e2c6d71ea264191",
+                "date": "2023-09-18T10:49:09Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/pip/nightly/plexapi-backport-alert--4.15.2.zip"
+                },
+                "name": "dependabot/pip/nightly/plexapi-backport-alert--4.15.2",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "493638daccd65773b73e3b4170674bd1728134d1",
                 "date": "2023-09-12T08:33:32Z",
                 "default_branch": false,
@@ -25533,7 +25543,7 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "fa539330157ebcaf5670b07b992ec37d10b0ae93",
+                "commit_sha": "a8b2860439533b353133ae413785f1f88cfb001e",
                 "date": "2023-09-07T00:31:15Z",
                 "default_branch": false,
                 "download_assets": {
@@ -25760,7 +25770,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 3,
-        "open_pull_requests_count": 10,
+        "open_pull_requests_count": 11,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
