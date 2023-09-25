@@ -2244,7 +2244,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1127,
+        "stargazers_count": 1129,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -3165,7 +3165,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 363,
+        "stargazers_count": 366,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -5173,7 +5173,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 220,
+        "forks_count": 222,
         "full_name": "PhoenixPlexCode/PhoenixAdult",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -5805,7 +5805,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 48,
+        "stargazers_count": 49,
         "thumb_image_url": "https://raw.githubusercontent.com/d8ahazard/FlexTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "15353303": {
@@ -9979,7 +9979,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 919,
+        "stargazers_count": 922,
         "thumb_image_url": null
     },
     "21045557": {
@@ -11712,7 +11712,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 104,
+        "stargazers_count": 106,
         "thumb_image_url": null
     },
     "23301078": {
@@ -17904,8 +17904,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "722ea8c863599f772d005add23b186120a087428",
-                "date": "2023-08-18T10:20:43Z",
+                "commit_sha": "ef9e19637c506c8fcf74f49eee756fcc94f83f94",
+                "date": "2023-09-23T09:06:32Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/ThePornDatabase/ThePornDB.bundle/archive/refs/heads/main.zip"
@@ -17937,7 +17937,7 @@
         "license_url": null,
         "name": "ThePornDB",
         "open_issues_count": 6,
-        "open_pull_requests_count": 2,
+        "open_pull_requests_count": 1,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -17946,7 +17946,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 103,
+        "stargazers_count": 104,
         "thumb_image_url": null
     },
     "3485091": {
@@ -18684,7 +18684,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 3,
+        "forks_count": 4,
         "full_name": "timmy0209/QQmusic",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -18706,7 +18706,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 35,
+        "stargazers_count": 36,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/QQmusic.bundle/main/Contents/Resources/icon-default.png"
     },
     "360205681": {
@@ -18802,7 +18802,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 624,
+        "stargazers_count": 625,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -18850,7 +18850,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 318,
+        "stargazers_count": 319,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -20823,7 +20823,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 369,
+        "stargazers_count": 371,
         "thumb_image_url": null
     },
     "41394428": {
@@ -25483,6 +25483,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "6e20dba9e79cbeb075d5467f5b97c11707d47544",
+                "date": "2023-09-25T00:32:55Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/build(deps)-use-plexhints-from-pypi.zip"
+                },
+                "name": "build(deps)-use-plexhints-from-pypi",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "d2b1c9c0055fb7694ecf7ad3c2d2b756374d1737",
                 "date": "2023-09-22T03:15:43Z",
                 "default_branch": false,
@@ -25680,7 +25690,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 3,
-        "open_pull_requests_count": 2,
+        "open_pull_requests_count": 3,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -26192,7 +26202,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 12,
+        "stargazers_count": 13,
         "thumb_image_url": null
     },
     "56836889": {
@@ -31680,7 +31690,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 60,
+        "stargazers_count": 61,
         "thumb_image_url": null
     },
     "81349855": {
