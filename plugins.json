@@ -3165,7 +3165,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 366,
+        "stargazers_count": 367,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -8173,7 +8173,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 41,
+        "stargazers_count": 42,
         "thumb_image_url": null
     },
     "17290702": {
@@ -20487,7 +20487,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 32,
+        "stargazers_count": 33,
         "thumb_image_url": null
     },
     "40798557": {
@@ -20823,7 +20823,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 371,
+        "stargazers_count": 372,
         "thumb_image_url": null
     },
     "41394428": {
@@ -25483,7 +25483,17 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "6e20dba9e79cbeb075d5467f5b97c11707d47544",
+                "commit_sha": "e817f3915d56bf77c48cd48af87c9bad6b2d931c",
+                "date": "2023-09-25T20:21:48Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/build(deps)-bump-youtube-dl.zip"
+                },
+                "name": "build(deps)-bump-youtube-dl",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "b436b9e1da1de584a59e5d9aff4d6166e4ee6487",
                 "date": "2023-09-25T00:32:55Z",
                 "default_branch": false,
                 "download_assets": {
@@ -25503,7 +25513,7 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "484573a1d685baa7c680cb48aab351c77ae50c0c",
+                "commit_sha": "4ef3b07370e6cd0c9e647b9e2df7912a8980a73d",
                 "date": "2023-09-06T13:52:53Z",
                 "default_branch": false,
                 "download_assets": {
@@ -25689,8 +25699,8 @@
         "license": "GNU Affero General Public License v3.0",
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
-        "open_issues_count": 3,
-        "open_pull_requests_count": 3,
+        "open_issues_count": 4,
+        "open_pull_requests_count": 4,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -25699,7 +25709,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 31,
+        "stargazers_count": 32,
         "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/Themerr-plex/master/Contents/Resources/icon-default.png"
     },
     "54208952": {
@@ -31690,7 +31700,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 61,
+        "stargazers_count": 62,
         "thumb_image_url": null
     },
     "81349855": {
