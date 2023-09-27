@@ -3165,7 +3165,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 367,
+        "stargazers_count": 368,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -18415,7 +18415,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 332,
+        "stargazers_count": 333,
         "thumb_image_url": "https://raw.githubusercontent.com/kolsys/YouTubeTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "351489517": {
@@ -18658,7 +18658,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 102,
+        "stargazers_count": 103,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/WangYiYun.bundle/main/Contents/Resources/icon-default.png"
     },
     "360014764": {
@@ -18802,7 +18802,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 625,
+        "stargazers_count": 626,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -25493,7 +25493,7 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "b436b9e1da1de584a59e5d9aff4d6166e4ee6487",
+                "commit_sha": "a073b3152b8ca2b3c5501e11777a7d4d3a702450",
                 "date": "2023-09-25T00:32:55Z",
                 "default_branch": false,
                 "download_assets": {
