@@ -3936,7 +3936,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 917,
+        "stargazers_count": 918,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -9043,7 +9043,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 0,
+        "stargazers_count": 1,
         "thumb_image_url": "https://raw.githubusercontent.com/gentiho/PlexTools.bundle/master/Contents/Resources/icon-default.png"
     },
     "19215306": {
@@ -9969,7 +9969,7 @@
         "license": null,
         "license_url": null,
         "name": "Absolute-Series-Scanner",
-        "open_issues_count": 6,
+        "open_issues_count": 7,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -13666,7 +13666,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 27,
+        "stargazers_count": 28,
         "thumb_image_url": "https://raw.githubusercontent.com/pbnkp/XNXX.bundle/master/Contents/Resources/icon-default.png"
     },
     "26585517": {
@@ -17946,7 +17946,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 104,
+        "stargazers_count": 105,
         "thumb_image_url": null
     },
     "3485091": {
@@ -20813,7 +20813,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "Audnexus",
-        "open_issues_count": 6,
+        "open_issues_count": 7,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -20823,7 +20823,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 372,
+        "stargazers_count": 373,
         "thumb_image_url": null
     },
     "41394428": {
@@ -21118,7 +21118,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 87,
+        "stargazers_count": 88,
         "thumb_image_url": null
     },
     "41897122": {
@@ -25483,33 +25483,23 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "e817f3915d56bf77c48cd48af87c9bad6b2d931c",
+                "commit_sha": "772499efdb7fedc14302d64151b35fd29e4c8e32",
+                "date": "2023-09-28T00:21:09Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
+                },
+                "name": "nightly",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "af8a62a4907f4cfa4f574aeb276b06a3020f1eae",
                 "date": "2023-09-25T20:21:48Z",
                 "default_branch": false,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/build(deps)-bump-youtube-dl.zip"
                 },
                 "name": "build(deps)-bump-youtube-dl",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "a073b3152b8ca2b3c5501e11777a7d4d3a702450",
-                "date": "2023-09-25T00:32:55Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/build(deps)-use-plexhints-from-pypi.zip"
-                },
-                "name": "build(deps)-use-plexhints-from-pypi",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "d2b1c9c0055fb7694ecf7ad3c2d2b756374d1737",
-                "date": "2023-09-22T03:15:43Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
-                },
-                "name": "nightly",
                 "type": "branch"
             },
             {
@@ -25700,7 +25690,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 4,
-        "open_pull_requests_count": 4,
+        "open_pull_requests_count": 3,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -25709,7 +25699,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 32,
+        "stargazers_count": 33,
         "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/Themerr-plex/master/Contents/Resources/icon-default.png"
     },
     "54208952": {
@@ -27161,7 +27151,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 136,
+        "stargazers_count": 137,
         "thumb_image_url": "https://raw.githubusercontent.com/mikew/ss-plex.bundle/stable/Contents/Resources/icon-default.png"
     },
     "6366490": {
@@ -27659,16 +27649,6 @@
                 "type": "release"
             },
             {
-                "date": "2016-08-28T03:04:35Z",
-                "download_assets": {
-                    "zipball": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v1.2"
-                },
-                "name": "Version 1.2",
-                "prerelease": false,
-                "release_tag": "v1.2",
-                "type": "release"
-            },
-            {
                 "date": "2016-08-27T16:44:25Z",
                 "download_assets": {
                     "zipball": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v1.1"
@@ -27766,16 +27746,6 @@
                 "name": "Version 0.3",
                 "prerelease": false,
                 "release_tag": "v0.3",
-                "type": "release"
-            },
-            {
-                "date": "2016-08-22T15:09:12Z",
-                "download_assets": {
-                    "zipball": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v0.2"
-                },
-                "name": "Version 0.2",
-                "prerelease": false,
-                "release_tag": "v0.2",
                 "type": "release"
             },
             {
