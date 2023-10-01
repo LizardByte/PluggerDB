@@ -3018,7 +3018,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 40,
+        "stargazers_count": 41,
         "thumb_image_url": null
     },
     "12889386": {
@@ -3936,7 +3936,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 918,
+        "stargazers_count": 919,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -9969,7 +9969,7 @@
         "license": null,
         "license_url": null,
         "name": "Absolute-Series-Scanner",
-        "open_issues_count": 7,
+        "open_issues_count": 8,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -12912,7 +12912,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 173,
+        "forks_count": 172,
         "full_name": "ukdtom/WebTools",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -15134,7 +15134,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 14,
+        "stargazers_count": 15,
         "thumb_image_url": "https://raw.githubusercontent.com/cccc/MediaCCC.bundle/master/Contents/Resources/icon-default.png"
     },
     "28776926": {
@@ -18802,7 +18802,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 626,
+        "stargazers_count": 627,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -18850,7 +18850,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 319,
+        "stargazers_count": 320,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -20487,7 +20487,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 33,
+        "stargazers_count": 34,
         "thumb_image_url": null
     },
     "40798557": {
@@ -20823,7 +20823,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 373,
+        "stargazers_count": 375,
         "thumb_image_url": null
     },
     "41394428": {
@@ -27649,6 +27649,16 @@
                 "type": "release"
             },
             {
+                "date": "2016-08-28T03:04:35Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v1.2"
+                },
+                "name": "Version 1.2",
+                "prerelease": false,
+                "release_tag": "v1.2",
+                "type": "release"
+            },
+            {
                 "date": "2016-08-27T16:44:25Z",
                 "download_assets": {
                     "zipball": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v1.1"
@@ -27746,6 +27756,16 @@
                 "name": "Version 0.3",
                 "prerelease": false,
                 "release_tag": "v0.3",
+                "type": "release"
+            },
+            {
+                "date": "2016-08-22T15:09:12Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/jumpmanjay/HDGrandSlam.bundle/zipball/v0.2"
+                },
+                "name": "Version 0.2",
+                "prerelease": false,
+                "release_tag": "v0.2",
                 "type": "release"
             },
             {
@@ -28414,7 +28434,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 94,
+        "stargazers_count": 95,
         "thumb_image_url": "https://raw.githubusercontent.com/zynine-/HDHRViewerV2.bundle/master/Contents/Resources/icon-default.png"
     },
     "6868377": {
@@ -31263,7 +31283,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 331,
+        "stargazers_count": 332,
         "thumb_image_url": "https://raw.githubusercontent.com/ukdtom/ExportTools.bundle/master/Contents/Resources/icon-default.png"
     },
     "79481264": {
