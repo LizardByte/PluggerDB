@@ -45,7 +45,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 83,
+        "stargazers_count": 84,
         "thumb_image_url": null
     },
     "10147260": {
@@ -1254,7 +1254,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 88,
+        "forks_count": 87,
         "full_name": "hojel/DaumMovie",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -1795,7 +1795,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 39,
+        "stargazers_count": 40,
         "thumb_image_url": "https://raw.githubusercontent.com/wonipapa/DaumMovieTVSeries.bundle/master/Contents/Resources/icon-default.png"
     },
     "119601588": {
@@ -2244,7 +2244,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1129,
+        "stargazers_count": 1130,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -3155,7 +3155,7 @@
         "license": null,
         "license_url": null,
         "name": "YouTube-Agent",
-        "open_issues_count": 18,
+        "open_issues_count": 19,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -9969,7 +9969,7 @@
         "license": null,
         "license_url": null,
         "name": "Absolute-Series-Scanner",
-        "open_issues_count": 8,
+        "open_issues_count": 7,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -10724,7 +10724,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 146,
+        "forks_count": 145,
         "full_name": "bramwalet/Subliminal",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -16619,7 +16619,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1421,
+        "stargazers_count": 1423,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -18754,7 +18754,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 14,
+        "stargazers_count": 15,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/Ximalaya.bundle/main/Contents/Resources/icon-default.png"
     },
     "3621001": {
@@ -18780,7 +18780,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 144,
+        "forks_count": 145,
         "full_name": "gboudreau/XBMCnfoMoviesImporter",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -21096,7 +21096,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 28,
+        "forks_count": 29,
         "full_name": "mmmmmtasty/SportScanner",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -23001,7 +23001,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 21,
+        "stargazers_count": 22,
         "thumb_image_url": null
     },
     "464150782": {
@@ -25266,7 +25266,7 @@
     },
     "532707906": {
         "archived": false,
-        "attribution_image_url": "https://raw.githubusercontent.com/LizardByte/PlexyGlass/master/Contents/Resources/attribution.png",
+        "attribution_image_url": "https://raw.githubusercontent.com/LizardByte/PlexyGlass/nightly/Contents/Resources/attribution.png",
         "avatar_image_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
         "avatar_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
         "categories": [
@@ -25274,7 +25274,7 @@
             "Utility",
             "Videos"
         ],
-        "default_branch": "master",
+        "default_branch": "nightly",
         "description": "Plugin for Plex Media Server, that enables additional URL services, including a working YouTube URL service!",
         "disabled": false,
         "downloads": [
@@ -25321,7 +25321,7 @@
             {
                 "commit_sha": "a5bdb3c7f23551bca3e4ada37eba83ed017fadce",
                 "date": "2023-09-09T03:02:55Z",
-                "default_branch": false,
+                "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/nightly.zip"
                 },
@@ -25342,7 +25342,7 @@
             {
                 "commit_sha": "f817681c19348df721ef1741d9ecc7cbd9fce1c3",
                 "date": "2023-05-06T21:15:03Z",
-                "default_branch": true,
+                "default_branch": false,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/master.zip"
                 },
@@ -25417,7 +25417,7 @@
             "Series": []
         },
         "stargazers_count": 24,
-        "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/PlexyGlass/master/Contents/Resources/icon-default.png"
+        "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/PlexyGlass/nightly/Contents/Resources/icon-default.png"
     },
     "53299195": {
         "archived": true,
@@ -25469,7 +25469,7 @@
     },
     "535883315": {
         "archived": false,
-        "attribution_image_url": "https://raw.githubusercontent.com/LizardByte/Themerr-plex/master/Contents/Resources/attribution.png",
+        "attribution_image_url": "https://raw.githubusercontent.com/LizardByte/Themerr-plex/nightly/Contents/Resources/attribution.png",
         "avatar_image_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
         "avatar_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
         "categories": [
@@ -25478,14 +25478,64 @@
             "Movies",
             "Music"
         ],
-        "default_branch": "master",
+        "default_branch": "nightly",
         "description": "Plugin for Plex Media Server that adds theme songs to movies using ThemerrDB.",
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "f24be9fda374c2426598d48074c46f4edc3aac69",
+                "date": "2023-10-01T17:00:04Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.13.zip"
+                },
+                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.13",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "eee6f5f26e98f2d3a7885edb5b924579f2cbbb1f",
+                "date": "2023-10-01T16:59:59Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/nightly/fortawesome/fontawesome-free-6.4.2.zip"
+                },
+                "name": "dependabot/npm_and_yarn/nightly/fortawesome/fontawesome-free-6.4.2",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "91c1edeb482a6d865b99b8dcfa4af5a2cdc13afd",
+                "date": "2023-10-01T16:59:53Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/nightly/jquery-3.7.1.zip"
+                },
+                "name": "dependabot/npm_and_yarn/nightly/jquery-3.7.1",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "5583a7980d06c9745980007daffd18ab5d2798c5",
+                "date": "2023-10-01T16:59:50Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/pip/nightly/plexapi-backport-alert--4.15.3.zip"
+                },
+                "name": "dependabot/pip/nightly/plexapi-backport-alert--4.15.3",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "94250296f269435c5229d7385cc4f39285cbdc4d",
+                "date": "2023-10-01T16:59:47Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/nightly/bootstrap-5.3.2.zip"
+                },
+                "name": "dependabot/npm_and_yarn/nightly/bootstrap-5.3.2",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "772499efdb7fedc14302d64151b35fd29e4c8e32",
                 "date": "2023-09-28T00:21:09Z",
-                "default_branch": false,
+                "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
                 },
@@ -25526,7 +25576,7 @@
             {
                 "commit_sha": "01621168da50b7517ce886279b247887b0adbdf8",
                 "date": "2023-07-31T16:44:21Z",
-                "default_branch": true,
+                "default_branch": false,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/master.zip"
                 },
@@ -25690,7 +25740,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 4,
-        "open_pull_requests_count": 3,
+        "open_pull_requests_count": 8,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -25700,7 +25750,7 @@
             "Series": []
         },
         "stargazers_count": 33,
-        "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/Themerr-plex/master/Contents/Resources/icon-default.png"
+        "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/Themerr-plex/nightly/Contents/Resources/icon-default.png"
     },
     "54208952": {
         "archived": false,
@@ -26626,16 +26676,26 @@
     },
     "604853981": {
         "archived": false,
-        "attribution_image_url": "https://raw.githubusercontent.com/LizardByte/Plugger/master/Contents/Resources/attribution.png",
+        "attribution_image_url": "https://raw.githubusercontent.com/LizardByte/Plugger/nightly/Contents/Resources/attribution.png",
         "avatar_image_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
         "avatar_url": "https://avatars.githubusercontent.com/u/84790584?v=4",
         "categories": [
             "Utility"
         ],
-        "default_branch": "master",
+        "default_branch": "nightly",
         "description": null,
         "disabled": false,
         "downloads": [
+            {
+                "commit_sha": "7b591f82001fb48234fa3cca5d93f0babb91e9e3",
+                "date": "2023-10-01T17:01:50Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.13.zip"
+                },
+                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.13",
+                "type": "branch"
+            },
             {
                 "commit_sha": "a2c553fcfdfdd19decfbbee06fae59769546f1df",
                 "date": "2023-09-15T09:13:30Z",
@@ -26684,16 +26744,6 @@
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/docker/setup-buildx-action-3.zip"
                 },
                 "name": "dependabot/github_actions/nightly/docker/setup-buildx-action-3",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "bc42389ea5e6a69068189a4e95834d46ed7146ca",
-                "date": "2023-09-11T10:00:50Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.12.zip"
-                },
-                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.12",
                 "type": "branch"
             },
             {
@@ -26779,7 +26829,7 @@
             {
                 "commit_sha": "1d2895931c3f2c1f49736a30275215d208f0c834",
                 "date": "2023-02-24T16:48:52Z",
-                "default_branch": true,
+                "default_branch": false,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/master.zip"
                 },
@@ -26789,7 +26839,7 @@
             {
                 "commit_sha": "1d2895931c3f2c1f49736a30275215d208f0c834",
                 "date": "2023-02-24T16:48:52Z",
-                "default_branch": false,
+                "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/nightly.zip"
                 },
@@ -26820,7 +26870,7 @@
             "Series": []
         },
         "stargazers_count": 2,
-        "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/Plugger/master/Contents/Resources/icon-default.png"
+        "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/Plugger/nightly/Contents/Resources/icon-default.png"
     },
     "6076978": {
         "archived": false,
