@@ -1795,7 +1795,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 40,
+        "stargazers_count": 41,
         "thumb_image_url": "https://raw.githubusercontent.com/wonipapa/DaumMovieTVSeries.bundle/master/Contents/Resources/icon-default.png"
     },
     "119601588": {
@@ -3165,7 +3165,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 368,
+        "stargazers_count": 370,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -6756,7 +6756,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 83,
+        "stargazers_count": 84,
         "thumb_image_url": "https://raw.githubusercontent.com/contrary-cat/LocalTVExtras.bundle/master/Contents/Resources/icon-default.png"
     },
     "1633231": {
@@ -9979,7 +9979,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 922,
+        "stargazers_count": 924,
         "thumb_image_url": null
     },
     "21045557": {
@@ -11712,7 +11712,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 106,
+        "stargazers_count": 107,
         "thumb_image_url": null
     },
     "23301078": {
@@ -17924,7 +17924,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 15,
+        "forks_count": 14,
         "full_name": "ThePornDatabase/ThePornDB",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -18465,7 +18465,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 46,
+        "stargazers_count": 45,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/PLEX-Douban.bundle/main/Contents/Resources/icon-default.png"
     },
     "3518520": {
@@ -18706,7 +18706,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 36,
+        "stargazers_count": 35,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/QQmusic.bundle/main/Contents/Resources/icon-default.png"
     },
     "360205681": {
@@ -18780,7 +18780,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 145,
+        "forks_count": 146,
         "full_name": "gboudreau/XBMCnfoMoviesImporter",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -20813,7 +20813,7 @@
         "license": "GNU General Public License v3.0",
         "license_url": "https://api.github.com/licenses/gpl-3.0",
         "name": "Audnexus",
-        "open_issues_count": 7,
+        "open_issues_count": 6,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -21118,7 +21118,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 88,
+        "stargazers_count": 89,
         "thumb_image_url": null
     },
     "41897122": {
@@ -24388,7 +24388,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 157,
+        "stargazers_count": 158,
         "thumb_image_url": "https://raw.githubusercontent.com/ngovil21/RequestChannel.bundle/master/Contents/Resources/icon-default.png"
     },
     "50455963": {
@@ -25483,13 +25483,13 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "f24be9fda374c2426598d48074c46f4edc3aac69",
-                "date": "2023-10-01T17:00:04Z",
+                "commit_sha": "42d7ef66e44171c018a97bef2370bd5e38326d73",
+                "date": "2023-10-04T09:23:57Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.13.zip"
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.14.zip"
                 },
-                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.13",
+                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.14",
                 "type": "branch"
             },
             {
@@ -26687,13 +26687,13 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "7b591f82001fb48234fa3cca5d93f0babb91e9e3",
-                "date": "2023-10-01T17:01:50Z",
+                "commit_sha": "d68ecdaa9e5dd8a1b4865bf0a318ad9fd862bcf5",
+                "date": "2023-10-04T09:10:44Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.13.zip"
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.14.zip"
                 },
-                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.13",
+                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.14",
                 "type": "branch"
             },
             {
