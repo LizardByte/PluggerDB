@@ -2244,7 +2244,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1130,
+        "stargazers_count": 1131,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -4173,7 +4173,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 160,
+        "stargazers_count": 159,
         "thumb_image_url": "https://raw.githubusercontent.com/amirotin/Kinopoisk.bundle/master/Contents/Resources/icon-default.png"
     },
     "137426590": {
@@ -8914,7 +8914,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 27,
+        "stargazers_count": 28,
         "thumb_image_url": "https://raw.githubusercontent.com/alxpnt2/PlexJav18.bundle/master/Jav18.bundle/Contents/Resources/icon-default.png"
     },
     "18257694": {
@@ -9483,7 +9483,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 4,
+        "forks_count": 5,
         "full_name": "filebot/plex-agents",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -9979,7 +9979,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 924,
+        "stargazers_count": 925,
         "thumb_image_url": null
     },
     "21045557": {
@@ -16619,7 +16619,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1423,
+        "stargazers_count": 1422,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -18780,7 +18780,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 146,
+        "forks_count": 147,
         "full_name": "gboudreau/XBMCnfoMoviesImporter",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -18802,7 +18802,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 627,
+        "stargazers_count": 628,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -18850,7 +18850,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 320,
+        "stargazers_count": 321,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -20477,7 +20477,7 @@
         "license": null,
         "license_url": null,
         "name": "StashPlexAgent",
-        "open_issues_count": 7,
+        "open_issues_count": 8,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -25279,48 +25279,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "1daf1a2594626f627f7ee01d61d35275f5685973",
-                "date": "2023-09-12T08:47:49Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/docker/setup-buildx-action-3.zip"
-                },
-                "name": "dependabot/github_actions/nightly/docker/setup-buildx-action-3",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "8163939e48ed53bfe831492f06f238b587ea09fe",
-                "date": "2023-09-12T08:47:42Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/docker/setup-qemu-action-3.zip"
-                },
-                "name": "dependabot/github_actions/nightly/docker/setup-qemu-action-3",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "20facc74bc15cc99648f8eea35611a382361b683",
-                "date": "2023-09-12T08:47:36Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/docker/login-action-3.zip"
-                },
-                "name": "dependabot/github_actions/nightly/docker/login-action-3",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "667be2107ed1c1a58f87fee4215bcbf9b0802035",
-                "date": "2023-09-12T08:47:29Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/nightly/docker/build-push-action-5.zip"
-                },
-                "name": "dependabot/github_actions/nightly/docker/build-push-action-5",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "a5bdb3c7f23551bca3e4ada37eba83ed017fadce",
-                "date": "2023-09-09T03:02:55Z",
+                "commit_sha": "acd9dea50f23404af94ee68735adace4610ab7ee",
+                "date": "2023-10-05T15:33:45Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/nightly.zip"
@@ -25407,7 +25367,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "PlexyGlass",
         "open_issues_count": 0,
-        "open_pull_requests_count": 5,
+        "open_pull_requests_count": 1,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -25483,6 +25443,26 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "964b3b9cc076805247587505b60772524e413f28",
+                "date": "2023-10-05T15:33:52Z",
+                "default_branch": true,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
+                },
+                "name": "nightly",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "a251ffb7080e4be0572d70b5969e137db3687565",
+                "date": "2023-10-05T10:17:09Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/pip/nightly/plexapi-backport-alert--4.15.4.zip"
+                },
+                "name": "dependabot/pip/nightly/plexapi-backport-alert--4.15.4",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "42d7ef66e44171c018a97bef2370bd5e38326d73",
                 "date": "2023-10-04T09:23:57Z",
                 "default_branch": false,
@@ -25513,16 +25493,6 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "5583a7980d06c9745980007daffd18ab5d2798c5",
-                "date": "2023-10-01T16:59:50Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/pip/nightly/plexapi-backport-alert--4.15.3.zip"
-                },
-                "name": "dependabot/pip/nightly/plexapi-backport-alert--4.15.3",
-                "type": "branch"
-            },
-            {
                 "commit_sha": "94250296f269435c5229d7385cc4f39285cbdc4d",
                 "date": "2023-10-01T16:59:47Z",
                 "default_branch": false,
@@ -25530,16 +25500,6 @@
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/nightly/bootstrap-5.3.2.zip"
                 },
                 "name": "dependabot/npm_and_yarn/nightly/bootstrap-5.3.2",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "772499efdb7fedc14302d64151b35fd29e4c8e32",
-                "date": "2023-09-28T00:21:09Z",
-                "default_branch": true,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
-                },
-                "name": "nightly",
                 "type": "branch"
             },
             {
@@ -26687,6 +26647,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "8da8318f0143395a5fdba6de49ad988603fd4a6b",
+                "date": "2023-10-05T14:25:06Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/bot/update-files-from-global-repo.zip"
+                },
+                "name": "bot/update-files-from-global-repo",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "d68ecdaa9e5dd8a1b4865bf0a318ad9fd862bcf5",
                 "date": "2023-10-04T09:10:44Z",
                 "default_branch": false,
@@ -26860,7 +26830,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Plugger",
         "open_issues_count": 0,
-        "open_pull_requests_count": 13,
+        "open_pull_requests_count": 14,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -29029,7 +28999,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 223,
+        "stargazers_count": 224,
         "thumb_image_url": null
     },
     "70127189": {
@@ -31014,17 +30984,6 @@
                 "type": "release"
             },
             {
-                "date": "2020-12-22T00:42:39Z",
-                "download_assets": {
-                    "ExportTools.bundle.zip": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.13/ExportTools.bundle.zip",
-                    "zipball": "https://api.github.com/repos/ukdtom/ExportTools.bundle/zipball/V2.0.0.13"
-                },
-                "name": "V2.0.0.13",
-                "prerelease": false,
-                "release_tag": "V2.0.0.13",
-                "type": "release"
-            },
-            {
                 "date": "2020-07-02T21:04:12Z",
                 "download_assets": {
                     "ExportTools.bundle.zip": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.12/ExportTools.bundle.zip",
@@ -31102,17 +31061,6 @@
                 "type": "release"
             },
             {
-                "date": "2019-08-05T19:21:48Z",
-                "download_assets": {
-                    "ExportTools.bundle.zip": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.5/ExportTools.bundle.zip",
-                    "zipball": "https://api.github.com/repos/ukdtom/ExportTools.bundle/zipball/V2.0.0.5"
-                },
-                "name": "V2.0.0.5",
-                "prerelease": false,
-                "release_tag": "V2.0.0.5",
-                "type": "release"
-            },
-            {
                 "date": "2019-07-25T08:06:07Z",
                 "download_assets": {
                     "ExportTools.bundle.zip": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V2.0.0.4/ExportTools.bundle.zip",
@@ -31165,17 +31113,6 @@
                 "name": "V1.0.2.18",
                 "prerelease": false,
                 "release_tag": "V1.0.2.18",
-                "type": "release"
-            },
-            {
-                "date": "2019-02-16T21:53:26Z",
-                "download_assets": {
-                    "ExportTools.bundle.zip": "https://github.com/ukdtom/ExportTools.bundle/releases/download/1.0.2.17/ExportTools.bundle.zip",
-                    "zipball": "https://api.github.com/repos/ukdtom/ExportTools.bundle/zipball/1.0.2.17"
-                },
-                "name": "V1.0.2.17",
-                "prerelease": false,
-                "release_tag": "1.0.2.17",
                 "type": "release"
             },
             {
@@ -31256,17 +31193,6 @@
                 "type": "release"
             },
             {
-                "date": "2018-03-11T10:37:10Z",
-                "download_assets": {
-                    "ExportTools.bundle.zip": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.10/ExportTools.bundle.zip",
-                    "zipball": "https://api.github.com/repos/ukdtom/ExportTools.bundle/zipball/V1.0.2.10"
-                },
-                "name": "V1.0.2.10",
-                "prerelease": false,
-                "release_tag": "V1.0.2.10",
-                "type": "release"
-            },
-            {
                 "date": "2018-03-09T19:23:57Z",
                 "download_assets": {
                     "ExportTools.bundle.zip": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.9/ExportTools.bundle.zip",
@@ -31308,6 +31234,50 @@
                 "name": "V1.0.2.6",
                 "prerelease": false,
                 "release_tag": "V1.0.2.6",
+                "type": "release"
+            },
+            {
+                "date": "2017-09-03T08:45:32Z",
+                "download_assets": {
+                    "ExportTools.bundle.zip": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.5/ExportTools.bundle.zip",
+                    "zipball": "https://api.github.com/repos/ukdtom/ExportTools.bundle/zipball/V1.0.2.5"
+                },
+                "name": "v1.0.2.5",
+                "prerelease": false,
+                "release_tag": "V1.0.2.5",
+                "type": "release"
+            },
+            {
+                "date": "2017-08-12T20:32:29Z",
+                "download_assets": {
+                    "ExportTools.bundle.zip": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.4/ExportTools.bundle.zip",
+                    "zipball": "https://api.github.com/repos/ukdtom/ExportTools.bundle/zipball/V1.0.2.4"
+                },
+                "name": "V1.0.2.4",
+                "prerelease": false,
+                "release_tag": "V1.0.2.4",
+                "type": "release"
+            },
+            {
+                "date": "2017-07-03T19:21:44Z",
+                "download_assets": {
+                    "ExportTools.bundle.zip": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.3/ExportTools.bundle.zip",
+                    "zipball": "https://api.github.com/repos/ukdtom/ExportTools.bundle/zipball/V1.0.2.3"
+                },
+                "name": "V1.0.2.3",
+                "prerelease": false,
+                "release_tag": "V1.0.2.3",
+                "type": "release"
+            },
+            {
+                "date": "2017-06-05T13:50:40Z",
+                "download_assets": {
+                    "ExportTools.bundle.zip": "https://github.com/ukdtom/ExportTools.bundle/releases/download/V1.0.2.2/ExportTools.bundle.zip",
+                    "zipball": "https://api.github.com/repos/ukdtom/ExportTools.bundle/zipball/V1.0.2.2"
+                },
+                "name": "V1.0.2.2",
+                "prerelease": false,
+                "release_tag": "V1.0.2.2",
                 "type": "release"
             }
         ],
