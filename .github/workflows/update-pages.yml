@@ -3,7 +3,7 @@ name: Update
 
 on:
   pull_request:
-    branches: [master, nightly]
+    branches: [master]
     types: [opened, synchronize, reopened]
   push:
     branches: [master]
@@ -136,5 +136,5 @@ jobs:
           author_name: ${{ secrets.GH_BOT_NAME }}
           directory: gh-pages
           branch: gh-pages
-          force: true
+          force: false
           message: automatic-update-${{ steps.date.outputs.date }}
