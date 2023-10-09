@@ -9969,7 +9969,7 @@
         "license": null,
         "license_url": null,
         "name": "Absolute-Series-Scanner",
-        "open_issues_count": 7,
+        "open_issues_count": 8,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -20823,7 +20823,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 376,
+        "stargazers_count": 377,
         "thumb_image_url": null
     },
     "41394428": {
@@ -25279,6 +25279,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "eff0383c475b0429ad40651ab30e0dbcf6da9290",
+                "date": "2023-10-09T08:54:03Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/JetBrains/qodana-action-2023.2.7.zip"
+                },
+                "name": "dependabot/github_actions/JetBrains/qodana-action-2023.2.7",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "03b7a66cf3f9d532c482f726815b74c17569484e",
                 "date": "2023-10-06T23:02:43Z",
                 "default_branch": true,
@@ -25367,7 +25377,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "PlexyGlass",
         "open_issues_count": 0,
-        "open_pull_requests_count": 1,
+        "open_pull_requests_count": 2,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -25443,6 +25453,26 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "d43938c257384b3fa7b98953f7849198f86dd943",
+                "date": "2023-10-09T09:29:44Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/fontsource/open-sans-5.0.15.zip"
+                },
+                "name": "dependabot/npm_and_yarn/fontsource/open-sans-5.0.15",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "cb759075330bcc6948e512724bff1edcd55fdec7",
+                "date": "2023-10-09T08:27:15Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/JetBrains/qodana-action-2023.2.7.zip"
+                },
+                "name": "dependabot/github_actions/JetBrains/qodana-action-2023.2.7",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "4778272d5bf8735268015630561c0dec356e0e44",
                 "date": "2023-10-06T23:51:05Z",
                 "default_branch": true,
@@ -25460,16 +25490,6 @@
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/pip/nightly/plexapi-backport-alert--4.15.4.zip"
                 },
                 "name": "dependabot/pip/nightly/plexapi-backport-alert--4.15.4",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "42d7ef66e44171c018a97bef2370bd5e38326d73",
-                "date": "2023-10-04T09:23:57Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.14.zip"
-                },
-                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.14",
                 "type": "branch"
             },
             {
@@ -25700,7 +25720,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 4,
-        "open_pull_requests_count": 8,
+        "open_pull_requests_count": 9,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -26647,143 +26667,23 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "8da8318f0143395a5fdba6de49ad988603fd4a6b",
-                "date": "2023-10-05T14:25:06Z",
-                "default_branch": false,
+                "commit_sha": "5bbabf9318dad3540281855dea963349c0ea2e36",
+                "date": "2023-10-08T23:57:56Z",
+                "default_branch": true,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/bot/update-files-from-global-repo.zip"
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/nightly.zip"
                 },
-                "name": "bot/update-files-from-global-repo",
+                "name": "nightly",
                 "type": "branch"
             },
             {
-                "commit_sha": "d68ecdaa9e5dd8a1b4865bf0a318ad9fd862bcf5",
-                "date": "2023-10-04T09:10:44Z",
+                "commit_sha": "b7a194bbba78f28786eec2eb814bd9e518e76167",
+                "date": "2023-10-08T21:45:26Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.14.zip"
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/JetBrains/qodana-action-2023.2.7.zip"
                 },
-                "name": "dependabot/npm_and_yarn/nightly/fontsource/open-sans-5.0.14",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "a2c553fcfdfdd19decfbbee06fae59769546f1df",
-                "date": "2023-09-15T09:13:30Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/bootstrap-5.3.2.zip"
-                },
-                "name": "dependabot/npm_and_yarn/nightly/bootstrap-5.3.2",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "c37af8f2dd5d6c08e7ae42f3740d827ae30d126c",
-                "date": "2023-09-12T08:58:32Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/docker/login-action-3.zip"
-                },
-                "name": "dependabot/github_actions/nightly/docker/login-action-3",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "9cbfc219c99188e46786fe981ba86555323b237d",
-                "date": "2023-09-12T08:58:27Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/docker/build-push-action-5.zip"
-                },
-                "name": "dependabot/github_actions/nightly/docker/build-push-action-5",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "64e1dcd788dab3f14bcdd49c11e1c25957514011",
-                "date": "2023-09-12T08:58:19Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/docker/setup-qemu-action-3.zip"
-                },
-                "name": "dependabot/github_actions/nightly/docker/setup-qemu-action-3",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "ae53313c2531c822244a78900553638d5e187a94",
-                "date": "2023-09-12T08:58:15Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/docker/setup-buildx-action-3.zip"
-                },
-                "name": "dependabot/github_actions/nightly/docker/setup-buildx-action-3",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "86b96bc4fd886c0b38630cd9b9c7165bc6c26f89",
-                "date": "2023-09-05T08:56:56Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/actions/checkout-4.zip"
-                },
-                "name": "dependabot/github_actions/nightly/actions/checkout-4",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "d518e140ad0b8c0fa5be1b440a16c3524990ce4b",
-                "date": "2023-08-29T09:44:04Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/jquery-3.7.1.zip"
-                },
-                "name": "dependabot/npm_and_yarn/nightly/jquery-3.7.1",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "10600e2ed1d98c74dd50a061eb3edae5ae23ec94",
-                "date": "2023-08-05T17:48:24Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/featurize.zip"
-                },
-                "name": "featurize",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "040840e8349439f24ab861164c7a18ada8cf7cfe",
-                "date": "2023-08-03T10:01:52Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/nightly/fortawesome/fontawesome-free-6.4.2.zip"
-                },
-                "name": "dependabot/npm_and_yarn/nightly/fortawesome/fontawesome-free-6.4.2",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "82315c283d1f98ae155047f5b384d307762ab05e",
-                "date": "2023-04-05T09:06:14Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/peter-evans/create-pull-request-5.zip"
-                },
-                "name": "dependabot/github_actions/nightly/peter-evans/create-pull-request-5",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "e9aecd0141d66ba493420564899bcbc71d56f02b",
-                "date": "2023-03-23T09:11:16Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/actions/stale-8.zip"
-                },
-                "name": "dependabot/github_actions/nightly/actions/stale-8",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "977a22d801ad9b595dabf138f013cd5518bb9bff",
-                "date": "2023-02-27T09:23:16Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/nightly/pascalgn/automerge-action-0.15.6.zip"
-                },
-                "name": "dependabot/github_actions/nightly/pascalgn/automerge-action-0.15.6",
+                "name": "dependabot/github_actions/JetBrains/qodana-action-2023.2.7",
                 "type": "branch"
             },
             {
@@ -26805,16 +26705,6 @@
                 },
                 "name": "master",
                 "type": "branch"
-            },
-            {
-                "commit_sha": "1d2895931c3f2c1f49736a30275215d208f0c834",
-                "date": "2023-02-24T16:48:52Z",
-                "default_branch": true,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/nightly.zip"
-                },
-                "name": "nightly",
-                "type": "branch"
             }
         ],
         "forks_count": 0,
@@ -26824,13 +26714,13 @@
         "has_downloads": true,
         "has_issues": true,
         "has_wiki": false,
-        "homepage": null,
+        "homepage": "",
         "html_url": "https://github.com/LizardByte/Plugger",
         "license": "GNU Affero General Public License v3.0",
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Plugger",
         "open_issues_count": 0,
-        "open_pull_requests_count": 14,
+        "open_pull_requests_count": 2,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -27870,7 +27760,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 18,
+        "stargazers_count": 19,
         "thumb_image_url": "https://raw.githubusercontent.com/sjlouw/GoogleMusic.bundle/master/Contents/Resources/icon-default.png"
     },
     "66832541": {
@@ -28977,7 +28867,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 4,
+        "forks_count": 5,
         "full_name": "Dingmatt/AMSA",
         "gh_pages_url": null,
         "has_discussions": false,
