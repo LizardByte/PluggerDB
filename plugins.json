@@ -2244,7 +2244,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1130,
+        "stargazers_count": 1129,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -6387,6 +6387,26 @@
                 },
                 "name": "master",
                 "type": "branch"
+            },
+            {
+                "date": "2014-02-24T19:07:28Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/loek17/iTVOnline.bundle/zipball/v1.0.1"
+                },
+                "name": "Mac OS X Versie",
+                "prerelease": false,
+                "release_tag": "v1.0.1",
+                "type": "release"
+            },
+            {
+                "date": "2014-02-24T19:01:36Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/loek17/iTVOnline.bundle/zipball/v1.0.0"
+                },
+                "name": "Standaard Versie voor Windows en Lunix",
+                "prerelease": false,
+                "release_tag": "v1.0.0",
+                "type": "release"
             }
         ],
         "forks_count": 0,
@@ -8483,6 +8503,16 @@
                 "type": "release"
             },
             {
+                "date": "2014-07-01T04:57:40Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/fuzeman/Spotify2.bundle/zipball/0.5.4"
+                },
+                "name": "0.5.4",
+                "prerelease": false,
+                "release_tag": "0.5.4",
+                "type": "release"
+            },
+            {
                 "date": "2014-07-01T04:57:27Z",
                 "download_assets": {
                     "zipball": "https://api.github.com/repos/fuzeman/Spotify2.bundle/zipball/0.5.4-beta"
@@ -8630,6 +8660,16 @@
                 "name": "0.4",
                 "prerelease": false,
                 "release_tag": "0.4",
+                "type": "release"
+            },
+            {
+                "date": "2014-04-19T02:55:00Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/fuzeman/Spotify2.bundle/zipball/0.3"
+                },
+                "name": "0.3",
+                "prerelease": false,
+                "release_tag": "0.3",
                 "type": "release"
             },
             {
@@ -9939,7 +9979,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 924,
+        "stargazers_count": 923,
         "thumb_image_url": null
     },
     "21045557": {
@@ -12894,7 +12934,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1277,
+        "stargazers_count": 1278,
         "thumb_image_url": null
     },
     "24851830": {
@@ -14722,7 +14762,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 128,
+        "stargazers_count": 129,
         "thumb_image_url": "https://raw.githubusercontent.com/Fribb/MyAnimeList.bundle/master/Contents/Resources/icon-default.png"
     },
     "28607437": {
@@ -15121,7 +15161,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 6,
+        "forks_count": 7,
         "full_name": "LanRochpenn/xHamster",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -17983,6 +18023,16 @@
         "disabled": false,
         "downloads": [
             {
+                "date": "2020-09-06T16:27:39Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.14"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v4.14",
+                "type": "release"
+            },
+            {
                 "commit_sha": "93c231df79e4529a2b8dd7c5348bc6b63966e9ab",
                 "date": "2020-08-09T07:19:09Z",
                 "default_branch": true,
@@ -17991,6 +18041,66 @@
                 },
                 "name": "master",
                 "type": "branch"
+            },
+            {
+                "date": "2020-01-06T00:07:20Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.13"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v4.13",
+                "type": "release"
+            },
+            {
+                "date": "2019-01-14T20:15:27Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.12"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v4.12",
+                "type": "release"
+            },
+            {
+                "date": "2019-01-06T23:05:16Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.11"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v4.11",
+                "type": "release"
+            },
+            {
+                "date": "2018-10-04T06:59:59Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.9"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v4.9",
+                "type": "release"
+            },
+            {
+                "date": "2018-03-17T23:44:39Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.8"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v4.8",
+                "type": "release"
+            },
+            {
+                "date": "2017-05-29T20:13:33Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.7"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v4.7",
+                "type": "release"
             },
             {
                 "commit_sha": "4f62df13341bd1180fa487bfb6d56369aff1df2c",
@@ -18013,6 +18123,26 @@
                 "type": "branch"
             },
             {
+                "date": "2017-02-06T21:43:23Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.6"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v4.6",
+                "type": "release"
+            },
+            {
+                "date": "2017-01-21T21:26:38Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.5"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v4.5",
+                "type": "release"
+            },
+            {
                 "commit_sha": "02456e8fecad5ce76bb35a5720d533b53ae6b979",
                 "date": "2017-01-21T10:00:23Z",
                 "default_branch": false,
@@ -18021,6 +18151,36 @@
                 },
                 "name": "debug",
                 "type": "branch"
+            },
+            {
+                "date": "2016-09-20T21:27:10Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.4"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v4.4",
+                "type": "release"
+            },
+            {
+                "date": "2016-03-22T22:55:04Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.3"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v4.3",
+                "type": "release"
+            },
+            {
+                "date": "2016-02-18T20:59:31Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.2"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v4.2",
+                "type": "release"
             },
             {
                 "commit_sha": "7e7541aeb77311835c56d933c9ce9600fc734f88",
@@ -18043,6 +18203,56 @@
                 "type": "branch"
             },
             {
+                "date": "2015-12-24T22:13:22Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.1"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v4.1",
+                "type": "release"
+            },
+            {
+                "date": "2015-12-22T21:41:23Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v4.0"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v4.0",
+                "type": "release"
+            },
+            {
+                "date": "2015-12-17T19:53:38Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.10"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v3.10",
+                "type": "release"
+            },
+            {
+                "date": "2015-11-21T17:58:50Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.9"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v3.9",
+                "type": "release"
+            },
+            {
+                "date": "2015-11-14T10:35:53Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.8"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v3.8",
+                "type": "release"
+            },
+            {
                 "commit_sha": "db464e654648f9a0182774e6355e6772f10dbc56",
                 "date": "2015-11-03T12:35:31Z",
                 "default_branch": false,
@@ -18051,6 +18261,136 @@
                 },
                 "name": "logo",
                 "type": "branch"
+            },
+            {
+                "date": "2015-10-29T21:55:23Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.7"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v3.7",
+                "type": "release"
+            },
+            {
+                "date": "2015-10-05T22:08:25Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.6"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v3.6",
+                "type": "release"
+            },
+            {
+                "date": "2015-09-06T15:08:31Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.5"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v3.5",
+                "type": "release"
+            },
+            {
+                "date": "2015-08-29T22:04:34Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.4"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v3.4",
+                "type": "release"
+            },
+            {
+                "date": "2015-06-28T20:03:43Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.2"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v3.2",
+                "type": "release"
+            },
+            {
+                "date": "2015-06-16T21:54:43Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.1"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v3.1",
+                "type": "release"
+            },
+            {
+                "date": "2015-06-03T20:40:43Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v3.0"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v3.0",
+                "type": "release"
+            },
+            {
+                "date": "2015-06-02T20:47:21Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v2.9"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v2.9",
+                "type": "release"
+            },
+            {
+                "date": "2015-06-01T20:38:51Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v2.8"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v2.8",
+                "type": "release"
+            },
+            {
+                "date": "2015-05-30T20:38:30Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v2.7"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v2.7",
+                "type": "release"
+            },
+            {
+                "date": "2015-05-26T19:45:12Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v2.6"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v2.6",
+                "type": "release"
+            },
+            {
+                "date": "2015-05-21T21:03:55Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v2.5"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v2.5",
+                "type": "release"
+            },
+            {
+                "date": "2015-05-17T14:04:52Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/kolsys/YouTubeTV.bundle/zipball/v2.4"
+                },
+                "name": "YouTubeTV.bundle",
+                "prerelease": false,
+                "release_tag": "v2.4",
+                "type": "release"
             }
         ],
         "forks_count": 58,
@@ -18960,6 +19300,86 @@
                 },
                 "name": "master",
                 "type": "branch"
+            },
+            {
+                "date": "2016-08-13T21:56:19Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/DesiTV.bundle/zipball/v0.08"
+                },
+                "name": "Ver. 0.08",
+                "prerelease": false,
+                "release_tag": "v0.08",
+                "type": "release"
+            },
+            {
+                "date": "2016-08-13T21:15:38Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/DesiTV.bundle/zipball/v0.07"
+                },
+                "name": "Ver. 0.07",
+                "prerelease": false,
+                "release_tag": "v0.07",
+                "type": "release"
+            },
+            {
+                "date": "2015-10-02T05:07:08Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/DesiTV.bundle/zipball/v0.06"
+                },
+                "name": "Ver. 0.06",
+                "prerelease": false,
+                "release_tag": "v0.06",
+                "type": "release"
+            },
+            {
+                "date": "2015-09-21T10:05:14Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/DesiTV.bundle/zipball/v0.05"
+                },
+                "name": "Ver. 0.05",
+                "prerelease": false,
+                "release_tag": "v0.05",
+                "type": "release"
+            },
+            {
+                "date": "2015-09-21T09:53:02Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/DesiTV.bundle/zipball/v0.04"
+                },
+                "name": "Ver. 0.04",
+                "prerelease": false,
+                "release_tag": "v0.04",
+                "type": "release"
+            },
+            {
+                "date": "2015-07-17T09:16:11Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/DesiTV.bundle/zipball/v0.03"
+                },
+                "name": "Ver. 0.03",
+                "prerelease": false,
+                "release_tag": "v0.03",
+                "type": "release"
+            },
+            {
+                "date": "2015-06-26T20:49:14Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/DesiTV.bundle/zipball/v0.02"
+                },
+                "name": "Ver. 0.02",
+                "prerelease": false,
+                "release_tag": "v0.02",
+                "type": "release"
+            },
+            {
+                "date": "2015-06-26T20:42:13Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/DesiTV.bundle/zipball/v0.01"
+                },
+                "name": "Ver. 0.01",
+                "prerelease": false,
+                "release_tag": "v0.01",
+                "type": "release"
             }
         ],
         "forks_count": 6,
@@ -19060,6 +19480,16 @@
                 "type": "branch"
             },
             {
+                "date": "2017-05-25T00:37:51Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.21"
+                },
+                "name": "Ver. 0.21",
+                "prerelease": false,
+                "release_tag": "v0.21",
+                "type": "release"
+            },
+            {
                 "commit_sha": "cb32263dbece482ae862576d301433378be42933",
                 "date": "2017-05-25T00:34:28Z",
                 "default_branch": true,
@@ -19068,6 +19498,206 @@
                 },
                 "name": "master",
                 "type": "branch"
+            },
+            {
+                "date": "2016-11-03T22:30:32Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.20"
+                },
+                "name": "Ver. 0.20",
+                "prerelease": false,
+                "release_tag": "v0.20",
+                "type": "release"
+            },
+            {
+                "date": "2016-02-24T23:29:47Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.19"
+                },
+                "name": "Ver. 0.19",
+                "prerelease": false,
+                "release_tag": "v0.19",
+                "type": "release"
+            },
+            {
+                "date": "2016-02-24T05:14:23Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.18"
+                },
+                "name": "Ver. 0.18",
+                "prerelease": false,
+                "release_tag": "v0.18",
+                "type": "release"
+            },
+            {
+                "date": "2015-11-08T05:56:40Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.17"
+                },
+                "name": "Ver. 0.17",
+                "prerelease": false,
+                "release_tag": "v0.17",
+                "type": "release"
+            },
+            {
+                "date": "2015-11-07T02:21:20Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.16"
+                },
+                "name": "Ver. 0.16",
+                "prerelease": false,
+                "release_tag": "v0.16",
+                "type": "release"
+            },
+            {
+                "date": "2015-08-26T04:23:34Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.15"
+                },
+                "name": "Ver. 0.15",
+                "prerelease": false,
+                "release_tag": "v0.15",
+                "type": "release"
+            },
+            {
+                "date": "2015-08-10T07:43:38Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.14"
+                },
+                "name": "Ver. 0.14",
+                "prerelease": false,
+                "release_tag": "v0.14",
+                "type": "release"
+            },
+            {
+                "date": "2015-08-10T03:07:24Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.13"
+                },
+                "name": "Ver. 0.13",
+                "prerelease": false,
+                "release_tag": "v0.13",
+                "type": "release"
+            },
+            {
+                "date": "2015-08-03T00:03:44Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.12"
+                },
+                "name": "Ver. 0.12",
+                "prerelease": false,
+                "release_tag": "v0.12",
+                "type": "release"
+            },
+            {
+                "date": "2015-07-29T03:14:18Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.11"
+                },
+                "name": "Ver. 0.11",
+                "prerelease": false,
+                "release_tag": "v0.11",
+                "type": "release"
+            },
+            {
+                "date": "2015-07-28T08:15:16Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.10"
+                },
+                "name": "Ver. 0.10",
+                "prerelease": false,
+                "release_tag": "v0.10",
+                "type": "release"
+            },
+            {
+                "date": "2015-07-16T06:14:46Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.09"
+                },
+                "name": "Ver. 0.09",
+                "prerelease": false,
+                "release_tag": "v0.09",
+                "type": "release"
+            },
+            {
+                "date": "2015-06-30T22:04:45Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.08"
+                },
+                "name": "Ver. 0.08",
+                "prerelease": false,
+                "release_tag": "v0.08",
+                "type": "release"
+            },
+            {
+                "date": "2015-06-25T06:32:52Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.07"
+                },
+                "name": "Ver. 0.07",
+                "prerelease": false,
+                "release_tag": "v0.07",
+                "type": "release"
+            },
+            {
+                "date": "2015-06-22T20:29:08Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.06"
+                },
+                "name": "Ver. 0.06",
+                "prerelease": false,
+                "release_tag": "v0.06",
+                "type": "release"
+            },
+            {
+                "date": "2015-06-20T06:58:31Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.05"
+                },
+                "name": "Ver. 0.05",
+                "prerelease": false,
+                "release_tag": "v0.05",
+                "type": "release"
+            },
+            {
+                "date": "2015-06-20T05:58:51Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.04"
+                },
+                "name": "Ver. 0.04",
+                "prerelease": false,
+                "release_tag": "v0.04",
+                "type": "release"
+            },
+            {
+                "date": "2015-06-13T03:28:54Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/0.03"
+                },
+                "name": "Ver. 0.03",
+                "prerelease": false,
+                "release_tag": "0.03",
+                "type": "release"
+            },
+            {
+                "date": "2015-06-10T09:47:45Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.02"
+                },
+                "name": "Ver. 0.02",
+                "prerelease": false,
+                "release_tag": "v0.02",
+                "type": "release"
+            },
+            {
+                "date": "2015-06-10T00:24:38Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/CcloudTv.bundle/zipball/v0.01"
+                },
+                "name": "Ver. 0.01",
+                "prerelease": false,
+                "release_tag": "v0.01",
+                "type": "release"
             }
         ],
         "forks_count": 31,
@@ -19374,6 +20004,16 @@
         "disabled": false,
         "downloads": [
             {
+                "date": "2015-08-26T17:22:17Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/manfer/AIPTV.bundle/zipball/v0.8"
+                },
+                "name": "",
+                "prerelease": false,
+                "release_tag": "v0.8",
+                "type": "release"
+            },
+            {
                 "commit_sha": "210fcd065317a0fcbc51d1a3b65c2cb3124837f0",
                 "date": "2015-08-26T17:20:55Z",
                 "default_branch": false,
@@ -19392,6 +20032,76 @@
                 },
                 "name": "master",
                 "type": "branch"
+            },
+            {
+                "date": "2015-08-24T10:11:18Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/manfer/AIPTV.bundle/zipball/v0.7"
+                },
+                "name": "",
+                "prerelease": false,
+                "release_tag": "v0.7",
+                "type": "release"
+            },
+            {
+                "date": "2015-08-23T16:12:59Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/manfer/AIPTV.bundle/zipball/v0.6"
+                },
+                "name": "",
+                "prerelease": false,
+                "release_tag": "v0.6",
+                "type": "release"
+            },
+            {
+                "date": "2015-08-23T12:03:37Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/manfer/AIPTV.bundle/zipball/v0.5"
+                },
+                "name": "",
+                "prerelease": false,
+                "release_tag": "v0.5",
+                "type": "release"
+            },
+            {
+                "date": "2015-08-22T14:42:58Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/manfer/AIPTV.bundle/zipball/v0.4"
+                },
+                "name": "",
+                "prerelease": false,
+                "release_tag": "v0.4",
+                "type": "release"
+            },
+            {
+                "date": "2015-08-20T23:19:02Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/manfer/AIPTV.bundle/zipball/v0.3"
+                },
+                "name": "",
+                "prerelease": false,
+                "release_tag": "v0.3",
+                "type": "release"
+            },
+            {
+                "date": "2015-07-15T23:00:14Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/manfer/AIPTV.bundle/zipball/v0.2"
+                },
+                "name": "",
+                "prerelease": false,
+                "release_tag": "v0.2",
+                "type": "release"
+            },
+            {
+                "date": "2015-07-13T23:48:08Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/manfer/AIPTV.bundle/zipball/v0.1"
+                },
+                "name": "",
+                "prerelease": false,
+                "release_tag": "v0.1",
+                "type": "release"
             }
         ],
         "forks_count": 2,
@@ -19837,7 +20547,7 @@
             "Music"
         ],
         "default_branch": "main",
-        "description": "An audnexus client, providing rich author and audiobook data to Plex via it's legacy plugin agent system.",
+        "description": "An Audnexus client proof of concept for Plex, providing rich author and audiobook data. Developed in Python, offering enhanced user experiences via Plex's legacy plugin agent system.",
         "disabled": false,
         "downloads": [
             {
@@ -20408,7 +21118,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 89,
+        "stargazers_count": 90,
         "thumb_image_url": null
     },
     "41897122": {
@@ -24569,8 +25279,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "126bc3378fe1e86759f9425a851b641482f6a545",
-                "date": "2023-10-10T02:04:23Z",
+                "commit_sha": "e7191c082a80c91853c1c49b7fded1e3bf7441a0",
+                "date": "2023-10-12T14:37:42Z",
                 "default_branch": false,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/JetBrains/qodana-action-2023.2.8.zip"
@@ -24579,8 +25289,8 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "1e39bdf14ffa9b3980a512636d6ef7b54d501ccd",
-                "date": "2023-10-10T02:03:38Z",
+                "commit_sha": "3468287ecc6def9fb44045dedb5a76d45095d77d",
+                "date": "2023-10-12T14:36:41Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/nightly.zip"
@@ -24743,8 +25453,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "b5c7ff226e145c52d70ad625eca9ed489f4f1db5",
-                "date": "2023-10-10T02:08:43Z",
+                "commit_sha": "66f41f39909abf390741f0c798a54abae1a95e0a",
+                "date": "2023-10-12T14:39:56Z",
                 "default_branch": false,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/JetBrains/qodana-action-2023.2.8.zip"
@@ -24753,8 +25463,8 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "4269c4c2fbc086aac53dd1379b075efa9930777f",
-                "date": "2023-10-10T02:07:53Z",
+                "commit_sha": "9475d8a760fd5ba809afe88b531262894750f50b",
+                "date": "2023-10-12T14:38:59Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
@@ -25957,8 +26667,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "af13f7f48151841aa9143b29858b7d15d6bd8afd",
-                "date": "2023-10-10T02:15:44Z",
+                "commit_sha": "6b2c8304a577055174a5812604c1d6e8c4a3fc02",
+                "date": "2023-10-12T14:38:06Z",
                 "default_branch": false,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/JetBrains/qodana-action-2023.2.8.zip"
@@ -25967,8 +26677,8 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "b796acbda6392cf6b32dce3dd7a6e350c3ac2784",
-                "date": "2023-10-10T02:14:59Z",
+                "commit_sha": "ab6c0896b1b4624185665fcdbf57c237eb96d542",
+                "date": "2023-10-12T14:37:18Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/nightly.zip"
@@ -27709,6 +28419,16 @@
         "disabled": false,
         "downloads": [
             {
+                "date": "2018-10-16T10:41:49Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.13"
+                },
+                "name": "Ver. 0.13",
+                "prerelease": false,
+                "release_tag": "v0.13",
+                "type": "release"
+            },
+            {
                 "commit_sha": "3f700fd37523a0d93f5c6d6cd84f3d6b7f5e8cfa",
                 "date": "2018-10-16T10:39:40Z",
                 "default_branch": true,
@@ -27717,6 +28437,126 @@
                 },
                 "name": "master",
                 "type": "branch"
+            },
+            {
+                "date": "2018-08-23T07:18:19Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.12"
+                },
+                "name": "Ver. 0.12",
+                "prerelease": false,
+                "release_tag": "v0.12",
+                "type": "release"
+            },
+            {
+                "date": "2018-06-29T23:12:51Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.11"
+                },
+                "name": "Ver. 0.11",
+                "prerelease": false,
+                "release_tag": "v0.11",
+                "type": "release"
+            },
+            {
+                "date": "2017-10-03T17:32:59Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.10"
+                },
+                "name": "Ver. 0.10",
+                "prerelease": false,
+                "release_tag": "v0.10",
+                "type": "release"
+            },
+            {
+                "date": "2017-09-16T19:17:21Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.09"
+                },
+                "name": "Ver. 0.09",
+                "prerelease": false,
+                "release_tag": "v0.09",
+                "type": "release"
+            },
+            {
+                "date": "2017-08-31T05:35:00Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.08"
+                },
+                "name": "Ver. 0.08",
+                "prerelease": false,
+                "release_tag": "v0.08",
+                "type": "release"
+            },
+            {
+                "date": "2017-05-28T12:52:55Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.07"
+                },
+                "name": "Ver. 0.07",
+                "prerelease": false,
+                "release_tag": "v0.07",
+                "type": "release"
+            },
+            {
+                "date": "2017-05-23T00:43:53Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.06"
+                },
+                "name": "Ver. 0.06",
+                "prerelease": false,
+                "release_tag": "v0.06",
+                "type": "release"
+            },
+            {
+                "date": "2017-01-24T04:58:06Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.05"
+                },
+                "name": "Ver. 0.05",
+                "prerelease": false,
+                "release_tag": "v0.05",
+                "type": "release"
+            },
+            {
+                "date": "2016-11-06T00:00:12Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.04"
+                },
+                "name": "Ver. 0.04",
+                "prerelease": false,
+                "release_tag": "v0.04",
+                "type": "release"
+            },
+            {
+                "date": "2016-11-05T23:27:53Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.03"
+                },
+                "name": "Ver. 0.03",
+                "prerelease": false,
+                "release_tag": "v0.03",
+                "type": "release"
+            },
+            {
+                "date": "2016-09-26T07:29:26Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.02"
+                },
+                "name": "Ver. 0.02",
+                "prerelease": false,
+                "release_tag": "v0.02",
+                "type": "release"
+            },
+            {
+                "date": "2016-09-26T04:00:25Z",
+                "download_assets": {
+                    "zipball": "https://api.github.com/repos/coder-alpha/DesiTelly.bundle/zipball/v0.01"
+                },
+                "name": "Ver. 0.01",
+                "prerelease": false,
+                "release_tag": "v0.01",
+                "type": "release"
             }
         ],
         "forks_count": 0,
