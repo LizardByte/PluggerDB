@@ -679,7 +679,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 25,
+        "stargazers_count": 26,
         "thumb_image_url": "https://raw.githubusercontent.com/defract/Colima.bundle/master/Contents/Resources/icon-default.png"
     },
     "1086937": {
@@ -2815,7 +2815,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 28,
+        "stargazers_count": 29,
         "thumb_image_url": "https://raw.githubusercontent.com/psyciknz/NextPVR.bundle/master/Contents/Resources/icon-default.png"
     },
     "125070124": {
@@ -4151,7 +4151,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 41,
+        "forks_count": 42,
         "full_name": "amirotin/Kinopoisk",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -9917,8 +9917,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "5e41a64685af5139eded4f9c9a6f1e50ba876ed8",
-                "date": "2023-07-11T22:30:56Z",
+                "commit_sha": "b33b1935480cae76007a82f8887cb173200cfc53",
+                "date": "2023-10-15T13:32:35Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/ZeroQI/Absolute-Series-Scanner/archive/refs/heads/master.zip"
@@ -9957,7 +9957,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 155,
+        "forks_count": 156,
         "full_name": "ZeroQI/Absolute-Series-Scanner",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -9979,7 +9979,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 924,
+        "stargazers_count": 925,
         "thumb_image_url": null
     },
     "21045557": {
@@ -16619,7 +16619,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1424,
+        "stargazers_count": 1423,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -17904,8 +17904,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "ef9e19637c506c8fcf74f49eee756fcc94f83f94",
-                "date": "2023-09-23T09:06:32Z",
+                "commit_sha": "19e160ca1ee4f99827931026841135a5882bd7d6",
+                "date": "2023-10-16T06:25:42Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/ThePornDatabase/ThePornDB.bundle/archive/refs/heads/main.zip"
@@ -18706,7 +18706,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 36,
+        "stargazers_count": 37,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/QQmusic.bundle/main/Contents/Resources/icon-default.png"
     },
     "360205681": {
@@ -18802,7 +18802,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 629,
+        "stargazers_count": 630,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -23001,7 +23001,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 22,
+        "stargazers_count": 23,
         "thumb_image_url": null
     },
     "464150782": {
@@ -25279,6 +25279,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "a2ce507788182ef227c4ba8a87aa704478e6253b",
+                "date": "2023-10-16T12:32:17Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/bot/update-files-from-global-repo.zip"
+                },
+                "name": "bot/update-files-from-global-repo",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "e7191c082a80c91853c1c49b7fded1e3bf7441a0",
                 "date": "2023-10-12T14:37:42Z",
                 "default_branch": false,
@@ -25377,7 +25387,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "PlexyGlass",
         "open_issues_count": 0,
-        "open_pull_requests_count": 2,
+        "open_pull_requests_count": 3,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -25452,6 +25462,16 @@
         "description": "Plugin for Plex Media Server that adds theme songs to movies using ThemerrDB.",
         "disabled": false,
         "downloads": [
+            {
+                "commit_sha": "cbe9ff5f1908385b937ae60c0bfb775d5e5cc708",
+                "date": "2023-10-16T12:32:25Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/bot/update-files-from-global-repo.zip"
+                },
+                "name": "bot/update-files-from-global-repo",
+                "type": "branch"
+            },
             {
                 "commit_sha": "66f41f39909abf390741f0c798a54abae1a95e0a",
                 "date": "2023-10-12T14:39:56Z",
@@ -25720,7 +25740,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 4,
-        "open_pull_requests_count": 9,
+        "open_pull_requests_count": 10,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -26667,6 +26687,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "4537816158de4bce040b45ef53f0ddc1d69c89cc",
+                "date": "2023-10-16T12:32:48Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/bot/update-files-from-global-repo.zip"
+                },
+                "name": "bot/update-files-from-global-repo",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "6b2c8304a577055174a5812604c1d6e8c4a3fc02",
                 "date": "2023-10-12T14:38:06Z",
                 "default_branch": false,
@@ -26720,7 +26750,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Plugger",
         "open_issues_count": 0,
-        "open_pull_requests_count": 2,
+        "open_pull_requests_count": 3,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
