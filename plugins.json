@@ -3914,7 +3914,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 317,
+        "forks_count": 318,
         "full_name": "Cigaras/IPTV",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -5195,7 +5195,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 96,
+        "stargazers_count": 97,
         "thumb_image_url": "https://raw.githubusercontent.com/PhoenixPlexCode/PhoenixAdult.bundle/master/Contents/Resources/icon-default.png"
     },
     "148755883": {
@@ -18415,7 +18415,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 332,
+        "stargazers_count": 333,
         "thumb_image_url": "https://raw.githubusercontent.com/kolsys/YouTubeTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "351489517": {
@@ -18754,7 +18754,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 16,
+        "stargazers_count": 17,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/Ximalaya.bundle/main/Contents/Resources/icon-default.png"
     },
     "3621001": {
@@ -18802,7 +18802,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 630,
+        "stargazers_count": 631,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -18850,7 +18850,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 321,
+        "stargazers_count": 322,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoTVImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "36627179": {
@@ -19821,7 +19821,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 13,
+        "stargazers_count": 14,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/Asstosrt.bundle/main/Contents/Resources/icon-default.png"
     },
     "382535741": {
@@ -25453,43 +25453,33 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "04c8e976676b866c2ffafee8528091f7c58824d1",
-                "date": "2023-10-17T10:40:02Z",
+                "commit_sha": "52c36ff990f12194f056a06287de189183860cca",
+                "date": "2023-10-18T01:46:26Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/pip/plexhints-0.1.1.zip"
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/nightly/bootstrap-5.3.2.zip"
                 },
-                "name": "dependabot/pip/plexhints-0.1.1",
+                "name": "dependabot/npm_and_yarn/nightly/bootstrap-5.3.2",
                 "type": "branch"
             },
             {
-                "commit_sha": "5b52ec93c3b6bfb5095ec2b1f31146e4f3f06951",
-                "date": "2023-10-17T09:00:05Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/LizardByte/plexhints-0.1.1.zip"
-                },
-                "name": "dependabot/github_actions/LizardByte/plexhints-0.1.1",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "d259b51d03e4f0f007262ef1ec00c0a790767177",
-                "date": "2023-10-16T14:05:28Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/JetBrains/qodana-action-2023.2.8.zip"
-                },
-                "name": "dependabot/github_actions/JetBrains/qodana-action-2023.2.8",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "9a557b1df741f8df68015385a5c30c31c66e5060",
-                "date": "2023-10-16T14:04:26Z",
+                "commit_sha": "094ffba4bba0a2bc18a570a45a3cd69632d51c3d",
+                "date": "2023-10-18T01:45:28Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
                 },
                 "name": "nightly",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "04d158a967e5e79019a54f1061d244d96aa082c0",
+                "date": "2023-10-18T01:26:11Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/JetBrains/qodana-action-2023.2.8.zip"
+                },
+                "name": "dependabot/github_actions/JetBrains/qodana-action-2023.2.8",
                 "type": "branch"
             },
             {
@@ -25500,16 +25490,6 @@
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/fontsource/open-sans-5.0.15.zip"
                 },
                 "name": "dependabot/npm_and_yarn/fontsource/open-sans-5.0.15",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "a251ffb7080e4be0572d70b5969e137db3687565",
-                "date": "2023-10-05T10:17:09Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/pip/nightly/plexapi-backport-alert--4.15.4.zip"
-                },
-                "name": "dependabot/pip/nightly/plexapi-backport-alert--4.15.4",
                 "type": "branch"
             },
             {
@@ -25530,16 +25510,6 @@
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/nightly/jquery-3.7.1.zip"
                 },
                 "name": "dependabot/npm_and_yarn/nightly/jquery-3.7.1",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "94250296f269435c5229d7385cc4f39285cbdc4d",
-                "date": "2023-10-01T16:59:47Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/nightly/bootstrap-5.3.2.zip"
-                },
-                "name": "dependabot/npm_and_yarn/nightly/bootstrap-5.3.2",
                 "type": "branch"
             },
             {
@@ -25740,7 +25710,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 4,
-        "open_pull_requests_count": 11,
+        "open_pull_requests_count": 8,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -26687,13 +26657,13 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "ea66c2e2990facc27d1b52e0eab69fa4fad2cea4",
-                "date": "2023-10-17T10:27:34Z",
-                "default_branch": false,
+                "commit_sha": "9561f42ecbde76aafa865ab7d3f8012d10d42805",
+                "date": "2023-10-17T13:04:12Z",
+                "default_branch": true,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/pip/plexhints-0.1.1.zip"
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/nightly.zip"
                 },
-                "name": "dependabot/pip/plexhints-0.1.1",
+                "name": "nightly",
                 "type": "branch"
             },
             {
@@ -26704,16 +26674,6 @@
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/JetBrains/qodana-action-2023.2.8.zip"
                 },
                 "name": "dependabot/github_actions/JetBrains/qodana-action-2023.2.8",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "1fc342287c7e7a99806b0b1984e36c2393e84d73",
-                "date": "2023-10-16T12:54:19Z",
-                "default_branch": true,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/nightly.zip"
-                },
-                "name": "nightly",
                 "type": "branch"
             },
             {
@@ -26750,7 +26710,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Plugger",
         "open_issues_count": 0,
-        "open_pull_requests_count": 3,
+        "open_pull_requests_count": 2,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -32079,7 +32039,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 578,
+        "stargazers_count": 579,
         "thumb_image_url": null
     },
     "8525630": {
