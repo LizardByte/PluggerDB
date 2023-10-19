@@ -2244,7 +2244,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1130,
+        "stargazers_count": 1131,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -9917,8 +9917,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "b33b1935480cae76007a82f8887cb173200cfc53",
-                "date": "2023-10-15T13:32:35Z",
+                "commit_sha": "25a6f823e307752731d6ff244c00ce99afc002f5",
+                "date": "2023-10-18T15:04:11Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/ZeroQI/Absolute-Series-Scanner/archive/refs/heads/master.zip"
@@ -9970,7 +9970,7 @@
         "license_url": null,
         "name": "Absolute-Series-Scanner",
         "open_issues_count": 8,
-        "open_pull_requests_count": 0,
+        "open_pull_requests_count": 1,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -9979,7 +9979,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 926,
+        "stargazers_count": 927,
         "thumb_image_url": null
     },
     "21045557": {
@@ -13364,7 +13364,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 123,
+        "stargazers_count": 124,
         "thumb_image_url": null
     },
     "25490193": {
@@ -13725,7 +13725,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 8,
+        "stargazers_count": 9,
         "thumb_image_url": "https://raw.githubusercontent.com/lotooo/Pluzz.bundle/master/Contents/Resources/icon-default.png"
     },
     "2690149": {
@@ -17946,7 +17946,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 107,
+        "stargazers_count": 108,
         "thumb_image_url": null
     },
     "3485091": {
@@ -20487,7 +20487,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 35,
+        "stargazers_count": 36,
         "thumb_image_url": null
     },
     "40798557": {
@@ -25453,18 +25453,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "52c36ff990f12194f056a06287de189183860cca",
-                "date": "2023-10-18T01:46:26Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/nightly/bootstrap-5.3.2.zip"
-                },
-                "name": "dependabot/npm_and_yarn/nightly/bootstrap-5.3.2",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "094ffba4bba0a2bc18a570a45a3cd69632d51c3d",
-                "date": "2023-10-18T01:45:28Z",
+                "commit_sha": "bd590ca20fb657e5cd5e306f23ac015a9fc85170",
+                "date": "2023-10-18T22:15:37Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
@@ -25480,36 +25470,6 @@
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/JetBrains/qodana-action-2023.2.8.zip"
                 },
                 "name": "dependabot/github_actions/JetBrains/qodana-action-2023.2.8",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "d43938c257384b3fa7b98953f7849198f86dd943",
-                "date": "2023-10-09T09:29:44Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/fontsource/open-sans-5.0.15.zip"
-                },
-                "name": "dependabot/npm_and_yarn/fontsource/open-sans-5.0.15",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "eee6f5f26e98f2d3a7885edb5b924579f2cbbb1f",
-                "date": "2023-10-01T16:59:59Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/nightly/fortawesome/fontawesome-free-6.4.2.zip"
-                },
-                "name": "dependabot/npm_and_yarn/nightly/fortawesome/fontawesome-free-6.4.2",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "91c1edeb482a6d865b99b8dcfa4af5a2cdc13afd",
-                "date": "2023-10-01T16:59:53Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/nightly/jquery-3.7.1.zip"
-                },
-                "name": "dependabot/npm_and_yarn/nightly/jquery-3.7.1",
                 "type": "branch"
             },
             {
@@ -25710,7 +25670,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 4,
-        "open_pull_requests_count": 8,
+        "open_pull_requests_count": 4,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
