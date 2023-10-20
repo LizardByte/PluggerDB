@@ -2244,7 +2244,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1131,
+        "stargazers_count": 1132,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -3165,7 +3165,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 372,
+        "stargazers_count": 373,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -3936,7 +3936,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 921,
+        "stargazers_count": 922,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -9917,8 +9917,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "25a6f823e307752731d6ff244c00ce99afc002f5",
-                "date": "2023-10-18T15:04:11Z",
+                "commit_sha": "3edb41a22f19d833358751d257a24d7c4151b88f",
+                "date": "2023-10-19T13:23:51Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/ZeroQI/Absolute-Series-Scanner/archive/refs/heads/master.zip"
@@ -9970,7 +9970,7 @@
         "license_url": null,
         "name": "Absolute-Series-Scanner",
         "open_issues_count": 8,
-        "open_pull_requests_count": 1,
+        "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -14762,7 +14762,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 128,
+        "stargazers_count": 129,
         "thumb_image_url": "https://raw.githubusercontent.com/Fribb/MyAnimeList.bundle/master/Contents/Resources/icon-default.png"
     },
     "28607437": {
@@ -20487,7 +20487,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 36,
+        "stargazers_count": 37,
         "thumb_image_url": null
     },
     "40798557": {
@@ -20823,7 +20823,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 377,
+        "stargazers_count": 378,
         "thumb_image_url": null
     },
     "41394428": {
@@ -25453,6 +25453,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "47df2fe7365e2dba6e70c48ac36893f9bc003a1b",
+                "date": "2023-10-20T09:37:03Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/fontsource/open-sans-5.0.16.zip"
+                },
+                "name": "dependabot/npm_and_yarn/fontsource/open-sans-5.0.16",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "bd590ca20fb657e5cd5e306f23ac015a9fc85170",
                 "date": "2023-10-18T22:15:37Z",
                 "default_branch": true,
@@ -25670,7 +25680,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 4,
-        "open_pull_requests_count": 4,
+        "open_pull_requests_count": 5,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -26617,6 +26627,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "949ba7b362e994cfddf47760aefca2a377eb1fba",
+                "date": "2023-10-20T09:39:17Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/fontsource/open-sans-5.0.16.zip"
+                },
+                "name": "dependabot/npm_and_yarn/fontsource/open-sans-5.0.16",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "9561f42ecbde76aafa865ab7d3f8012d10d42805",
                 "date": "2023-10-17T13:04:12Z",
                 "default_branch": true,
@@ -26670,7 +26690,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Plugger",
         "open_issues_count": 0,
-        "open_pull_requests_count": 2,
+        "open_pull_requests_count": 3,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
