@@ -2244,7 +2244,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1132,
+        "stargazers_count": 1133,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -5173,7 +5173,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 222,
+        "forks_count": 221,
         "full_name": "PhoenixPlexCode/PhoenixAdult",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -9917,8 +9917,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "3edb41a22f19d833358751d257a24d7c4151b88f",
-                "date": "2023-10-19T13:23:51Z",
+                "commit_sha": "bb806978e4f211c59ef6813e7537934a75940f36",
+                "date": "2023-10-20T13:10:51Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/ZeroQI/Absolute-Series-Scanner/archive/refs/heads/master.zip"
@@ -20477,7 +20477,7 @@
         "license": null,
         "license_url": null,
         "name": "StashPlexAgent",
-        "open_issues_count": 7,
+        "open_issues_count": 8,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -32019,7 +32019,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 579,
+        "stargazers_count": 580,
         "thumb_image_url": null
     },
     "8525630": {
