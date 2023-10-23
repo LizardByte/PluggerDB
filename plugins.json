@@ -2244,7 +2244,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1134,
+        "stargazers_count": 1133,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -9979,7 +9979,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 928,
+        "stargazers_count": 927,
         "thumb_image_url": null
     },
     "21045557": {
@@ -12934,7 +12934,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1278,
+        "stargazers_count": 1277,
         "thumb_image_url": null
     },
     "24851830": {
@@ -18754,7 +18754,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 17,
+        "stargazers_count": 18,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/Ximalaya.bundle/main/Contents/Resources/icon-default.png"
     },
     "3621001": {
@@ -25453,13 +25453,13 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "47df2fe7365e2dba6e70c48ac36893f9bc003a1b",
-                "date": "2023-10-20T09:37:03Z",
+                "commit_sha": "c280d4fdfb30f7607fb0ce351651a67d6ae1fa55",
+                "date": "2023-10-23T09:50:48Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/fontsource/open-sans-5.0.16.zip"
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/fontsource/open-sans-5.0.17.zip"
                 },
-                "name": "dependabot/npm_and_yarn/fontsource/open-sans-5.0.16",
+                "name": "dependabot/npm_and_yarn/fontsource/open-sans-5.0.17",
                 "type": "branch"
             },
             {
@@ -25689,7 +25689,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 35,
+        "stargazers_count": 36,
         "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/Themerr-plex/nightly/Contents/Resources/icon-default.png"
     },
     "54208952": {
@@ -26627,13 +26627,13 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "949ba7b362e994cfddf47760aefca2a377eb1fba",
-                "date": "2023-10-20T09:39:17Z",
+                "commit_sha": "e28ac5add58692e4bf610ce936bde892131e2886",
+                "date": "2023-10-23T09:56:50Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/fontsource/open-sans-5.0.16.zip"
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/fontsource/open-sans-5.0.17.zip"
                 },
-                "name": "dependabot/npm_and_yarn/fontsource/open-sans-5.0.16",
+                "name": "dependabot/npm_and_yarn/fontsource/open-sans-5.0.17",
                 "type": "branch"
             },
             {
@@ -32019,7 +32019,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 581,
+        "stargazers_count": 582,
         "thumb_image_url": null
     },
     "8525630": {
