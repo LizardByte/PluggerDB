@@ -3165,7 +3165,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 373,
+        "stargazers_count": 374,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -25279,8 +25279,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "9995e4e86e0258aa53b73af79e8cf9403aff3c44",
-                "date": "2023-10-16T12:46:24Z",
+                "commit_sha": "e8c4a9a55a57d0b3d17a4b74fdbbeb32fc2db34b",
+                "date": "2023-10-24T00:16:27Z",
                 "default_branch": false,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/JetBrains/qodana-action-2023.2.8.zip"
@@ -25289,8 +25289,8 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "163854a2a413c0dc3f64a73676c0a5346910892d",
-                "date": "2023-10-16T12:45:42Z",
+                "commit_sha": "cb13b41c93c9c86a4c67e08572bfc9c94c16646b",
+                "date": "2023-10-24T00:15:21Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/nightly.zip"
@@ -25453,18 +25453,18 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "c280d4fdfb30f7607fb0ce351651a67d6ae1fa55",
-                "date": "2023-10-23T09:50:48Z",
+                "commit_sha": "fb8bf8f9ebb2df254507fc6c4faf7d215d3bffae",
+                "date": "2023-10-24T01:00:07Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/fontsource/open-sans-5.0.17.zip"
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/JetBrains/qodana-action-2023.2.8.zip"
                 },
-                "name": "dependabot/npm_and_yarn/fontsource/open-sans-5.0.17",
+                "name": "dependabot/github_actions/JetBrains/qodana-action-2023.2.8",
                 "type": "branch"
             },
             {
-                "commit_sha": "bd590ca20fb657e5cd5e306f23ac015a9fc85170",
-                "date": "2023-10-18T22:15:37Z",
+                "commit_sha": "f311246add2e64ffb3e9000df18e7632039ebfc9",
+                "date": "2023-10-24T00:59:25Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
@@ -25473,13 +25473,13 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "04d158a967e5e79019a54f1061d244d96aa082c0",
-                "date": "2023-10-18T01:26:11Z",
+                "commit_sha": "c280d4fdfb30f7607fb0ce351651a67d6ae1fa55",
+                "date": "2023-10-23T09:50:48Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/JetBrains/qodana-action-2023.2.8.zip"
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/fontsource/open-sans-5.0.17.zip"
                 },
-                "name": "dependabot/github_actions/JetBrains/qodana-action-2023.2.8",
+                "name": "dependabot/npm_and_yarn/fontsource/open-sans-5.0.17",
                 "type": "branch"
             },
             {
@@ -26398,7 +26398,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 19,
+        "stargazers_count": 20,
         "thumb_image_url": "https://raw.githubusercontent.com/maikthulhu/GoogleMusic.bundle/master/Contents/Resources/icon-default.png"
     },
     "585466087": {
@@ -26627,18 +26627,18 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "e28ac5add58692e4bf610ce936bde892131e2886",
-                "date": "2023-10-23T09:56:50Z",
+                "commit_sha": "c9c7b6798cbfb784d121de50ac512b7bd4d5d4c4",
+                "date": "2023-10-24T00:59:38Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/fontsource/open-sans-5.0.17.zip"
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/JetBrains/qodana-action-2023.2.8.zip"
                 },
-                "name": "dependabot/npm_and_yarn/fontsource/open-sans-5.0.17",
+                "name": "dependabot/github_actions/JetBrains/qodana-action-2023.2.8",
                 "type": "branch"
             },
             {
-                "commit_sha": "9561f42ecbde76aafa865ab7d3f8012d10d42805",
-                "date": "2023-10-17T13:04:12Z",
+                "commit_sha": "05d7c9da77185d4550405deb6b19a635ef915902",
+                "date": "2023-10-24T00:58:51Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/nightly.zip"
@@ -26647,13 +26647,13 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "e241afe3d5af9592a5fa13c1a22eba0a677ef200",
-                "date": "2023-10-16T12:55:09Z",
+                "commit_sha": "e28ac5add58692e4bf610ce936bde892131e2886",
+                "date": "2023-10-23T09:56:50Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/JetBrains/qodana-action-2023.2.8.zip"
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/npm_and_yarn/fontsource/open-sans-5.0.17.zip"
                 },
-                "name": "dependabot/github_actions/JetBrains/qodana-action-2023.2.8",
+                "name": "dependabot/npm_and_yarn/fontsource/open-sans-5.0.17",
                 "type": "branch"
             },
             {
@@ -32261,7 +32261,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 104,
+        "stargazers_count": 105,
         "thumb_image_url": null
     },
     "86917897": {
