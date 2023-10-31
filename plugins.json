@@ -5195,7 +5195,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 97,
+        "stargazers_count": 98,
         "thumb_image_url": "https://raw.githubusercontent.com/PhoenixPlexCode/PhoenixAdult.bundle/master/Contents/Resources/icon-default.png"
     },
     "148755883": {
@@ -18658,7 +18658,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 106,
+        "stargazers_count": 107,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/WangYiYun.bundle/main/Contents/Resources/icon-default.png"
     },
     "360014764": {
@@ -18706,7 +18706,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 38,
+        "stargazers_count": 39,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/QQmusic.bundle/main/Contents/Resources/icon-default.png"
     },
     "360205681": {
@@ -25453,6 +25453,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "72d76663a5d7f25ff8896b0ba7e03b07cd0e67e0",
+                "date": "2023-10-30T22:17:08Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/ci-use-rolling-releases.zip"
+                },
+                "name": "ci-use-rolling-releases",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "fb8bf8f9ebb2df254507fc6c4faf7d215d3bffae",
                 "date": "2023-10-24T01:00:07Z",
                 "default_branch": false,
@@ -25680,7 +25690,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 4,
-        "open_pull_requests_count": 5,
+        "open_pull_requests_count": 6,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
