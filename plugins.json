@@ -3155,7 +3155,7 @@
         "license": null,
         "license_url": null,
         "name": "YouTube-Agent",
-        "open_issues_count": 19,
+        "open_issues_count": 20,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -3936,7 +3936,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 924,
+        "stargazers_count": 922,
         "thumb_image_url": "https://raw.githubusercontent.com/Cigaras/IPTV.bundle/master/Contents/Resources/icon-default.png"
     },
     "1354079": {
@@ -17401,7 +17401,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 13,
+        "stargazers_count": 14,
         "thumb_image_url": null
     },
     "3287098": {
@@ -18465,7 +18465,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 45,
+        "stargazers_count": 46,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/PLEX-Douban.bundle/main/Contents/Resources/icon-default.png"
     },
     "3518520": {
@@ -19821,7 +19821,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 14,
+        "stargazers_count": 13,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/Asstosrt.bundle/main/Contents/Resources/icon-default.png"
     },
     "382535741": {
@@ -25453,6 +25453,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "3d522de2664787b376cbb2b10eeee6b518a83507",
+                "date": "2023-10-31T21:12:54Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/ci-use-commit-hash-for-setup-python-action.zip"
+                },
+                "name": "ci-use-commit-hash-for-setup-python-action",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "72d76663a5d7f25ff8896b0ba7e03b07cd0e67e0",
                 "date": "2023-10-30T22:17:08Z",
                 "default_branch": false,
@@ -25690,7 +25700,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 4,
-        "open_pull_requests_count": 6,
+        "open_pull_requests_count": 7,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
