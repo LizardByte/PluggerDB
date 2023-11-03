@@ -5173,7 +5173,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 221,
+        "forks_count": 220,
         "full_name": "PhoenixPlexCode/PhoenixAdult",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -5195,7 +5195,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 98,
+        "stargazers_count": 99,
         "thumb_image_url": "https://raw.githubusercontent.com/PhoenixPlexCode/PhoenixAdult.bundle/master/Contents/Resources/icon-default.png"
     },
     "148755883": {
@@ -12934,7 +12934,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1278,
+        "stargazers_count": 1279,
         "thumb_image_url": null
     },
     "24851830": {
@@ -16619,7 +16619,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1424,
+        "stargazers_count": 1426,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -20823,7 +20823,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 380,
+        "stargazers_count": 381,
         "thumb_image_url": null
     },
     "41394428": {
@@ -25066,7 +25066,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 132,
+        "stargazers_count": 133,
         "thumb_image_url": "https://raw.githubusercontent.com/coryo/ComicReader.bundle/master/Contents/Resources/icon-default.png"
     },
     "52076667": {
@@ -25453,6 +25453,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "6da8eec49bdfe2ea1f1f4dc40a5173b35b4d6f8d",
+                "date": "2023-11-02T18:01:09Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/l10n_nightly.zip"
+                },
+                "name": "l10n_nightly",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "3d522de2664787b376cbb2b10eeee6b518a83507",
                 "date": "2023-10-31T21:12:54Z",
                 "default_branch": false,
@@ -25700,7 +25710,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 4,
-        "open_pull_requests_count": 7,
+        "open_pull_requests_count": 8,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -25709,7 +25719,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 36,
+        "stargazers_count": 37,
         "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/Themerr-plex/nightly/Contents/Resources/icon-default.png"
     },
     "54208952": {
@@ -31590,7 +31600,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 62,
+        "stargazers_count": 63,
         "thumb_image_url": null
     },
     "81349855": {
