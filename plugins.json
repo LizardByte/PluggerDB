@@ -4151,7 +4151,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 42,
+        "forks_count": 41,
         "full_name": "amirotin/Kinopoisk",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -17904,8 +17904,8 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "19e160ca1ee4f99827931026841135a5882bd7d6",
-                "date": "2023-10-16T06:25:42Z",
+                "commit_sha": "6849e6eb4bf43ba490e0ab669de44db4ad6d5f59",
+                "date": "2023-11-05T16:29:07Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/ThePornDatabase/ThePornDB.bundle/archive/refs/heads/main.zip"
@@ -21108,7 +21108,7 @@
         "license": null,
         "license_url": null,
         "name": "SportScanner",
-        "open_issues_count": 7,
+        "open_issues_count": 8,
         "open_pull_requests_count": 0,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
@@ -25453,6 +25453,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "fdda8d2dc8b32fd86e9fe36a2fa4cf3bd5b39dc3",
+                "date": "2023-11-05T15:01:40Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/renovate/configure.zip"
+                },
+                "name": "renovate/configure",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "6da8eec49bdfe2ea1f1f4dc40a5173b35b4d6f8d",
                 "date": "2023-11-02T18:01:09Z",
                 "default_branch": false,
@@ -25697,7 +25707,7 @@
                 "type": "release"
             }
         ],
-        "forks_count": 1,
+        "forks_count": 2,
         "full_name": "LizardByte/Themerr-plex",
         "gh_pages_url": null,
         "has_discussions": true,
@@ -25710,7 +25720,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 4,
-        "open_pull_requests_count": 8,
+        "open_pull_requests_count": 10,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -32049,7 +32059,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 583,
+        "stargazers_count": 584,
         "thumb_image_url": null
     },
     "8525630": {
