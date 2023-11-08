@@ -2244,7 +2244,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1137,
+        "stargazers_count": 1138,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/Hama.bundle/master/Contents/Resources/icon-default.png"
     },
     "1210048": {
@@ -9979,7 +9979,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 932,
+        "stargazers_count": 934,
         "thumb_image_url": null
     },
     "21045557": {
@@ -11712,7 +11712,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 108,
+        "stargazers_count": 109,
         "thumb_image_url": null
     },
     "23301078": {
@@ -16619,7 +16619,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 1425,
+        "stargazers_count": 1424,
         "thumb_image_url": "https://raw.githubusercontent.com/trakt/Plex-Trakt-Scrobbler/master/Trakttv.bundle/Contents/Resources/icon-default.png"
     },
     "3078148": {
@@ -18636,7 +18636,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 21,
+        "forks_count": 22,
         "full_name": "timmy0209/WangYiYun",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -18706,7 +18706,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 40,
+        "stargazers_count": 41,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/QQmusic.bundle/main/Contents/Resources/icon-default.png"
     },
     "360205681": {
@@ -18802,7 +18802,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 632,
+        "stargazers_count": 633,
         "thumb_image_url": "https://raw.githubusercontent.com/gboudreau/XBMCnfoMoviesImporter.bundle/master/Contents/Resources/icon-default.png"
     },
     "3621098": {
@@ -20823,7 +20823,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 381,
+        "stargazers_count": 382,
         "thumb_image_url": null
     },
     "41394428": {
@@ -25453,18 +25453,18 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "208f3c93917718393dcb18d58e81a2a56bca4922",
-                "date": "2023-11-06T23:23:13Z",
+                "commit_sha": "cc21ceed8bb2064b5384dc6c55bcd8f58a15dcc3",
+                "date": "2023-11-08T10:09:16Z",
                 "default_branch": false,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/ci-fix-macos-testing.zip"
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/pip/plexhints-0.1.3.zip"
                 },
-                "name": "ci-fix-macos-testing",
+                "name": "dependabot/pip/plexhints-0.1.3",
                 "type": "branch"
             },
             {
-                "commit_sha": "4e62e2f932dd969172c32caf62e5d2178ea2440b",
-                "date": "2023-11-06T23:20:24Z",
+                "commit_sha": "41d54d52bbeccbd528e118c41d4fd399b1adca6f",
+                "date": "2023-11-08T06:25:48Z",
                 "default_branch": false,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/JetBrains/qodana-action-2023.2.8.zip"
@@ -25473,13 +25473,23 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "15099a510de642557afa275a9b439a0652d2fc9d",
-                "date": "2023-11-06T23:19:32Z",
+                "commit_sha": "09f52533ba462584f6f74ecdc66507289c4f1146",
+                "date": "2023-11-08T06:25:08Z",
                 "default_branch": true,
                 "download_assets": {
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
                 },
                 "name": "nightly",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "2b6f90ba784a673805ced88e5c85a11477574d83",
+                "date": "2023-11-08T00:19:35Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/ci-fix-macos-testing.zip"
+                },
+                "name": "ci-fix-macos-testing",
                 "type": "branch"
             },
             {
@@ -25719,8 +25729,8 @@
         "license": "GNU Affero General Public License v3.0",
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
-        "open_issues_count": 4,
-        "open_pull_requests_count": 10,
+        "open_issues_count": 2,
+        "open_pull_requests_count": 11,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -26667,6 +26677,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "830d881489e78c303fdafc5d0eaa10dab6eda5a2",
+                "date": "2023-11-08T10:20:15Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/pip/plexhints-0.1.3.zip"
+                },
+                "name": "dependabot/pip/plexhints-0.1.3",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "05b8c78b9c848b1bca393c7b183252f1c961c696",
                 "date": "2023-11-07T10:55:51Z",
                 "default_branch": false,
@@ -26674,16 +26694,6 @@
                     "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/renovate/configure.zip"
                 },
                 "name": "renovate/configure",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "61f0f1d500c5ae1bdd2b9d60f9668270013d4242",
-                "date": "2023-11-07T10:55:43Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/pip/plexhints-0.1.2.zip"
-                },
-                "name": "dependabot/pip/plexhints-0.1.2",
                 "type": "branch"
             },
             {
@@ -31233,7 +31243,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 332,
+        "stargazers_count": 331,
         "thumb_image_url": "https://raw.githubusercontent.com/ukdtom/ExportTools.bundle/master/Contents/Resources/icon-default.png"
     },
     "79481264": {
