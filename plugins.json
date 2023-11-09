@@ -3165,7 +3165,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 379,
+        "stargazers_count": 380,
         "thumb_image_url": "https://raw.githubusercontent.com/ZeroQI/YouTube-Agent.bundle/master/Contents/Resources/icon-default.jpg"
     },
     "13255604": {
@@ -18658,7 +18658,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 110,
+        "stargazers_count": 111,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/WangYiYun.bundle/main/Contents/Resources/icon-default.png"
     },
     "360014764": {
@@ -18706,7 +18706,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 41,
+        "stargazers_count": 42,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/QQmusic.bundle/main/Contents/Resources/icon-default.png"
     },
     "360205681": {
@@ -20823,7 +20823,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 382,
+        "stargazers_count": 383,
         "thumb_image_url": null
     },
     "41394428": {
@@ -25453,13 +25453,13 @@
         "disabled": false,
         "downloads": [
             {
-                "commit_sha": "cc21ceed8bb2064b5384dc6c55bcd8f58a15dcc3",
-                "date": "2023-11-08T10:09:16Z",
-                "default_branch": false,
+                "commit_sha": "b463749643c1b7fa24586b2e094f931828862f51",
+                "date": "2023-11-08T23:59:20Z",
+                "default_branch": true,
                 "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/pip/plexhints-0.1.3.zip"
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
                 },
-                "name": "dependabot/pip/plexhints-0.1.3",
+                "name": "nightly",
                 "type": "branch"
             },
             {
@@ -25473,26 +25473,6 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "09f52533ba462584f6f74ecdc66507289c4f1146",
-                "date": "2023-11-08T06:25:08Z",
-                "default_branch": true,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/nightly.zip"
-                },
-                "name": "nightly",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "2b6f90ba784a673805ced88e5c85a11477574d83",
-                "date": "2023-11-08T00:19:35Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/ci-fix-macos-testing.zip"
-                },
-                "name": "ci-fix-macos-testing",
-                "type": "branch"
-            },
-            {
                 "commit_sha": "fdda8d2dc8b32fd86e9fe36a2fa4cf3bd5b39dc3",
                 "date": "2023-11-05T15:01:40Z",
                 "default_branch": false,
@@ -25503,16 +25483,6 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "6da8eec49bdfe2ea1f1f4dc40a5173b35b4d6f8d",
-                "date": "2023-11-02T18:01:09Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/l10n_nightly.zip"
-                },
-                "name": "l10n_nightly",
-                "type": "branch"
-            },
-            {
                 "commit_sha": "72d76663a5d7f25ff8896b0ba7e03b07cd0e67e0",
                 "date": "2023-10-30T22:17:08Z",
                 "default_branch": false,
@@ -25520,16 +25490,6 @@
                     "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/ci-use-rolling-releases.zip"
                 },
                 "name": "ci-use-rolling-releases",
-                "type": "branch"
-            },
-            {
-                "commit_sha": "c280d4fdfb30f7607fb0ce351651a67d6ae1fa55",
-                "date": "2023-10-23T09:50:48Z",
-                "default_branch": false,
-                "download_assets": {
-                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/npm_and_yarn/fontsource/open-sans-5.0.17.zip"
-                },
-                "name": "dependabot/npm_and_yarn/fontsource/open-sans-5.0.17",
                 "type": "branch"
             },
             {
@@ -25729,8 +25689,8 @@
         "license": "GNU Affero General Public License v3.0",
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
-        "open_issues_count": 2,
-        "open_pull_requests_count": 11,
+        "open_issues_count": 1,
+        "open_pull_requests_count": 8,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -32341,7 +32301,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 105,
+        "stargazers_count": 104,
         "thumb_image_url": null
     },
     "86917897": {
