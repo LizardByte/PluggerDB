@@ -5195,7 +5195,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 99,
+        "stargazers_count": 100,
         "thumb_image_url": "https://raw.githubusercontent.com/PhoenixPlexCode/PhoenixAdult.bundle/master/Contents/Resources/icon-default.png"
     },
     "148755883": {
@@ -14289,7 +14289,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 26,
+        "forks_count": 25,
         "full_name": "tivoguy/TiVoToGo",
         "gh_pages_url": null,
         "has_discussions": false,
@@ -17946,7 +17946,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 112,
+        "stargazers_count": 113,
         "thumb_image_url": null
     },
     "3485091": {
@@ -18658,7 +18658,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 111,
+        "stargazers_count": 112,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/WangYiYun.bundle/main/Contents/Resources/icon-default.png"
     },
     "360014764": {
@@ -25279,6 +25279,26 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "c57226c8389fff85f474dafbad1b4345b8d9fb10",
+                "date": "2023-11-10T08:29:46Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/renovate/configure.zip"
+                },
+                "name": "renovate/configure",
+                "type": "branch"
+            },
+            {
+                "commit_sha": "307b6acc1236693a7301bd89e3c0e53318f1b5fa",
+                "date": "2023-11-10T08:29:32Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/PlexyGlass/archive/refs/heads/dependabot/github_actions/dessant/label-actions-4.zip"
+                },
+                "name": "dependabot/github_actions/dessant/label-actions-4",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "e8c4a9a55a57d0b3d17a4b74fdbbeb32fc2db34b",
                 "date": "2023-10-24T00:16:27Z",
                 "default_branch": false,
@@ -25377,7 +25397,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "PlexyGlass",
         "open_issues_count": 0,
-        "open_pull_requests_count": 2,
+        "open_pull_requests_count": 4,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -25452,6 +25472,16 @@
         "description": "Plugin for Plex Media Server that adds theme songs to movies using ThemerrDB.",
         "disabled": false,
         "downloads": [
+            {
+                "commit_sha": "06e6856a02129e7548d94b5c73502ad87b16b3ce",
+                "date": "2023-11-10T08:10:29Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/dependabot/github_actions/dessant/label-actions-4.zip"
+                },
+                "name": "dependabot/github_actions/dessant/label-actions-4",
+                "type": "branch"
+            },
             {
                 "commit_sha": "b463749643c1b7fa24586b2e094f931828862f51",
                 "date": "2023-11-08T23:59:20Z",
@@ -25690,7 +25720,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 1,
-        "open_pull_requests_count": 8,
+        "open_pull_requests_count": 9,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -25699,7 +25729,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 38,
+        "stargazers_count": 40,
         "thumb_image_url": "https://raw.githubusercontent.com/LizardByte/Themerr-plex/nightly/Contents/Resources/icon-default.png"
     },
     "54208952": {
@@ -26637,6 +26667,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "eef0732c167eb870ebea0cbc4fd6417dec3febe8",
+                "date": "2023-11-10T08:11:47Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Plugger/archive/refs/heads/dependabot/github_actions/dessant/label-actions-4.zip"
+                },
+                "name": "dependabot/github_actions/dessant/label-actions-4",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "830d881489e78c303fdafc5d0eaa10dab6eda5a2",
                 "date": "2023-11-08T10:20:15Z",
                 "default_branch": false,
@@ -26730,7 +26770,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Plugger",
         "open_issues_count": 0,
-        "open_pull_requests_count": 6,
+        "open_pull_requests_count": 7,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
@@ -31203,7 +31243,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 331,
+        "stargazers_count": 330,
         "thumb_image_url": "https://raw.githubusercontent.com/ukdtom/ExportTools.bundle/master/Contents/Resources/icon-default.png"
     },
     "79481264": {
@@ -32279,7 +32319,7 @@
                 "type": "branch"
             }
         ],
-        "forks_count": 27,
+        "forks_count": 26,
         "full_name": "nomego/Lazyman",
         "gh_pages_url": null,
         "has_discussions": false,
