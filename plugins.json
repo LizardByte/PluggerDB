@@ -9856,7 +9856,7 @@
         "thumb_image_url": null
     },
     "209103": {
-        "archived": false,
+        "archived": true,
         "attribution_image_url": null,
         "avatar_image_url": "https://avatars.githubusercontent.com/u/16983?v=4",
         "categories": [
@@ -11712,7 +11712,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 109,
+        "stargazers_count": 110,
         "thumb_image_url": null
     },
     "23301078": {
@@ -13666,7 +13666,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 28,
+        "stargazers_count": 29,
         "thumb_image_url": "https://raw.githubusercontent.com/pbnkp/XNXX.bundle/master/Contents/Resources/icon-default.png"
     },
     "26585517": {
@@ -18658,7 +18658,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 112,
+        "stargazers_count": 113,
         "thumb_image_url": "https://raw.githubusercontent.com/timmy0209/WangYiYun.bundle/main/Contents/Resources/icon-default.png"
     },
     "360014764": {
@@ -20487,7 +20487,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 37,
+        "stargazers_count": 36,
         "thumb_image_url": null
     },
     "40798557": {
@@ -20823,7 +20823,7 @@
             "Music": [],
             "Series": []
         },
-        "stargazers_count": 383,
+        "stargazers_count": 385,
         "thumb_image_url": null
     },
     "41394428": {
@@ -25473,6 +25473,16 @@
         "disabled": false,
         "downloads": [
             {
+                "commit_sha": "7b4f9c81b63fac5b064fd991feed7adbb68e1c5b",
+                "date": "2023-11-11T01:41:56Z",
+                "default_branch": false,
+                "download_assets": {
+                    "zipball": "https://github.com/LizardByte/Themerr-plex/archive/refs/heads/fix-use-correct-types-for-plex-item-typehints.zip"
+                },
+                "name": "fix-use-correct-types-for-plex-item-typehints",
+                "type": "branch"
+            },
+            {
                 "commit_sha": "06e6856a02129e7548d94b5c73502ad87b16b3ce",
                 "date": "2023-11-10T08:10:29Z",
                 "default_branch": false,
@@ -25523,7 +25533,7 @@
                 "type": "branch"
             },
             {
-                "commit_sha": "af8a62a4907f4cfa4f574aeb276b06a3020f1eae",
+                "commit_sha": "18489e379b90bde9edabd4952511f92d8e6b3728",
                 "date": "2023-09-25T20:21:48Z",
                 "default_branch": false,
                 "download_assets": {
@@ -25720,7 +25730,7 @@
         "license_url": "https://api.github.com/licenses/agpl-3.0",
         "name": "Themerr-plex",
         "open_issues_count": 1,
-        "open_pull_requests_count": 9,
+        "open_pull_requests_count": 10,
         "plugin_added_by": "42013603",
         "plugin_edited_by": "42013603",
         "scanner_mapping": {
