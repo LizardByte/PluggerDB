@@ -179,7 +179,7 @@ jobs:
         if: >-
           startsWith(github.event.label.name, 'add-') &&
           steps.update.outputs.exception == 'false'
-        uses: actions-js/push@v1.4
+        uses: actions-js/push@v1.5
         with:
           author_email: ${{ secrets.GH_BOT_EMAIL }}
           author_name: ${{ secrets.GH_BOT_NAME }}
