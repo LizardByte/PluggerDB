@@ -1,5 +1,9 @@
 # PluggerDB
 
+> :warning: **Attention**: Plex is removing ALL support for plugins. This project is no longer maintained.
+> See [Plex Forum](https://forums.plex.tv/t/important-information-for-users-running-plex-media-server-on-nvidia-shield-devices/883484)
+> for more information.
+
 PluggerDB is a database of Plex Media Server Plugins.
 
 The database is created using codeless contributions.
